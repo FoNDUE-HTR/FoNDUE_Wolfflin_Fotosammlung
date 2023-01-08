@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0045_VIII_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6602"
+          HEIGHT="7791"
+          PHYSICAL_IMG_NR="462"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6602"
+                  HEIGHT="7791">
+        
+        <TextBlock HPOS="2781"
+                   VPOS="701"
+                   WIDTH="2722"
+                   HEIGHT="1396"
+                   ID="eSc_textblock_6678447e"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="2807 701 3918 727 3892 1292 4028 1688 5451 1714 5503 1993 5451 2071 4932 2097 3301 2097 3223 2019 3275 1817 3112 1681 2781 1707 2807 701"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_2edc7918"
+                    TAGREFS="LT100"
+                    BASELINE="2813 954 3885 954" 
+                    HPOS="2813"
+                    VPOS="727"
+                    WIDTH="1072"
+                    HEIGHT="292">
+            <Shape><Polygon POINTS="2813 954 2820 1019 2963 986 3879 1019 3885 954 3885 792 3593 792 3554 766 3456 727 3450 727 3443 727 3437 727 3378 759 3346 779 3307 753 3301 746 3294 746 3288 746 3281 746 3275 746 3262 753 3171 785 2813 727 2813 954"/></Shape>
+	    <String CONTENT="BOLOGNA"
+                    HPOS="2813"
+                    VPOS="727"
+                    WIDTH="1072"
+                    HEIGHT="292"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2d9cf9d4"
+                    TAGREFS="LT100"
+                    BASELINE="2800 1480 3684 1480" 
+                    HPOS="2800"
+                    VPOS="1272"
+                    WIDTH="884"
+                    HEIGHT="279">
+            <Shape><Polygon POINTS="2800 1480 2800 1551 3684 1545 3684 1480 3684 1356 3080 1343 3021 1292 3002 1272 2995 1272 2989 1272 2800 1272 2800 1480"/></Shape>
+	    <String CONTENT="Museen"
+                    HPOS="2800"
+                    VPOS="1272"
+                    WIDTH="884"
+                    HEIGHT="279"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_34863302"
+                    TAGREFS="LT100"
+                    BASELINE="3333 1986 5406 1941" 
+                    HPOS="3326"
+                    VPOS="1727"
+                    WIDTH="2080"
+                    HEIGHT="383">
+            <Shape><Polygon POINTS="3333 1986 3333 2064 3710 2045 3755 2071 3801 2103 3807 2103 3814 2103 3820 2103 3827 2103 3905 2071 3983 2038 4048 2071 4126 2110 4132 2110 4139 2110 4145 2110 4230 2071 4256 2058 4288 2071 4353 2103 4360 2103 4366 2103 4516 2071 4555 2064 4607 2071 4802 2097 4808 2097 4815 2097 4925 2071 5152 2012 5399 2064 5406 1941 5393 1811 5250 1811 5250 1804 5172 1733 5172 1727 5165 1727 5159 1727 5152 1727 4970 1733 4964 1733 4834 1798 4776 1830 4522 1830 4470 1791 4418 1746 4412 1746 4405 1746 4269 1746 4262 1746 4256 1746 4249 1746 4204 1785 4152 1830 3976 1837 3911 1778 3892 1765 3892 1759 3885 1759 3879 1759 3801 1759 3794 1759 3788 1759 3781 1759 3781 1765 3768 1778 3697 1850 3593 1850 3489 1772 3482 1765 3476 1765 3469 1765 3463 1765 3326 1765 3333 1986"/></Shape>
+	    <String CONTENT="Mus. Daria Bargellini"
+                    HPOS="3326"
+                    VPOS="1727"
+                    WIDTH="2080"
+                    HEIGHT="383"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4730"
+                   VPOS="7011"
+                   WIDTH="1085"
+                   HEIGHT="280"
+                   ID="eSc_textblock_0e9e05bd"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="4808 7011 5737 7037 5815 7213 5737 7291 4808 7291 4730 7239 4808 7011"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_cfa9477e"
+                    TAGREFS="LT101"
+                    BASELINE="4795 7206 5726 7219" 
+                    HPOS="4782"
+                    VPOS="7024"
+                    WIDTH="942"
+                    HEIGHT="221">
+            <Shape><Polygon POINTS="4789 7057 4789 7200 4782 7245 5718 7245 5724 7213 5711 7050 5302 7076 5256 7044 5237 7024 5230 7024 5224 7024 5217 7024 5211 7024 5159 7044 5081 7070 4802 7044 4789 7057"/></Shape>
+	    <String CONTENT="45. VI. 1-7"
+                    HPOS="4782"
+                    VPOS="7024"
+                    WIDTH="942"
+                    HEIGHT="221"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0046_XI_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6596"
+          HEIGHT="7803"
+          PHYSICAL_IMG_NR="473"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6596"
+                  HEIGHT="7803">
+        
+        <TextBlock HPOS="3376"
+                   VPOS="754"
+                   WIDTH="2647"
+                   HEIGHT="900"
+                   ID="eSc_textblock_76583a3d"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="4520 1137 4481 1206 4388 1206 4388 1654 3402 1632 3376 754 5945 780 6023 1033"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d825d16a"
+                    TAGREFS="LT100"
+                    BASELINE="3428 1007 5945 968" 
+                    HPOS="3421"
+                    VPOS="767"
+                    WIDTH="2524"
+                    HEIGHT="325">
+            <Shape><Polygon POINTS="5633 773 5568 773 5529 773 5509 793 5464 832 5379 832 5327 793 5314 780 5308 780 5301 780 5190 767 5177 767 5119 767 5093 793 5047 845 4813 845 4755 793 4755 786 4748 786 4742 786 4735 786 4670 793 4416 819 4364 793 4351 786 4345 786 4338 786 4332 786 4319 793 4202 851 4156 806 4156 799 4150 799 4143 799 4052 793 4039 793 4033 793 4026 793 4020 793 3935 851 3421 793 3428 1007 3428 1092 3584 1066 3818 1092 3824 1092 3831 1092 3837 1092 3981 1046 4124 1085 4130 1085 4137 1085 4143 1085 4312 1046 4644 1079 4670 1079 4677 1079 4683 1079 4690 1079 4820 1033 4956 1066 4963 1066 4969 1066 4976 1066 5112 1027 5932 1053 5945 968 5919 793 5847 825 5724 793 5652 773 5633 773"/></Shape>
+	    <String CONTENT="BONANNUS DA PISA"
+                    HPOS="3421"
+                    VPOS="767"
+                    WIDTH="2524"
+                    HEIGHT="325"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eb5e50c3"
+                    TAGREFS="LT100"
+                    BASELINE="3434 1534 4319 1554" 
+                    HPOS="3428"
+                    VPOS="1333"
+                    WIDTH="891"
+                    HEIGHT="318">
+            <Shape><Polygon POINTS="3434 1534 3428 1599 3610 1593 3649 1619 3668 1632 3675 1632 3681 1632 3688 1632 3694 1632 3701 1632 3714 1619 3772 1586 3954 1586 4052 1638 4072 1645 4078 1645 4085 1651 4312 1651 4319 1554 4312 1365 3876 1378 3824 1346 3824 1339 3818 1339 3811 1339 3805 1339 3798 1339 3785 1346 3733 1365 3434 1333 3434 1534"/></Shape>
+	    <String CONTENT="(Teil 1/2)"
+                    HPOS="3428"
+                    VPOS="1333"
+                    WIDTH="891"
+                    HEIGHT="318"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4703"
+                   VPOS="7074"
+                   WIDTH="1112"
+                   HEIGHT="254"
+                   ID="eSc_textblock_72015200"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5763 7074 5815 7276 4755 7328 4703 7074"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e5f927e2"
+                    TAGREFS="LT101"
+                    BASELINE="4748 7237 5717 7256" 
+                    HPOS="4742"
+                    VPOS="7087"
+                    WIDTH="975"
+                    HEIGHT="215">
+            <Shape><Polygon POINTS="4748 7237 4742 7263 5704 7302 5717 7256 5704 7087 5392 7120 4748 7087 4748 7237"/></Shape>
+	    <String CONTENT="46. VIII. 1-5"
+                    HPOS="4742"
+                    VPOS="7087"
+                    WIDTH="975"
+                    HEIGHT="215"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

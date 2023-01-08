@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0047_XV_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6599"
+          HEIGHT="7810"
+          PHYSICAL_IMG_NR="491"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6599"
+                  HEIGHT="7810">
+        
+        <TextBlock HPOS="2208"
+                   VPOS="702"
+                   WIDTH="3322"
+                   HEIGHT="436"
+                   ID="eSc_textblock_dec2968b"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="4162 702 5426 781 5530 1008 5087 1138 3843 1060 2286 1138 2208 1060 2286 754 4162 702"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_9d70f9d5"
+                    TAGREFS="LT100"
+                    BASELINE="2319 1008 3048 982 5445 982" 
+                    HPOS="2312"
+                    VPOS="748"
+                    WIDTH="3133"
+                    HEIGHT="384">
+            <Shape><Polygon POINTS="5419 820 5237 774 5230 774 5224 774 5133 820 5126 820 5107 820 4944 787 4937 787 4755 813 4690 820 4664 813 4501 748 4494 748 4488 748 4214 754 4208 754 4201 754 4201 761 4149 800 4123 833 3973 833 3934 800 3908 774 3902 774 3895 774 3889 774 3361 787 3152 794 3107 787 2964 754 2957 754 2950 754 2944 754 2944 761 2918 781 2872 833 2527 833 2416 774 2377 754 2371 754 2364 754 2358 754 2312 767 2319 1008 2325 1125 2742 1021 3478 1021 3556 1054 3563 1054 3569 1054 3726 1021 3862 1106 3889 1125 3895 1125 3902 1125 3908 1132 4090 1132 4090 1125 4097 1125 4162 1106 4292 1060 4546 1060 4605 1099 4631 1119 4638 1119 4644 1119 4651 1125 5126 1125 5126 1119 5133 1119 5139 1119 5172 1093 5244 1028 5426 1086 5445 982 5439 839 5419 820"/></Shape>
+	    <String CONTENT="JEAN-BAPTISTE BONJOUR"
+                    HPOS="2312"
+                    VPOS="748"
+                    WIDTH="3133"
+                    HEIGHT="384"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4755"
+                   VPOS="7081"
+                   WIDTH="853"
+                   HEIGHT="305"
+                   ID="eSc_textblock_bbd7021f"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="4781 7081 5556 7107 5608 7308 4755 7386 4781 7081"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e8b77ba7"
+                    TAGREFS="LT101"
+                    BASELINE="4761 7295 5575 7282" 
+                    HPOS="4748"
+                    VPOS="7087"
+                    WIDTH="821"
+                    HEIGHT="299">
+            <Shape><Polygon POINTS="5537 7126 5204 7094 5204 7094 5139 7087 5133 7087 5048 7139 5035 7139 4885 7107 4879 7107 4872 7107 4788 7126 4748 7217 4755 7289 4755 7321 4911 7354 4918 7354 4924 7354 4996 7321 5139 7386 5146 7386 5152 7386 5374 7380 5380 7380 5569 7308 5569 7276 5556 7185 5537 7126"/></Shape>
+	    <String CONTENT="47. VIII. 1"
+                    HPOS="4748"
+                    VPOS="7087"
+                    WIDTH="821"
+                    HEIGHT="299"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

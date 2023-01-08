@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0040_1_X_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6595"
+          HEIGHT="7802"
+          PHYSICAL_IMG_NR="340"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6595"
+                  HEIGHT="7802">
+        
+        <TextBlock HPOS="2913"
+                   VPOS="728"
+                   WIDTH="2797"
+                   HEIGHT="1398"
+                   ID="eSc_textblock_6118f283"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="4728 728 5528 780 5580 1111 4182 1189 4175 1371 5528 1404 5710 1846 5684 2074 3479 2126 3297 2048 3317 1865 2939 1787 2913 806 4728 728"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_c28c3c74"
+                    TAGREFS="LT100"
+                    BASELINE="2941 1071 4038 1020 4378 1027 5529 1056" 
+                    HPOS="2939"
+                    VPOS="806"
+                    WIDTH="2589"
+                    HEIGHT="292">
+            <Shape><Polygon POINTS="2939 1092 3960 1059 4806 1098 4897 1098 4903 1098 4910 1098 4916 1098 5027 1053 5131 1092 5138 1092 5144 1098 5528 1098 5528 1053 5521 884 5268 858 5222 812 5216 812 5209 812 5203 812 5196 812 5066 871 5047 877 5027 871 4897 806 4890 806 4884 806 4877 806 4773 864 4728 890 4552 890 4520 858 4500 838 4500 832 4494 832 4487 832 4481 832 4474 832 4468 832 4442 851 4429 871 4403 851 4338 819 4331 819 4325 819 4318 819 4312 819 4266 851 4201 890 3941 890 3837 838 3772 812 3765 812 3759 812 3655 832 3570 851 3330 825 3173 812 3167 812 3160 812 3141 825 3063 864 2939 819 2939 1066 2939 1092"/></Shape>
+	    <String CONTENT="LORENZO DI BICCI"
+                    HPOS="2939"
+                    VPOS="806"
+                    WIDTH="2589"
+                    HEIGHT="292"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_67e8810e"
+                    TAGREFS="LT100"
+                    BASELINE="2972 1508 4016 1517" 
+                    HPOS="2959"
+                    VPOS="1300"
+                    WIDTH="1053"
+                    HEIGHT="279">
+            <Shape><Polygon POINTS="2965 1501 2959 1579 4006 1547 4012 1514 4012 1391 3778 1391 3674 1358 3486 1306 3479 1306 3473 1306 3466 1306 3375 1332 3219 1378 3154 1319 3154 1313 3147 1313 3141 1313 2965 1300 2965 1501"/></Shape>
+	    <String CONTENT="Fresken:"
+                    HPOS="2959"
+                    VPOS="1300"
+                    WIDTH="1053"
+                    HEIGHT="279"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2d18cbdc"
+                    TAGREFS="LT100"
+                    BASELINE="3408 2009 5655 2006" 
+                    HPOS="3401"
+                    VPOS="1800"
+                    WIDTH="2250"
+                    HEIGHT="319">
+            <Shape><Polygon POINTS="3401 2002 3408 2119 3486 2087 3726 2119 3765 2119 3772 2119 3778 2119 3785 2119 3785 2113 3843 2061 4019 2113 4025 2113 4032 2113 4038 2113 4214 2061 4312 2061 4377 2113 4383 2113 4390 2113 4396 2113 4403 2113 4416 2106 4591 2061 5125 2074 5164 2100 5183 2119 5190 2119 5196 2119 5203 2119 5651 2093 5651 2002 5638 1833 5580 1852 5515 1833 5411 1800 5404 1800 5398 1800 5391 1800 5261 1839 5196 1852 5118 1839 4897 1800 4890 1800 4884 1800 4877 1800 4825 1846 4799 1865 4695 1865 4676 1846 4643 1820 4643 1813 4637 1813 4630 1813 4624 1813 4617 1813 4533 1846 4507 1859 4487 1852 4370 1800 4364 1800 4357 1800 4351 1800 4344 1800 4344 1807 4292 1852 4286 1859 4234 1852 4019 1826 4012 1826 4006 1826 3902 1859 3843 1807 3843 1800 3837 1800 3830 1800 3505 1800 3499 1800 3492 1800 3486 1800 3401 1852 3401 2002"/></Shape>
+	    <String CONTENT="Chiesa Del Carmine"
+                    HPOS="3401"
+                    VPOS="1800"
+                    WIDTH="2250"
+                    HEIGHT="319"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4702"
+                   VPOS="7099"
+                   WIDTH="1138"
+                   HEIGHT="254"
+                   ID="eSc_textblock_4fcc2a73"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="4728 7099 5710 7099 5840 7275 4780 7353 4702 7301 4728 7099"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_b1f5c793"
+                    TAGREFS="LT101"
+                    BASELINE="4767 7268 5788 7262" 
+                    HPOS="4754"
+                    VPOS="7106"
+                    WIDTH="1028"
+                    HEIGHT="227">
+            <Shape><Polygon POINTS="5729 7145 5469 7145 5469 7138 5430 7106 5424 7106 5417 7106 5411 7106 5404 7106 5398 7106 5352 7138 5268 7106 5261 7106 5255 7106 5248 7106 5177 7138 5170 7138 5164 7138 5060 7106 5053 7106 5047 7106 4754 7132 4760 7262 4760 7333 5723 7333 5723 7327 5729 7327 5736 7327 5782 7294 5782 7255 5768 7197 5729 7145"/></Shape>
+	    <String CONTENT="40. 1. X. 4-16"
+                    HPOS="4754"
+                    VPOS="7106"
+                    WIDTH="1028"
+                    HEIGHT="227"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

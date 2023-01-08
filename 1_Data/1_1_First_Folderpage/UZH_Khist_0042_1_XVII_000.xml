@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0042_1_XVII_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6596"
+          HEIGHT="7781"
+          PHYSICAL_IMG_NR="410"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6596"
+                  HEIGHT="7781">
+        
+        <TextBlock HPOS="3314"
+                   VPOS="752"
+                   WIDTH="1751"
+                   HEIGHT="304"
+                   ID="eSc_textblock_cdfafa8f"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="3314 752 4987 804 5065 1005 3340 1056 3314 752"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_80887d5a"
+                    TAGREFS="LT100"
+                    BASELINE="3353 966 4981 985" 
+                    HPOS="3346"
+                    VPOS="752"
+                    WIDTH="1635"
+                    HEIGHT="291">
+            <Shape><Polygon POINTS="4844 797 4779 797 4715 791 4689 791 4650 791 4585 791 4520 784 4455 784 4416 784 4397 804 4364 836 4131 836 4086 791 4086 784 4079 784 4073 784 4066 784 4047 784 3534 784 3405 752 3353 752 3353 966 3346 1024 4968 1043 4981 985 4981 842 4890 797 4844 797"/></Shape>
+	    <String CONTENT="PETER BOEL"
+                    HPOS="3346"
+                    VPOS="752"
+                    WIDTH="1635"
+                    HEIGHT="291"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4682"
+                   VPOS="7002"
+                   WIDTH="1213"
+                   HEIGHT="279"
+                   ID="eSc_textblock_7c88e0a3"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="4708 7002 5713 7002 5869 7054 5895 7229 4760 7281 4682 7255 4708 7002"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_b062f37b"
+                    TAGREFS="LT101"
+                    BASELINE="4734 7184 5804 7203" 
+                    HPOS="4728"
+                    VPOS="7015"
+                    WIDTH="1076"
+                    HEIGHT="247">
+            <Shape><Polygon POINTS="5772 7022 5422 7061 5376 7022 5370 7022 5370 7015 5363 7015 5357 7015 5350 7015 5344 7015 5318 7022 5195 7074 4734 7035 4734 7184 4728 7210 4825 7249 4831 7249 4838 7249 5117 7229 5188 7223 5201 7229 5221 7249 5221 7255 5227 7255 5233 7255 5240 7255 5383 7242 5512 7229 5791 7262 5804 7203 5791 7028 5772 7022"/></Shape>
+	    <String CONTENT="42. 1. X. 1-2"
+                    HPOS="4728"
+                    VPOS="7015"
+                    WIDTH="1076"
+                    HEIGHT="247"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

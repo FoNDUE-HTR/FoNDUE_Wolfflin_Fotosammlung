@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0049_XXIII_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6590"
+          HEIGHT="7780"
+          PHYSICAL_IMG_NR="539"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6590"
+                  HEIGHT="7780">
+        
+        <TextBlock HPOS="2412"
+                   VPOS="752"
+                   WIDTH="2562"
+                   HEIGHT="304"
+                   ID="eSc_textblock_720d703c"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="2412 752 4974 803 4974 1030 2412 1056 2412 752"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_57533372"
+                    TAGREFS="LT100"
+                    BASELINE="2411 979 3593 972 3723 972 4897 946" 
+                    HPOS="2399"
+                    VPOS="778"
+                    WIDTH="2491"
+                    HEIGHT="252">
+            <Shape><Polygon POINTS="4864 797 4799 797 4734 797 4670 797 4657 790 4423 810 4371 797 4352 790 4345 790 4280 784 4261 784 4164 803 4047 823 3989 810 3891 778 3891 778 3839 778 3794 810 3762 836 3496 836 3476 823 3431 784 3431 778 3424 778 3418 778 3411 778 3405 778 3398 778 3398 784 3353 823 3236 784 3230 784 3223 784 3217 784 3210 784 3210 790 3165 829 3158 836 3152 829 3048 803 3042 803 3035 803 3029 803 2912 842 2899 842 2892 842 2834 803 2827 803 2821 803 2815 803 2808 803 2802 803 2756 842 2691 790 2685 790 2678 790 2445 790 2438 790 2432 790 2425 790 2425 797 2419 797 2399 816 2406 978 2406 1004 3067 1030 3074 1030 3359 991 3366 991 3418 1024 3424 1024 3431 1024 3437 1024 3444 1024 3450 1024 3450 1017 3483 985 3522 985 3749 985 3787 1017 3787 1024 3794 1024 3800 1024 3807 1024 4332 1017 4884 959 4890 940 4871 797 4864 797"/></Shape>
+	    <String CONTENT="ABRAHAM BOSSHAERT"
+                    HPOS="2399"
+                    VPOS="778"
+                    WIDTH="2491"
+                    HEIGHT="252"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4696"
+                   VPOS="7027"
+                   WIDTH="901"
+                   HEIGHT="227"
+                   ID="eSc_textblock_1487e5eb"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5111 7027 5519 7027 5597 7254 4696 7254 4721 7053 5111 7027"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_287f27d8"
+                    TAGREFS="LT101"
+                    BASELINE="4747 7209 5551 7223" 
+                    HPOS="4734"
+                    VPOS="7079"
+                    WIDTH="811"
+                    HEIGHT="182">
+            <Shape><Polygon POINTS="5519 7079 4741 7086 4741 7202 4734 7222 5072 7261 5078 7261 5539 7235 5545 7222 5532 7105 5519 7079"/></Shape>
+	    <String CONTENT="49. XIV. 1"
+                    HPOS="4734"
+                    VPOS="7079"
+                    WIDTH="811"
+                    HEIGHT="182"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

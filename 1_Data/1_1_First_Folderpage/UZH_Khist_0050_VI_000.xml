@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0050_VI_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6598"
+          HEIGHT="7786"
+          PHYSICAL_IMG_NR="550"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6598"
+                  HEIGHT="7786">
+        
+        <TextBlock HPOS="2675"
+                   VPOS="726"
+                   WIDTH="2851"
+                   HEIGHT="1317"
+                   ID="eSc_textblock_3e41fb73"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="2727 726 5370 752 5526 1991 3688 2043 3636 1842 3344 1654 2753 1680 2675 1498 2727 726"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_030ec205"
+                    TAGREFS="LT100"
+                    BASELINE="2759 966 5273 999" 
+                    HPOS="2753"
+                    VPOS="759"
+                    WIDTH="2520"
+                    HEIGHT="292">
+            <Shape><Polygon POINTS="2759 966 2753 1012 3753 999 3850 1018 3961 1038 3967 1038 4136 1018 4227 1005 4441 1012 5208 1051 5214 1051 5221 1051 5227 1051 5266 1012 5273 999 5266 856 5104 856 5104 849 5058 811 5058 804 5052 804 5045 804 5039 804 4422 830 4383 830 4377 830 4253 785 4247 785 4240 785 4234 785 4227 785 4169 824 4169 830 4162 824 4097 772 4091 772 4084 772 4078 772 4071 772 3941 817 3889 836 3714 811 3422 772 3415 772 3409 772 3299 804 3240 817 3169 798 3032 759 3026 759 3019 759 2759 785 2759 966"/></Shape>
+	    <String CONTENT="SANDRO BOTTICELLI"
+                    HPOS="2753"
+                    VPOS="759"
+                    WIDTH="2520"
+                    HEIGHT="292"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fc1cf2bf"
+                    TAGREFS="LT100"
+                    BASELINE="2759 1453 5064 1498" 
+                    HPOS="2747"
+                    VPOS="1265"
+                    WIDTH="2311"
+                    HEIGHT="337">
+            <Shape><Polygon POINTS="2753 1446 2747 1570 3130 1583 3136 1583 3143 1583 3175 1576 3305 1531 3441 1576 3493 1589 3500 1589 3506 1589 3597 1576 3915 1518 4084 1576 4091 1576 4097 1576 4104 1576 4110 1576 4117 1576 4266 1524 4480 1557 4487 1557 4695 1531 4753 1576 4779 1602 4786 1602 4792 1602 4799 1602 4805 1602 4857 1576 4942 1537 5039 1576 5058 1492 5052 1356 4649 1284 4643 1284 4234 1317 4149 1278 4143 1278 4136 1278 4130 1278 4123 1278 4123 1284 4071 1323 3727 1265 3630 1265 3623 1265 3617 1265 3610 1265 3610 1271 3558 1317 3545 1323 3448 1310 3221 1284 3214 1284 3208 1284 3136 1304 3091 1317 3058 1304 2987 1265 2980 1265 2974 1265 2753 1291 2753 1446"/></Shape>
+	    <String CONTENT="Maria / Marienleben"
+                    HPOS="2747"
+                    VPOS="1265"
+                    WIDTH="2311"
+                    HEIGHT="337"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d950e66e"
+                    TAGREFS="LT100"
+                    BASELINE="3740 1952 5499 1965" 
+                    HPOS="3727"
+                    VPOS="1758"
+                    WIDTH="1767"
+                    HEIGHT="279">
+            <Shape><Polygon POINTS="5487 1784 5481 1758 5403 1758 5396 1758 5390 1758 5383 1758 5383 1764 5325 1816 5260 1764 5260 1758 5253 1758 5247 1758 5039 1758 5032 1758 5026 1758 5019 1758 4922 1823 4851 1764 4851 1758 4844 1758 4838 1758 4831 1758 4825 1758 4818 1758 4727 1816 4565 1771 4558 1771 4552 1771 4545 1771 4539 1771 4461 1836 4175 1836 4123 1790 4117 1790 4110 1790 4104 1790 4097 1790 3993 1829 3863 1764 3844 1758 3838 1758 3831 1758 3734 1764 3734 1946 3727 1998 4195 2030 4201 2030 4208 2030 4253 2011 4318 1985 4500 1985 4558 2017 4565 2024 4571 2024 4578 2024 4584 2024 4623 2017 4799 1991 4870 2024 4883 2030 4890 2030 4896 2030 4903 2030 4909 2024 4987 1991 5286 1991 5474 2037 5494 1959 5487 1790 5487 1784"/></Shape>
+	    <String CONTENT="Maria mit Kind"
+                    HPOS="3727"
+                    VPOS="1758"
+                    WIDTH="1767"
+                    HEIGHT="279"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4727"
+                   VPOS="7085"
+                   WIDTH="981"
+                   HEIGHT="279"
+                   ID="eSc_textblock_903cbd94"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="4779 7085 5604 7085 5708 7137 5708 7312 4831 7364 4727 7286 4779 7085"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_5ae4f792"
+                    TAGREFS="LT101"
+                    BASELINE="4799 7253 5657 7292" 
+                    HPOS="4786"
+                    VPOS="7085"
+                    WIDTH="870"
+                    HEIGHT="259">
+            <Shape><Polygon POINTS="4870 7085 4792 7098 4792 7247 4786 7299 5065 7286 5130 7325 5136 7325 5143 7325 5149 7325 5162 7325 5357 7299 5643 7344 5656 7286 5643 7111 5526 7143 5422 7111 5416 7111 5409 7111 5403 7111 5396 7111 5396 7117 5364 7143 5234 7104 5227 7104 5221 7104 5214 7104 5182 7104 5013 7124 4967 7104 4929 7085 4870 7085"/></Shape>
+	    <String CONTENT="50. VI. 1-8"
+                    HPOS="4786"
+                    VPOS="7085"
+                    WIDTH="870"
+                    HEIGHT="259"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

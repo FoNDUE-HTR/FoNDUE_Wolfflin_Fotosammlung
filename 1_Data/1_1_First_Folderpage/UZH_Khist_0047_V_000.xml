@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0047_V_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6589"
+          HEIGHT="7781"
+          PHYSICAL_IMG_NR="482"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6589"
+                  HEIGHT="7781">
+        
+        <TextBlock HPOS="2645"
+                   VPOS="690"
+                   WIDTH="2458"
+                   HEIGHT="490"
+                   ID="eSc_textblock_a318307d"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="2645 690 2645 1180 5103 1180 5103 690"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_71360040"
+                    TAGREFS="LT100"
+                    BASELINE="2853 1011 3456 998 3703 1018 4967 1018" 
+                    HPOS="2840"
+                    VPOS="784"
+                    WIDTH="2121"
+                    HEIGHT="324">
+            <Shape><Polygon POINTS="2847 1005 2847 1108 3385 1063 3430 1095 3437 1102 3437 1108 3443 1108 3450 1108 3456 1108 3463 1108 3508 1095 3631 1063 3761 1089 3826 1102 3832 1102 3839 1102 3845 1102 3865 1089 3936 1050 4435 1050 4598 1069 4837 1108 4844 1108 4850 1108 4961 1063 4961 1011 4954 849 4727 791 4721 791 4714 791 4708 791 4701 791 4617 842 4611 842 4494 817 4487 817 4481 817 4474 817 4448 836 4435 849 4409 836 4345 810 4338 810 4332 810 4325 810 4280 829 4273 836 4267 829 4234 804 4228 804 4221 804 3774 784 3767 784 3761 784 3754 784 3716 817 3664 855 3411 855 3326 804 3320 797 3313 797 3307 797 3300 797 3294 797 3288 797 3288 804 3242 842 3190 797 3184 797 3177 797 3171 797 3164 797 3158 797 3074 829 3009 791 2989 784 2983 784 2976 784 2840 784 2847 1005"/></Shape>
+	    <String CONTENT="ROSA BONHEUR"
+                    HPOS="2840"
+                    VPOS="784"
+                    WIDTH="2121"
+                    HEIGHT="324"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4721"
+                   VPOS="7080"
+                   WIDTH="953"
+                   HEIGHT="305"
+                   ID="eSc_textblock_647dd099"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5596 7106 5674 7333 4850 7385 4721 7307 4773 7080"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_4bd250af"
+                    TAGREFS="LT101"
+                    BASELINE="4779 7288 5596 7288" 
+                    HPOS="4779"
+                    VPOS="7132"
+                    WIDTH="817"
+                    HEIGHT="195">
+            <Shape><Polygon POINTS="5590 7132 4779 7132 4779 7288 4779 7314 5590 7327 5596 7288 5596 7139 5590 7132"/></Shape>
+	    <String CONTENT="47. II. 1-3"
+                    HPOS="4779"
+                    VPOS="7132"
+                    WIDTH="817"
+                    HEIGHT="195"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

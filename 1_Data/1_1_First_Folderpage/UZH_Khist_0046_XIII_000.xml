@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0046_XIII_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6589"
+          HEIGHT="7789"
+          PHYSICAL_IMG_NR="475"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6589"
+                  HEIGHT="7789">
+        
+        <TextBlock HPOS="2233"
+                   VPOS="778"
+                   WIDTH="2849"
+                   HEIGHT="280"
+                   ID="eSc_textblock_aee6d28d"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="5078 802 5082 1006 2233 1058 2259 778"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_15be48da"
+                    TAGREFS="LT100"
+                    BASELINE="2285 980 5031 977" 
+                    HPOS="2278"
+                    VPOS="778"
+                    WIDTH="2746"
+                    HEIGHT="331">
+            <Shape><Polygon POINTS="4622 798 4615 798 4609 798 4583 824 4550 798 4505 798 4362 837 4148 791 4096 791 4031 791 3985 843 3654 843 3498 785 3447 785 3421 785 3278 837 3070 804 3064 804 3057 804 2979 837 2875 778 2869 778 2862 778 2856 778 2830 778 2661 817 2278 778 2278 973 2278 1070 2460 1038 2538 1070 2577 1083 2583 1083 2590 1083 2674 1070 2778 1045 2843 1064 2921 1090 2927 1090 2934 1090 2940 1090 2947 1090 2986 1064 2992 1058 2999 1064 3051 1103 3057 1103 3064 1103 3070 1103 3077 1103 3193 1064 3232 1096 3232 1103 3239 1103 3245 1103 3252 1109 3700 1109 3700 1103 3706 1103 3713 1103 3752 1070 3791 1103 3797 1103 3804 1103 3810 1109 4187 1109 4187 1103 4193 1103 4349 1045 4368 1038 5024 1038 5024 973 5024 804 4628 798 4622 798"/></Shape>
+	    <String CONTENT="BARTOLOMEO BONASCIA"
+                    HPOS="2278"
+                    VPOS="778"
+                    WIDTH="2746"
+                    HEIGHT="331"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4699"
+                   VPOS="7087"
+                   WIDTH="903"
+                   HEIGHT="228"
+                   ID="eSc_textblock_adf569e9"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5446 7087 5576 7139 5602 7289 4803 7315 4699 7263 4725 7087"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_c522a924"
+                    TAGREFS="LT101"
+                    BASELINE="4764 7224 5530 7243" 
+                    HPOS="4751"
+                    VPOS="7087"
+                    WIDTH="773"
+                    HEIGHT="221">
+            <Shape><Polygon POINTS="4758 7217 4751 7263 4810 7295 4816 7295 4823 7295 4829 7295 5082 7276 5212 7269 5511 7308 5524 7237 5517 7120 4758 7087 4758 7217"/></Shape>
+	    <String CONTENT="46. IX. 1-2"
+                    HPOS="4751"
+                    VPOS="7087"
+                    WIDTH="773"
+                    HEIGHT="221"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

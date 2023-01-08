@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0043_VII_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6598"
+          HEIGHT="7780"
+          PHYSICAL_IMG_NR="436"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6598"
+                  HEIGHT="7780">
+        
+        <TextBlock HPOS="2406"
+                   VPOS="700"
+                   WIDTH="3465"
+                   HEIGHT="1005"
+                   ID="eSc_textblock_5b4d0d5e"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="2406 700 5663 726 5793 752 5871 978 3905 1192 4067 1400 4547 1426 4599 1575 4470 1653 2666 1705 2406 1627 2406 700"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_bf14433a"
+                    TAGREFS="LT100"
+                    BASELINE="2465 959 5774 959" 
+                    HPOS="2465"
+                    VPOS="739"
+                    WIDTH="3309"
+                    HEIGHT="343">
+            <Shape><Polygon POINTS="2465 959 2465 1030 2588 1069 2595 1069 2601 1069 2608 1069 2705 1030 2711 1030 2744 1063 2744 1069 2750 1069 2757 1069 2763 1069 2770 1069 2867 1030 2932 1011 2964 1037 3010 1069 3016 1069 3023 1069 3029 1069 3036 1069 3140 1037 3172 1024 3198 1037 3289 1076 3295 1076 3302 1082 3873 1082 3873 1076 3879 1076 4028 1037 4126 1011 4191 1037 4288 1076 4294 1076 4301 1076 4307 1076 4431 1037 4521 1011 4612 1037 4749 1076 4755 1076 4761 1082 4950 1082 4950 1076 4956 1076 4963 1076 5014 1037 5053 1011 5488 1017 5527 1037 5579 1063 5585 1063 5592 1063 5598 1063 5605 1063 5605 1056 5631 1037 5663 1011 5761 1037 5774 959 5774 816 5592 758 5585 758 5579 758 5572 758 5566 758 5495 803 5391 739 5384 739 5378 739 5371 739 5365 739 5280 784 5177 739 5170 739 5164 739 5157 739 5066 784 4924 739 4917 739 4911 739 4904 739 4898 739 4833 778 4645 739 4638 739 4632 739 4625 739 4625 745 4547 816 4547 823 4301 823 4301 816 4242 771 4242 765 4236 765 4229 765 4223 765 4217 765 4210 765 4165 797 4009 739 4002 739 3996 739 3989 739 3983 739 3983 745 3905 816 3905 823 3697 823 3691 816 3587 745 3581 745 3574 745 3568 745 3561 745 3464 778 3237 745 3230 745 3224 745 3217 745 3146 803 3101 771 3101 765 3094 765 3088 765 3081 765 2971 771 2964 771 2958 771 2958 778 2919 810 2718 739 2711 739 2536 739 2530 739 2523 739 2517 739 2517 745 2465 797 2465 959"/></Shape>
+	    <String CONTENT="GIOVANNI DA BOLOGNA"
+                    HPOS="2465"
+                    VPOS="739"
+                    WIDTH="3309"
+                    HEIGHT="343"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b47eac34"
+                    TAGREFS="LT100"
+                    BASELINE="2504 1452 3691 1452" 
+                    HPOS="2504"
+                    VPOS="1257"
+                    WIDTH="1187"
+                    HEIGHT="370">
+            <Shape><Polygon POINTS="2504 1452 2504 1536 2744 1620 2750 1620 2757 1620 2763 1620 2770 1620 2880 1543 3029 1620 3036 1620 3042 1620 3049 1620 3191 1581 3250 1620 3256 1620 3263 1620 3269 1627 3496 1627 3496 1620 3503 1620 3691 1536 3691 1452 3691 1303 3555 1264 3548 1264 3542 1264 3315 1290 3230 1257 3224 1257 3217 1257 3211 1257 3127 1283 3081 1303 3062 1283 3036 1264 3036 1257 3029 1257 3023 1257 2874 1257 2867 1257 2861 1257 2854 1257 2854 1264 2841 1277 2809 1309 2711 1309 2504 1264 2504 1452"/></Shape>
+	    <String CONTENT="Mythologie"
+                    HPOS="2504"
+                    VPOS="1257"
+                    WIDTH="1187"
+                    HEIGHT="370"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4684"
+                   VPOS="7002"
+                   WIDTH="1057"
+                   HEIGHT="278"
+                   ID="eSc_textblock_3840101c"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5306 7002 5689 7027 5741 7202 4989 7280 4684 7202 4710 7027 5306 7002"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_fdeba736"
+                    TAGREFS="LT101"
+                    BASELINE="4749 7190 5690 7177" 
+                    HPOS="4736"
+                    VPOS="7027"
+                    WIDTH="953"
+                    HEIGHT="221">
+            <Shape><Polygon POINTS="4742 7183 4742 7215 5203 7248 5209 7248 5683 7202 5689 7170 5676 7066 5352 7027 5345 7027 5339 7027 5268 7060 5222 7027 5216 7027 5209 7027 5203 7027 4736 7073 4742 7183"/></Shape>
+	    <String CONTENT="43. VIII. 1-6"
+                    HPOS="4736"
+                    VPOS="7027"
+                    WIDTH="953"
+                    HEIGHT="221"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

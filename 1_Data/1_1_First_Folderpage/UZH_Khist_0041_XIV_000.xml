@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0041_XIV_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6596"
+          HEIGHT="7779"
+          PHYSICAL_IMG_NR="374"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6596"
+                  HEIGHT="7779">
+        
+        <TextBlock HPOS="2691"
+                   VPOS="751"
+                   WIDTH="2426"
+                   HEIGHT="279"
+                   ID="eSc_textblock_1ddb3f5c"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="2717 751 5039 777 5117 952 2691 1030 2717 751"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_3045400d"
+                    TAGREFS="LT100"
+                    BASELINE="2711 959 5062 941" 
+                    HPOS="2698"
+                    VPOS="758"
+                    WIDTH="2360"
+                    HEIGHT="292">
+            <Shape><Polygon POINTS="5032 797 4968 771 4903 771 4838 771 4773 771 4527 797 4235 764 4189 764 4124 764 4086 764 4047 803 3437 803 3145 764 3139 764 3132 764 3054 803 2775 758 2769 758 2762 758 2756 758 2698 881 2704 952 2704 1024 3165 1050 3171 1050 3178 1050 3184 1050 3210 1030 3249 998 3340 1030 3392 1050 3398 1050 3405 1050 3411 1050 3417 1050 3417 1043 3437 1030 3469 998 3632 998 3696 1030 3709 1043 3716 1043 3722 1043 3729 1043 3735 1043 3761 1030 3839 991 4098 991 4325 1037 4377 1043 4384 1043 4442 1037 4734 991 4805 1037 4805 1043 4812 1043 4818 1043 4825 1043 5058 1037 5058 939 5052 842 5032 797"/></Shape>
+	    <String CONTENT="CHRISTOPHE BISSCHOP"
+                    HPOS="2698"
+                    VPOS="758"
+                    WIDTH="2360"
+                    HEIGHT="292"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4708"
+                   VPOS="7027"
+                   WIDTH="694"
+                   HEIGHT="252"
+                   ID="eSc_textblock_54fa353d"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="4708 7027 5350 7052 5402 7227 4734 7279 4708 7027"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_7d66ce3b"
+                    TAGREFS="LT101"
+                    BASELINE="4734 7208 5318 7208" 
+                    HPOS="4734"
+                    VPOS="7046"
+                    WIDTH="584"
+                    HEIGHT="227">
+            <Shape><Polygon POINTS="4734 7208 4734 7266 5311 7273 5318 7208 5311 7046 4734 7052 4734 7208"/></Shape>
+	    <String CONTENT="41. XI. 1"
+                    HPOS="4734"
+                    VPOS="7046"
+                    WIDTH="584"
+                    HEIGHT="227"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

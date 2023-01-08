@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0040_IV_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6608"
+          HEIGHT="7801"
+          PHYSICAL_IMG_NR="352"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6608"
+                  HEIGHT="7801">
+        
+        <TextBlock HPOS="1326"
+                   VPOS="728"
+                   WIDTH="3818"
+                   HEIGHT="877"
+                   ID="eSc_textblock_765757f0"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="1326 728 5040 754 5118 832 5144 1527 5066 1605 1873 1579 1684 1189 1352 1189 1326 728"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e33d4424"
+                    TAGREFS="LT100"
+                    BASELINE="1359 988 5065 1024" 
+                    HPOS="1346"
+                    VPOS="747"
+                    WIDTH="3714"
+                    HEIGHT="338">
+            <Shape><Polygon POINTS="1352 981 1346 1040 2042 1027 2100 1059 2107 1059 2113 1059 2120 1059 2126 1059 2133 1059 2237 1020 2478 1053 2484 1053 2491 1053 2575 1020 2666 1066 2673 1066 2679 1066 2686 1066 2692 1066 2699 1066 2751 1033 3043 1066 3056 1066 3063 1066 3069 1066 3193 1027 5047 1085 5060 1020 5053 838 4656 799 4650 799 4643 799 4637 799 4591 832 4572 838 4526 832 4299 773 3980 773 3973 773 3967 773 3960 773 3960 780 3915 819 3902 832 3830 819 3551 773 3544 773 3206 812 3193 812 3180 812 2952 760 2946 760 2939 760 2757 806 2653 760 2647 760 2640 760 2634 760 2627 760 2627 767 2582 806 2569 812 2510 806 2282 773 2276 773 2269 773 2263 773 2237 799 2217 812 1638 812 1612 793 1547 747 1541 747 1534 747 1528 747 1352 786 1352 981"/></Shape>
+	    <String CONTENT="GIOVANNI LORENZO BERNINI"
+                    HPOS="1346"
+                    VPOS="747"
+                    WIDTH="3714"
+                    HEIGHT="338"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_754a9f2f"
+                    TAGREFS="LT100"
+                    BASELINE="2003 1456 4893 1423" 
+                    HPOS="1990"
+                    VPOS="1222"
+                    WIDTH="2900"
+                    HEIGHT="338">
+            <Shape><Polygon POINTS="1996 1449 1996 1560 2217 1534 2621 1560 2666 1560 2673 1560 2679 1560 2686 1560 2764 1495 3011 1540 3017 1540 3024 1540 3206 1488 3700 1488 3869 1540 3876 1540 3882 1540 3889 1540 3895 1540 3902 1540 3980 1482 4325 1534 4390 1540 4396 1540 4890 1521 4890 1417 4864 1274 4806 1287 4780 1274 4708 1228 4702 1228 4695 1228 4689 1228 4682 1228 4676 1228 4676 1235 4637 1274 4624 1287 4500 1293 4442 1274 4312 1222 4305 1222 4299 1222 4292 1222 4286 1222 4201 1274 4156 1300 4103 1274 4058 1254 4051 1254 4045 1254 4038 1254 3993 1274 3960 1287 3941 1274 3876 1228 3869 1228 3863 1228 3733 1228 3726 1228 3720 1228 3713 1228 3713 1235 3668 1274 3629 1306 3408 1300 3382 1274 3336 1235 3330 1235 3323 1235 3317 1235 3310 1235 3304 1235 3251 1267 2972 1254 2965 1254 2959 1254 2952 1254 2926 1274 2874 1313 2829 1274 2783 1241 2777 1241 2770 1241 2764 1241 2757 1241 2666 1274 2549 1326 2263 1326 2191 1280 2146 1248 2139 1248 2133 1248 2126 1248 1990 1274 1996 1449"/></Shape>
+	    <String CONTENT="Rom, S. Maria del Popolo"
+                    HPOS="1990"
+                    VPOS="1222"
+                    WIDTH="2900"
+                    HEIGHT="338"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4734"
+                   VPOS="7046"
+                   WIDTH="904"
+                   HEIGHT="228"
+                   ID="eSc_textblock_5b378209"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5099 7046 5612 7072 5638 7274 4734 7274 4760 7072 5099 7046"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f7f24119"
+                    TAGREFS="LT101"
+                    BASELINE="4778 7241 5596 7232" 
+                    HPOS="4767"
+                    VPOS="7079"
+                    WIDTH="826"
+                    HEIGHT="214">
+            <Shape><Polygon POINTS="4773 7235 4773 7261 5313 7293 5320 7293 5593 7254 5593 7228 5580 7092 4767 7079 4773 7235"/></Shape>
+	    <String CONTENT="40. III. 1-3"
+                    HPOS="4767"
+                    VPOS="7079"
+                    WIDTH="826"
+                    HEIGHT="214"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

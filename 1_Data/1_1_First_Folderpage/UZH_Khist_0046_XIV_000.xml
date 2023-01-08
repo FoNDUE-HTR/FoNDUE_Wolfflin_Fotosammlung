@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0046_XIV_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6591"
+          HEIGHT="7807"
+          PHYSICAL_IMG_NR="476"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6591"
+                  HEIGHT="7807">
+        
+        <TextBlock HPOS="3194"
+                   VPOS="728"
+                   WIDTH="2199"
+                   HEIGHT="280"
+                   ID="eSc_textblock_49ea3dc7"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="3220 728 5341 754 5393 982 3194 1008 3220 728"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1091a64b"
+                    TAGREFS="LT100"
+                    BASELINE="3242 960 4046 949 4274 949 5309 949" 
+                    HPOS="3233"
+                    VPOS="728"
+                    WIDTH="2069"
+                    HEIGHT="345">
+            <Shape><Polygon POINTS="5185 748 5179 754 5127 780 5088 754 5075 748 5055 748 4990 748 4925 748 4860 748 4840 741 4821 761 4788 787 4756 767 4704 741 4665 741 4600 741 4534 741 4528 741 4469 741 4404 741 4339 741 4313 741 4274 780 4255 800 3975 800 3962 787 3845 735 3819 735 3780 735 3760 754 3715 728 3689 728 3682 728 3630 767 3585 735 3578 735 3572 735 3565 735 3559 735 3552 735 3519 767 3474 728 3428 728 3363 728 3298 728 3292 728 3233 787 3240 956 3246 1053 3331 1008 3493 1027 3500 1027 3506 1027 3513 1027 3559 988 3786 1034 3793 1034 3799 1034 3806 1034 3864 988 4196 988 4307 1034 4391 1066 4398 1066 4404 1073 4808 1073 4808 1066 4814 1066 4821 1066 4821 1060 4866 1021 4873 1014 4879 1021 4912 1047 4912 1053 4918 1053 4925 1053 4931 1060 5029 1060 5029 1053 5035 1053 5042 1053 5042 1047 5081 1014 5107 995 5289 1008 5302 943 5296 748 5250 748"/></Shape>
+	    <String CONTENT="ALICE BONER"
+                    HPOS="3233"
+                    VPOS="728"
+                    WIDTH="2069"
+                    HEIGHT="345"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4697"
+                   VPOS="7026"
+                   WIDTH="1009"
+                   HEIGHT="280"
+                   ID="eSc_textblock_35d378bd"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="4749 7026 5549 7026 5706 7254 4853 7306 4697 7227 4749 7026"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_acc30585"
+                    TAGREFS="LT101"
+                    BASELINE="4769 7195 5626 7214" 
+                    HPOS="4756"
+                    VPOS="7039"
+                    WIDTH="865"
+                    HEIGHT="221">
+            <Shape><Polygon POINTS="5608 7123 5543 7039 5335 7039 5328 7039 5322 7039 5315 7039 5315 7045 5270 7084 5263 7084 4762 7058 4762 7188 4756 7221 4827 7260 4834 7260 4840 7260 5615 7240 5621 7208 5621 7143 5608 7123"/></Shape>
+	    <String CONTENT="46. X. 1-2"
+                    HPOS="4756"
+                    VPOS="7039"
+                    WIDTH="865"
+                    HEIGHT="221"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

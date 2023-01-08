@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0042_1_XII_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6590"
+          HEIGHT="7770"
+          PHYSICAL_IMG_NR="404"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6590"
+                  HEIGHT="7770">
+        
+        <TextBlock HPOS="2455"
+                   VPOS="569"
+                   WIDTH="3691"
+                   HEIGHT="1522"
+                   ID="eSc_textblock_42ebbe70"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="5008 647 5112 751 5041 1139 6123 1243 6146 1538 3577 1538 3577 2091 2455 2091 2481 673 3492 569"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ee7ffd27"
+                    TAGREFS="LT100"
+                    BASELINE="2514 964 5006 987" 
+                    HPOS="2501"
+                    VPOS="692"
+                    WIDTH="2501"
+                    HEIGHT="350">
+            <Shape><Polygon POINTS="2507 958 2501 1010 3687 997 3712 1016 3738 1036 3745 1036 3751 1036 3758 1036 3907 1010 3965 1003 3978 1010 4004 1036 4011 1036 4017 1036 4736 1042 4743 1042 4749 1042 4756 1042 4756 1036 4788 1010 4995 1010 5002 984 5002 783 4892 712 4885 712 4879 712 4872 712 4866 712 4859 712 4859 718 4795 770 4639 757 4633 757 4626 757 4522 789 4516 796 4509 789 4464 751 4464 744 4458 744 4451 744 4445 744 4438 744 4322 777 4095 705 4088 705 3751 699 3745 699 3738 699 3732 699 3615 783 3609 789 3414 789 3408 783 3350 738 3343 738 3337 738 3330 738 3324 738 3220 777 3201 783 3162 777 2734 699 2728 699 2721 699 2715 699 2682 725 2650 699 2650 692 2643 692 2637 692 2630 692 2624 692 2617 692 2507 757 2507 958"/></Shape>
+	    <String CONTENT="ARNOLD BÖCKLIN"
+                    HPOS="2501"
+                    VPOS="692"
+                    WIDTH="2501"
+                    HEIGHT="350"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8a186100"
+                    TAGREFS="LT100"
+                    BASELINE="3661 1424 6109 1419" 
+                    HPOS="3654"
+                    VPOS="1230"
+                    WIDTH="2450"
+                    HEIGHT="330">
+            <Shape><Polygon POINTS="3654 1418 3654 1495 3764 1554 3771 1554 3777 1554 4004 1502 4088 1482 4633 1482 4691 1508 4762 1541 4769 1541 4775 1541 4782 1541 4788 1541 4788 1534 4814 1508 4833 1495 4879 1508 4982 1541 4989 1541 4995 1541 5002 1541 5060 1515 5112 1482 5144 1515 5183 1547 5183 1554 5190 1554 5196 1554 5203 1560 5630 1560 5630 1554 5637 1554 5721 1521 5792 1489 5844 1521 5851 1528 5857 1528 5864 1528 5870 1528 6104 1521 6104 1418 6104 1249 5592 1230 5585 1230 5579 1230 5572 1230 5572 1236 5546 1256 5501 1301 5371 1301 5339 1262 5306 1236 5306 1230 5300 1230 5294 1230 5287 1230 5281 1230 5196 1269 5151 1288 5119 1269 5060 1230 5054 1230 5047 1230 5041 1230 5034 1230 5028 1230 4976 1269 4937 1301 4859 1301 4821 1275 4762 1236 4756 1236 4749 1236 4743 1236 4736 1236 4730 1236 4730 1243 4691 1275 4671 1301 4192 1301 4179 1288 4114 1243 4108 1243 4101 1243 4095 1243 4088 1243 4082 1243 4030 1275 3985 1236 3985 1230 3978 1230 3972 1230 3764 1230 3758 1230 3751 1230 3745 1230 3654 1288 3654 1418"/></Shape>
+	    <String CONTENT="(Siehe auch Smlg. DICK)"
+                    HPOS="3654"
+                    VPOS="1230"
+                    WIDTH="2450"
+                    HEIGHT="330"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8a98000d"
+                    TAGREFS="LT100"
+                    BASELINE="2488 1942 3296 1945" 
+                    HPOS="2481"
+                    VPOS="1696"
+                    WIDTH="745"
+                    HEIGHT="376">
+            <Shape><Polygon POINTS="2488 2007 2689 2007 2702 2020 2753 2065 2753 2072 2760 2072 2766 2072 2773 2072 2779 2072 2877 2033 2922 2013 2974 2039 3019 2059 3026 2059 3032 2059 3226 2052 3226 1929 3214 1748 2967 1709 2961 1709 2954 1709 2896 1728 2799 1754 2753 1715 2734 1696 2728 1696 2721 1696 2715 1696 2481 1696 2488 1942"/></Shape>
+	    <String CONTENT="Idylle"
+                    HPOS="2481"
+                    VPOS="1696"
+                    WIDTH="745"
+                    HEIGHT="376"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4678"
+                   VPOS="6915"
+                   WIDTH="1523"
+                   HEIGHT="278"
+                   ID="eSc_textblock_306bee02"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="6149 6993 6201 7193 4678 7193 4704 6993 5300 6915"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_0fbd4fb0"
+                    TAGREFS="LT101"
+                    BASELINE="4743 7169 5239 7159 6181 7180" 
+                    HPOS="4730"
+                    VPOS="6973"
+                    WIDTH="1445"
+                    HEIGHT="253">
+            <Shape><Polygon POINTS="6162 7090 6110 7018 6019 6980 5980 6980 5831 7031 5780 6986 5780 6980 5773 6980 5767 6980 5760 6980 5754 6980 5676 7012 5630 6980 5624 6980 5618 6980 5611 6980 5605 6980 5598 6980 5598 6986 5553 7025 5475 6973 5468 6973 5462 6973 5313 6973 5306 6973 5300 6973 5294 6973 5294 6980 5242 7025 5112 6993 5106 6993 5099 6993 5093 6993 4982 7025 4976 7025 4918 6980 4911 6980 4905 6980 4898 6980 4892 6980 4736 7018 4736 7167 4730 7180 6162 7226 6175 7174 6168 7116 6162 7090"/></Shape>
+	    <String CONTENT="42. 1. IX. 29-32"
+                    HPOS="4730"
+                    VPOS="6973"
+                    WIDTH="1445"
+                    HEIGHT="253"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

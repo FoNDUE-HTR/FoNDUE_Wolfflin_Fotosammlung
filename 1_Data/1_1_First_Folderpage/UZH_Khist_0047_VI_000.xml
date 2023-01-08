@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0047_VI_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6598"
+          HEIGHT="7788"
+          PHYSICAL_IMG_NR="483"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6598"
+                  HEIGHT="7788">
+        
+        <TextBlock HPOS="1696"
+                   VPOS="682"
+                   WIDTH="3336"
+                   HEIGHT="375"
+                   ID="eSc_textblock_482d88ea"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="1766 682 4980 778 5032 1031 1696 1057 1722 726"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_dc2cebba"
+                    TAGREFS="LT100"
+                    BASELINE="1766 951 4974 986" 
+                    HPOS="1753"
+                    VPOS="746"
+                    WIDTH="3214"
+                    HEIGHT="305">
+            <Shape><Polygon POINTS="1759 947 1753 1031 2188 1038 2195 1038 2201 1038 2207 1038 2207 1031 2240 1005 2441 1038 2500 1044 2506 1044 2565 1038 2792 1005 2980 1038 3052 1051 3058 1051 3156 1038 3376 1012 3428 1044 3441 1051 3448 1051 3454 1051 3461 1051 3519 1044 3669 1012 3805 1044 3850 1051 3857 1051 3902 1044 4019 1018 4954 1044 4967 979 4961 804 4286 765 4279 765 4273 765 4266 765 4227 798 4175 830 3740 798 3734 798 3727 798 3721 798 3682 830 3571 791 3480 759 3474 759 3467 759 3461 759 3350 791 3305 798 3162 785 3110 785 3104 785 3097 785 3091 785 3039 824 2617 785 2422 765 2415 765 2409 765 2402 765 2383 778 2376 785 2363 778 2344 759 2337 759 2331 759 2324 759 2318 759 2311 759 2285 778 2240 811 2195 778 2175 765 2169 765 2162 765 1922 746 1915 746 1759 772 1759 947"/></Shape>
+	    <String CONTENT="GIACOMO ANTONIO BONI"
+                    HPOS="1753"
+                    VPOS="746"
+                    WIDTH="3214"
+                    HEIGHT="305"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4545"
+                   VPOS="6905"
+                   WIDTH="1007"
+                   HEIGHT="279"
+                   ID="eSc_textblock_0c7451df"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5474 6905 5552 7106 4571 7184 4545 6905"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_23f0db68"
+                    TAGREFS="LT101"
+                    BASELINE="4558 7087 5461 7067" 
+                    HPOS="4558"
+                    VPOS="6905"
+                    WIDTH="903"
+                    HEIGHT="227">
+            <Shape><Polygon POINTS="4942 6905 4877 6905 4812 6905 4805 6905 4591 6937 4558 7009 4558 7087 4558 7126 5448 7132 5461 7067 5442 6911 5045 6944 5026 6924 5000 6905 4942 6905"/></Shape>
+	    <String CONTENT="47. III. 1-4"
+                    HPOS="4558"
+                    VPOS="6905"
+                    WIDTH="903"
+                    HEIGHT="227"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

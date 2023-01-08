@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0041_XV_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6603"
+          HEIGHT="7781"
+          PHYSICAL_IMG_NR="376"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6603"
+                  HEIGHT="7781">
+        
+        <TextBlock HPOS="2309"
+                   VPOS="726"
+                   WIDTH="2322"
+                   HEIGHT="875"
+                   ID="eSc_textblock_af042a21"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="2309 726 4527 752 4631 804 4631 979 3677 1082 3593 1167 3749 1504 3671 1601 2309 1601 2309 726"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_289fbde6"
+                    TAGREFS="LT100"
+                    BASELINE="2322 953 3758 936 4581 927" 
+                    HPOS="2309"
+                    VPOS="739"
+                    WIDTH="2270"
+                    HEIGHT="285">
+            <Shape><Polygon POINTS="4190 745 4125 745 4092 778 4079 797 3982 797 3937 778 3820 739 3813 739 3807 739 3800 739 3794 739 3749 778 3729 797 3457 797 3431 771 3418 765 3418 758 3411 758 3405 758 3398 758 3392 758 3366 771 3314 797 3217 771 3158 752 3152 752 3145 752 3139 752 3093 765 3042 784 3022 765 3009 758 3009 752 3003 752 2996 752 2990 752 2983 752 2977 752 2957 765 2899 804 2717 758 2691 758 2685 758 2678 758 2672 758 2594 804 2536 758 2529 752 2523 752 2516 752 2510 752 2309 752 2315 946 2315 1024 4572 985 4579 920 4566 791 4196 745 4190 745"/></Shape>
+	    <String CONTENT="FRANCESCO BISSOLO"
+                    HPOS="2309"
+                    VPOS="739"
+                    WIDTH="2270"
+                    HEIGHT="285"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_919bd33f"
+                    TAGREFS="LT100"
+                    BASELINE="2322 1523 2915 1545 3575 1510" 
+                    HPOS="2309"
+                    VPOS="1322"
+                    WIDTH="1264"
+                    HEIGHT="299">
+            <Shape><Polygon POINTS="2315 1517 2315 1582 2477 1621 2484 1621 2490 1621 2497 1621 2542 1588 2555 1582 2594 1588 2717 1621 2724 1621 2730 1621 2737 1621 2821 1595 2899 1575 2977 1601 3035 1614 3042 1614 3048 1614 3113 1601 3236 1575 3567 1608 3573 1504 3554 1348 3275 1381 3217 1342 3197 1322 3191 1322 3184 1322 3016 1322 3009 1322 3003 1322 2996 1322 2977 1342 2931 1381 2840 1342 2834 1342 2828 1342 2821 1342 2815 1342 2815 1348 2808 1348 2776 1394 2594 1394 2490 1335 2477 1329 2471 1329 2464 1329 2309 1329 2315 1517"/></Shape>
+	    <String CONTENT="Marienleben"
+                    HPOS="2309"
+                    VPOS="1322"
+                    WIDTH="1264"
+                    HEIGHT="299"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4767"
+                   VPOS="7028"
+                   WIDTH="1031"
+                   HEIGHT="279"
+                   ID="eSc_textblock_7489cc5f"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="4767 7028 5720 7054 5798 7281 4767 7307 4767 7028"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_3d028adb"
+                    TAGREFS="LT101"
+                    BASELINE="4767 7210 5739 7263" 
+                    HPOS="4754"
+                    VPOS="7048"
+                    WIDTH="979"
+                    HEIGHT="266">
+            <Shape><Polygon POINTS="5694 7080 4806 7048 4773 7080 4760 7203 4754 7242 5720 7314 5733 7262 5727 7126 5694 7080"/></Shape>
+	    <String CONTENT="41. XII. 1-6"
+                    HPOS="4754"
+                    VPOS="7048"
+                    WIDTH="979"
+                    HEIGHT="266"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
