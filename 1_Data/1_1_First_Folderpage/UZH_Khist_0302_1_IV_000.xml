@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0302_1_IV_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6597"
+          HEIGHT="7792"
+          PHYSICAL_IMG_NR="193"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6597"
+                  HEIGHT="7792">
+        
+        <TextBlock HPOS="4185"
+                   VPOS="1324"
+                   WIDTH="1944"
+                   HEIGHT="279"
+                   ID="eSc_textblock_debfc822"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="4211 1324 6077 1376 6129 1577 4289 1603 4185 1577 4211 1324"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_93c005b1"
+                    TAGREFS="LT100"
+                    BASELINE="4257 1519 6096 1541" 
+                    HPOS="4244"
+                    VPOS="1331"
+                    WIDTH="1846"
+                    HEIGHT="227">
+            <Shape><Polygon POINTS="4250 1512 4257 1331 4348 1363 4985 1350 5479 1344 5485 1344 5485 1344 5492 1344 5492 1344 5492 1344 5498 1344 5498 1344 5524 1370 5531 1376 5537 1370 5563 1350 5570 1350 5570 1350 5576 1350 5576 1350 5576 1350 5583 1350 6083 1389 6090 1538 6083 1558 4244 1558"/></Shape>
+	    <String CONTENT="HUBERT VAN RAVENSTEYN"
+                    HPOS="4244"
+                    VPOS="1331"
+                    WIDTH="1846"
+                    HEIGHT="227"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5615"
+                   VPOS="7506"
+                   WIDTH="644"
+                   HEIGHT="279"
+                   ID="eSc_textblock_d92cbcf4"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5641 7506 6181 7532 6259 7733 5615 7785 5641 7506"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e9f895b2"
+                    TAGREFS="LT101"
+                    BASELINE="5678 7667 6134 7690" 
+                    HPOS="5661"
+                    VPOS="7538"
+                    WIDTH="468"
+                    HEIGHT="169">
+            <Shape><Polygon POINTS="5674 7662 5674 7538 6129 7577 6129 7688 6116 7707 5661 7688"/></Shape>
+	    <String CONTENT="302. 1. IV. 1"
+                    HPOS="5661"
+                    VPOS="7538"
+                    WIDTH="468"
+                    HEIGHT="169"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

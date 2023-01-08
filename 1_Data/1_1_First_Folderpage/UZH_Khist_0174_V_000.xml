@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0174_V_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6607"
+          HEIGHT="7807"
+          PHYSICAL_IMG_NR="136"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6607"
+                  HEIGHT="7807">
+        
+        <TextBlock HPOS="2681"
+                   VPOS="754"
+                   WIDTH="1686"
+                   HEIGHT="748"
+                   ID="eSc_textblock_7b8b4164"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="4367 1353 4367 1502 2681 1502 2733 780 2812 754 4315 780 4367 1086 4035 1112 3977 1242"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_4f91bd11"
+                    TAGREFS="LT100"
+                    BASELINE="2818 988 4347 982" 
+                    HPOS="2805"
+                    VPOS="806"
+                    WIDTH="1536"
+                    HEIGHT="234">
+            <Shape><Polygon POINTS="2812 982 2805 806 4322 819 4341 975 4335 1040 2812 1040"/></Shape>
+	    <String CONTENT="HERMANN HUBER"
+                    HPOS="2805"
+                    VPOS="806"
+                    WIDTH="1536"
+                    HEIGHT="234"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ed3f1959"
+                    TAGREFS="LT100"
+                    BASELINE="2779 1437 3650 1457" 
+                    HPOS="2772"
+                    VPOS="1223"
+                    WIDTH="873"
+                    HEIGHT="390">
+            <Shape><Polygon POINTS="2772 1431 2779 1223 2922 1268 3059 1242 3059 1242 3059 1242 3065 1242 3065 1242 3072 1242 3183 1275 3215 1249 3222 1242 3222 1236 3222 1236 3228 1236 3228 1236 3228 1236 3235 1236 3235 1236 3235 1236 3241 1236 3645 1275 3645 1450 3638 1548 3267 1613 3267 1613 3261 1613 2968 1606 2968 1606 2968 1606 2961 1606 2961 1606 2955 1606 2955 1606 2955 1600 2922 1574 2890 1548 2772 1580"/></Shape>
+	    <String CONTENT="Kinderbilder"
+                    HPOS="2772"
+                    VPOS="1223"
+                    WIDTH="873"
+                    HEIGHT="390"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3462"
+                   VPOS="7470"
+                   WIDTH="964"
+                   HEIGHT="321"
+                   ID="eSc_textblock_20e27d7a"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="3462 7470 3462 7791 4426 7791 4426 7470"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_81c9f2f7"
+                    TAGREFS="LT100"
+                    BASELINE="3502 7683 4393 7678" 
+                    HPOS="3489"
+                    VPOS="7416"
+                    WIDTH="898"
+                    HEIGHT="306">
+            <Shape><Polygon POINTS="3495 7676 3489 7481 3860 7416 3860 7416 3866 7416 3866 7416 4387 7475 4387 7676 4387 7702 3495 7722"/></Shape>
+	    <String CONTENT="174. V. 1-4"
+                    HPOS="3489"
+                    VPOS="7416"
+                    WIDTH="898"
+                    HEIGHT="306"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

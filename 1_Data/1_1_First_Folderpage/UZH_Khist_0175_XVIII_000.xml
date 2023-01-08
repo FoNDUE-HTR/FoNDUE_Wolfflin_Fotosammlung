@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0175_XVIII_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6596"
+          HEIGHT="7788"
+          PHYSICAL_IMG_NR="172"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6596"
+                  HEIGHT="7788">
+        
+        <TextBlock HPOS="2960"
+                   VPOS="726"
+                   WIDTH="1084"
+                   HEIGHT="1266"
+                   ID="eSc_textblock_8d34f5c7"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="3090 1992 2960 1914 2960 1220 3064 1161 3012 882 3090 726 4044 752 4044 1940"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_dad83bd4"
+                    TAGREFS="LT100"
+                    BASELINE="3118 934 3959 934" 
+                    HPOS="3116"
+                    VPOS="765"
+                    WIDTH="837"
+                    HEIGHT="208">
+            <Shape><Polygon POINTS="3116 928 3116 765 3953 778 3953 928 3953 973 3116 973"/></Shape>
+	    <String CONTENT="ITTINGEN"
+                    HPOS="3116"
+                    VPOS="765"
+                    WIDTH="837"
+                    HEIGHT="208"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_43c43dfd"
+                    TAGREFS="LT100"
+                    BASELINE="3051 1421 3849 1401" 
+                    HPOS="3038"
+                    VPOS="1252"
+                    WIDTH="811"
+                    HEIGHT="247">
+            <Shape><Polygon POINTS="3051 1421 3038 1252 3836 1252 3849 1401 3849 1460 3051 1499"/></Shape>
+	    <String CONTENT="Kartause"
+                    HPOS="3038"
+                    VPOS="1252"
+                    WIDTH="811"
+                    HEIGHT="247"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a6ff3de2"
+                    TAGREFS="LT100"
+                    BASELINE="3023 1893 3871 1856" 
+                    HPOS="2999"
+                    VPOS="1680"
+                    WIDTH="876"
+                    HEIGHT="305">
+            <Shape><Polygon POINTS="3018 1888 2999 1713 3135 1693 3135 1693 3142 1693 3142 1693 3142 1693 3148 1693 3148 1693 3155 1693 3155 1693 3155 1700 3174 1713 3207 1739 3252 1713 3259 1706 3265 1706 3265 1706 3265 1706 3272 1706 3272 1706 3272 1706 3278 1706 3278 1706 3285 1706 3310 1713 3408 1739 3473 1713 3551 1680 3551 1680 3557 1680 3557 1680 3557 1680 3564 1680 3564 1680 3570 1680 3570 1680 3570 1680 3635 1713 3661 1726 3849 1719 3869 1849 3875 1882 3668 1947 3661 1947 3661 1947 3655 1947 3655 1947 3479 1927 3330 1914 3252 1953 3207 1979 3207 1979 3207 1979 3200 1979 3200 1979 3200 1985 3025 1985"/></Shape>
+	    <String CONTENT="Hochaltar"
+                    HPOS="2999"
+                    VPOS="1680"
+                    WIDTH="876"
+                    HEIGHT="305"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3266"
+                   VPOS="7477"
+                   WIDTH="1412"
+                   HEIGHT="310"
+                   ID="eSc_textblock_4572a390"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="3266 7787 3341 7477 4678 7488 4678 7787"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_9cd17f36"
+                    TAGREFS="LT101"
+                    BASELINE="3395 7734 4550 7723" 
+                    HPOS="3369"
+                    VPOS="7534"
+                    WIDTH="1175"
+                    HEIGHT="215">
+            <Shape><Polygon POINTS="3388 7729 3369 7586 3499 7541 3505 7541 3505 7541 3505 7541 3512 7541 3512 7541 3726 7580 3960 7534 3960 7534 3960 7534 3966 7534 3966 7534 3966 7534 3973 7534 3973 7534 4064 7573 4434 7534 4434 7534 4440 7534 4440 7534 4447 7534 4447 7534 4447 7534 4537 7580 4544 7716 4537 7742 3388 7749"/></Shape>
+	    <String CONTENT="175. XVIII. 1-7"
+                    HPOS="3369"
+                    VPOS="7534"
+                    WIDTH="1175"
+                    HEIGHT="215"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

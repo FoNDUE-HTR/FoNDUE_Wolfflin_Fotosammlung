@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0240_VI_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6601"
+          HEIGHT="7805"
+          PHYSICAL_IMG_NR="323"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6601"
+                  HEIGHT="7805">
+        
+        <TextBlock HPOS="4781"
+                   VPOS="1314"
+                   WIDTH="1299"
+                   HEIGHT="278"
+                   ID="eSc_textblock_d63f11d6"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="4836 1326 6028 1378 6080 1580 4786 1592 4781 1314"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d37437dc"
+                    TAGREFS="LT100"
+                    BASELINE="4811 1519 6002 1531" 
+                    HPOS="4804"
+                    VPOS="1346"
+                    WIDTH="1191"
+                    HEIGHT="195">
+            <Shape><Polygon POINTS="4810 1515 4804 1372 5611 1346 5618 1346 5618 1346 5624 1346 5761 1378 5761 1378 5761 1378 5832 1346 5832 1346 5832 1346 5839 1346 5839 1346 5845 1346 5845 1346 5852 1346 5995 1385 5995 1528 5982 1541 4804 1534"/></Shape>
+	    <String CONTENT="RUDOLF MÜLLER"
+                    HPOS="4804"
+                    VPOS="1346"
+                    WIDTH="1191"
+                    HEIGHT="195"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5487"
+                   VPOS="7544"
+                   WIDTH="827"
+                   HEIGHT="254"
+                   ID="eSc_textblock_bad927c3"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="6236 7544 6314 7772 5513 7798 5487 7544"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_4202535c"
+                    TAGREFS="LT101"
+                    BASELINE="5526 7714 6198 7732" 
+                    HPOS="5513"
+                    VPOS="7577"
+                    WIDTH="684"
+                    HEIGHT="162">
+            <Shape><Polygon POINTS="5520 7713 5520 7577 6190 7590 6197 7726 6184 7739 5513 7733"/></Shape>
+	    <String CONTENT="240. VI. 1-2"
+                    HPOS="5513"
+                    VPOS="7577"
+                    WIDTH="684"
+                    HEIGHT="162"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

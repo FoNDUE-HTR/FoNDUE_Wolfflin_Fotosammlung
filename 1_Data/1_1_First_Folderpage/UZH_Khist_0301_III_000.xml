@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0301_III_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6600"
+          HEIGHT="7796"
+          PHYSICAL_IMG_NR="180"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6600"
+                  HEIGHT="7796">
+        
+        <TextBlock HPOS="4759"
+                   VPOS="1273"
+                   WIDTH="1242"
+                   HEIGHT="799"
+                   ID="eSc_textblock_00b3e4be"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="4837 1273 5819 1325 5845 1760 6001 2046 4889 2072 4759 1526 4837 1273"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_615892ef"
+                    TAGREFS="LT100"
+                    BASELINE="4824 1474 5793 1474" 
+                    HPOS="4824"
+                    VPOS="1305"
+                    WIDTH="969"
+                    HEIGHT="215">
+            <Shape><Polygon POINTS="4824 1474 4824 1305 5793 1331 5793 1474 5793 1500 4824 1520"/></Shape>
+	    <String CONTENT="RAPPERSWIL"
+                    HPOS="4824"
+                    VPOS="1305"
+                    WIDTH="969"
+                    HEIGHT="215"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_83532cc0"
+                    TAGREFS="LT100"
+                    BASELINE="4935 1981 5904 1981" 
+                    HPOS="4935"
+                    VPOS="1786"
+                    WIDTH="969"
+                    HEIGHT="234">
+            <Shape><Polygon POINTS="4935 1981 4935 1786 5032 1786 5032 1786 5032 1786 5039 1786 5039 1786 5045 1786 5058 1793 5182 1871 5260 1812 5299 1786 5306 1786 5306 1786 5306 1786 5312 1786 5312 1786 5319 1786 5390 1786 5390 1786 5390 1786 5397 1786 5397 1786 5397 1786 5403 1786 5403 1786 5403 1793 5449 1832 5488 1871 5566 1845 5579 1838 5585 1838 5585 1838 5585 1838 5592 1838 5592 1838 5904 1877 5904 1981 5904 2013 4935 2020"/></Shape>
+	    <String CONTENT="Heimatmuseum"
+                    HPOS="4935"
+                    VPOS="1786"
+                    WIDTH="969"
+                    HEIGHT="234"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5670"
+                   VPOS="7484"
+                   WIDTH="721"
+                   HEIGHT="305"
+                   ID="eSc_textblock_da75780a"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5670 7484 6313 7510 6391 7763 5670 7789 5670 7484"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_9795ef9e"
+                    TAGREFS="LT101"
+                    BASELINE="5735 7666 6261 7679" 
+                    HPOS="5722"
+                    VPOS="7503"
+                    WIDTH="539"
+                    HEIGHT="208">
+            <Shape><Polygon POINTS="5735 7666 5735 7503 6261 7536 6261 7679 6248 7711 5722 7698"/></Shape>
+	    <String CONTENT="301. III. 1-2"
+                    HPOS="5722"
+                    VPOS="7503"
+                    WIDTH="539"
+                    HEIGHT="208"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

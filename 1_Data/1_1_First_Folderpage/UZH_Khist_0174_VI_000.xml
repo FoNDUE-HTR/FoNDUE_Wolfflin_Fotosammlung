@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0174_VI_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6602"
+          HEIGHT="7805"
+          PHYSICAL_IMG_NR="137"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6602"
+                  HEIGHT="7805">
+        
+        <TextBlock HPOS="2966"
+                   VPOS="780"
+                   WIDTH="1632"
+                   HEIGHT="826"
+                   ID="eSc_textblock_d739f4bd"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="4572 1528 2966 1606 3018 780 4416 780 4598 1248"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_3ab958d5"
+                    TAGREFS="LT100"
+                    BASELINE="3076 995 4432 990" 
+                    HPOS="3070"
+                    VPOS="832"
+                    WIDTH="1359"
+                    HEIGHT="208">
+            <Shape><Polygon POINTS="3070 988 3070 832 4429 832 4429 988 4429 1014 3070 1040"/></Shape>
+	    <String CONTENT="HERMANN HUBER"
+                    HPOS="3070"
+                    VPOS="832"
+                    WIDTH="1359"
+                    HEIGHT="208"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c890b9c4"
+                    TAGREFS="LT100"
+                    BASELINE="3063 1456 4410 1424" 
+                    HPOS="3057"
+                    VPOS="1229"
+                    WIDTH="1359"
+                    HEIGHT="332">
+            <Shape><Polygon POINTS="3063 1456 3057 1255 3174 1307 3252 1307 3297 1255 3297 1255 3297 1255 3297 1248 3297 1248 3304 1248 3304 1248 3304 1248 3310 1248 3310 1248 3317 1248 3486 1248 3486 1248 3486 1248 3492 1248 3492 1248 3492 1248 3499 1248 3499 1248 3499 1255 3499 1255 3544 1294 3902 1281 3928 1255 3941 1242 3941 1235 3941 1235 3948 1235 3948 1235 3948 1235 3954 1235 3954 1235 3961 1235 3961 1235 3961 1235 3967 1235 3967 1235 4013 1255 4045 1268 4065 1255 4097 1229 4104 1229 4104 1229 4104 1229 4110 1229 4110 1229 4117 1229 4240 1229 4240 1229 4240 1229 4247 1229 4247 1229 4247 1229 4253 1229 4253 1229 4253 1235 4273 1255 4299 1274 4390 1255 4410 1424 4416 1450 4182 1515 4175 1515 4175 1515 4169 1515 4169 1515 3818 1476 3772 1476 3759 1482 3603 1561 3603 1561 3603 1561 3596 1561 3596 1561 3590 1561 3590 1561 3057 1508"/></Shape>
+	    <String CONTENT="Zweifigurenbilder"
+                    HPOS="3057"
+                    VPOS="1229"
+                    WIDTH="1359"
+                    HEIGHT="332"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3635"
+                   VPOS="7464"
+                   WIDTH="1239"
+                   HEIGHT="321"
+                   ID="eSc_textblock_71d191bf"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="3635 7464 3635 7785 4874 7785 4874 7464"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_be1f13e7"
+                    TAGREFS="LT101"
+                    BASELINE="3694 7687 4814 7666" 
+                    HPOS="3668"
+                    VPOS="7434"
+                    WIDTH="1145"
+                    HEIGHT="279">
+            <Shape><Polygon POINTS="3688 7681 3668 7479 4793 7434 4813 7661 4806 7687 3688 7713"/></Shape>
+	    <String CONTENT="174. VI. 1-5"
+                    HPOS="3668"
+                    VPOS="7434"
+                    WIDTH="1145"
+                    HEIGHT="279"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

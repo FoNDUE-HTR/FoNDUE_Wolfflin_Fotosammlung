@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0173_V_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6602"
+          HEIGHT="7803"
+          PHYSICAL_IMG_NR="98"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6602"
+                  HEIGHT="7803">
+        
+        <TextBlock HPOS="3044"
+                   VPOS="754"
+                   WIDTH="1216"
+                   HEIGHT="826"
+                   ID="eSc_textblock_0b95da63"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="4260 1352 4234 1580 3044 1554 3070 754 3922 780 3974 1189"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f663e6d6"
+                    TAGREFS="LT100"
+                    BASELINE="3161 994 3934 981" 
+                    HPOS="3148"
+                    VPOS="812"
+                    WIDTH="780"
+                    HEIGHT="215">
+            <Shape><Polygon POINTS="3154 988 3148 812 3902 819 3928 975 3922 1001 3154 1027"/></Shape>
+	    <String CONTENT="HOLZHALB"
+                    HPOS="3148"
+                    VPOS="812"
+                    WIDTH="780"
+                    HEIGHT="215"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_200029bf"
+                    TAGREFS="LT100"
+                    BASELINE="3090 1484 4149 1436" 
+                    HPOS="3070"
+                    VPOS="1254"
+                    WIDTH="1079"
+                    HEIGHT="306">
+            <Shape><Polygon POINTS="3089 1482 3070 1307 3239 1274 3239 1274 3245 1274 3245 1274 3245 1274 3252 1274 3252 1274 3252 1274 3258 1274 3258 1274 3258 1280 3284 1300 3310 1333 3473 1333 3512 1300 3577 1254 3583 1254 3583 1254 3583 1254 3590 1254 3590 1254 3590 1254 3596 1254 3596 1254 3603 1254 3753 1300 3805 1313 4123 1300 4143 1430 4149 1456 4019 1554 4019 1554 4013 1554 4013 1554 4006 1554 4006 1554 4006 1554 3876 1560 3870 1560 3870 1560 3870 1560 3863 1560 3616 1489 3408 1502 3356 1554 3356 1560 3356 1560 3349 1560 3349 1560 3349 1560 3343 1560 3343 1560 3336 1560 3336 1560 3336 1560 3330 1560 3330 1560 3330 1560 3323 1560 3245 1508 3089 1508"/></Shape>
+	    <String CONTENT="Ohne Mappe"
+                    HPOS="3070"
+                    VPOS="1254"
+                    WIDTH="1079"
+                    HEIGHT="306"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3985"
+                   VPOS="7507"
+                   WIDTH="802"
+                   HEIGHT="293"
+                   ID="eSc_textblock_8f7c6811"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="3985 7507 3985 7800 4787 7800 4787 7507"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_391ceab9"
+                    TAGREFS="LT101"
+                    BASELINE="4052 7711 4727 7728" 
+                    HPOS="4032"
+                    VPOS="7503"
+                    WIDTH="690"
+                    HEIGHT="241">
+            <Shape><Polygon POINTS="4045 7705 4039 7562 4240 7523 4240 7523 4240 7523 4247 7523 4247 7523 4253 7523 4253 7523 4292 7536 4377 7568 4416 7529 4436 7510 4436 7503 4436 7503 4442 7503 4442 7503 4442 7503 4449 7503 4449 7503 4455 7503 4722 7503 4722 7724 4709 7744 4032 7731"/></Shape>
+	    <String CONTENT="173. V. 1"
+                    HPOS="4032"
+                    VPOS="7503"
+                    WIDTH="690"
+                    HEIGHT="241"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

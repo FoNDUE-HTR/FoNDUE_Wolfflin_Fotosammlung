@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0174_XVIII_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6604"
+          HEIGHT="7806"
+          PHYSICAL_IMG_NR="149"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6604"
+                  HEIGHT="7806">
+        
+        <TextBlock HPOS="2628"
+                   VPOS="780"
+                   WIDTH="1529"
+                   HEIGHT="800"
+                   ID="eSc_textblock_ec649487"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="4053 1216 4157 1379 4131 1580 2628 1554 2654 780 4105 780 4157 1086"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ebc6ecd0"
+                    TAGREFS="LT100"
+                    BASELINE="2732 982 4014 988" 
+                    HPOS="2726"
+                    VPOS="780"
+                    WIDTH="1288"
+                    HEIGHT="260">
+            <Shape><Polygon POINTS="2732 982 2726 787 4007 780 4014 988 4007 1040 2726 1040"/></Shape>
+	    <String CONTENT="JAIME HUGUET"
+                    HPOS="2726"
+                    VPOS="780"
+                    WIDTH="1288"
+                    HEIGHT="260"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cf4bf215"
+                    TAGREFS="LT100"
+                    BASELINE="2719 1431 3847 1437" 
+                    HPOS="2700"
+                    VPOS="1229"
+                    WIDTH="1145"
+                    HEIGHT="325">
+            <Shape><Polygon POINTS="2713 1424 2713 1229 2921 1235 2921 1235 2921 1235 2927 1235 2927 1235 2934 1235 2934 1235 3018 1287 3142 1248 3194 1235 3201 1235 3201 1235 3207 1235 3344 1235 3344 1235 3344 1235 3350 1235 3350 1235 3350 1235 3357 1235 3357 1235 3396 1268 3428 1294 3845 1294 3845 1431 3832 1515 3643 1502 3617 1522 3598 1541 3598 1548 3598 1548 3591 1548 3591 1548 3591 1548 3585 1548 3585 1548 3585 1554 3357 1554 3350 1548 3350 1548 3344 1548 3344 1548 3344 1548 3337 1548 3337 1548 3318 1528 3285 1502 3084 1502 2986 1535 2960 1548 2960 1548 2953 1548 2953 1548 2947 1548 2700 1541"/></Shape>
+	    <String CONTENT="Ohne Mappe"
+                    HPOS="2700"
+                    VPOS="1229"
+                    WIDTH="1145"
+                    HEIGHT="325"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3547"
+                   VPOS="7438"
+                   WIDTH="1383"
+                   HEIGHT="368"
+                   ID="eSc_textblock_d668758c"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="3547 7438 3547 7806 4930 7806 4930 7438"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_4a2acf07"
+                    TAGREFS="LT101"
+                    BASELINE="3656 7688 4739 7698" 
+                    HPOS="3643"
+                    VPOS="7441"
+                    WIDTH="1100"
+                    HEIGHT="299">
+            <Shape><Polygon POINTS="3650 7682 3643 7500 4216 7441 4222 7441 4229 7441 4235 7441 4339 7506 4346 7506 4476 7448 4482 7448 4489 7448 4495 7448 4743 7513 4736 7695 4730 7708 4196 7740 4190 7740 3643 7701"/></Shape>
+	    <String CONTENT="174. XVIII. 1-5"
+                    HPOS="3643"
+                    VPOS="7441"
+                    WIDTH="1100"
+                    HEIGHT="299"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

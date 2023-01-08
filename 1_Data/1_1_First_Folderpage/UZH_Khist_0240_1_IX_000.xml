@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0240_1_IX_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6600"
+          HEIGHT="7807"
+          PHYSICAL_IMG_NR="306"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6600"
+                  HEIGHT="7807">
+        
+        <TextBlock HPOS="4731"
+                   VPOS="1327"
+                   WIDTH="1348"
+                   HEIGHT="227"
+                   ID="eSc_textblock_d33bbb23"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="4784 1327 5975 1353 6053 1431 5975 1502 6079 1554 4731 1554 4784 1327"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f9ca34e8"
+                    TAGREFS="LT100"
+                    BASELINE="4764 1514 5964 1506" 
+                    HPOS="4731"
+                    VPOS="1333"
+                    WIDTH="1231"
+                    HEIGHT="273">
+            <Shape><Polygon POINTS="4757 1509 4731 1372 4777 1333 4777 1333 4777 1333 4784 1333 4784 1333 4790 1333 4790 1333 4790 1333 4797 1333 5949 1366 5962 1502 5962 1554 5857 1600 5857 1600 5851 1600 5851 1600 5851 1600 5844 1600 5148 1561 5128 1561 5122 1561 5070 1600 5063 1600 5063 1600 5063 1600 5057 1600 5057 1600 5057 1606 4842 1606 4836 1600 4836 1600 4829 1600 4829 1600 4744 1561"/></Shape>
+	    <String CONTENT="GABRIELE MUNTER"
+                    HPOS="4731"
+                    VPOS="1333"
+                    WIDTH="1231"
+                    HEIGHT="273"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5148"
+                   VPOS="7494"
+                   WIDTH="931"
+                   HEIGHT="306"
+                   ID="eSc_textblock_6a43474d"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5174 7494 5975 7520 6079 7748 5148 7800 5174 7494"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e519cf86"
+                    TAGREFS="LT101"
+                    BASELINE="5206 7682 5747 7687 5940 7728" 
+                    HPOS="5187"
+                    VPOS="7540"
+                    WIDTH="755"
+                    HEIGHT="188">
+            <Shape><Polygon POINTS="5200 7676 5200 7540 5942 7559 5936 7722 5923 7728 5187 7696"/></Shape>
+	    <String CONTENT="240. 1. IX. 1-9"
+                    HPOS="5187"
+                    VPOS="7540"
+                    WIDTH="755"
+                    HEIGHT="188"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

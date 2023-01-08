@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0174_1_XII_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6597"
+          HEIGHT="7821"
+          PHYSICAL_IMG_NR="125"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6597"
+                  HEIGHT="7821">
+        
+        <TextBlock HPOS="2242"
+                   VPOS="729"
+                   WIDTH="3227"
+                   HEIGHT="828"
+                   ID="eSc_textblock_9763723a"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="3044 1479 3252 1505 2346 1557 2242 1433 2424 1244 2346 834 2477 729 5417 808 5469 958 5443 1088 3129 1114"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_7bb2759e"
+                    TAGREFS="LT100"
+                    BASELINE="2431 997 5312 1003" 
+                    HPOS="2411"
+                    VPOS="795"
+                    WIDTH="2901"
+                    HEIGHT="339">
+            <Shape><Polygon POINTS="2431 997 2431 795 2744 827 3070 801 3142 795 3142 795 3148 795 3252 801 3572 827 3657 808 3696 795 3702 795 3702 795 3709 795 3709 795 3709 795 3715 795 3715 795 3715 795 3741 808 3780 827 4282 814 4869 795 4876 795 5306 827 5312 1003 5312 1055 5143 1127 5143 1127 5136 1127 5136 1127 5136 1134 4784 1134 4778 1127 4778 1127 4771 1127 4771 1127 4771 1127 4765 1127 4765 1127 4765 1121 4713 1075 4445 1121 4445 1121 4439 1121 4439 1121 4439 1121 4432 1121 4432 1121 4295 1068 4282 1062 4191 1068 3852 1094 3846 1094 3846 1094 3846 1094 3839 1094 3839 1094 3839 1094 3793 1068 3780 1062 3767 1068 3722 1107 3722 1107 3715 1107 3715 1107 3709 1107 3709 1107 3709 1107 3702 1107 3389 1088 3350 1121 3350 1127 3350 1127 3344 1127 3344 1127 3344 1127 3337 1127 3337 1127 3331 1127 3331 1127 3331 1127 3076 1075 2992 1062 2946 1081 2829 1127 2829 1127 2822 1127 2822 1127 2816 1127 2816 1127 2816 1127 2809 1127 2659 1081 2640 1075 2627 1081 2568 1121 2561 1121 2561 1121 2561 1121 2555 1121 2555 1121 2548 1121 2548 1121 2548 1121 2542 1121 2411 1081"/></Shape>
+	    <String CONTENT="JEAN AUGUSTE DOMINIQUE INGRES"
+                    HPOS="2411"
+                    VPOS="795"
+                    WIDTH="2901"
+                    HEIGHT="339"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ae5e9835"
+                    TAGREFS="LT100"
+                    BASELINE="2448 1466 2856 1453" 
+                    HPOS="2411"
+                    VPOS="1264"
+                    WIDTH="444"
+                    HEIGHT="287">
+            <Shape><Polygon POINTS="2444 1459 2411 1310 2490 1264 2496 1264 2496 1264 2503 1264 2503 1264 2503 1264 2509 1264 2509 1264 2842 1303 2855 1446 2855 1525 2444 1551"/></Shape>
+	    <String CONTENT="Akte"
+                    HPOS="2411"
+                    VPOS="1264"
+                    WIDTH="444"
+                    HEIGHT="287"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3342"
+                   VPOS="7520"
+                   WIDTH="1551"
+                   HEIGHT="306"
+                   ID="eSc_textblock_b2d6f526"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="3342 7520 3342 7826 4893 7826 4893 7520"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_625bcc9e"
+                    TAGREFS="LT101"
+                    BASELINE="3415 7731 4776 7723" 
+                    HPOS="3383"
+                    VPOS="7527"
+                    WIDTH="1388"
+                    HEIGHT="222">
+            <Shape><Polygon POINTS="3409 7729 3383 7592 3441 7540 3441 7534 3448 7534 3448 7534 3448 7534 3454 7534 3454 7534 3461 7534 3637 7534 3637 7534 3637 7534 3643 7534 3643 7534 3643 7534 3650 7534 3650 7540 3696 7579 3820 7534 3820 7534 3826 7534 3826 7534 3833 7534 3833 7534 3833 7534 3839 7534 3839 7534 3839 7534 3846 7534 3911 7579 4048 7534 4054 7534 4054 7534 4054 7534 4061 7534 4484 7573 4530 7534 4530 7527 4530 7527 4537 7527 4537 7527 4537 7527 4543 7527 4543 7527 4550 7527 4550 7527 4550 7527 4758 7579 4771 7716 4765 7736 3409 7749"/></Shape>
+	    <String CONTENT="174. 1. XII. 1-10"
+                    HPOS="3383"
+                    VPOS="7527"
+                    WIDTH="1388"
+                    HEIGHT="222"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

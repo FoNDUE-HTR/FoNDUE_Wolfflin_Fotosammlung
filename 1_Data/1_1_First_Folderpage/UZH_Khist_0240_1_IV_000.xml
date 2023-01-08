@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0240_1_IV_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6601"
+          HEIGHT="7804"
+          PHYSICAL_IMG_NR="305"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6601"
+                  HEIGHT="7804">
+        
+        <TextBlock HPOS="4741"
+                   VPOS="1155"
+                   WIDTH="1495"
+                   HEIGHT="856"
+                   ID="eSc_textblock_6dfac649"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="5950 1222 5976 1658 6236 1846 6236 1970 4741 2011 4772 1691 5098 1632 5089 1155"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f4a5f950"
+                    TAGREFS="LT100"
+                    BASELINE="5150 1385 5918 1400" 
+                    HPOS="5137"
+                    VPOS="1183"
+                    WIDTH="774"
+                    HEIGHT="234">
+            <Shape><Polygon POINTS="5144 1378 5144 1183 5911 1242 5911 1398 5905 1417 5137 1417"/></Shape>
+	    <String CONTENT="MÜNCHEN"
+                    HPOS="5137"
+                    VPOS="1183"
+                    WIDTH="774"
+                    HEIGHT="234"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_211af035"
+                    TAGREFS="LT100"
+                    BASELINE="4765 1905 5963 1935 6179 1920" 
+                    HPOS="4741"
+                    VPOS="1703"
+                    WIDTH="1437"
+                    HEIGHT="261">
+            <Shape><Polygon POINTS="4760 1898 4741 1749 4819 1703 4825 1703 4825 1703 4832 1703 4832 1703 4832 1703 4838 1703 4838 1703 4838 1703 4845 1703 4845 1703 4968 1755 5007 1775 5053 1762 5092 1749 5098 1749 5098 1749 5098 1749 5105 1749 5105 1749 5111 1749 5111 1749 5111 1749 5144 1762 5170 1781 5183 1768 5228 1723 5228 1716 5228 1716 5235 1716 5235 1716 5235 1716 5241 1716 5241 1716 5248 1716 5352 1716 5352 1716 5352 1716 5358 1716 5566 1781 5592 1788 5605 1781 5684 1729 5690 1729 5690 1729 5690 1729 5697 1729 5697 1729 5703 1729 5703 1729 5703 1729 5710 1729 5710 1729 5710 1729 5716 1729 5716 1729 5716 1736 5775 1788 5781 1801 6171 1807 6178 1918 6171 1944 5397 1964 5391 1964 5391 1964 5384 1964 5384 1964 5384 1964 5378 1964 5332 1931 5326 1924 4754 1918"/></Shape>
+	    <String CONTENT="Bayr. Nationalmuseum"
+                    HPOS="4741"
+                    VPOS="1703"
+                    WIDTH="1437"
+                    HEIGHT="261"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5384"
+                   VPOS="7465"
+                   WIDTH="878"
+                   HEIGHT="332"
+                   ID="eSc_textblock_f5d75b51"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="6158 7491 6262 7719 6210 7797 5384 7797 5410 7465"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_5818b13d"
+                    TAGREFS="LT101"
+                    BASELINE="5429 7648 6152 7688" 
+                    HPOS="5417"
+                    VPOS="7498"
+                    WIDTH="728"
+                    HEIGHT="201">
+            <Shape><Polygon POINTS="5423 7647 5417 7517 5781 7498 5788 7498 5788 7498 6145 7556 6145 7686 6132 7699 5417 7667"/></Shape>
+	    <String CONTENT="240. 1. IV. 1-10"
+                    HPOS="5417"
+                    VPOS="7498"
+                    WIDTH="728"
+                    HEIGHT="201"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

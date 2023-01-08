@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0173_XIV_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6598"
+          HEIGHT="7806"
+          PHYSICAL_IMG_NR="106"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6598"
+                  HEIGHT="7806">
+        
+        <TextBlock HPOS="2915"
+                   VPOS="754"
+                   WIDTH="1106"
+                   HEIGHT="800"
+                   ID="eSc_textblock_1a748fff"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="3578 1138 3995 1274 4021 1554 2915 1528 2915 1222 3097 1164 2915 1034 2993 754 3865 780 3891 1086"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_9159d2c0"
+                    TAGREFS="LT100"
+                    BASELINE="2985 989 3830 988" 
+                    HPOS="2967"
+                    VPOS="826"
+                    WIDTH="859"
+                    HEIGHT="195">
+            <Shape><Polygon POINTS="2980 988 2967 832 3806 826 3826 982 3819 1014 2980 1021"/></Shape>
+	    <String CONTENT="HORNUNG"
+                    HPOS="2967"
+                    VPOS="826"
+                    WIDTH="859"
+                    HEIGHT="195"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b715a38d"
+                    TAGREFS="LT100"
+                    BASELINE="3006 1444 3984 1421" 
+                    HPOS="2993"
+                    VPOS="1235"
+                    WIDTH="989"
+                    HEIGHT="300">
+            <Shape><Polygon POINTS="2999 1437 2993 1261 3240 1307 3325 1307 3357 1274 3390 1242 3390 1235 3390 1235 3396 1235 3396 1235 3396 1235 3403 1235 3403 1235 3409 1235 3539 1235 3539 1235 3539 1235 3546 1235 3546 1235 3546 1235 3552 1235 3624 1281 3650 1301 3969 1301 3982 1418 3982 1483 3819 1535 3813 1535 3813 1535 3806 1535 2993 1522"/></Shape>
+	    <String CONTENT="Ohne Mappe"
+                    HPOS="2993"
+                    VPOS="1235"
+                    WIDTH="989"
+                    HEIGHT="300"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3560"
+                   VPOS="7513"
+                   WIDTH="865"
+                   HEIGHT="251"
+                   ID="eSc_textblock_711dae51"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="3560 7513 3560 7764 4425 7764 4425 7513"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_8853fe52"
+                    TAGREFS="LT100"
+                    BASELINE="3565 7709 4416 7697" 
+                    HPOS="3533"
+                    VPOS="7454"
+                    WIDTH="878"
+                    HEIGHT="273">
+            <Shape><Polygon POINTS="3559 7708 3533 7513 3682 7467 3689 7467 3689 7467 3689 7467 3695 7467 3949 7480 4229 7500 4385 7454 4411 7695 4405 7714 3559 7727"/></Shape>
+	    <String CONTENT="173. XIV. 1"
+                    HPOS="3533"
+                    VPOS="7454"
+                    WIDTH="878"
+                    HEIGHT="273"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

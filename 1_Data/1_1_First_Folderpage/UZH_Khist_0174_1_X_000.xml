@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0174_1_X_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6597"
+          HEIGHT="7816"
+          PHYSICAL_IMG_NR="123"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6597"
+                  HEIGHT="7816">
+        
+        <TextBlock HPOS="2138"
+                   VPOS="755"
+                   WIDTH="3070"
+                   HEIGHT="931"
+                   ID="eSc_textblock_ded8fd33"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="5182 1139 4269 1172 4380 1406 4739 1485 4739 1634 3624 1556 2320 1686 2138 1608 2216 807 2294 755 5130 807 5208 983"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e5f11aae"
+                    TAGREFS="LT100"
+                    BASELINE="2288 1016 4999 1035" 
+                    HPOS="2268"
+                    VPOS="827"
+                    WIDTH="2731"
+                    HEIGHT="306">
+            <Shape><Polygon POINTS="2288 1016 2288 827 4999 840 4999 1035 4986 1126 4771 1081 4713 1120 4700 1133 4693 1133 4693 1133 4693 1133 4686 1133 4686 1133 4686 1133 4680 1133 4680 1133 4673 1133 4673 1133 4634 1120 4510 1074 4348 1074 4302 1107 4269 1133 4263 1133 4263 1133 4263 1133 4256 1133 4256 1133 4250 1133 4250 1133 4250 1133 4243 1133 4243 1133 4178 1107 4087 1068 3754 1068 3709 1094 3650 1126 3643 1126 3643 1126 3637 1126 3637 1126 3637 1126 3630 1126 3630 1126 3630 1126 3624 1126 3624 1126 3624 1126 3617 1126 3565 1087 3546 1074 3526 1087 3441 1126 3441 1126 3441 1126 3435 1126 3435 1126 3428 1126 3428 1126 3428 1126 3422 1126 3422 1126 3415 1126 3415 1126 3415 1120 3370 1081 3350 1068 3311 1081 3174 1120 3168 1120 3168 1120 3168 1120 3161 1120 3161 1120 3155 1120 2972 1074 2868 1120 2868 1120 2861 1120 2861 1120 2861 1126 2607 1126 2600 1120 2600 1120 2594 1120 2594 1120 2594 1120 2587 1120 2587 1120 2542 1081 2470 1120 2470 1120 2470 1120 2464 1120 2464 1120 2464 1120 2457 1120 2457 1120 2451 1120 2451 1120 2268 1048"/></Shape>
+	    <String CONTENT="JEAN AUGUSTE DOMINIQUE INGRES"
+                    HPOS="2268"
+                    VPOS="827"
+                    WIDTH="2731"
+                    HEIGHT="306"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f0b54819"
+                    TAGREFS="LT100"
+                    BASELINE="2294 1478 4002 1465" 
+                    HPOS="2281"
+                    VPOS="1270"
+                    WIDTH="1721"
+                    HEIGHT="390">
+            <Shape><Polygon POINTS="2294 1478 2281 1283 2418 1276 2424 1276 2424 1276 2424 1276 2431 1276 2431 1276 2438 1276 2438 1276 2438 1283 2444 1283 2490 1322 2542 1289 2548 1289 2548 1289 2548 1289 2548 1289 2555 1289 2555 1289 2561 1289 2561 1289 2568 1289 2568 1289 2568 1289 2568 1289 2666 1335 2770 1296 2770 1296 2770 1296 2776 1296 2776 1296 2783 1296 2783 1296 2783 1296 2790 1296 2790 1296 2790 1296 2790 1296 2796 1296 2796 1296 2842 1335 2933 1302 2946 1296 2946 1296 2953 1296 2953 1296 2959 1296 2959 1296 2959 1296 2966 1296 2992 1302 3102 1335 3142 1309 3155 1296 3155 1289 3155 1289 3161 1289 3161 1289 3168 1289 3168 1289 3168 1289 3174 1289 3174 1289 3174 1289 3181 1289 3181 1289 3226 1309 3265 1328 3291 1309 3350 1270 3357 1270 3357 1270 3357 1270 3363 1270 3363 1270 3370 1270 3578 1270 3578 1270 3578 1270 3585 1270 3585 1270 3585 1270 3591 1270 3591 1270 3657 1322 3670 1335 3989 1335 4002 1465 3996 1543 3409 1543 3363 1569 3278 1634 3278 1634 3272 1634 3272 1634 3272 1634 3265 1634 3265 1634 2985 1654 2985 1660 2444 1660 2438 1654 2438 1654 2431 1654 2431 1654 2431 1654 2424 1654 2379 1615 2346 1595 2301 1621"/></Shape>
+	    <String CONTENT="Mythologische Themen"
+                    HPOS="2281"
+                    VPOS="1270"
+                    WIDTH="1721"
+                    HEIGHT="390"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3296"
+                   VPOS="7527"
+                   WIDTH="1353"
+                   HEIGHT="289"
+                   ID="eSc_textblock_5436573d"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="3296 7527 3380 7816 4649 7816 4649 7535"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_85e6a934"
+                    TAGREFS="LT101"
+                    BASELINE="3426 7734 4557 7734" 
+                    HPOS="3422"
+                    VPOS="7575"
+                    WIDTH="1134"
+                    HEIGHT="188">
+            <Shape><Polygon POINTS="3422 7731 3422 7575 4556 7575 4556 7731 4556 7750 3422 7763"/></Shape>
+	    <String CONTENT="174. 1. X. 1-10"
+                    HPOS="3422"
+                    VPOS="7575"
+                    WIDTH="1134"
+                    HEIGHT="188"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

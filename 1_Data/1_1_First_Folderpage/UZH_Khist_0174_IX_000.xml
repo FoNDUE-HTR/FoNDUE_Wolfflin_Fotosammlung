@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0174_IX_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6599"
+          HEIGHT="7808"
+          PHYSICAL_IMG_NR="135"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6599"
+                  HEIGHT="7808">
+        
+        <TextBlock HPOS="2785"
+                   VPOS="780"
+                   WIDTH="1757"
+                   HEIGHT="801"
+                   ID="eSc_textblock_a27ad049"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="4028 1112 3995 1346 4464 1431 4516 1581 2811 1581 2785 780 4464 780 4542 1060"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_2fe57f9a"
+                    TAGREFS="LT100"
+                    BASELINE="2874 989 4488 982" 
+                    HPOS="2863"
+                    VPOS="806"
+                    WIDTH="1620"
+                    HEIGHT="209">
+            <Shape><Polygon POINTS="2869 982 2863 806 4470 826 4483 976 4477 1008 2869 1015"/></Shape>
+	    <String CONTENT="WOLFGANG HUBER"
+                    HPOS="2863"
+                    VPOS="806"
+                    WIDTH="1620"
+                    HEIGHT="209"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d6b1b70b"
+                    TAGREFS="LT100"
+                    BASELINE="2822 1464 3735 1450" 
+                    HPOS="2798"
+                    VPOS="1268"
+                    WIDTH="944"
+                    HEIGHT="280">
+            <Shape><Polygon POINTS="2817 1464 2798 1294 2961 1275 2961 1275 2967 1275 2967 1275 2974 1275 2974 1275 2974 1275 3019 1294 3091 1327 3208 1301 3358 1268 3358 1268 3358 1268 3364 1268 3364 1268 3364 1268 3371 1268 3371 1268 3377 1268 3377 1268 3377 1275 3416 1307 3429 1314 3709 1314 3729 1444 3742 1470 3637 1542 3631 1542 3631 1542 3631 1542 3624 1542 3624 1542 3624 1542 3423 1548 3416 1548 3416 1548 3410 1548 3410 1548 3410 1548 3403 1548 3312 1490 3286 1509 3286 1516 3286 1516 3279 1516 3279 1516 3279 1516 3273 1516 3273 1516 3273 1516 3266 1516 3266 1516 3260 1516 3260 1516 3260 1516 3253 1516 3253 1516 3214 1483 3208 1483 2817 1490"/></Shape>
+	    <String CONTENT="Ohne Mappe"
+                    HPOS="2798"
+                    VPOS="1268"
+                    WIDTH="944"
+                    HEIGHT="280"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3656"
+                   VPOS="7438"
+                   WIDTH="1025"
+                   HEIGHT="290"
+                   ID="eSc_textblock_062a23fe"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="3656 7438 3656 7728 4681 7728 4681 7438"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_7e3b388a"
+                    TAGREFS="LT101"
+                    BASELINE="3725 7652 4604 7659" 
+                    HPOS="3716"
+                    VPOS="7456"
+                    WIDTH="898"
+                    HEIGHT="221">
+            <Shape><Polygon POINTS="3722 7651 3716 7489 4549 7456 4555 7456 4555 7456 4555 7456 4562 7456 4562 7456 4562 7456 4568 7456 4568 7456 4614 7495 4601 7658 4594 7677 3722 7677"/></Shape>
+	    <String CONTENT="174. IX. 1-36"
+                    HPOS="3716"
+                    VPOS="7456"
+                    WIDTH="898"
+                    HEIGHT="221"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

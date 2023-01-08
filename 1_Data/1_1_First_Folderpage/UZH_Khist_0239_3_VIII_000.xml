@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_3_VIII_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6600"
+          HEIGHT="7804"
+          PHYSICAL_IMG_NR="279"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6600"
+                  HEIGHT="7804">
+        
+        <TextBlock HPOS="4601"
+                   VPOS="1352"
+                   WIDTH="1400"
+                   HEIGHT="228"
+                   ID="eSc_textblock_3d5da306"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="4627 1352 5949 1378 6001 1580 4601 1580 4627 1352"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_9ef82045"
+                    TAGREFS="LT100"
+                    BASELINE="4633 1518 5932 1508" 
+                    HPOS="4614"
+                    VPOS="1339"
+                    WIDTH="1315"
+                    HEIGHT="267">
+            <Shape><Polygon POINTS="4627 1515 4614 1378 4894 1346 4894 1346 4901 1346 5194 1378 5246 1378 5278 1378 5486 1339 5486 1339 5486 1339 5493 1339 5916 1378 5929 1502 5929 1541 5272 1606 5265 1606 5265 1606 5265 1606 5259 1606 5259 1606 5148 1560 5005 1599 4998 1599 4998 1599 4992 1599 4992 1599 4992 1599 4985 1599 4985 1599 4985 1599 4979 1599 4920 1560 4627 1560"/></Shape>
+	    <String CONTENT="STEFAN MORGNER"
+                    HPOS="4614"
+                    VPOS="1339"
+                    WIDTH="1315"
+                    HEIGHT="267"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5174"
+                   VPOS="7543"
+                   WIDTH="957"
+                   HEIGHT="254"
+                   ID="eSc_textblock_1ff2de0e"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5174 7543 6053 7569 6131 7797 5174 7797 5174 7543"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_faaa647e"
+                    TAGREFS="LT101"
+                    BASELINE="5237 7712 5517 7728 6007 7729" 
+                    HPOS="5220"
+                    VPOS="7556"
+                    WIDTH="781"
+                    HEIGHT="189">
+            <Shape><Polygon POINTS="5233 7706 5226 7582 5617 7556 5623 7556 5623 7556 5994 7595 6001 7725 5988 7745 5220 7725"/></Shape>
+	    <String CONTENT="239. 3. VIII. 1-6"
+                    HPOS="5220"
+                    VPOS="7556"
+                    WIDTH="781"
+                    HEIGHT="189"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

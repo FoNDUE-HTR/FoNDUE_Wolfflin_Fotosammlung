@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0172_II_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6601"
+          HEIGHT="7797"
+          PHYSICAL_IMG_NR="85"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6601"
+                  HEIGHT="7797">
+        
+        <TextBlock HPOS="2367"
+                   VPOS="805"
+                   WIDTH="1866"
+                   HEIGHT="1891"
+                   ID="eSc_textblock_14aa5f64"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="3537 1163 3401 1273 3407 1377 3537 1403 4207 1429 4077 1552 3375 1689 3323 2228 3687 2365 3609 2670 2497 2696 2419 2592 2445 1689 2367 1455 2471 805 4233 883 4233 1137"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ae57616f"
+                    TAGREFS="LT100"
+                    BASELINE="2555 1046 4090 1046" 
+                    HPOS="2555"
+                    VPOS="851"
+                    WIDTH="1535"
+                    HEIGHT="260">
+            <Shape><Polygon POINTS="2555 1046 2555 851 4090 870 4090 1046 4090 1085 2555 1111"/></Shape>
+	    <String CONTENT="HANS HOLBEIN D. J."
+                    HPOS="2555"
+                    VPOS="851"
+                    WIDTH="1535"
+                    HEIGHT="260"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5c38180c"
+                    TAGREFS="LT100"
+                    BASELINE="2497 1500 3136 1509" 
+                    HPOS="2477"
+                    VPOS="1318"
+                    WIDTH="657"
+                    HEIGHT="208">
+            <Shape><Polygon POINTS="2490 1494 2490 1318 3134 1338 3134 1507 3121 1526 2477 1513"/></Shape>
+	    <String CONTENT="Oelbilder"
+                    HPOS="2477"
+                    VPOS="1318"
+                    WIDTH="657"
+                    HEIGHT="208"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dfa18654"
+                    TAGREFS="LT100"
+                    BASELINE="2516 2001 3076 1988" 
+                    HPOS="2510"
+                    VPOS="1786"
+                    WIDTH="566"
+                    HEIGHT="254">
+            <Shape><Polygon POINTS="2516 2001 2510 1793 2614 1819 2659 1799 2705 1786 2705 1786 2711 1786 2711 1786 2718 1786 2718 1786 2718 1786 2724 1786 2724 1786 2724 1786 2731 1786 2731 1786 2757 1812 2783 1832 2855 1819 2998 1786 2998 1786 2998 1786 3004 1786 3004 1786 3011 1786 3011 1786 3011 1786 3017 1786 3017 1786 3076 1832 3076 1988 3076 2014 2516 2040"/></Shape>
+	    <String CONTENT="Portrait"
+                    HPOS="2510"
+                    VPOS="1786"
+                    WIDTH="566"
+                    HEIGHT="254"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7b623923"
+                    TAGREFS="LT100"
+                    BASELINE="2475 2527 3625 2534" 
+                    HPOS="2458"
+                    VPOS="2326"
+                    WIDTH="1164"
+                    HEIGHT="298">
+            <Shape><Polygon POINTS="2471 2521 2471 2326 2744 2371 3141 2371 3186 2345 3212 2326 3219 2326 3219 2326 3225 2326 3225 2326 3225 2326 3232 2326 3232 2326 3232 2326 3238 2326 3238 2326 3245 2326 3277 2345 3303 2365 3329 2345 3355 2326 3362 2326 3362 2326 3362 2326 3368 2326 3368 2326 3368 2326 3375 2326 3375 2326 3615 2358 3622 2527 3609 2624 2458 2618"/></Shape>
+	    <String CONTENT="Männerporträts"
+                    HPOS="2458"
+                    VPOS="2326"
+                    WIDTH="1164"
+                    HEIGHT="298"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4066"
+                   VPOS="7511"
+                   WIDTH="957"
+                   HEIGHT="282"
+                   ID="eSc_textblock_d08a95b7"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="4066 7511 4066 7793 5023 7793 5023 7511"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_46946754"
+                    TAGREFS="LT101"
+                    BASELINE="4093 7712 4970 7717" 
+                    HPOS="4084"
+                    VPOS="7517"
+                    WIDTH="891"
+                    HEIGHT="215">
+            <Shape><Polygon POINTS="4090 7706 4084 7537 4571 7517 4578 7517 4578 7517 4584 7517 4695 7550 4728 7524 4728 7517 4728 7517 4734 7517 4734 7517 4734 7517 4741 7517 4741 7517 4741 7517 4747 7517 4747 7517 4754 7517 4754 7517 4845 7550 4910 7517 4910 7517 4910 7517 4916 7517 4916 7517 4916 7517 4923 7517 4923 7517 4929 7517 4929 7517 4929 7517 4936 7517 4936 7517 4936 7524 4975 7563 4968 7712 4962 7732 4084 7732"/></Shape>
+	    <String CONTENT="172. II. 1-9"
+                    HPOS="4084"
+                    VPOS="7517"
+                    WIDTH="891"
+                    HEIGHT="215"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0174_XXI_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6601"
+          HEIGHT="7793"
+          PHYSICAL_IMG_NR="151"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6601"
+                  HEIGHT="7793">
+        
+        <TextBlock HPOS="2832"
+                   VPOS="779"
+                   WIDTH="1553"
+                   HEIGHT="799"
+                   ID="eSc_textblock_a98a1f93"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="4333 779 4385 1578 2832 1526 2858 779"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d4408006"
+                    TAGREFS="LT100"
+                    BASELINE="2927 987 4242 1000" 
+                    HPOS="2917"
+                    VPOS="811"
+                    WIDTH="1319"
+                    HEIGHT="260">
+            <Shape><Polygon POINTS="2923 980 2923 811 4229 818 4236 993 4210 1052 4171 1026 3982 1052 3846 1071 3846 1071 3839 1071 3839 1071 3839 1071 3748 1052 3573 1019 3112 1019 2917 1058"/></Shape>
+	    <String CONTENT="MAX HUNZIKER"
+                    HPOS="2917"
+                    VPOS="811"
+                    WIDTH="1319"
+                    HEIGHT="260"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4bfe6739"
+                    TAGREFS="LT100"
+                    BASELINE="2910 1445 3966 1422" 
+                    HPOS="2891"
+                    VPOS="1233"
+                    WIDTH="1072"
+                    HEIGHT="325">
+            <Shape><Polygon POINTS="2904 1441 2891 1246 3144 1292 3313 1292 3365 1253 3397 1233 3404 1233 3404 1233 3404 1233 3410 1233 3410 1233 3417 1233 3417 1233 3417 1233 3423 1233 3495 1259 3560 1279 3943 1272 3963 1415 3963 1519 3501 1558 3495 1558 3495 1558 3495 1558 3488 1558 3488 1558 3488 1558 3482 1558 3410 1506 3391 1500 2904 1500"/></Shape>
+	    <String CONTENT="Ohne Mappe"
+                    HPOS="2891"
+                    VPOS="1233"
+                    WIDTH="1072"
+                    HEIGHT="325"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3536"
+                   VPOS="7445"
+                   WIDTH="1148"
+                   HEIGHT="348"
+                   ID="eSc_textblock_21bde746"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="3536 7445 3536 7793 4684 7793 4684 7445"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_3a83d81a"
+                    TAGREFS="LT101"
+                    BASELINE="3624 7727 4636 7727" 
+                    HPOS="3599"
+                    VPOS="7500"
+                    WIDTH="1039"
+                    HEIGHT="247">
+            <Shape><Polygon POINTS="3618 7721 3599 7546 3657 7507 3664 7507 3670 7507 3677 7507 3911 7539 3963 7500 3969 7500 3976 7500 3982 7500 4236 7546 4463 7546 4528 7500 4534 7500 4541 7500 4547 7500 4554 7500 4638 7546 4632 7721 4632 7747 3618 7747"/></Shape>
+	    <String CONTENT="174. XXI. 1-2"
+                    HPOS="3599"
+                    VPOS="7500"
+                    WIDTH="1039"
+                    HEIGHT="247"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0240_IV_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6595"
+          HEIGHT="7804"
+          PHYSICAL_IMG_NR="320"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6595"
+                  HEIGHT="7804">
+        
+        <TextBlock HPOS="4832"
+                   VPOS="1352"
+                   WIDTH="1190"
+                   HEIGHT="254"
+                   ID="eSc_textblock_eadcd186"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="4832 1352 5944 1378 6022 1580 4832 1606 4832 1352"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ae37e0a2"
+                    TAGREFS="LT100"
+                    BASELINE="4859 1533 5641 1548 5942 1529" 
+                    HPOS="4845"
+                    VPOS="1346"
+                    WIDTH="1093"
+                    HEIGHT="208">
+            <Shape><Polygon POINTS="4858 1528 4845 1385 4929 1346 4929 1346 4936 1346 4936 1346 4936 1346 4942 1346 4942 1346 5287 1391 5300 1391 5307 1391 5359 1352 5365 1352 5365 1352 5365 1352 5372 1352 5372 1352 5372 1352 5378 1352 5378 1352 5385 1352 5385 1352 5385 1352 5469 1391 5482 1404 5925 1404 5938 1528 5925 1554 4851 1547"/></Shape>
+	    <String CONTENT="OTTO MÜLLER"
+                    HPOS="4845"
+                    VPOS="1346"
+                    WIDTH="1093"
+                    HEIGHT="208"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5248"
+                   VPOS="7491"
+                   WIDTH="1008"
+                   HEIGHT="306"
+                   ID="eSc_textblock_d5c43d1d"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5326 7491 6126 7517 6256 7771 5274 7797 5248 7543 5326 7491"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_a06b8e1b"
+                    TAGREFS="LT101"
+                    BASELINE="5359 7691 6147 7720" 
+                    HPOS="5339"
+                    VPOS="7530"
+                    WIDTH="807"
+                    HEIGHT="202">
+            <Shape><Polygon POINTS="5352 7686 5352 7530 6146 7582 6146 7719 6133 7732 5339 7706"/></Shape>
+	    <String CONTENT="240. IV. 1-17"
+                    HPOS="5339"
+                    VPOS="7530"
+                    WIDTH="807"
+                    HEIGHT="202"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

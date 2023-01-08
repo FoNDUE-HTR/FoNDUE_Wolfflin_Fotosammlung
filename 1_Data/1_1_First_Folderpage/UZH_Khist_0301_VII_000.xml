@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0301_VII_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6599"
+          HEIGHT="7795"
+          PHYSICAL_IMG_NR="185"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6599"
+                  HEIGHT="7795">
+        
+        <TextBlock HPOS="4707"
+                   VPOS="1351"
+                   WIDTH="981"
+                   HEIGHT="773"
+                   ID="eSc_textblock_8828f3d7"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="4707 1351 5558 1351 5636 1584 5558 1812 5688 2098 4811 2124 4707 1351"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_a2f09bcc"
+                    TAGREFS="LT100"
+                    BASELINE="4772 1513 5539 1513" 
+                    HPOS="4772"
+                    VPOS="1338"
+                    WIDTH="767"
+                    HEIGHT="227">
+            <Shape><Polygon POINTS="4772 1513 4772 1338 5539 1377 5539 1513 5539 1539 4772 1565"/></Shape>
+	    <String CONTENT="RAVECCHIA"
+                    HPOS="4772"
+                    VPOS="1338"
+                    WIDTH="767"
+                    HEIGHT="227"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e9628a85"
+                    TAGREFS="LT100"
+                    BASELINE="4850 2033 5588 2051" 
+                    HPOS="4830"
+                    VPOS="1857"
+                    WIDTH="754"
+                    HEIGHT="215">
+            <Shape><Polygon POINTS="4843 2026 4850 1864 4934 1896 4980 1877 5012 1857 5012 1857 5012 1857 5019 1857 5019 1857 5019 1857 5025 1857 5025 1857 5032 1857 5032 1857 5032 1857 5038 1857 5038 1857 5064 1883 5090 1903 5110 1890 5136 1864 5136 1857 5136 1857 5142 1857 5142 1857 5142 1857 5149 1857 5149 1857 5155 1857 5246 1857 5246 1857 5246 1857 5253 1857 5253 1857 5253 1857 5259 1857 5259 1857 5259 1864 5305 1903 5311 1916 5584 1935 5584 2046 5571 2072 4830 2052"/></Shape>
+	    <String CONTENT="S. Bellinzona"
+                    HPOS="4830"
+                    VPOS="1857"
+                    WIDTH="754"
+                    HEIGHT="215"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5669"
+                   VPOS="7535"
+                   WIDTH="721"
+                   HEIGHT="253"
+                   ID="eSc_textblock_6998bc8f"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5669 7535 6312 7561 6390 7788 5695 7788 5669 7535"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_4d886625"
+                    TAGREFS="LT101"
+                    BASELINE="5725 7715 6288 7717" 
+                    HPOS="5721"
+                    VPOS="7574"
+                    WIDTH="578"
+                    HEIGHT="169">
+            <Shape><Polygon POINTS="5721 7710 5721 7574 5890 7613 6182 7613 6182 7606 6215 7580 6215 7574 6215 7574 6221 7574 6221 7574 6221 7574 6228 7574 6228 7574 6228 7574 6234 7574 6234 7574 6241 7574 6241 7574 6241 7574 6247 7574 6247 7574 6299 7613 6286 7710 6286 7743 5721 7743"/></Shape>
+	    <String CONTENT="301. VII. 0"
+                    HPOS="5721"
+                    VPOS="7574"
+                    WIDTH="578"
+                    HEIGHT="169"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

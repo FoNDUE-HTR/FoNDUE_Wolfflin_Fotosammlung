@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0302_V_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6601"
+          HEIGHT="7794"
+          PHYSICAL_IMG_NR="223"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6601"
+                  HEIGHT="7794">
+        
+        <TextBlock HPOS="4755"
+                   VPOS="1324"
+                   WIDTH="1267"
+                   HEIGHT="799"
+                   ID="eSc_textblock_fcfa9249"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="5145 1324 5892 1376 5892 1812 6022 2097 4755 2123 4755 1870 5093 1760 5067 1376 5145 1324"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_b6d3f2d1"
+                    TAGREFS="LT100"
+                    BASELINE="5132 1532 5834 1513" 
+                    HPOS="5119"
+                    VPOS="1344"
+                    WIDTH="715"
+                    HEIGHT="234">
+            <Shape><Polygon POINTS="5132 1532 5119 1344 5821 1370 5834 1513 5827 1539 5132 1578"/></Shape>
+	    <String CONTENT="RAVENNA"
+                    HPOS="5119"
+                    VPOS="1344"
+                    WIDTH="715"
+                    HEIGHT="234"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8a8dd925"
+                    TAGREFS="LT100"
+                    BASELINE="4786 2019 5925 2039" 
+                    HPOS="4762"
+                    VPOS="1844"
+                    WIDTH="1156"
+                    HEIGHT="273">
+            <Shape><Polygon POINTS="4781 2013 4781 1844 4924 1844 4924 1844 4924 1844 4931 1844 4931 1844 4931 1844 4937 1844 4937 1844 4937 1851 4944 1851 4976 1883 5061 1864 5152 1844 5152 1844 5152 1844 5158 1844 5158 1844 5158 1844 5165 1844 5165 1844 5171 1844 5171 1844 5210 1870 5256 1909 5405 1909 5477 1896 5574 1870 5580 1870 5580 1870 5587 1870 5587 1870 5587 1870 5593 1870 5593 1870 5593 1870 5600 1870 5600 1870 5600 1877 5632 1903 5645 1922 5918 1929 5918 2032 5912 2071 5632 2117 5632 2117 5626 2117 5626 2117 5626 2117 5392 2071 5165 2110 5165 2110 5165 2110 5158 2110 5158 2110 5152 2110 5152 2110 5152 2110 5145 2110 5074 2065 4937 2104 4931 2104 4931 2104 4924 2104 4924 2104 4924 2104 4918 2104 4762 2052"/></Shape>
+	    <String CONTENT="S Apollinar Nuovo"
+                    HPOS="4762"
+                    VPOS="1844"
+                    WIDTH="1156"
+                    HEIGHT="273"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5613"
+                   VPOS="7508"
+                   WIDTH="721"
+                   HEIGHT="279"
+                   ID="eSc_textblock_15889546"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5613 7508 6282 7534 6334 7761 5613 7787 5613 7508"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_5d2e0480"
+                    TAGREFS="LT101"
+                    BASELINE="5640 7677 6238 7697" 
+                    HPOS="5626"
+                    VPOS="7553"
+                    WIDTH="611"
+                    HEIGHT="156">
+            <Shape><Polygon POINTS="5639 7670 5639 7553 6237 7579 6237 7696 6224 7709 5626 7696"/></Shape>
+	    <String CONTENT="302. V. 1-24"
+                    HPOS="5626"
+                    VPOS="7553"
+                    WIDTH="611"
+                    HEIGHT="156"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
