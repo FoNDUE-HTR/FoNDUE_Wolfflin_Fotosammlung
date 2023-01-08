@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0014_VII_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6608"
+          HEIGHT="7806"
+          PHYSICAL_IMG_NR="269"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6608"
+                  HEIGHT="7806">
+        
+        <TextBlock HPOS="4713"
+                   VPOS="7103"
+                   WIDTH="957"
+                   HEIGHT="254"
+                   ID="eSc_textblock_d9bd83d6"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5338 7103 5592 7129 5670 7357 4713 7331 4791 7155 5338 7103"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_8a36e7d9"
+                    TAGREFS="LT101"
+                    BASELINE="4786 7290 5588 7291" 
+                    HPOS="4785"
+                    VPOS="7116"
+                    WIDTH="813"
+                    HEIGHT="234">
+            <Shape><Polygon POINTS="4785 7285 4785 7135 5156 7155 5175 7148 5234 7116 5234 7116 5234 7116 5240 7116 5240 7116 5247 7116 5247 7116 5247 7116 5253 7116 5377 7155 5384 7155 5390 7155 5501 7116 5507 7116 5507 7116 5507 7116 5514 7116 5514 7116 5520 7116 5520 7116 5520 7116 5527 7116 5598 7162 5585 7285 5585 7350 4785 7350"/></Shape>
+	    <String CONTENT="14. V. 7-13"
+                    HPOS="4785"
+                    VPOS="7116"
+                    WIDTH="813"
+                    HEIGHT="234"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

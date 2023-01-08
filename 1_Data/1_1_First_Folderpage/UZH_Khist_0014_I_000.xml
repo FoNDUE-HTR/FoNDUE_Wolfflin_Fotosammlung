@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0014_I_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6608"
+          HEIGHT="7804"
+          PHYSICAL_IMG_NR="263"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6608"
+                  HEIGHT="7804">
+        
+        <TextBlock HPOS="3590"
+                   VPOS="676"
+                   WIDTH="2205"
+                   HEIGHT="1424"
+                   ID="eSc_textblock_257e25fc"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="5281 676 5508 702 5795 2100 4760 2100 4676 1632 3590 1632 3590 702 5281 676"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_fdc5d50e"
+                    TAGREFS="LT100"
+                    BASELINE="3629 995 5424 975" 
+                    HPOS="3609"
+                    VPOS="702"
+                    WIDTH="1815"
+                    HEIGHT="345">
+            <Shape><Polygon POINTS="3629 995 3609 760 4071 721 4077 721 4077 721 4077 721 4084 721 4175 754 4188 760 4195 754 4234 715 4234 715 4234 708 4234 708 4240 708 4240 708 4240 708 4247 708 4247 708 4253 708 4253 708 4708 754 4760 754 5151 754 5151 747 5196 708 5196 702 5196 702 5203 702 5203 702 5203 702 5209 702 5209 702 5216 702 5216 702 5216 702 5222 702 5222 702 5222 702 5229 702 5229 702 5268 741 5326 702 5333 702 5333 702 5339 702 5339 702 5339 702 5346 702 5346 702 5346 702 5352 702 5352 702 5352 702 5359 702 5424 747 5424 975 5417 1001 3629 1047"/></Shape>
+	    <String CONTENT="ANTWERPEN"
+                    HPOS="3609"
+                    VPOS="702"
+                    WIDTH="1815"
+                    HEIGHT="345"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1e3cdb4b"
+                    TAGREFS="LT100"
+                    BASELINE="3661 1482 5477 1456" 
+                    HPOS="3642"
+                    VPOS="1242"
+                    WIDTH="1847"
+                    HEIGHT="351">
+            <Shape><Polygon POINTS="3655 1476 3642 1261 3824 1281 3824 1281 3830 1281 3830 1281 3830 1281 3837 1281 3837 1287 3889 1333 4038 1333 4090 1268 4103 1261 4103 1261 4103 1255 4103 1255 4110 1255 4110 1255 4116 1255 4116 1255 4116 1255 4123 1255 4123 1255 4130 1255 4130 1255 4175 1274 4299 1320 4637 1281 5021 1242 5021 1242 5027 1242 5027 1242 5034 1242 5034 1242 5125 1274 5261 1242 5268 1242 5268 1242 5274 1242 5274 1242 5274 1242 5281 1242 5469 1307 5476 1450 5489 1502 5404 1554 5398 1554 5398 1554 5398 1554 5391 1554 5391 1554 5385 1554 5385 1554 5112 1521 5073 1515 5060 1521 4995 1573 4995 1573 4988 1573 4988 1573 4988 1573 4982 1573 4982 1573 4975 1573 4975 1573 4975 1573 4969 1573 4838 1534 4806 1521 4793 1534 4767 1560 4767 1560 4767 1560 4760 1560 4760 1560 4754 1560 4754 1560 4754 1560 4747 1560 4747 1560 4747 1560 4741 1560 4676 1541 4637 1528 4585 1547 4487 1580 4487 1580 4481 1580 4481 1580 4474 1580 4474 1580 4474 1580 4468 1580 4390 1554 4338 1534 4266 1560 4214 1580 4214 1580 4208 1580 4208 1580 4201 1580 4201 1580 4201 1580 4195 1580 4195 1580 4195 1580 4188 1580 4169 1567 4110 1528 4032 1573 3999 1586 3999 1586 3999 1586 3993 1586 3993 1586 3993 1593 3655 1593"/></Shape>
+	    <String CONTENT="Stadtansichten"
+                    HPOS="3642"
+                    VPOS="1242"
+                    WIDTH="1847"
+                    HEIGHT="351"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b121141a"
+                    TAGREFS="LT100"
+                    BASELINE="4819 1970 5710 2010" 
+                    HPOS="4806"
+                    VPOS="1742"
+                    WIDTH="917"
+                    HEIGHT="397">
+            <Shape><Polygon POINTS="4812 1964 4819 1742 5053 1788 5177 1768 5294 1749 5294 1749 5300 1749 5300 1749 5300 1749 5307 1749 5307 1749 5307 1749 5313 1749 5365 1781 5391 1801 5476 1794 5664 1768 5664 1768 5671 1768 5671 1768 5677 1768 5677 1768 5677 1768 5684 1768 5684 1768 5684 1775 5723 1814 5703 2009 5703 2061 5456 2139 5450 2139 5450 2139 5450 2139 5443 2139 5125 2107 5125 2107 5118 2107 5118 2107 5118 2107 5112 2107 5112 2107 5112 2100 5060 2055 5034 2035 4806 2048"/></Shape>
+	    <String CONTENT="(Teil 1/2)"
+                    HPOS="4806"
+                    VPOS="1742"
+                    WIDTH="917"
+                    HEIGHT="397"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4760"
+                   VPOS="7101"
+                   WIDTH="878"
+                   HEIGHT="254"
+                   ID="eSc_textblock_17534f6e"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="4812 7101 5560 7127 5638 7329 4838 7355 4760 7303 4812 7101"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d50cf7d0"
+                    TAGREFS="LT101"
+                    BASELINE="4833 7292 5574 7291" 
+                    HPOS="4825"
+                    VPOS="7114"
+                    WIDTH="748"
+                    HEIGHT="215">
+            <Shape><Polygon POINTS="4832 7290 4825 7134 4975 7121 4982 7121 4982 7121 4982 7121 4988 7121 4988 7121 4988 7121 5027 7140 5066 7160 5079 7140 5099 7127 5099 7121 5099 7121 5105 7121 5105 7121 5105 7121 5112 7121 5112 7121 5118 7121 5118 7121 5118 7121 5125 7121 5209 7147 5248 7160 5268 7153 5333 7114 5333 7114 5333 7114 5339 7114 5339 7114 5339 7114 5346 7114 5346 7114 5346 7114 5573 7166 5573 7290 5573 7309 4832 7329"/></Shape>
+	    <String CONTENT="14. I. 1-2"
+                    HPOS="4825"
+                    VPOS="7114"
+                    WIDTH="748"
+                    HEIGHT="215"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

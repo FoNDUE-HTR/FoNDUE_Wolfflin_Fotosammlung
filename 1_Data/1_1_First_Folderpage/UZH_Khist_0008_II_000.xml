@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0008_II_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6603"
+          HEIGHT="7801"
+          PHYSICAL_IMG_NR="34"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6603"
+                  HEIGHT="7801">
+        
+        <TextBlock HPOS="3943"
+                   VPOS="731"
+                   WIDTH="1966"
+                   HEIGHT="363"
+                   ID="eSc_textblock_f85e9b63"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="3996 731 5836 759 5909 1054 3958 1094 3943 863"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_136ac0e6"
+                    TAGREFS="LT100"
+                    BASELINE="3990 1020 5861 1001" 
+                    HPOS="3974"
+                    VPOS="747"
+                    WIDTH="1880"
+                    HEIGHT="462">
+            <Shape><Polygon POINTS="3987 1014 3974 806 4274 760 4274 760 4280 760 4280 760 4488 793 4592 754 4592 754 4599 754 4599 754 4605 754 4605 754 4605 754 4612 754 4729 786 4866 754 4872 754 4872 754 4879 754 5275 780 5314 747 5314 747 5321 747 5321 747 5321 747 5327 747 5327 747 5327 747 5334 747 5841 786 5854 994 5848 1059 5620 1040 5477 1092 5425 1111 5425 1111 5419 1111 5419 1111 5412 1111 5412 1111 5412 1111 5406 1111 5406 1111 5406 1111 5399 1111 5386 1098 5301 1046 5178 1092 5178 1092 5171 1092 5171 1092 5165 1092 5165 1092 5165 1092 4944 1046 4761 1085 4677 1157 4638 1189 4638 1189 4631 1189 4631 1189 4631 1189 4625 1189 4625 1189 4625 1189 3987 1209"/></Shape>
+	    <String CONTENT="ANDELFINGEN"
+                    HPOS="3974"
+                    VPOS="747"
+                    WIDTH="1880"
+                    HEIGHT="462"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4773"
+                   VPOS="7131"
+                   WIDTH="824"
+                   HEIGHT="305"
+                   ID="eSc_textblock_90664956"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="4801 7131 5510 7150 5562 7248 5597 7436 4773 7436"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_6caf59b1"
+                    TAGREFS="LT101"
+                    BASELINE="4811 7332 5503 7332" 
+                    HPOS="4800"
+                    VPOS="7144"
+                    WIDTH="697"
+                    HEIGHT="221">
+            <Shape><Polygon POINTS="4807 7326 4807 7163 5197 7189 5236 7157 5236 7150 5236 7150 5243 7150 5243 7150 5243 7150 5243 7150 5249 7150 5249 7150 5256 7150 5256 7150 5256 7150 5256 7150 5262 7150 5262 7150 5347 7183 5484 7144 5497 7326 5490 7365 4800 7352"/></Shape>
+	    <String CONTENT="8. II. 1-2"
+                    HPOS="4800"
+                    VPOS="7144"
+                    WIDTH="697"
+                    HEIGHT="221"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

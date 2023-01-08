@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0006_XII_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6610"
+          HEIGHT="7805"
+          PHYSICAL_IMG_NR="11"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6610"
+                  HEIGHT="7805">
+        
+        <TextBlock HPOS="4583"
+                   VPOS="567"
+                   WIDTH="1751"
+                   HEIGHT="1740"
+                   ID="eSc_textblock_6a58fa35"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="4583 567 4583 2307 6334 2307 6334 567"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_9e9ae99a"
+                    TAGREFS="LT100"
+                    BASELINE="4711 986 5878 1001" 
+                    HPOS="4697"
+                    VPOS="715"
+                    WIDTH="1177"
+                    HEIGHT="306">
+            <Shape><Polygon POINTS="4710 982 4703 747 4840 715 4840 715 4840 715 4846 715 4846 715 5165 747 5211 715 5211 715 5217 715 5217 715 5224 715 5224 715 5224 715 5230 715 5874 760 5874 995 5861 1021 4697 1014"/></Shape>
+	    <String CONTENT="AMIENS"
+                    HPOS="4697"
+                    VPOS="715"
+                    WIDTH="1177"
+                    HEIGHT="306"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_11f44f8f"
+                    TAGREFS="LT100"
+                    BASELINE="4697 1489 6115 1502" 
+                    HPOS="4677"
+                    VPOS="1216"
+                    WIDTH="1438"
+                    HEIGHT="325">
+            <Shape><Polygon POINTS="4690 1482 4690 1216 4872 1222 4872 1222 4872 1222 4879 1222 4879 1222 4885 1222 4885 1222 4885 1229 4885 1229 4937 1268 5068 1235 5146 1222 5146 1222 5146 1222 5152 1222 5152 1222 5152 1222 5159 1222 5159 1222 5159 1222 5165 1222 5198 1248 5269 1300 5399 1300 5497 1268 5549 1248 5549 1248 5556 1248 5556 1248 5562 1248 5562 1248 5562 1248 5569 1248 5569 1248 5575 1248 5575 1248 5608 1274 5647 1307 5757 1307 5777 1287 5842 1229 5842 1229 5848 1229 5848 1229 5848 1229 5855 1229 5855 1229 5861 1229 5965 1229 5965 1229 5965 1229 5972 1229 5972 1229 5972 1229 6115 1307 6109 1495 6096 1541 4677 1534"/></Shape>
+	    <String CONTENT="Kathedrale"
+                    HPOS="4677"
+                    VPOS="1216"
+                    WIDTH="1438"
+                    HEIGHT="325"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_30e395b5"
+                    TAGREFS="LT100"
+                    BASELINE="4681 2003 6187 1983" 
+                    HPOS="4664"
+                    VPOS="1717"
+                    WIDTH="1516"
+                    HEIGHT="429">
+            <Shape><Polygon POINTS="4677 1996 4664 1730 4807 1730 4807 1730 4807 1730 4814 1730 4814 1730 4820 1730 4820 1730 4820 1736 4924 1808 4990 1756 4990 1756 4996 1756 4996 1756 4996 1756 5003 1756 5003 1756 5009 1756 5009 1756 5009 1756 5016 1756 5016 1756 5152 1814 5217 1756 5250 1730 5250 1723 5250 1723 5256 1723 5256 1723 5263 1723 5263 1723 5263 1723 5269 1723 5269 1723 5269 1723 5276 1723 5276 1723 5276 1723 5282 1723 5328 1762 5399 1808 5484 1769 5510 1756 5510 1756 5517 1756 5517 1756 5517 1756 5523 1756 5523 1756 5530 1756 5530 1756 5530 1756 5536 1756 5536 1756 5549 1769 5601 1808 5751 1808 5803 1782 5952 1717 5952 1717 5959 1717 5959 1717 5959 1717 5965 1717 5965 1717 5972 1717 5972 1717 6174 1801 6180 1977 6180 2042 5835 2042 5829 2042 5686 2139 5679 2139 5679 2139 5679 2139 5673 2139 5673 2139 5673 2139 5666 2139 5666 2139 5451 2107 5172 2146 5172 2146 5165 2146 5165 2146 5159 2146 5159 2146 5159 2146 5152 2146 5152 2146 5029 2048 4677 2048"/></Shape>
+	    <String CONTENT="Portalplastik"
+                    HPOS="4664"
+                    VPOS="1717"
+                    WIDTH="1516"
+                    HEIGHT="429"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4692"
+                   VPOS="7125"
+                   WIDTH="1032"
+                   HEIGHT="260"
+                   ID="eSc_textblock_1b77620a"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="4692 7154 5724 7125 5718 7278 5695 7375 4718 7385"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_6a7f3e6f"
+                    TAGREFS="LT101"
+                    BASELINE="4765 7317 5724 7314" 
+                    HPOS="4755"
+                    VPOS="7135"
+                    WIDTH="976"
+                    HEIGHT="240">
+            <Shape><Polygon POINTS="4762 7310 4755 7161 5068 7135 5074 7135 5263 7167 5282 7167 5289 7167 5373 7135 5380 7135 5386 7135 5536 7167 5640 7135 5647 7135 5653 7135 5660 7135 5666 7135 5731 7174 5718 7310 5718 7356 5022 7375 5016 7375 4755 7336"/></Shape>
+	    <String CONTENT="6. VIII. 8-17"
+                    HPOS="4755"
+                    VPOS="7135"
+                    WIDTH="976"
+                    HEIGHT="240"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

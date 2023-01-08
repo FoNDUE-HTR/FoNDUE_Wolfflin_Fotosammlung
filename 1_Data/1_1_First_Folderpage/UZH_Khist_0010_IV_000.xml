@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_IV_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6605"
+          HEIGHT="7800"
+          PHYSICAL_IMG_NR="56"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6605"
+                  HEIGHT="7800">
+        
+        <TextBlock HPOS="3499"
+                   VPOS="577"
+                   WIDTH="2162"
+                   HEIGHT="1623"
+                   ID="eSc_textblock_0a85e471"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="3499 577 3499 2200 5661 2200 5661 577"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_8cbde3cd"
+                    TAGREFS="LT100"
+                    BASELINE="3618 1012 4195 1034 5607 1007" 
+                    HPOS="3588"
+                    VPOS="689"
+                    WIDTH="2015"
+                    HEIGHT="416">
+            <Shape><Polygon POINTS="3614 1007 3588 767 3647 715 3647 708 3653 708 3660 708 3666 708 3959 708 3965 708 4102 754 4160 780 4394 780 4420 747 4427 747 4427 741 4433 741 4440 741 4446 741 4453 741 4479 747 4524 767 4602 747 4804 695 4810 695 4817 695 5057 741 5135 754 5161 741 5246 689 5252 689 5259 689 5265 689 5272 689 5376 734 5441 760 5584 734 5603 1001 5603 1053 4056 1105 4050 1105 4043 1105 4037 1105 3972 1059 3614 1059"/></Shape>
+	    <String CONTENT="FRA ANGELICO"
+                    HPOS="3588"
+                    VPOS="689"
+                    WIDTH="2015"
+                    HEIGHT="416"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2ed6b273"
+                    TAGREFS="LT100"
+                    BASELINE="3575 1525 5077 1495 5406 1542" 
+                    HPOS="3543"
+                    VPOS="1222"
+                    WIDTH="1859"
+                    HEIGHT="364">
+            <Shape><Polygon POINTS="3569 1521 3543 1274 3647 1228 3653 1228 3660 1228 3666 1228 3770 1267 4141 1228 4147 1228 4154 1228 4238 1261 4277 1222 4284 1222 4290 1222 4297 1222 5402 1254 5402 1540 5402 1560 5038 1573 5031 1573 5025 1573 4999 1560 4927 1527 4849 1560 4817 1579 4810 1579 4804 1579 4680 1560 4563 1547 4505 1560 4472 1573 4466 1573 4459 1573 4453 1573 4433 1560 4375 1534 4225 1534 4193 1560 4167 1586 4160 1586 4154 1586 4147 1586 4024 1560 3900 1540 3569 1560"/></Shape>
+	    <String CONTENT="ALTARWERKE"
+                    HPOS="3543"
+                    VPOS="1222"
+                    WIDTH="1859"
+                    HEIGHT="364"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b13f7a45"
+                    TAGREFS="LT100"
+                    BASELINE="3577 2006 5480 2028" 
+                    HPOS="3569"
+                    VPOS="1768"
+                    WIDTH="1904"
+                    HEIGHT="331">
+            <Shape><Polygon POINTS="3575 2002 3569 1807 3868 1768 3874 1768 3881 1768 3887 1768 3939 1813 3959 1826 4017 1820 4095 1807 4102 1807 4108 1807 4160 1820 4238 1846 4271 1826 4323 1787 4329 1787 4336 1787 4342 1787 4349 1787 4355 1787 4355 1794 4394 1826 4401 1839 4654 1852 4680 1839 4758 1781 4765 1781 4771 1781 4778 1781 4966 1781 5473 1865 5473 2028 5460 2093 4518 2047 4375 2080 4368 2080 4362 2080 4355 2080 4349 2080 4303 2047 4232 2093 4225 2099 4219 2099 4212 2099 4206 2099 4147 2093 3965 2060 3569 2086"/></Shape>
+	    <String CONTENT="Altar von Cortona"
+                    HPOS="3569"
+                    VPOS="1768"
+                    WIDTH="1904"
+                    HEIGHT="331"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4662"
+                   VPOS="7088"
+                   WIDTH="960"
+                   HEIGHT="315"
+                   ID="eSc_textblock_66e2305d"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5606 7088 5622 7398 4699 7403 4662 7115"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_286b0eeb"
+                    TAGREFS="LT101"
+                    BASELINE="4784 7300 5538 7326" 
+                    HPOS="4765"
+                    VPOS="7124"
+                    WIDTH="767"
+                    HEIGHT="253">
+            <Shape><Polygon POINTS="4778 7299 4765 7156 4843 7124 4843 7124 4849 7124 4849 7124 4849 7124 4856 7124 4856 7124 4862 7124 4960 7150 5012 7163 5038 7143 5057 7124 5057 7124 5057 7124 5064 7124 5064 7124 5070 7124 5070 7124 5070 7124 5077 7124 5077 7124 5077 7124 5083 7124 5142 7143 5226 7169 5272 7137 5278 7130 5285 7130 5285 7130 5285 7130 5291 7130 5291 7130 5291 7130 5298 7130 5298 7130 5298 7130 5304 7130 5304 7130 5311 7130 5311 7130 5311 7137 5363 7169 5402 7137 5402 7130 5402 7130 5402 7130 5408 7130 5408 7130 5408 7130 5415 7130 5415 7130 5421 7130 5532 7130 5532 7325 5525 7338 5161 7377 5155 7377 5155 7377 4765 7325"/></Shape>
+	    <String CONTENT="10. III. 1-5"
+                    HPOS="4765"
+                    VPOS="7124"
+                    WIDTH="767"
+                    HEIGHT="253"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
