@@ -1,0 +1,132 @@
+Requirement already satisfied: albumentations in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (1.1.0)
+Requirement already satisfied: opencv-python-headless>=4.1.1 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from albumentations) (4.5.5.62)
+Requirement already satisfied: PyYAML in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from albumentations) (6.0)
+Requirement already satisfied: scikit-image>=0.16.1 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from albumentations) (0.19.0)
+Requirement already satisfied: qudida>=0.0.4 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from albumentations) (0.0.4)
+Requirement already satisfied: numpy>=1.11.1 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from albumentations) (1.21.4)
+Requirement already satisfied: scipy in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from albumentations) (1.7.3)
+Requirement already satisfied: imageio>=2.4.1 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (2.13.3)
+Requirement already satisfied: networkx>=2.2 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (2.6.3)
+Requirement already satisfied: PyWavelets>=1.1.1 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (1.2.0)
+Requirement already satisfied: tifffile>=2019.7.26 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (2021.11.2)
+Requirement already satisfied: pillow!=7.1.0,!=7.1.1,!=8.3.0,>=6.1.0 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (8.4.0)
+Requirement already satisfied: packaging>=20.0 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (21.3)
+Requirement already satisfied: typing-extensions in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from qudida>=0.0.4->albumentations) (4.0.1)
+Requirement already satisfied: scikit-learn>=0.19.1 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from qudida>=0.0.4->albumentations) (1.0.2)
+Requirement already satisfied: pyparsing!=3.0.5,>=2.0.2 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from packaging>=20.0->scikit-image>=0.16.1->albumentations) (3.0.6)
+Requirement already satisfied: joblib>=0.11 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from scikit-learn>=0.19.1->qudida>=0.0.4->albumentations) (1.1.0)
+Requirement already satisfied: threadpoolctl>=2.0.0 in /home/users/j/jacsont/Sandozenv/lib/python3.8/site-packages (from scikit-learn>=0.19.1->qudida>=0.0.4->albumentations) (3.1.0)
+WARNING: You are using pip version 20.2.1; however, version 22.1.2 is available.
+You should consider upgrading via the '/home/users/j/jacsont/Sandozenv/bin/python3 -m pip install --upgrade pip' command.
+KETOS training
+WARNING:root:scikit-learn version 1.0.2 is not supported. Minimum required version: 0.17. Maximum required version: 0.19.2. Disabling scikit-learn conversion API.
+WARNING:root:Torch version 1.10.0+cu102 has not been tested with coremltools. You may run into unexpected errors. Torch 1.9.1 is the most recent version that has been tested.
+Creating model [1,1200,0,3 Cr7,7,64,2,2 Gn32 Cr3,3,128,2,2 Gn32 Cr3,3,128 Gn32 Cr3,3,256 Gn32 Cr3,3,256 Gn32 Lbx32 Lby32 Cr1,1,32 Gn32 Lby32 Lbx32 O2l8] with 8 outputs ✓
+Training line types:
+  default	2	16
+  DefaultLine:manuscript	3	142
+  HeadingLine:manuscript	4	380
+Training region types:
+  text	5	7
+  TitlePageZone	6	159
+  NumberingZone	7	156
+stage 1/50
+Accuracy report (1) mean_iu: 0.0001 freq_iu: 0.0000 mean_acc: 0.9903 accuracy: 0.9903
+stage 2/50
+Accuracy report (2) mean_iu: 0.0820 freq_iu: 0.4801 mean_acc: 0.9969 accuracy: 0.9969
+stage 3/50
+Accuracy report (3) mean_iu: 0.0771 freq_iu: 0.4516 mean_acc: 0.9965 accuracy: 0.9965
+stage 4/50
+Accuracy report (4) mean_iu: 0.0908 freq_iu: 0.5126 mean_acc: 0.9972 accuracy: 0.9972
+stage 5/50
+Accuracy report (5) mean_iu: 0.1074 freq_iu: 0.4191 mean_acc: 0.9956 accuracy: 0.9956
+stage 6/50
+Accuracy report (6) mean_iu: 0.1260 freq_iu: 0.4955 mean_acc: 0.9967 accuracy: 0.9967
+stage 7/50
+Accuracy report (7) mean_iu: 0.1440 freq_iu: 0.5574 mean_acc: 0.9973 accuracy: 0.9973
+stage 8/50
+Accuracy report (8) mean_iu: 0.1653 freq_iu: 0.4864 mean_acc: 0.9960 accuracy: 0.9960
+stage 9/50
+Accuracy report (9) mean_iu: 0.1857 freq_iu: 0.5953 mean_acc: 0.9975 accuracy: 0.9975
+stage 10/50
+Accuracy report (10) mean_iu: 0.2744 freq_iu: 0.5971 mean_acc: 0.9970 accuracy: 0.9970
+stage 11/50
+Accuracy report (11) mean_iu: 0.2651 freq_iu: 0.6848 mean_acc: 0.9981 accuracy: 0.9981
+stage 12/50
+Accuracy report (12) mean_iu: 0.2899 freq_iu: 0.7088 mean_acc: 0.9981 accuracy: 0.9981
+stage 13/50
+Accuracy report (13) mean_iu: 0.2744 freq_iu: 0.6050 mean_acc: 0.9972 accuracy: 0.9972
+stage 14/50
+Accuracy report (14) mean_iu: 0.2547 freq_iu: 0.6274 mean_acc: 0.9975 accuracy: 0.9975
+stage 15/50
+Accuracy report (15) mean_iu: 0.2874 freq_iu: 0.6713 mean_acc: 0.9978 accuracy: 0.9978
+stage 16/50
+Accuracy report (16) mean_iu: 0.3167 freq_iu: 0.7173 mean_acc: 0.9982 accuracy: 0.9982
+stage 17/50
+Accuracy report (17) mean_iu: 0.2925 freq_iu: 0.6377 mean_acc: 0.9975 accuracy: 0.9975
+stage 18/50
+Accuracy report (18) mean_iu: 0.2928 freq_iu: 0.7173 mean_acc: 0.9983 accuracy: 0.9983
+stage 19/50
+Accuracy report (19) mean_iu: 0.3156 freq_iu: 0.7062 mean_acc: 0.9982 accuracy: 0.9982
+stage 20/50
+Accuracy report (20) mean_iu: 0.3405 freq_iu: 0.7616 mean_acc: 0.9986 accuracy: 0.9986
+stage 21/50
+Accuracy report (21) mean_iu: 0.3228 freq_iu: 0.7103 mean_acc: 0.9982 accuracy: 0.9982
+stage 22/50
+Accuracy report (22) mean_iu: 0.3185 freq_iu: 0.7284 mean_acc: 0.9983 accuracy: 0.9983
+stage 23/50
+Accuracy report (23) mean_iu: 0.3195 freq_iu: 0.7394 mean_acc: 0.9984 accuracy: 0.9984
+stage 24/50
+Accuracy report (24) mean_iu: 0.3171 freq_iu: 0.7134 mean_acc: 0.9981 accuracy: 0.9981
+stage 25/50
+Accuracy report (25) mean_iu: 0.3012 freq_iu: 0.6645 mean_acc: 0.9977 accuracy: 0.9977
+stage 26/50
+Accuracy report (26) mean_iu: 0.3095 freq_iu: 0.6784 mean_acc: 0.9979 accuracy: 0.9979
+stage 27/50
+Accuracy report (27) mean_iu: 0.3096 freq_iu: 0.7021 mean_acc: 0.9980 accuracy: 0.9980
+stage 28/50
+Accuracy report (28) mean_iu: 0.3055 freq_iu: 0.6950 mean_acc: 0.9980 accuracy: 0.9980
+stage 29/50
+Accuracy report (29) mean_iu: 0.3159 freq_iu: 0.7035 mean_acc: 0.9981 accuracy: 0.9981
+stage 30/50
+Accuracy report (30) mean_iu: 0.3216 freq_iu: 0.7107 mean_acc: 0.9982 accuracy: 0.9982
+stage 31/50
+Accuracy report (31) mean_iu: 0.3124 freq_iu: 0.7104 mean_acc: 0.9981 accuracy: 0.9981
+stage 32/50
+Accuracy report (32) mean_iu: 0.3304 freq_iu: 0.7146 mean_acc: 0.9982 accuracy: 0.9982
+stage 33/50
+Accuracy report (33) mean_iu: 0.3303 freq_iu: 0.6531 mean_acc: 0.9976 accuracy: 0.9976
+stage 34/50
+Accuracy report (34) mean_iu: 0.3488 freq_iu: 0.7345 mean_acc: 0.9983 accuracy: 0.9983
+stage 35/50
+Accuracy report (35) mean_iu: 0.3271 freq_iu: 0.6594 mean_acc: 0.9977 accuracy: 0.9977
+stage 36/50
+Accuracy report (36) mean_iu: 0.3479 freq_iu: 0.7228 mean_acc: 0.9982 accuracy: 0.9982
+stage 37/50
+Accuracy report (37) mean_iu: 0.3498 freq_iu: 0.7445 mean_acc: 0.9984 accuracy: 0.9984
+stage 38/50
+Accuracy report (38) mean_iu: 0.3616 freq_iu: 0.7549 mean_acc: 0.9984 accuracy: 0.9984
+stage 39/50
+Accuracy report (39) mean_iu: 0.3439 freq_iu: 0.6564 mean_acc: 0.9975 accuracy: 0.9975
+stage 40/50
+Accuracy report (40) mean_iu: 0.3569 freq_iu: 0.7044 mean_acc: 0.9981 accuracy: 0.9981
+stage 41/50
+Accuracy report (41) mean_iu: 0.3618 freq_iu: 0.7503 mean_acc: 0.9984 accuracy: 0.9984
+stage 42/50
+Accuracy report (42) mean_iu: 0.3738 freq_iu: 0.6971 mean_acc: 0.9980 accuracy: 0.9980
+stage 43/50
+Accuracy report (43) mean_iu: 0.3893 freq_iu: 0.7037 mean_acc: 0.9980 accuracy: 0.9980
+stage 44/50
+Accuracy report (44) mean_iu: 0.3868 freq_iu: 0.7217 mean_acc: 0.9982 accuracy: 0.9982
+stage 45/50
+Accuracy report (45) mean_iu: 0.3934 freq_iu: 0.7159 mean_acc: 0.9981 accuracy: 0.9981
+stage 46/50
+Accuracy report (46) mean_iu: 0.3924 freq_iu: 0.7472 mean_acc: 0.9983 accuracy: 0.9983
+stage 47/50
+Accuracy report (47) mean_iu: 0.4155 freq_iu: 0.7422 mean_acc: 0.9983 accuracy: 0.9983
+stage 48/50
+Accuracy report (48) mean_iu: 0.4014 freq_iu: 0.6855 mean_acc: 0.9978 accuracy: 0.9978
+stage 49/50
+Accuracy report (49) mean_iu: 0.4079 freq_iu: 0.7283 mean_acc: 0.9982 accuracy: 0.9982
+stage 50/50
+Accuracy report (50) mean_iu: 0.4278 freq_iu: 0.7621 mean_acc: 0.9985 accuracy: 0.9985
