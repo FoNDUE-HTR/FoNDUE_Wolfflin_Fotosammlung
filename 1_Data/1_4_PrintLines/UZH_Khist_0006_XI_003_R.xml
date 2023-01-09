@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0006_XI_003_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2618" HEIGHT="3945" PHYSICAL_IMG_NR="41" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2618" HEIGHT="3945">
+        
+        <TextBlock HPOS="148" VPOS="124" WIDTH="2375" HEIGHT="3709" ID="eSc_textblock_273df4c0" TAGREFS="BT284">
+          <Shape><Polygon POINTS="148 124 148 3833 2523 3833 2523 124" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_8c282614" TAGREFS="LT102" BASELINE="372 3633 974 3629" HPOS="361" VPOS="3488" WIDTH="612" HEIGHT="194">
+            <Shape><Polygon POINTS="371 3632 361 3501 496 3488 499 3488 499 3488 499 3488 503 3488 503 3488 503 3488 506 3488 506 3488 506 3491 519 3501 536 3517 588 3504 598 3501 601 3501 601 3501 605 3501 605 3501 605 3501 608 3501 608 3501 608 3501 611 3501 611 3501 611 3504 638 3524 687 3504 720 3491 720 3491 723 3491 723 3491 726 3491 726 3491 726 3491 730 3491 730 3491 730 3491 733 3491 733 3491 733 3494 746 3504 763 3524 841 3524 868 3507 884 3494 888 3494 888 3494 888 3494 891 3494 891 3494 894 3494 894 3494 894 3494 897 3494 897 3494 901 3494 920 3507 940 3520 957 3507 973 3626 973 3645 871 3675 868 3675 868 3675 868 3675 864 3675 864 3675 861 3675 763 3649 759 3649 720 3649 572 3652 532 3678 529 3678 529 3678 529 3678 526 3678 526 3678 526 3682 407 3682 404 3678 404 3678 401 3678 401 3678 397 3678 397 3678 361 3652" /></Shape>
+	    <String CONTENT="Cathédrale" HPOS="361" VPOS="3488" WIDTH="612" HEIGHT="194" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f11cd8f8" TAGREFS="LT102" BASELINE="1658 3630 2291 3629" HPOS="1641" VPOS="3488" WIDTH="648" HEIGHT="161">
+            <Shape><Polygon POINTS="1657 3629 1641 3517 1680 3491 1683 3491 1683 3491 1683 3491 1687 3491 1687 3491 1687 3491 1868 3488 1871 3488 1871 3488 1874 3488 1874 3488 1874 3488 1877 3488 1933 3527 1947 3537 2282 3540 2289 3626 2285 3645 1657 3649" /></Shape>
+	    <String CONTENT="d'Amiens" HPOS="1641" VPOS="3488" WIDTH="648" HEIGHT="161" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f42d722c" TAGREFS="LT102" BASELINE="309 3762 1038 3768" HPOS="299" VPOS="3691" WIDTH="743" HEIGHT="96">
+            <Shape><Polygon POINTS="305 3760 305 3708 519 3708 519 3708 552 3691 552 3691 552 3691 555 3691 555 3691 555 3691 559 3691 559 3691 562 3691 628 3708 661 3691 661 3691 661 3691 664 3691 664 3691 667 3691 667 3691 845 3711 845 3711 848 3711 999 3695 999 3695 1003 3695 1003 3695 1006 3695 1006 3695 1006 3695 1009 3695 1042 3714 1036 3767 1029 3787 299 3783" /></Shape>
+	    <String CONTENT="L. &amp; F. CARON" HPOS="299" VPOS="3691" WIDTH="743" HEIGHT="96" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_de7c4f5e" TAGREFS="LT102" BASELINE="1629 3768 2360 3771" HPOS="1624" VPOS="3685" WIDTH="734" HEIGHT="105">
+            <Shape><Polygon POINTS="1628 3767 1628 3691 2068 3701 2075 3698 2088 3685 2088 3685 2091 3685 2091 3685 2091 3685 2095 3685 2095 3685 2098 3685 2256 3685 2256 3685 2256 3685 2358 3705 2358 3770 2354 3780 1624 3790" /></Shape>
+	    <String CONTENT="RUE DES 3 CAILLOUX. 58" HPOS="1624" VPOS="3685" WIDTH="734" HEIGHT="105" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f9de00ff" TAGREFS="LT102" BASELINE="1176 3777 1337 3819 1500 3778" HPOS="1170" VPOS="3721" WIDTH="329" HEIGHT="82">
+            <Shape><Polygon POINTS="1174 3774 1177 3734 1486 3721 1499 3777 1496 3803 1170 3803" /></Shape>
+	    <String CONTENT="AMIENS" HPOS="1170" VPOS="3721" WIDTH="329" HEIGHT="82" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

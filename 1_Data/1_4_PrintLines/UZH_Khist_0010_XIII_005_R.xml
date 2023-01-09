@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_XIII_005_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5380" HEIGHT="6956" PHYSICAL_IMG_NR="281" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5380" HEIGHT="6956">
+        
+        <TextBlock HPOS="290" VPOS="427" WIDTH="4756" HEIGHT="5532" ID="eSc_textblock_9fc9c15c" TAGREFS="BT284">
+          <Shape><Polygon POINTS="290 427 290 5959 5011 5959 5046 436" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_d21b6f41" TAGREFS="LT102" BASELINE="846 5582 4527 5634" HPOS="834" VPOS="5477" WIDTH="3687" HEIGHT="209">
+            <Shape><Polygon POINTS="840 5576 840 5477 4516 5535 4521 5628 4516 5663 4232 5686 4226 5686 4220 5686 4127 5657 4098 5651 4069 5657 4006 5680 4000 5680 3994 5680 3988 5680 3982 5680 3959 5657 3948 5651 3930 5657 3832 5680 3826 5680 3820 5680 3704 5651 3640 5640 3542 5651 3339 5674 3333 5674 3188 5645 3124 5634 3072 5645 2939 5669 2933 5669 2927 5669 2921 5669 2881 5640 2858 5628 2446 5628 2434 5634 2382 5657 2376 5657 2371 5657 2365 5657 2301 5628 2278 5622 2232 5628 2075 5657 2069 5657 2063 5657 2005 5628 1988 5616 1901 5622 1663 5651 1658 5651 1426 5616 1373 5611 1350 5616 1258 5645 1252 5645 1246 5645 834 5605" /></Shape>
+	    <String CONTENT="P.E 2.A -N°. 7223. PERUGIA - PINACOTECA VANNUCCI. L'ANGELO GABRIELE. (BEATO ANGELICO)" HPOS="834" VPOS="5477" WIDTH="3687" HEIGHT="209" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2895" VPOS="5980" WIDTH="1638" HEIGHT="443" ID="eSc_textblock_3f9f826f" TAGREFS="BT297">
+          <Shape><Polygon POINTS="2895 5980 2895 6423 4533 6423 4533 5980" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="4479" VPOS="6657" WIDTH="654" HEIGHT="303" ID="eSc_textblock_346b60c8" TAGREFS="BT285">
+          <Shape><Polygon POINTS="4479 6657 4479 6960 5133 6960 5133 6657" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

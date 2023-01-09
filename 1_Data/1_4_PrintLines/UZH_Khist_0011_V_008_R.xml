@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0011_V_008_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6065" HEIGHT="7138" PHYSICAL_IMG_NR="339" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6065" HEIGHT="7138">
+        
+        <TextBlock HPOS="699" VPOS="590" WIDTH="4604" HEIGHT="6082" ID="eSc_textblock_8871b2c1" TAGREFS="BT284">
+          <Shape><Polygon POINTS="5303 594 5303 6323 5302 6649 746 6672 714 832 699 623 861 590" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_96159b85" TAGREFS="LT102" BASELINE="1113 6590 4957 6555" HPOS="1095" VPOS="6471" WIDTH="3862" HEIGHT="149">
+            <Shape><Polygon POINTS="1113 6590 1095 6495 4940 6471 4957 6555 4957 6584 1113 6620" /></Shape>
+	    <String CONTENT="(Ed. ne Alinari) P.e 2.a N.° 4284. FIRENZE – R. Museo di S. Marco. Vari santi, dettaglio della Crocifissione. (Beato Angelico.)" HPOS="1095" VPOS="6471" WIDTH="3862" HEIGHT="149" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5421" VPOS="6923" WIDTH="577" HEIGHT="212" ID="eSc_textblock_93f11f2f" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5421 6923 5421 7135 5998 7135 5998 6923" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

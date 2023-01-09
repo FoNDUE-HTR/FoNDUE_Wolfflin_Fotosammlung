@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_3_III_006_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4521" HEIGHT="6013" PHYSICAL_IMG_NR="447" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="4521" HEIGHT="6013">
+        
+        <TextBlock HPOS="0" VPOS="18" WIDTH="4481" HEIGHT="5994" ID="eSc_textblock_1fdc550e" TAGREFS="BT284">
+          <Shape><Polygon POINTS="36 18 0 6012 4481 5984 4481 21" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_19b11e64" TAGREFS="LT102" BASELINE="440 5928 4063 5932" HPOS="436" VPOS="5837" WIDTH="3623" HEIGHT="120">
+            <Shape><Polygon POINTS="436 5927 436 5957 4054 5947 4059 5927 4054 5847 436 5837 436 5927" /></Shape>
+	    <String CONTENT="(Ed.ne Alinari) P.e 2.a N.° 48. ANESNIA - Chiesa di S. Gounio. La Moadonna in aito e Santi. (Aoraio de Bacolico.)" HPOS="436" VPOS="5837" WIDTH="3623" HEIGHT="120" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4485" VPOS="5712" WIDTH="30" HEIGHT="75" ID="eSc_textblock_baa92f1e" TAGREFS="BT284">
+          <Shape><Polygon POINTS="4485 5767 4485 5712 4515 5712 4515 5787" /></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_XIV_005_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7886" HEIGHT="5803" PHYSICAL_IMG_NR="286" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="7886" HEIGHT="5803">
+        
+        <TextBlock HPOS="928" VPOS="483" WIDTH="5971" HEIGHT="4618" ID="eSc_textblock_647239d6" TAGREFS="BT284">
+          <Shape><Polygon POINTS="6899 560 6879 5101 948 5082 928 1663 967 580 1045 483" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_857c7c96" TAGREFS="LT102" BASELINE="3275 967 4702 976" HPOS="3270" VPOS="855" WIDTH="1601" HEIGHT="150">
+            <Shape><Polygon POINTS="3275 967 3275 855 3410 880 3522 860 3551 855 3555 855 3560 855 3570 860 3618 884 3715 865 3759 855 3763 855 3855 865 4010 889 4542 889 4557 880 4596 860 4600 860 4605 860 4871 889 4871 967 4867 1005 3270 1001" /></Shape>
+	    <String CONTENT="RIPRODUZIONE INTERDETTA" HPOS="3270" VPOS="855" WIDTH="1601" HEIGHT="150" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_df045172" TAGREFS="LT102" BASELINE="2157 4545 5607 4574" HPOS="2152" VPOS="4463" WIDTH="3455" HEIGHT="155">
+            <Shape><Polygon POINTS="2157 4545 2157 4463 5607 4497 5607 4574 5597 4618 2152 4598" /></Shape>
+	    <String CONTENT="(Ed.ne Alinari) P.e 2.a N.° 7690 Roma - Pinacoteca Vaticana. Leggenda di San Niccolò di Bari. (Beato Angelico.)" HPOS="2152" VPOS="4463" WIDTH="3455" HEIGHT="155" />
+          </TextLine>
+
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="101" VPOS="5112" WIDTH="287" HEIGHT="591" ID="eSc_textblock_6a70729f" TAGREFS="BT285">
+          <Shape><Polygon POINTS="101 5112 101 5703 388 5703 388 5112" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

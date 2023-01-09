@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_IV_006_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6267" HEIGHT="7676" PHYSICAL_IMG_NR="93" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6267" HEIGHT="7676">
+        
+        <TextBlock HPOS="1365" VPOS="1592" WIDTH="3520" HEIGHT="4630" ID="eSc_textblock_1fed204c" TAGREFS="BT284">
+          <Shape><Polygon POINTS="1365 1615 1423 6222 4885 6222 4796 1592" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_c1d4bc56" TAGREFS="LT102" BASELINE="1448 6168 1810 6161" HPOS="1433" VPOS="6057" WIDTH="372" HEIGHT="154">
+            <Shape><Polygon POINTS="1446 6166 1433 6057 1792 6070 1805 6159 1798 6191 1446 6211" /></Shape>
+	    <String CONTENT="Le bouquet" HPOS="1433" VPOS="6057" WIDTH="372" HEIGHT="154" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2f9c49c0" TAGREFS="LT102" BASELINE="2912 6149 3348 6146" HPOS="2893" VPOS="6044" WIDTH="454" HEIGHT="154">
+            <Shape><Polygon POINTS="2906 6147 2893 6044 3335 6044 3347 6140 3341 6172 2906 6198" /></Shape>
+	    <String CONTENT="Blumenstrauß" HPOS="2893" VPOS="6044" WIDTH="454" HEIGHT="154" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_882d38cc" TAGREFS="LT102" BASELINE="4481 6131 4877 6118" HPOS="4461" VPOS="6019" WIDTH="410" HEIGHT="256">
+            <Shape><Polygon POINTS="4474 6128 4461 6019 4858 6025 4871 6115 4871 6223 4641 6275 4641 6275 4634 6275 4634 6275 4468 6255" /></Shape>
+	    <String CONTENT="Mazzo di fior" HPOS="4461" VPOS="6019" WIDTH="410" HEIGHT="256" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1411" VPOS="6473" WIDTH="2935" HEIGHT="237" ID="eSc_textblock_a060ed30" TAGREFS="BT297">
+          <Shape><Polygon POINTS="1422 6507 2867 6473 4269 6473 4346 6569 4320 6646 1411 6710" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="5529" VPOS="7398" WIDTH="635" HEIGHT="220" ID="eSc_textblock_fc344978" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5588 7398 6113 7445 6164 7541 6087 7618 5529 7614" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

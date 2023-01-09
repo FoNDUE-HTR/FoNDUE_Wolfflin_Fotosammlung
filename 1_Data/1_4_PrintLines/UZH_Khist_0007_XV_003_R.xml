@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_XV_003_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6246" HEIGHT="7674" PHYSICAL_IMG_NR="134" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6246" HEIGHT="7674">
+        
+        <TextBlock HPOS="1419" VPOS="7111" WIDTH="2772" HEIGHT="534" ID="eSc_textblock_f5ae2142" TAGREFS="BT297">
+          <Shape><Polygon POINTS="3481 7462 3097 7645 1466 7645 1419 7130 2969 7111 3167 7136 3237 7234 4114 7264 4191 7437" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="4524" VPOS="7464" WIDTH="522" HEIGHT="180" ID="eSc_textblock_d0e826f4" TAGREFS="BT285">
+          <Shape><Polygon POINTS="4530 7616 4524 7464 4946 7476 5046 7644" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="5198" VPOS="7215" WIDTH="1016" HEIGHT="458" ID="eSc_textblock_9fc97689" TAGREFS="BT297">
+          <Shape><Polygon POINTS="5262 7673 5198 7215 6034 7290 6214 7616" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_394cf955" TAGREFS="LT105" BASELINE="5286 7354 6034 7367" HPOS="5273" VPOS="7200" WIDTH="761" HEIGHT="192">
+            <Shape><Polygon POINTS="5286 7354 5286 7251 5510 7251 5516 7251 5663 7200 5670 7200 5670 7200 5670 7200 5676 7200 5676 7200 6034 7264 6034 7367 6022 7392 5273 7386" /></Shape>
+	    <String CONTENT="EuropKunst 1400" HPOS="5273" VPOS="7200" WIDTH="761" HEIGHT="192" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a9b98085" TAGREFS="LT105" BASELINE="5305 7494 5880 7503" HPOS="5286" VPOS="7392" WIDTH="588" HEIGHT="147">
+            <Shape><Polygon POINTS="5298 7488 5298 7392 5868 7405 5874 7501 5862 7539 5286 7526" /></Shape>
+	    <String CONTENT="Wien 1962 Kat." HPOS="5286" VPOS="7392" WIDTH="588" HEIGHT="147" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d92d2c97" TAGREFS="LT105" BASELINE="5311 7610 6169 7616" HPOS="5305" VPOS="7501" WIDTH="864" HEIGHT="147">
+            <Shape><Polygon POINTS="5311 7610 5311 7501 6169 7507 6169 7616 6162 7642 5305 7648" /></Shape>
+	    <String CONTENT="Foto : Meyer KG Wien" HPOS="5305" VPOS="7501" WIDTH="864" HEIGHT="147" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1585" VPOS="905" WIDTH="3215" HEIGHT="4375" ID="eSc_textblock_a2ab176f" TAGREFS="BT284">
+          <Shape><Polygon POINTS="1615 905 1585 5280 4800 5273 4800 905" /></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

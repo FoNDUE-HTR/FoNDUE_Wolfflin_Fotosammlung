@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0011_II_004_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4864" HEIGHT="6238" PHYSICAL_IMG_NR="309" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="4864" HEIGHT="6238">
+        
+        <TextBlock HPOS="0" VPOS="9" WIDTH="4846" HEIGHT="6227" ID="eSc_textblock_173f0494" TAGREFS="BT284">
+          <Shape><Polygon POINTS="4846 86 4846 6236 0 6236 0 9" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_4b4bc35b" TAGREFS="LT102" BASELINE="364 5931 4723 5957" HPOS="358" VPOS="5837" WIDTH="4365" HEIGHT="146">
+            <Shape><Polygon POINTS="364 5931 364 5837 4718 5879 4723 5957 4713 5983 358 5957" /></Shape>
+	    <String CONTENT="8395 – FIRENZE – La natività du Gesù - Beato Angelico - Museo di S. Marco – Anderson, Roma" HPOS="358" VPOS="5837" WIDTH="4365" HEIGHT="146" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

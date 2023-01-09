@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_XVII_003_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7771" HEIGHT="5930" PHYSICAL_IMG_NR="297" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="7771" HEIGHT="5930">
+        
+        <TextBlock HPOS="901" VPOS="490" WIDTH="5973" HEIGHT="4893" ID="eSc_textblock_cea9b3ae" TAGREFS="BT284">
+          <Shape><Polygon POINTS="901 490 901 5383 6874 5383 6874 490" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_2be807b6" TAGREFS="LT102" BASELINE="1740 5149 6025 5178" HPOS="1735" VPOS="5060" WIDTH="4290" HEIGHT="173">
+            <Shape><Polygon POINTS="1740 5149 1740 5060 6025 5089 6025 5178 6025 5203 5922 5233 5917 5233 5917 5233 5912 5233 5912 5233 5679 5208 5358 5233 5353 5233 5353 5233 5353 5233 5348 5233 5348 5233 5289 5208 4982 5228 4977 5228 4977 5228 4671 5203 4557 5198 4434 5203 4167 5223 4162 5223 3618 5203 3084 5188 2827 5188 2797 5203 2788 5213 2783 5213 2783 5213 2783 5213 2778 5213 2778 5213 2773 5213 2773 5213 2699 5203 2550 5188 2521 5203 2511 5213 2506 5213 2506 5213 2501 5213 2501 5213 2501 5213 2496 5213 2496 5213 2437 5203 2318 5188 1735 5203" /></Shape>
+	    <String CONTENT="(Ed.ni Brogi) 11982. ROMA - Galleria Corsini -Il Giudizio universale, l'Ascensione e la Pentecoste; Beato Angelico." HPOS="1735" VPOS="5060" WIDTH="4290" HEIGHT="173" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="89" VPOS="5099" WIDTH="230" HEIGHT="600" ID="eSc_textblock_04c7735a" TAGREFS="BT285">
+          <Shape><Polygon POINTS="310 5131 319 5699 89 5699 89 5099" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

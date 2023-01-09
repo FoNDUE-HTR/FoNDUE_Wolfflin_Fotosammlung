@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_XIII_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5114" HEIGHT="6743" PHYSICAL_IMG_NR="117" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5114" HEIGHT="6743">
+        
+        <TextBlock HPOS="49" VPOS="44" WIDTH="4980" HEIGHT="6594" ID="eSc_textblock_a2f1a267" TAGREFS="BT284">
+          <Shape><Polygon POINTS="49 61 66 6638 5029 6638 5029 44" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_c1a49338" TAGREFS="LT102" BASELINE="258 6563 3375 6574 4869 6586" HPOS="252" VPOS="6411" WIDTH="4614" HEIGHT="303">
+            <Shape><Polygon POINTS="252 6557 252 6467 505 6467 522 6467 668 6428 674 6428 674 6428 679 6428 679 6428 679 6428 685 6428 685 6428 685 6428 691 6428 719 6450 803 6411 803 6411 809 6411 809 6411 814 6411 1022 6411 1022 6411 1022 6411 1028 6411 1028 6411 1168 6467 1168 6467 1168 6467 1478 6422 1478 6422 1483 6422 1483 6422 1483 6422 1489 6422 1635 6473 1646 6473 1708 6473 2641 6417 2646 6417 3635 6422 3635 6422 3635 6422 3641 6422 3641 6422 3641 6422 3759 6484 3765 6490 4861 6490 4866 6585 4855 6647 3883 6624 3798 6658 3692 6709 3692 6709 3686 6709 3686 6709 3686 6714 3040 6714 3034 6709 3034 6709 3029 6709 3029 6709 3023 6709 3023 6709 2972 6669 2922 6630 2028 6613 1905 6681 1860 6703 1860 6703 1860 6703 1854 6703 1854 6703 1854 6703 1848 6703 1382 6686 1017 6669 252 6692" /></Shape>
+	    <String CONTENT="AMSTERDAM, RIJKSMUSEUM No. 21. UBEKANNTER MEISTER DES XVI. JAHRH. (MEISTER D. TODES?), PORTRÄT EINES JUNGEN MANNES. V.-A. BRUCKMANN, MÜNCHEN 1904." HPOS="252" VPOS="6411" WIDTH="4614" HEIGHT="303" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

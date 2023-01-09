@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0009_XIII_005_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6238" HEIGHT="7764" PHYSICAL_IMG_NR="218" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6238" HEIGHT="7764">
+        
+        <TextBlock HPOS="702" VPOS="840" WIDTH="4721" HEIGHT="6060" ID="eSc_textblock_a168c542" TAGREFS="BT284">
+          <Shape><Polygon POINTS="775 840 702 6860 5423 6900 5423 840" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_6eb15138" TAGREFS="LT102" BASELINE="1218 6805 4918 6831" HPOS="1203" VPOS="6637" WIDTH="3714" HEIGHT="285">
+            <Shape><Polygon POINTS="1216 6799 1230 6708 1447 6709 1693 6721 1799 6719 1947 6698 2037 6703 2089 6705 2185 6682 2269 6697 2335 6713 2454 6710 2547 6710 2636 6715 2776 6715 2873 6705 2939 6718 3013 6698 3126 6705 3217 6710 3556 6698 3727 6715 3873 6689 3964 6710 4038 6690 4124 6704 4177 6684 4263 6657 4297 6637 4323 6684 4369 6676 4469 6682 4588 6683 4680 6678 4774 6691 4911 6696 4917 6825 4911 6897 4031 6922 4024 6922 4018 6922 4011 6922 4011 6916 3979 6890 3966 6890 3701 6916 3694 6916 3507 6884 3487 6884 3481 6884 3416 6916 3410 6916 3403 6916 3203 6884 3106 6916 3099 6916 3093 6916 2879 6877 2853 6877 2763 6877 1889 6903 1883 6903 1876 6903 1798 6871 1572 6903 1565 6903 1203 6858" /></Shape>
+	    <String CONTENT="6530. CONTORNI DI SALERNO - ( Badia della Trinità della Cava) Madonna col figlio; Andrea da Salerno." HPOS="1203" VPOS="6637" WIDTH="3714" HEIGHT="285" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5624" VPOS="7560" WIDTH="538" HEIGHT="170" ID="eSc_textblock_3c7b14ec" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5624 7565 5624 7730 6158 7730 6162 7560" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

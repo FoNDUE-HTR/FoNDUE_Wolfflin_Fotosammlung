@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_X_006_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7178" HEIGHT="6034" PHYSICAL_IMG_NR="270" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="7178" HEIGHT="6034">
+        
+        <TextBlock HPOS="570" VPOS="551" WIDTH="6007" HEIGHT="4827" ID="eSc_textblock_400a5ce2" TAGREFS="BT284">
+          <Shape><Polygon POINTS="623 551 570 5378 6577 5378 6577 559" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_b0abbf40" TAGREFS="LT105" BASELINE="3063 1027 4168 1043" HPOS="3048" VPOS="890" WIDTH="1116" HEIGHT="165">
+            <Shape><Polygon POINTS="3058 1025 3053 915 3284 890 3284 890 3289 890 4159 930 4164 1040 4154 1055 3048 1050" /></Shape>
+	    <String CONTENT="Galleria Uffizi - Firenze" HPOS="3048" VPOS="890" WIDTH="1116" HEIGHT="165" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1cbafdab" TAGREFS="LT102" BASELINE="884 5063 1682 5063" HPOS="880" VPOS="4952" WIDTH="805" HEIGHT="186">
+            <Shape><Polygon POINTS="880 5058 880 4952 1680 4973 1680 5058 1685 5098 1539 5138 1534 5138 1534 5138 1529 5138 1529 5138 1529 5138 1524 5138 1524 5138 1519 5138 1473 5108 1468 5108 1458 5113 1383 5138 1383 5138 1378 5138 1378 5138 1373 5138 1373 5138 1242 5123 1096 5103 880 5138" /></Shape>
+	    <String CONTENT="Riproduzione interdetta" HPOS="880" VPOS="4952" WIDTH="805" HEIGHT="186" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_177538cf" TAGREFS="LT102" BASELINE="2595 5063 4744 5063" HPOS="2590" VPOS="4962" WIDTH="2153" HEIGHT="136">
+            <Shape><Polygon POINTS="2590 5058 2590 4962 4743 4962 4743 5058 4743 5093 2590 5098" /></Shape>
+	    <String CONTENT="2614. Predicazione di S. Pietro - Beato Angelico, dip." HPOS="2590" VPOS="4962" WIDTH="2153" HEIGHT="136" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9bf2faf5" TAGREFS="LT102" BASELINE="5611 5055 6301 5063" HPOS="5608" VPOS="4962" WIDTH="689" HEIGHT="166">
+            <Shape><Polygon POINTS="5608 5053 5608 4962 6292 4967 6297 5058 6292 5088 5875 5128 5870 5128 5870 5128 5870 5128 5799 5113 5694 5093 5608 5123" /></Shape>
+	    <String CONTENT="G. Brogi, fotog. edit." HPOS="5608" VPOS="4962" WIDTH="689" HEIGHT="166" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="33" VPOS="5378" WIDTH="261" HEIGHT="621" ID="eSc_textblock_4f309500" TAGREFS="BT285">
+          <Shape><Polygon POINTS="64 5393 33 5969 240 5999 294 5378" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="1475" VPOS="5516" WIDTH="3775" HEIGHT="284" ID="eSc_textblock_6203174d" TAGREFS="BT297">
+          <Shape><Polygon POINTS="1475 5516 1475 5800 5250 5800 5250 5516" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

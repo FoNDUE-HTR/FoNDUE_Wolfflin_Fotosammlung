@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_3_VII_008_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4981" HEIGHT="3874" PHYSICAL_IMG_NR="469" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="4981" HEIGHT="3874">
+        
+        <TextBlock HPOS="38" VPOS="25" WIDTH="4939" HEIGHT="3845" ID="eSc_textblock_0dec81e4" TAGREFS="BT284">
+          <Shape><Polygon POINTS="4968 77 4977 1146 4955 3586 4919 2372 4903 3832 4855 3793 4851 3870 51 3870 38 64 90 25 4929 38 4968 77" /></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4893" VPOS="3861" WIDTH="10" HEIGHT="9" ID="eSc_textblock_309ac466" TAGREFS="BT284">
+          <Shape><Polygon POINTS="4903 3870 4893 3870 4893 3861 4903 3861 4903 3870" /></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

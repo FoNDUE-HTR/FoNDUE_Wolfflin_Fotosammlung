@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_XIII_003_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5061" HEIGHT="7191" PHYSICAL_IMG_NR="119" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5061" HEIGHT="7191">
+        
+        <TextBlock HPOS="44" VPOS="53" WIDTH="5004" HEIGHT="7136" ID="eSc_textblock_b98b6bf1" TAGREFS="BT284">
+          <Shape><Polygon POINTS="44 53 44 7189 5048 7189 5048 53" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_69ffeb8f" TAGREFS="LT102" BASELINE="269 6957 4656 6980" HPOS="263" VPOS="6777" WIDTH="4390" HEIGHT="300">
+            <Shape><Polygon POINTS="263 6951 263 6777 1708 6789 1714 6789 1882 6855 2476 6861 3915 6861 3999 6813 4005 6813 4011 6813 4647 6801 4653 6975 4647 7077 3567 7077 3561 7071 3555 7071 3525 7065 3435 7041 3124 7059 3004 7065 2998 7065 2992 7065 2986 7065 2980 7059 2938 7023 2818 7059 2782 7065 2776 7065 2770 7065 2614 7053 2146 7017 263 7029" /></Shape>
+	    <String CONTENT="AMSTERDAM, RIJKSMUSEUM No. 59. HOLLÄNDISCHE SCHULE, ZWEI FLÜGEL MIT DONATOREN. V.-A. BRUCKMANN, MÜNCHEN 1904." HPOS="263" VPOS="6777" WIDTH="4390" HEIGHT="300" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

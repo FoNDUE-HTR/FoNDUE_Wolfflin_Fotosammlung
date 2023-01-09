@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0009_XIII_006_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6237" HEIGHT="7780" PHYSICAL_IMG_NR="219" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6237" HEIGHT="7780">
+        
+        <TextBlock HPOS="668" VPOS="738" WIDTH="4777" HEIGHT="6127" ID="eSc_textblock_26c59f6f" TAGREFS="BT284">
+          <Shape><Polygon POINTS="5445 738 5404 6701 5400 6865 1912 6736 668 6785 711 767" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_f419754c" TAGREFS="LT102" BASELINE="1216 6728 4911 6757" HPOS="1199" VPOS="6509" WIDTH="3708" HEIGHT="356">
+            <Shape><Polygon POINTS="1212 6723 1205 6554 1860 6509 1867 6509 1867 6509 1867 6509 1873 6509 1873 6509 1964 6554 1983 6561 2534 6561 2541 6554 2580 6522 2580 6522 2586 6522 2586 6522 2593 6522 2593 6522 2593 6522 2599 6522 2599 6522 2606 6522 2729 6554 2774 6567 2787 6554 2820 6535 2826 6535 2826 6535 2826 6535 2833 6535 2833 6535 2833 6535 2839 6535 2839 6535 3001 6554 3086 6567 3183 6561 3442 6528 3442 6528 3449 6528 3449 6528 3449 6528 3455 6528 3455 6528 3526 6561 3559 6580 3740 6580 3773 6561 3831 6528 3831 6528 3831 6528 3838 6528 3838 6528 3844 6528 4181 6528 4181 6528 4181 6528 4330 6561 4415 6580 4901 6567 4907 6755 4894 6865 4648 6826 4505 6859 4486 6865 4480 6865 4480 6865 4473 6865 4473 6865 4473 6865 4428 6859 4259 6826 4065 6852 4045 6852 4045 6852 4039 6852 4039 6852 4032 6852 4032 6852 4032 6852 4026 6852 4026 6852 4026 6852 4026 6846 3993 6820 3689 6846 3494 6859 3488 6859 3488 6859 3488 6859 3481 6859 3481 6859 3481 6859 3442 6839 3390 6813 3047 6833 2697 6852 2690 6852 2534 6846 2534 6846 2534 6846 2528 6846 2528 6846 2528 6846 2522 6846 2522 6846 2522 6839 2502 6820 2483 6807 2398 6820 2236 6846 2236 6846 2230 6846 2230 6846 2230 6846 2094 6813 2048 6807 2009 6813 1860 6839 1860 6839 1854 6839 1854 6839 1854 6839 1847 6839 1847 6839 1776 6807 1756 6801 1724 6807 1607 6833 1607 6833 1607 6833 1601 6833 1199 6794" /></Shape>
+	    <String CONTENT="6531. CONTORNI DI SALERNO - (Badia della Trinità della Cava) Battesimo di Gesù ; Andrea da Salerno." HPOS="1199" VPOS="6509" WIDTH="3708" HEIGHT="356" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5595" VPOS="7526" WIDTH="573" HEIGHT="213" ID="eSc_textblock_b67948da" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5595 7526 5595 7739 6168 7739 6168 7526" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

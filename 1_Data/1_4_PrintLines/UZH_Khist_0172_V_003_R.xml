@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0172_V_003_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7359" HEIGHT="5435" PHYSICAL_IMG_NR="390" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="7359" HEIGHT="5435">
+        
+        <TextBlock HPOS="779" VPOS="4546" WIDTH="5955" HEIGHT="583" ID="eSc_textblock_be954f81" TAGREFS="BT297">
+          <Shape><Polygon POINTS="779 4546 6723 4546 6734 4821 4885 4821 4885 5129 2665 5098 2665 4904 795 4904" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_94b8041a" TAGREFS="LT105" BASELINE="1042 4773 2474 4787" HPOS="1037" VPOS="4651" WIDTH="1441" HEIGHT="177">
+            <Shape><Polygon POINTS="1042 4773 1042 4651 1241 4683 1350 4655 1368 4655 1368 4655 1368 4655 1373 4655 1373 4655 1373 4655 1377 4655 1391 4660 1472 4683 1495 4660 1495 4660 1495 4660 1499 4660 1499 4660 1499 4660 1504 4660 1504 4660 1504 4660 1508 4660 1508 4660 1531 4660 1685 4687 1762 4669 1794 4660 1798 4660 1798 4660 1803 4660 1803 4660 1894 4674 2039 4696 2383 4696 2397 4687 2419 4665 2419 4665 2424 4665 2424 4665 2424 4665 2428 4665 2428 4665 2433 4665 2433 4665 2433 4665 2437 4665 2437 4665 2437 4665 2478 4687 2474 4787 2469 4828 1531 4828 1527 4823 1527 4823 1522 4823 1522 4823 1522 4823 1518 4823 1518 4823 1481 4800 1037 4819" /></Shape>
+	    <String CONTENT="Hans Holbein d. J. (1497 — 1543)." HPOS="1037" VPOS="4651" WIDTH="1441" HEIGHT="177" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c8c0c301" TAGREFS="LT105" BASELINE="5229 4742 6588 4742" HPOS="5229" VPOS="4619" WIDTH="1359" HEIGHT="154">
+            <Shape><Polygon POINTS="5229 4742 5229 4633 5469 4665 5550 4637 5555 4637 5555 4637 5555 4637 5555 4637 5560 4637 5560 4637 5560 4637 5560 4637 5564 4637 5646 4665 5723 4642 5727 4642 5727 4642 5727 4642 5732 4642 5732 4642 5736 4642 5736 4642 5736 4642 5741 4642 5782 4669 6035 4669 6072 4642 6103 4619 6108 4619 6108 4619 6108 4619 6112 4619 6112 4619 6112 4619 6117 4619 6117 4619 6117 4619 6121 4619 6194 4642 6244 4660 6280 4646 6339 4619 6339 4619 6343 4619 6343 4619 6343 4619 6348 4619 6348 4619 6588 4651 6588 4742 6588 4760 5229 4773" /></Shape>
+	    <String CONTENT="Hirth : Renaissance. N°. 187." HPOS="5229" VPOS="4619" WIDTH="1359" HEIGHT="154" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f8b2c734" TAGREFS="LT105" BASELINE="2854 5054 4762 5031" HPOS="2841" VPOS="4963" WIDTH="1921" HEIGHT="123">
+            <Shape><Polygon POINTS="2854 5054 2841 4968 4748 4963 4762 5031 4762 5050 2854 5086" /></Shape>
+	    <String CONTENT="Verlag von G. Hirth in Leipzig — Druck von Knorr &amp; Hirth in München." HPOS="2841" VPOS="4963" WIDTH="1921" HEIGHT="123" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2414" VPOS="5060" WIDTH="4273" HEIGHT="378" ID="eSc_textblock_6c715f3b" TAGREFS="BT297">
+          <Shape><Polygon POINTS="6687 5060 6687 5438 2414 5426 2414 5060" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="982" VPOS="476" WIDTH="5657" HEIGHT="4166" ID="eSc_textblock_0840c934" TAGREFS="BT284">
+          <Shape><Polygon POINTS="1053 476 982 4642 6639 4582 6639 488" /></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

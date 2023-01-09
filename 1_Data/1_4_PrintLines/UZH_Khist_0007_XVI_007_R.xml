@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_XVI_007_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5902" HEIGHT="7888" PHYSICAL_IMG_NR="142" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5902" HEIGHT="7888">
+        
+        <TextBlock HPOS="516" VPOS="666" WIDTH="4723" HEIGHT="6137" ID="eSc_textblock_68174322" TAGREFS="BT284">
+          <Shape><Polygon POINTS="651 666 516 6722 5239 6803 5239 693" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_cc392fe1" TAGREFS="LT102" BASELINE="628 6675 1379 6684" HPOS="618" VPOS="6553" WIDTH="757" HEIGHT="217">
+            <Shape><Polygon POINTS="625 6671 625 6553 1375 6560 1375 6678 1368 6770 618 6770" /></Shape>
+	    <String CONTENT="Anagni N. 5794" HPOS="618" VPOS="6553" WIDTH="757" HEIGHT="217" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8fa60ec5" TAGREFS="LT102" BASELINE="2229 6689 3474 6711" HPOS="2210" VPOS="6553" WIDTH="1257" HEIGHT="256">
+            <Shape><Polygon POINTS="2223 6685 2223 6553 3467 6593 3467 6704 3454 6809 2210 6783" /></Shape>
+	    <String CONTENT="Candelabro della Cattedrale" HPOS="2210" VPOS="6553" WIDTH="1257" HEIGHT="256" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5a2b4e89" TAGREFS="LT102" BASELINE="4622 6733 5154 6743" HPOS="4605" VPOS="6625" WIDTH="546" HEIGHT="237">
+            <Shape><Polygon POINTS="4618 6731 4618 6625 5151 6632 5151 6737 5138 6809 4822 6809 4757 6849 4737 6862 4730 6862 4730 6862 4730 6862 4724 6862 4724 6862 4717 6862 4605 6855" /></Shape>
+	    <String CONTENT="R. Moscioni" HPOS="4605" VPOS="6625" WIDTH="546" HEIGHT="237" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5121" VPOS="7514" WIDTH="527" HEIGHT="228" ID="eSc_textblock_f3174267" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5612 7546 5648 7707 5122 7742 5121 7514" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

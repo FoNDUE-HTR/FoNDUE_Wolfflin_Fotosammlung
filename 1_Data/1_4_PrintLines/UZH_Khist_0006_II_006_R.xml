@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0006_II_006_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6238" HEIGHT="7770" PHYSICAL_IMG_NR="7" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6238" HEIGHT="7770">
+        
+        <TextBlock HPOS="831" VPOS="776" WIDTH="4466" HEIGHT="5977" ID="eSc_textblock_96bc9d7d" TAGREFS="BT284">
+          <Shape><Polygon POINTS="831 776 831 6753 5297 6753 5297 776" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_9b652db4" TAGREFS="LT102" BASELINE="1535 6623 4612 6610" HPOS="1522" VPOS="6513" WIDTH="3090" HEIGHT="169">
+            <Shape><Polygon POINTS="1535 6623 1522 6513 4599 6513 4612 6610 4612 6682 1535 6682" /></Shape>
+	    <String CONTENT="(Ed.ne Alinari) N.° 7453. ROMA - Pinacoteca Vaticana. S. Lorenzo e S. Benedetto. (Cola dalla Matrice)." HPOS="1522" VPOS="6513" WIDTH="3090" HEIGHT="169" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5656" VPOS="7532" WIDTH="482" HEIGHT="223" ID="eSc_textblock_e6436247" TAGREFS="BT285">
+          <Shape><Polygon POINTS="6102 7542 6138 7719 5656 7755 5676 7532" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

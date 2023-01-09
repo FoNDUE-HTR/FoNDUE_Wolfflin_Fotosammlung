@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_VI_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7639" HEIGHT="5741" PHYSICAL_IMG_NR="254" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="7639" HEIGHT="5741">
+        
+        <TextBlock HPOS="835" VPOS="448" WIDTH="6059" HEIGHT="4870" ID="eSc_textblock_d348927c" TAGREFS="BT284">
+          <Shape><Polygon POINTS="835 448 835 5318 6894 5266 6894 448" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_ae19050e" TAGREFS="LT102" BASELINE="1875 5256 5880 5215" HPOS="1857" VPOS="5119" WIDTH="4020" HEIGHT="143">
+            <Shape><Polygon POINTS="1871 5253 1857 5157 5863 5119 5877 5214 5877 5238 1871 5262" /></Shape>
+	    <String CONTENT="(Ed.ne Alinari) P.e 2.a N.° 9292. CORTONA – Toscana. Chiesa di S. Domenico. La Madonna col Figlio e Santi. (Beato Angelico.)" HPOS="1857" VPOS="5119" WIDTH="4020" HEIGHT="143" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="42" VPOS="5144" WIDTH="254" HEIGHT="568" ID="eSc_textblock_03ea6a2b" TAGREFS="BT297">
+          <Shape><Polygon POINTS="42 5144 42 5712 296 5712 296 5144" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="2894" VPOS="5307" WIDTH="1540" HEIGHT="268" ID="eSc_textblock_8b2cb84f" TAGREFS="BT297">
+          <Shape><Polygon POINTS="2894 5336 2929 5575 4434 5575 4428 5307" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

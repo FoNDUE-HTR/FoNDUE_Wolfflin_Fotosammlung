@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_XVII_006_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6534" HEIGHT="7659" PHYSICAL_IMG_NR="149" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6534" HEIGHT="7659">
+        
+        <TextBlock HPOS="816" VPOS="576" WIDTH="4910" HEIGHT="6170" ID="eSc_textblock_83d4293b" TAGREFS="BT284">
+          <Shape><Polygon POINTS="816 588 875 6746 5691 6746 5726 576" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_d38c9333" TAGREFS="LT102" BASELINE="2237 6716 2449 6704 2601 6716 4114 6722 4253 6719 4679 6726" HPOS="2222" VPOS="6580" WIDTH="2453" HEIGHT="217">
+            <Shape><Polygon POINTS="2235 6714 2229 6605 3449 6618 3525 6612 3832 6580 3838 6580 3845 6580 3915 6618 3921 6618 3934 6618 4023 6586 4030 6586 4036 6586 4247 6618 4260 6618 4266 6618 4356 6580 4362 6580 4368 6580 4375 6580 4381 6580 4381 6586 4419 6618 4419 6625 4668 6625 4675 6720 4662 6797 2222 6733" /></Shape>
+	    <String CONTENT="5781 Anagni - Cattedrale - Monumento Gaetani" HPOS="2222" VPOS="6580" WIDTH="2453" HEIGHT="217" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4102" VPOS="6815" WIDTH="768" HEIGHT="305" ID="eSc_textblock_9963383c" TAGREFS="BT297">
+          <Shape><Polygon POINTS="4102 6815 4102 7120 4863 7120 4870 6815" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_c8bc9c72" TAGREFS="LT105" BASELINE="4189 6969 4432 6982" HPOS="4183" VPOS="6835" WIDTH="249" HEIGHT="224">
+            <Shape><Polygon POINTS="4189 6969 4183 6854 4426 6835 4432 6982 4426 7027 4183 7059" /></Shape>
+	    <String CONTENT="anno" HPOS="4183" VPOS="6835" WIDTH="249" HEIGHT="224" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ab0d6efd" TAGREFS="LT105" BASELINE="4592 6982 4796 6982" HPOS="4592" VPOS="6784" WIDTH="204" HEIGHT="300">
+            <Shape><Polygon POINTS="4592 6982 4592 6784 4796 6835 4796 6982 4796 7078 4592 7084" /></Shape>
+	    <String CONTENT="1294" HPOS="4592" VPOS="6784" WIDTH="204" HEIGHT="300" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5811" VPOS="7346" WIDTH="550" HEIGHT="209" ID="eSc_textblock_70f447cb" TAGREFS="BT285">
+          <Shape><Polygon POINTS="6329 7352 6361 7555 5848 7553 5811 7346" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

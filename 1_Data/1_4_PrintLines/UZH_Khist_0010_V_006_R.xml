@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_V_006_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6076" HEIGHT="7121" PHYSICAL_IMG_NR="252" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6076" HEIGHT="7121">
+        
+        <TextBlock HPOS="606" VPOS="584" WIDTH="4889" HEIGHT="6002" ID="eSc_textblock_1ef0d05b" TAGREFS="BT284">
+          <Shape><Polygon POINTS="606 612 615 6586 5486 6586 5495 584" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_ec16e4d9" TAGREFS="LT102" BASELINE="1472 6521 4662 6509" HPOS="1455" VPOS="6337" WIDTH="3201" HEIGHT="202">
+            <Shape><Polygon POINTS="1467 6515 1455 6343 2120 6343 2120 6343 2120 6343 2126 6343 2126 6343 2126 6343 2132 6343 2132 6343 2132 6343 2167 6373 2500 6349 2565 6343 2571 6343 2571 6343 2571 6343 2577 6343 2577 6343 2577 6343 2583 6343 2583 6343 2583 6349 2654 6402 3539 6402 3605 6355 3605 6349 3605 6349 3611 6349 3611 6349 3611 6349 3617 6349 3617 6349 3623 6349 3623 6349 3623 6349 3628 6349 3628 6349 3628 6349 3640 6355 3724 6402 4062 6402 4264 6355 4371 6337 4371 6337 4377 6337 4377 6337 4377 6337 4383 6337 4383 6337 4430 6355 4508 6391 4632 6361 4656 6503 4650 6533 1467 6539" /></Shape>
+	    <String CONTENT="(Ed.ni Brogi) 2471. FIRENZE. Galleria Antica e Moderna. S. Tommaso ; Beato Angelico." HPOS="1455" VPOS="6337" WIDTH="3201" HEIGHT="202" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1455" VPOS="6714" WIDTH="2503" HEIGHT="255" ID="eSc_textblock_8057fd17" TAGREFS="BT297">
+          <Shape><Polygon POINTS="1455 6714 1455 6969 3958 6969 3958 6714" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="5535" VPOS="6910" WIDTH="494" HEIGHT="162" ID="eSc_textblock_86c73e8e" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5535 6910 5535 7072 6029 7072 6029 6910" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

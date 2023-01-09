@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0009_IX_004_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6046" HEIGHT="7880" PHYSICAL_IMG_NR="189" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6046" HEIGHT="7880">
+        
+        <TextBlock HPOS="564" VPOS="833" WIDTH="4756" HEIGHT="6165" ID="eSc_textblock_7eaa3680" TAGREFS="BT284">
+          <Shape><Polygon POINTS="616 833 564 6998 5198 6998 5320 859" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_dd999864" TAGREFS="LT102" BASELINE="1340 6914 4530 6928" HPOS="1320" VPOS="6776" WIDTH="3207" HEIGHT="171">
+            <Shape><Polygon POINTS="1334 6908 1334 6776 4527 6809 4527 6927 4514 6947 1320 6927" /></Shape>
+	    <String CONTENT="(Ed. ne Alinari) N.° 30779. PRATO - Pinacoteca Comunale. La Madonna col Figlio e Santi. (Andrea di Giusto)." HPOS="1320" VPOS="6776" WIDTH="3207" HEIGHT="171" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5508" VPOS="7599" WIDTH="478" HEIGHT="233" ID="eSc_textblock_ca200c5b" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5508 7599 5508 7832 5986 7832 5986 7599" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

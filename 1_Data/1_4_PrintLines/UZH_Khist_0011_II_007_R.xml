@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0011_II_007_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5253" HEIGHT="7657" PHYSICAL_IMG_NR="312" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5253" HEIGHT="7657">
+        
+        <TextBlock HPOS="293" VPOS="664" WIDTH="4707" HEIGHT="6120" ID="eSc_textblock_c074d3e1" TAGREFS="BT284">
+          <Shape><Polygon POINTS="302 664 293 6784 5000 6784 5000 664" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_87d10944" TAGREFS="LT102" BASELINE="459 6687 4755 6712" HPOS="453" VPOS="6578" WIDTH="4302" HEIGHT="166">
+            <Shape><Polygon POINTS="459 6687 459 6578 4748 6616 4755 6712 4742 6744 453 6725" /></Shape>
+	    <String CONTENT="(Ed.ne Alinari) P.e 2.a N.°4298. FIRENZE – R. Museo di S. Marco. S. Domenico, nell' affresco Gesù nel Pretorio. (Beato Angelico.)" HPOS="453" VPOS="6578" WIDTH="4302" HEIGHT="166" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4448" VPOS="7349" WIDTH="573" HEIGHT="264" ID="eSc_textblock_6eb3c24d" TAGREFS="BT285">
+          <Shape><Polygon POINTS="4448 7349 4448 7613 5021 7613 5021 7349" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

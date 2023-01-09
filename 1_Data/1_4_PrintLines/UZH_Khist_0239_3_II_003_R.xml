@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_3_II_003_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6032" HEIGHT="4626" PHYSICAL_IMG_NR="435" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6032" HEIGHT="4626">
+        
+        <TextBlock HPOS="1369" VPOS="3868" WIDTH="3456" HEIGHT="258" ID="eSc_textblock_b1803ca7" TAGREFS="BT297">
+          <Shape><Polygon POINTS="1382 3868 1369 4100 4825 4126 4818 3868" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_0dcea356" TAGREFS="LT105" BASELINE="1406 3989 4735 4013" HPOS="1400" VPOS="3908" WIDTH="3332" HEIGHT="139">
+            <Shape><Polygon POINTS="1403 3986 1400 4032 4724 4047 4732 4009 4728 3924 1403 3908 1403 3986" /></Shape>
+	    <String CONTENT="(Ed.ne Alinari) P.e 2.a N.° 156. BRONA - Galleria Maireione. La Cero dn Tionne. (Berdio da Micesonio.)" HPOS="1400" VPOS="3908" WIDTH="3332" HEIGHT="139" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="92" VPOS="848" WIDTH="5828" HEIGHT="2802" ID="eSc_textblock_cef5c726" TAGREFS="BT284">
+          <Shape><Polygon POINTS="5796 848 5920 909 5889 3650 138 3635 92 2339 123 863 5137 848" /></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

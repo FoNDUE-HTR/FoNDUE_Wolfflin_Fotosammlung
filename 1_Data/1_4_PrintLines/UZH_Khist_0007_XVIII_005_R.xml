@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_XVIII_005_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5900" HEIGHT="7816" PHYSICAL_IMG_NR="154" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5900" HEIGHT="7816">
+        
+        <TextBlock HPOS="472" VPOS="635" WIDTH="4806" HEIGHT="6139" ID="eSc_textblock_533baf31" TAGREFS="BT284">
+          <Shape><Polygon POINTS="5278 635 5266 6774 481 6765 472 707" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_5c43268c" TAGREFS="LT102" BASELINE="1199 6682 4102 6686" HPOS="1186" VPOS="6565" WIDTH="2914" HEIGHT="241">
+            <Shape><Polygon POINTS="1193 6676 1186 6760 1297 6799 1303 6799 1310 6799 1316 6799 1414 6767 1421 6767 1427 6767 1708 6799 1714 6799 1916 6773 1968 6767 2034 6773 2268 6799 2275 6806 2581 6806 2581 6799 2588 6799 2594 6799 2614 6780 2627 6767 2659 6780 2712 6799 2718 6799 2725 6799 2829 6780 2920 6767 4087 6793 4100 6682 4094 6571 1193 6565 1193 6676" /></Shape>
+	    <String CONTENT="8388 Vecchioni Affresco nella Cripta della Cattedrale - Anagni" HPOS="1186" VPOS="6565" WIDTH="2914" HEIGHT="241" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5250" VPOS="7466" WIDTH="467" HEIGHT="195" ID="eSc_textblock_62c37352" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5682 7655 5257 7661 5250 7466 5691 7477 5717 7548" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_4_III_006_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6239" HEIGHT="7755" PHYSICAL_IMG_NR="537" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6239" HEIGHT="7755">
+        
+        <TextBlock HPOS="840" VPOS="839" WIDTH="4608" HEIGHT="6274" ID="eSc_textblock_46920a12" TAGREFS="BT284">
+          <Shape><Polygon POINTS="840 878 840 7113 5448 7082 5441 839" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_90bbdc43" TAGREFS="LT102" BASELINE="1036 7041 5177 7009" HPOS="1027" VPOS="6908" WIDTH="4145" HEIGHT="245">
+            <Shape><Polygon POINTS="1034 7037 1034 7128 1745 7121 1777 7128 1842 7153 1849 7153 1855 7153 2094 7128 2249 7115 2437 7128 2676 7147 2683 7147 2999 7128 3323 7108 3394 7128 3445 7141 3452 7141 3458 7141 3465 7141 3497 7128 3549 7102 3917 7102 4208 7128 4331 7134 4338 7134 4344 7134 4351 7134 4364 7128 4409 7095 4519 7128 4532 7128 4538 7128 4545 7128 5172 7121 5172 7005 5152 6908 1027 6934 1034 7037" /></Shape>
+	    <String CONTENT="(Ed.ne Alinari) N.° 31729. MILANO – Pinacoteca di Brera. La Madonna col Figlio in trono, ai lati S. Niccolò e S. Zeno. (Francesco Morone)." HPOS="1027" VPOS="6908" WIDTH="4145" HEIGHT="245" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5266" VPOS="7455" WIDTH="630" HEIGHT="287" ID="eSc_textblock_ea1fa60a" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5266 7455 5266 7742 5896 7742 5896 7455" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

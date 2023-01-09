@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_VIII_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7644" HEIGHT="5760" PHYSICAL_IMG_NR="261" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="7644" HEIGHT="5760">
+        
+        <TextBlock HPOS="916" VPOS="584" WIDTH="5910" HEIGHT="4508" ID="eSc_textblock_f6c70ae9" TAGREFS="BT284">
+          <Shape><Polygon POINTS="916 584 916 5092 6813 5092 6826 584" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_40c790aa" TAGREFS="LT102" BASELINE="2987 1263 4760 1282" HPOS="2981" VPOS="1156" WIDTH="1777" HEIGHT="135">
+            <Shape><Polygon POINTS="2986 1262 2986 1156 4753 1176 4758 1281 4753 1291 2981 1291" /></Shape>
+	    <String CONTENT="RIPRODUZIONE INTERDETTA" HPOS="2981" VPOS="1156" WIDTH="1777" HEIGHT="135" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7d3273f5" TAGREFS="LT102" BASELINE="2132 4230 5520 4248" HPOS="2127" VPOS="4128" WIDTH="3389" HEIGHT="134">
+            <Shape><Polygon POINTS="2131 4228 2131 4128 5512 4147 5516 4248 5507 4262 2127 4252" /></Shape>
+	    <String CONTENT="(Ed.ne Alinari) P.e 2.a N.° 640. FIRENZE – R. Galleria Uffizi. Sposalizio della Vergine. (Beato Angelico.)" HPOS="2127" VPOS="4128" WIDTH="3389" HEIGHT="134" />
+          </TextLine>
+
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="65" VPOS="5027" WIDTH="257" HEIGHT="642" ID="eSc_textblock_794e790e" TAGREFS="BT285">
+          <Shape><Polygon POINTS="65 5027 65 5669 322 5669 322 5027" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_1cb2428a" BASELINE="115 5159 102 5631" HPOS="62" VPOS="5145" WIDTH="211" HEIGHT="485">
+            <Shape><Polygon POINTS="110 5155 273 5155 244 5630 100 5630 62 5620 76 5145" /></Shape>
+	    <String CONTENT="10. III. 20" HPOS="62" VPOS="5145" WIDTH="211" HEIGHT="485" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

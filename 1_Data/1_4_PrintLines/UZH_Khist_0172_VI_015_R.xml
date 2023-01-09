@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0172_VI_015_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6626" HEIGHT="5157" PHYSICAL_IMG_NR="415" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6626" HEIGHT="5157">
+        
+        <TextBlock HPOS="1829" VPOS="483" WIDTH="3018" HEIGHT="3394" ID="eSc_textblock_245aa0e9" TAGREFS="BT284">
+          <Shape><Polygon POINTS="1829 483 1829 3877 4847 3877 4847 483" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_069fd3ad" TAGREFS="LT105" BASELINE="2747 3751 3869 3760" HPOS="2743" VPOS="3687" WIDTH="1126" HEIGHT="146">
+            <Shape><Polygon POINTS="2747 3751 2747 3687 3869 3695 3869 3760 3865 3833 3517 3833 3512 3829 3508 3829 3504 3829 3448 3794 3246 3824 3242 3824 3237 3824 3233 3824 3190 3790 2743 3820" /></Shape>
+	    <String CONTENT="Entwurf für das Haus zum Tanz. (Basel.)" HPOS="2743" VPOS="3687" WIDTH="1126" HEIGHT="146" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1615" VPOS="3940" WIDTH="3179" HEIGHT="465" ID="eSc_textblock_0c63fe37" TAGREFS="BT297">
+          <Shape><Polygon POINTS="1615 3940 1615 4405 4794 4405 4794 3940" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="6342" VPOS="689" WIDTH="284" HEIGHT="948" ID="eSc_textblock_1b7625e1" TAGREFS="BT285">
+          <Shape><Polygon POINTS="6342 689 6342 1637 6626 1637 6626 689" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

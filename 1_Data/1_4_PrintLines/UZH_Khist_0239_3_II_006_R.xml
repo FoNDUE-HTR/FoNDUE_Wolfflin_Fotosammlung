@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_3_II_006_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7629" HEIGHT="6248" PHYSICAL_IMG_NR="438" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="7629" HEIGHT="6248">
+        
+        <TextBlock HPOS="673" VPOS="515" WIDTH="6337" HEIGHT="4993" ID="eSc_textblock_4e2505a2" TAGREFS="BT284">
+          <Shape><Polygon POINTS="746 515 673 5416 7010 5508 6938 530" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_94b44ec1" TAGREFS="LT102" BASELINE="871 4561 5059 4592 5673 4582" HPOS="864" VPOS="4410" WIDTH="4806" HEIGHT="234">
+            <Shape><Polygon POINTS="869 4555 864 4597 1442 4618 1447 4618 1588 4602 1682 4592 1723 4602 1780 4618 1786 4618 1791 4618 1796 4618 1853 4602 1900 4592 1942 4602 2020 4623 2025 4623 2030 4628 2369 4628 2369 4623 2374 4623 2411 4602 2426 4597 2520 4607 2749 4628 2754 4628 2864 4607 2890 4602 3265 4602 3280 4607 3322 4628 3327 4628 3332 4628 3436 4607 3478 4602 4113 4602 4129 4613 4228 4639 4233 4639 4238 4639 4665 4613 4691 4613 4712 4613 4988 4644 4994 4644 5665 4613 5670 4581 5665 4493 4087 4482 4030 4462 3910 4425 3905 4425 869 4410 869 4555" /></Shape>
+	    <String CONTENT="273 – IRENZE – Mose e rsia i Caio - Morio dn Rcio - Chioa Aai M9i. Anconaole Amarnco Agrgco ot)" HPOS="864" VPOS="4410" WIDTH="4806" HEIGHT="234" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="83" VPOS="5211" WIDTH="241" HEIGHT="593" ID="eSc_textblock_7edf8dde" TAGREFS="BT284">
+          <Shape><Polygon POINTS="83 5211 83 5804 324 5804 324 5211" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

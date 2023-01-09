@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_4_V_013_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4740" HEIGHT="6161" PHYSICAL_IMG_NR="516" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="4740" HEIGHT="6161">
+        
+        <TextBlock HPOS="40" VPOS="14" WIDTH="4683" HEIGHT="6144" ID="eSc_textblock_4f5511dc" TAGREFS="BT284">
+          <Shape><Polygon POINTS="40 14 40 6158 4723 6158 4723 14" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_134022a2" TAGREFS="LT102" BASELINE="3056 6089 4517 6099" HPOS="3050" VPOS="5991" WIDTH="1464" HEIGHT="118">
+            <Shape><Polygon POINTS="3055 6083 3050 6104 4503 6109 4514 6094 4508 6001 3055 5991 3055 6083" /></Shape>
+	    <String CONTENT="Riproduzione interdetta ANDERSON ROMA" HPOS="3050" VPOS="5991" WIDTH="1464" HEIGHT="118" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9c68a4f4" TAGREFS="LT102" BASELINE="342 6126 2247 6099" HPOS="333" VPOS="5971" WIDTH="1911" HEIGHT="184">
+            <Shape><Polygon POINTS="338 6125 338 6155 385 6155 436 6155 487 6155 539 6155 590 6155 641 6155 693 6155 744 6155 760 6155 2239 6119 2244 6094 2233 6001 1869 5971 1864 5971 1571 5976 1566 5976 1561 5976 1520 6012 1509 6017 1340 6012 919 6001 914 6001 333 6027 338 6125" /></Shape>
+	    <String CONTENT="9003 FIRENZE Ignota ( Morone ⟦Domenico⟧) Gall. Pitti" HPOS="333" VPOS="5971" WIDTH="1911" HEIGHT="184" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

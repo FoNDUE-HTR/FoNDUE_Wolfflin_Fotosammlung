@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0011_III_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5320" HEIGHT="7332" PHYSICAL_IMG_NR="316" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5320" HEIGHT="7332">
+        
+        <TextBlock HPOS="165" VPOS="650" WIDTH="4971" HEIGHT="6067" ID="eSc_textblock_1be374b5" TAGREFS="BT284">
+          <Shape><Polygon POINTS="165 658 165 6717 5136 6717 5136 650" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_e24cccb3" TAGREFS="LT102" BASELINE="4200 6598 4907 6607" HPOS="4188" VPOS="6482" WIDTH="716" HEIGHT="153">
+            <Shape><Polygon POINTS="4194 6592 4194 6482 4898 6494 4904 6604 4898 6629 4188 6635" /></Shape>
+	    <String CONTENT="( Edizioni Brogi)" HPOS="4188" VPOS="6482" WIDTH="716" HEIGHT="153" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_550132d8" TAGREFS="LT102" BASELINE="348 6604 4065 6604" HPOS="342" VPOS="6494" WIDTH="3718" HEIGHT="153">
+            <Shape><Polygon POINTS="342 6598 342 6494 4060 6507 4060 6598 4060 6641 342 6647" /></Shape>
+	    <String CONTENT="2066. FIRENZE - Museo di S. Marco - Particolare della Incoronazione della Vergine; Beato Angelico." HPOS="342" VPOS="6494" WIDTH="3718" HEIGHT="153" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4685" VPOS="7061" WIDTH="548" HEIGHT="228" ID="eSc_textblock_47da12b0" TAGREFS="BT285">
+          <Shape><Polygon POINTS="4685 7061 4685 7289 5233 7289 5233 7061" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

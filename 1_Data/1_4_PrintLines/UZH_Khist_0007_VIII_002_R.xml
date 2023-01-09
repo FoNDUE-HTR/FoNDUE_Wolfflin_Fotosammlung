@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_VIII_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5960" HEIGHT="7670" PHYSICAL_IMG_NR="105" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5960" HEIGHT="7670">
+        
+        <TextBlock HPOS="503" VPOS="527" WIDTH="4887" HEIGHT="6043" ID="eSc_textblock_2a3191c1" TAGREFS="BT284">
+          <Shape><Polygon POINTS="539 573 503 6570 5381 6570 5390 527" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_56ad4a83" TAGREFS="LT102" BASELINE="1157 6493 4700 6493" HPOS="1138" VPOS="6308" WIDTH="3562" HEIGHT="262">
+            <Shape><Polygon POINTS="1157 6493 1163 6308 1253 6353 1534 6353 1566 6321 1566 6314 1573 6314 1579 6314 1585 6314 1592 6314 1681 6346 1764 6308 1771 6308 1777 6308 2078 6308 2084 6308 2091 6308 2135 6340 2167 6314 2167 6308 2174 6308 2180 6308 2187 6308 2193 6308 2199 6308 2257 6353 3037 6353 3146 6308 3152 6308 3159 6308 3210 6308 4546 6346 4687 6308 4700 6493 4693 6570 3945 6532 3152 6551 2634 6564 2628 6564 1867 6532 1752 6532 1739 6532 1573 6564 1566 6564 1413 6532 1208 6564 1202 6564 1195 6564 1189 6564 1138 6525" /></Shape>
+	    <String CONTENT="(Ed. ni Brogi) 16329. Roma. Chiesa di S. Pietro in Montorio. Monumento Del Monte; B. Ammanati." HPOS="1138" VPOS="6308" WIDTH="3562" HEIGHT="262" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3495" VPOS="7367" WIDTH="425" HEIGHT="173" ID="eSc_textblock_decf478d" TAGREFS="BT285">
+          <Shape><Polygon POINTS="3906 7371 3920 7540 3495 7535 3500 7367" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_IV_003_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7638" HEIGHT="5742" PHYSICAL_IMG_NR="237" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="7638" HEIGHT="5742">
+        
+        <TextBlock HPOS="812" VPOS="579" WIDTH="5942" HEIGHT="4481" ID="eSc_textblock_de7265b0" TAGREFS="BT284">
+          <Shape><Polygon POINTS="843 579 812 5060 6754 5053 6754 579" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_5fb0baef" TAGREFS="LT102" BASELINE="1022 4462 6569 4499" HPOS="1014" VPOS="4344" WIDTH="5552" HEIGHT="206">
+            <Shape><Polygon POINTS="1019 4459 1019 4344 6561 4402 6566 4497 6556 4550 5843 4521 5345 4545 5273 4545 5269 4545 5269 4545 5240 4545 5048 4517 4661 4540 4608 4540 4603 4540 4603 4540 4603 4540 4584 4540 4426 4512 3340 4531 3182 4531 3177 4531 3177 4531 3172 4531 3172 4531 3168 4531 3096 4502 2847 4526 2833 4526 2828 4526 2756 4526 1646 4493 1014 4512" /></Shape>
+	    <String CONTENT="(Ed. ne Alinari) P.e 2.a N. 10487 CORTONA – Chiesa del Gesù. La Presentazione del Bambino Gesù a Simeone e la Vergine deposta nel Sepolcro, dettaglio di un gradino. (B. Angelico.)" HPOS="1014" VPOS="4344" WIDTH="5552" HEIGHT="206" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1431" VPOS="5192" WIDTH="2874" HEIGHT="236" ID="eSc_textblock_c468869a" TAGREFS="BT297">
+          <Shape><Polygon POINTS="1431 5192 1431 5428 4305 5428 4305 5192" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="51" VPOS="5094" WIDTH="278" HEIGHT="457" ID="eSc_textblock_7bbfdde7" TAGREFS="BT285">
+          <Shape><Polygon POINTS="51 5094 51 5551 322 5551 329 5094" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

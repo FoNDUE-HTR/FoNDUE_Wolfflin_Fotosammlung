@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_X_005_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7088" HEIGHT="6048" PHYSICAL_IMG_NR="269" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="7088" HEIGHT="6048">
+        
+        <TextBlock HPOS="613" VPOS="923" WIDTH="5768" HEIGHT="4221" ID="eSc_textblock_2edc04fb" TAGREFS="BT284">
+          <Shape><Polygon POINTS="714 923 613 4688 737 4946 843 5129 6381 5144 6381 1575 6214 1219 5987 930" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_5965b978" TAGREFS="LT105" BASELINE="2980 1075 4101 1068" HPOS="2959" VPOS="942" WIDTH="1139" HEIGHT="151">
+            <Shape><Polygon POINTS="2979 1073 2959 972 2994 942 2999 942 3004 942 3009 942 4088 962 4098 1063 4088 1093 2974 1083" /></Shape>
+	    <String CONTENT="Galleria Uffizi - Firenze" HPOS="2959" VPOS="942" WIDTH="1139" HEIGHT="151" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8d3683a4" TAGREFS="LT102" BASELINE="820 5038 1608 5045" HPOS="801" VPOS="4924" WIDTH="802" HEIGHT="216">
+            <Shape><Polygon POINTS="816 5034 816 4924 1598 4949 1603 5040 1598 5140 887 5140 882 5135 882 5135 877 5135 877 5135 801 5105" /></Shape>
+	    <String CONTENT="Riproduzione in" HPOS="801" VPOS="4924" WIDTH="802" HEIGHT="216" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7a3721ed" TAGREFS="LT102" BASELINE="2464 5053 4515 5066" HPOS="2450" VPOS="4949" WIDTH="2061" HEIGHT="131">
+            <Shape><Polygon POINTS="2460 5050 2460 4949 4511 4959 4511 5065 4501 5080 2450 5065" /></Shape>
+	    <String CONTENT="(1294a) Martirio di S. Marco - Beato Angelico, dip." HPOS="2450" VPOS="4949" WIDTH="2061" HEIGHT="131" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aec9d778" TAGREFS="LT102" BASELINE="5485 5076 6119 5076" HPOS="5484" VPOS="4984" WIDTH="631" HEIGHT="222">
+            <Shape><Polygon POINTS="5484 5075 5484 4984 6115 4989 6115 5075 6109 5176 5752 5166 5701 5196 5696 5201 5691 5201 5691 5201 5691 5201 5686 5201 5686 5201 5686 5206 5484 5206" /></Shape>
+	    <String CONTENT="G. Brogi, fotog. edit." HPOS="5484" VPOS="4984" WIDTH="631" HEIGHT="222" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="40" VPOS="5454" WIDTH="189" HEIGHT="485" ID="eSc_textblock_ff7d21a6" TAGREFS="BT285">
+          <Shape><Polygon POINTS="40 5454 40 5939 229 5939 229 5454" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="1434" VPOS="5318" WIDTH="3659" HEIGHT="310" ID="eSc_textblock_fe65558c" TAGREFS="BT297">
+          <Shape><Polygon POINTS="1434 5318 1434 5628 5093 5628 5093 5318" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

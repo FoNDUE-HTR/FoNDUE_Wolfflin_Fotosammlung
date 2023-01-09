@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_IX_006_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5930" HEIGHT="7648" PHYSICAL_IMG_NR="245" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5930" HEIGHT="7648">
+        
+        <TextBlock HPOS="521" VPOS="559" WIDTH="4806" HEIGHT="6170" ID="eSc_textblock_7e59110f" TAGREFS="BT284">
+          <Shape><Polygon POINTS="605 559 521 6729 5296 6697 5327 559" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_637953ff" TAGREFS="LT102" BASELINE="889 6665 4160 6655" HPOS="873" VPOS="6526" WIDTH="3284" HEIGHT="229">
+            <Shape><Polygon POINTS="886 6660 873 6526 4144 6532 4157 6653 4144 6755 879 6742" /></Shape>
+	    <String CONTENT="6174. FIRENZE – (Galleria Uffizi) – Un angelo del gran tabernacolo. - B. Angelico." HPOS="873" VPOS="6526" WIDTH="3284" HEIGHT="229" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5161" VPOS="7369" WIDTH="566" HEIGHT="207" ID="eSc_textblock_6736c9b5" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5161 7369 5161 7576 5727 7576 5727 7369" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

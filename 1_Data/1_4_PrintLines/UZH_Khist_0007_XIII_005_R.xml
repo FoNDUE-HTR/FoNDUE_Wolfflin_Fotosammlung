@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_XIII_005_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4452" HEIGHT="7062" PHYSICAL_IMG_NR="121" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="4452" HEIGHT="7062">
+        
+        <TextBlock HPOS="63" VPOS="74" WIDTH="4303" HEIGHT="6989" ID="eSc_textblock_5780c367" TAGREFS="BT284">
+          <Shape><Polygon POINTS="63 74 63 7063 4366 7063 4366 74" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_a979acf6" TAGREFS="LT102" BASELINE="1213 6869 3244 6849" HPOS="1189" VPOS="6750" WIDTH="2049" HEIGHT="200">
+            <Shape><Polygon POINTS="1207 6867 1189 6773 3221 6750 3238 6844 3227 6908 2732 6885 2673 6908 2608 6944 2608 6944 2608 6944 2602 6944 2602 6944 2602 6944 1831 6950 1825 6950 1825 6950 1819 6950 1819 6950 1713 6908 1684 6903 1207 6908" /></Shape>
+	    <String CONTENT="HOLLÄND. SCHULE VON ANFANG DES XVI. JAHRH., CHRISTUS LEHRT IM TEMPEL" HPOS="1189" VPOS="6750" WIDTH="2049" HEIGHT="200" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_73164cc3" TAGREFS="LT102" BASELINE="3295 6887 4181 6888" HPOS="3286" VPOS="6785" WIDTH="889" HEIGHT="171">
+            <Shape><Polygon POINTS="3291 6885 3286 6797 4169 6785 4175 6885 4175 6932 3645 6956 3639 6956 3639 6956 3598 6950 3468 6926 3291 6956" /></Shape>
+	    <String CONTENT="V.-A. BRUCKMANN, MÜNCHEN 1904." HPOS="3286" VPOS="6785" WIDTH="889" HEIGHT="171" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_640d8f93" TAGREFS="LT102" BASELINE="233 6912 1185 6903" HPOS="212" VPOS="6779" WIDTH="971" HEIGHT="165">
+            <Shape><Polygon POINTS="229 6908 212 6808 1166 6779 1183 6897 1177 6932 229 6944" /></Shape>
+	    <String CONTENT="AMSTERDAM, RIJKSMUSEUM No. 46." HPOS="212" VPOS="6779" WIDTH="971" HEIGHT="165" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_724cd429" TAGREFS="LT102" BASELINE="1831 6925 2624 6919" HPOS="1813" VPOS="6832" WIDTH="807" HEIGHT="153">
+            <Shape><Polygon POINTS="1825 6920 1813 6838 2602 6832 2620 6914 2608 6979 1961 6956 1831 6985" /></Shape>
+	    <String CONTENT="(FLÜGEL EINES TRIPTYCHONS)." HPOS="1813" VPOS="6832" WIDTH="807" HEIGHT="153" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

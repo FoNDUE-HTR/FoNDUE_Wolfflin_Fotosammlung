@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_V_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6259" HEIGHT="7680" PHYSICAL_IMG_NR="248" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6259" HEIGHT="7680">
+        
+        <TextBlock HPOS="1641" VPOS="5959" WIDTH="2954" HEIGHT="413" ID="eSc_textblock_d6553f41" TAGREFS="BT297">
+          <Shape><Polygon POINTS="1641 5982 1641 6372 4595 6372 4556 5959" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_e0abbf6c" TAGREFS="LT102" BASELINE="1758 6154 4545 6087" HPOS="1748" VPOS="5939" WIDTH="2794" HEIGHT="243">
+            <Shape><Polygon POINTS="1755 6150 1748 5990 1979 6016 2030 5984 2037 5977 2043 5977 2043 5977 2043 5977 2050 5977 2050 5977 2050 5977 2056 5977 2056 5977 2062 5977 2062 5977 2062 5977 2082 5984 2133 6009 2376 5984 2485 5971 2485 5971 2492 5971 2492 5971 2581 5977 2735 5996 2754 5977 2767 5971 2767 5964 2767 5964 2773 5964 2773 5964 2773 5964 2780 5964 2780 5964 2780 5964 2786 5964 2946 5977 3126 5990 3241 5971 3414 5945 3414 5945 3420 5945 3420 5945 3420 5945 3542 5971 3581 5977 3606 5971 3683 5939 3683 5939 3690 5939 3690 5939 3696 5939 3696 5939 3696 5939 3702 5939 3702 5939 3709 5939 3754 5971 3766 5977 3952 5977 3959 5964 3971 5945 3978 5945 3978 5939 3978 5939 3984 5939 3984 5939 3984 5939 3991 5939 3991 5939 3997 5939 4529 5964 4542 6086 4542 6112 1755 6182" /></Shape>
+	    <String CONTENT="Fra Angelico : Kreuzabnahme (Det.)" HPOS="1748" VPOS="5939" WIDTH="2794" HEIGHT="243" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_df1242d7" TAGREFS="LT102" BASELINE="1758 6322 3497 6266" HPOS="1736" VPOS="6118" WIDTH="1755" HEIGHT="269">
+            <Shape><Polygon POINTS="1755 6316 1748 6163 2171 6188 2344 6156 2460 6137 2460 6137 2466 6137 2466 6137 2466 6137 2472 6137 2530 6156 2594 6176 2754 6156 3055 6118 3055 6118 3062 6118 3062 6118 3062 6118 3068 6118 3177 6156 3190 6156 3472 6156 3491 6265 3485 6310 3171 6310 3151 6316 3055 6368 3055 6368 3055 6368 3049 6368 3049 6368 3049 6368 3043 6368 3043 6368 3036 6368 2889 6329 2741 6368 2735 6368 2735 6368 2729 6368 2729 6368 2729 6368 2722 6368 2722 6368 2722 6368 2639 6329 2626 6323 2607 6329 2408 6387 2402 6387 2402 6387 2395 6387 2395 6387 2043 6342 2030 6342 2017 6342 1819 6387 1819 6387 1819 6387 1812 6387 1812 6387 1812 6387 1806 6387 1806 6387 1800 6387 1736 6348" /></Shape>
+	    <String CONTENT="Florenz, Museo S. Marco" HPOS="1736" VPOS="6118" WIDTH="1755" HEIGHT="269" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5703" VPOS="7440" WIDTH="417" HEIGHT="208" ID="eSc_textblock_0201382b" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5703 7440 5703 7648 6120 7648 6120 7440" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="1682" VPOS="1598" WIDTH="2840" HEIGHT="4333" ID="eSc_textblock_fda7a4b1" TAGREFS="BT284">
+          <Shape><Polygon POINTS="1682 1598 1682 5931 4522 5931 4484 1598" /></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

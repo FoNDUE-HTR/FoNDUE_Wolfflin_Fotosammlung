@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0009_VII_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6649" HEIGHT="5419" PHYSICAL_IMG_NR="199" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6649" HEIGHT="5419">
+        
+        <TextBlock HPOS="175" VPOS="198" WIDTH="6191" HEIGHT="4837" ID="eSc_textblock_cd4c8a0f" TAGREFS="BT284">
+          <Shape><Polygon POINTS="6355 3915 6366 4262 6355 4908 5018 4999 596 5017 339 5035 175 360 234 270 333 226 1596 213 6355 198" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_d013b53a" TAGREFS="LT102" BASELINE="1374 4993 5325 4927" HPOS="1359" VPOS="4831" WIDTH="3962" HEIGHT="177">
+            <Shape><Polygon POINTS="1373 4989 1359 4845 2235 4831 2240 4831 2240 4831 2244 4831 2244 4831 2244 4831 2267 4840 2362 4890 2791 4863 2791 4863 5307 4840 5321 4926 5316 4944 1373 5008" /></Shape>
+	    <String CONTENT="6702. FIRENZE. (Cappellone degli Spagnoli) L'Ascesa al Calvario ; affresco attribuito a Simone di Martino (Memmi)." HPOS="1359" VPOS="4831" WIDTH="3962" HEIGHT="177" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="96" VPOS="4816" WIDTH="183" HEIGHT="457" ID="eSc_textblock_014b7fa5" TAGREFS="BT285">
+          <Shape><Polygon POINTS="279 5240 268 4993 260 4816 105 4816 96 5273" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="4984" VPOS="4924" WIDTH="1648" HEIGHT="305" ID="eSc_textblock_69625bfd" TAGREFS="BT297">
+          <Shape><Polygon POINTS="6619 5142 6632 4924 4984 5020 4993 5229" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

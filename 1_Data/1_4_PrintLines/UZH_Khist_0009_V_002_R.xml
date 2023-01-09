@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0009_V_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7822" HEIGHT="5853" PHYSICAL_IMG_NR="191" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="7822" HEIGHT="5853">
+        
+        <TextBlock HPOS="825" VPOS="529" WIDTH="6118" HEIGHT="4834" ID="eSc_textblock_b720feb5" TAGREFS="BT284">
+          <Shape><Polygon POINTS="6941 552 6865 5126 6943 5327 5831 5321 1190 5340 828 5363 825 5213 858 799 878 604 861 529" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_f009f5d3" TAGREFS="LT102" BASELINE="1291 5288 6439 5257" HPOS="1278" VPOS="5170" WIDTH="5158" HEIGHT="185">
+            <Shape><Polygon POINTS="1288 5287 1278 5204 6421 5170 6436 5253 6431 5311 1795 5311 1654 5350 1649 5350 1649 5350 1649 5350 1288 5355" /></Shape>
+	    <String CONTENT="(Ed.ne Alinari) P.e 2.a N.° 4109. FIRENZE - Chiostro di S. M. Novella. Cappella degli Spagnoli. Un dettaglio dell'affresco la Chiesa Militante et Trionfante. (Simone Martini)" HPOS="1278" VPOS="5170" WIDTH="5158" HEIGHT="185" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="59" VPOS="5100" WIDTH="266" HEIGHT="470" ID="eSc_textblock_36a9d362" TAGREFS="BT285">
+          <Shape><Polygon POINTS="59 5100 59 5570 325 5570 325 5100" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="5765" VPOS="5296" WIDTH="1264" HEIGHT="192" ID="eSc_textblock_d16af6cf" TAGREFS="BT297">
+          <Shape><Polygon POINTS="7029 5488 7029 5296 5765 5296 5765 5488" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_XIV_003_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6073" HEIGHT="7145" PHYSICAL_IMG_NR="284" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6073" HEIGHT="7145">
+        
+        <TextBlock HPOS="761" VPOS="541" WIDTH="4590" HEIGHT="5959" ID="eSc_textblock_28591351" TAGREFS="BT284">
+          <Shape><Polygon POINTS="761 541 761 6500 5351 6500 5282 541" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_9211270f" TAGREFS="LT102" BASELINE="2282 649 3748 649" HPOS="2276" VPOS="553" WIDTH="1466" HEIGHT="137">
+            <Shape><Polygon POINTS="2276 643 2276 553 3742 553 3742 643 3742 690 2276 690" /></Shape>
+	    <String CONTENT="RIPRODUZIONE INTERDETTA" HPOS="2276" VPOS="553" WIDTH="1466" HEIGHT="137" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b9cb776e" TAGREFS="LT102" BASELINE="1281 6305 4892 6293" HPOS="1269" VPOS="6210" WIDTH="3623" HEIGHT="149">
+            <Shape><Polygon POINTS="1281 6305 1269 6228 4875 6210 4892 6293 4887 6359 1281 6359" /></Shape>
+	    <String CONTENT="( Ed.ne Alinari) P.e 2.a N.°5669. PERUGIA - Pinacoteca Vannucci. San Niccolò e San Domenico. (Beato Angelico.)" HPOS="1269" VPOS="6210" WIDTH="3623" HEIGHT="149" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5329" VPOS="6850" WIDTH="640" HEIGHT="259" ID="eSc_textblock_417653bb" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5329 6850 5329 7109 5969 7109 5969 6850" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

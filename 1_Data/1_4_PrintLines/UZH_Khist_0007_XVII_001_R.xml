@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_XVII_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6011" HEIGHT="7792" PHYSICAL_IMG_NR="144" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6011" HEIGHT="7792">
+        
+        <TextBlock HPOS="595" VPOS="669" WIDTH="4685" HEIGHT="6058" ID="eSc_textblock_39e33df5" TAGREFS="BT284">
+          <Shape><Polygon POINTS="601 742 595 6727 5280 6714 5231 669" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_f8355c87" TAGREFS="LT102" BASELINE="1635 6668 1897 6664 1995 6670 2989 6671 3100 6669 4438 6654" HPOS="1624" VPOS="6499" WIDTH="2807" HEIGHT="280">
+            <Shape><Polygon POINTS="1631 6662 1624 6512 2313 6512 2319 6512 2326 6512 2332 6519 2384 6551 2462 6519 2501 6506 2508 6506 2514 6506 2521 6506 2573 6519 2677 6551 2722 6519 2742 6506 2748 6506 2755 6506 2761 6506 2878 6525 3041 6551 3112 6525 3184 6499 3190 6499 3197 6499 3593 6506 3600 6506 3671 6532 3704 6545 4412 6545 4431 6649 4431 6766 1631 6779" /></Shape>
+	    <String CONTENT="5795 Anagni - Cattedrale - Estremità di un candelabro" HPOS="1624" VPOS="6499" WIDTH="2807" HEIGHT="280" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5247" VPOS="7413" WIDTH="510" HEIGHT="188" ID="eSc_textblock_1aa2af3c" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5725 7428 5757 7577 5258 7601 5247 7413" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

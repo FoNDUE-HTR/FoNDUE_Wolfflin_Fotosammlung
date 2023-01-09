@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_XIII_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6966" HEIGHT="5388" PHYSICAL_IMG_NR="277" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6966" HEIGHT="5388">
+        
+        <TextBlock HPOS="360" VPOS="401" WIDTH="6261" HEIGHT="4304" ID="eSc_textblock_5c0a4fc9" TAGREFS="BT284">
+          <Shape><Polygon POINTS="404 401 360 4698 6621 4705 6621 401" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_0231dc53" TAGREFS="LT102" BASELINE="1190 4346 5843 4332" HPOS="1181" VPOS="4243" WIDTH="4662" HEIGHT="197">
+            <Shape><Polygon POINTS="1190 4346 1181 4243 5834 4247 5843 4332 5834 4395 5623 4364 5200 4404 5169 4404 5164 4404 5147 4404 4774 4355 4630 4395 4626 4395 4621 4395 4428 4364 4248 4391 4244 4391 4239 4391 4145 4364 4087 4400 4082 4400 4078 4400 4073 4400 3849 4373 3696 4386 3691 4386 3687 4386 3682 4386 3646 4364 3561 4386 3557 4386 3552 4386 3548 4386 3543 4386 3507 4364 3296 4386 3292 4386 3161 4359 3081 4386 3076 4386 3072 4386 2883 4368 2640 4400 2636 4400 2407 4364 2160 4400 2155 4400 1899 4368 1621 4436 1190 4440" /></Shape>
+	    <String CONTENT="PE. 2.A - N°. 7224. PERUGIA – PINACOTECA VANNUCCI. MIRACOLO DI S. NICCOLÒ DI BARI E SUE ESEQUIE. (BEATO ANGELICO)." HPOS="1181" VPOS="4243" WIDTH="4662" HEIGHT="197" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="44" VPOS="4786" WIDTH="201" HEIGHT="492" ID="eSc_textblock_3afa8067" TAGREFS="BT285">
+          <Shape><Polygon POINTS="44 4786 44 5278 245 5278 245 5048 245 4786" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="4589" VPOS="4748" WIDTH="1385" HEIGHT="439" ID="eSc_textblock_0698fbce" TAGREFS="BT297">
+          <Shape><Polygon POINTS="4589 4748 4589 5187 5974 5187 5974 4748" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

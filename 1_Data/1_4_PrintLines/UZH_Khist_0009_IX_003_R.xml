@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0009_IX_003_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5308" HEIGHT="6249" PHYSICAL_IMG_NR="188" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5308" HEIGHT="6249">
+        
+        <TextBlock HPOS="159" VPOS="138" WIDTH="4999" HEIGHT="6084" ID="eSc_textblock_fa59b6bc" TAGREFS="BT284">
+          <Shape><Polygon POINTS="159 245 241 6222 5158 6096 5032 138" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_22e2b0e2" TAGREFS="LT102" BASELINE="438 6189 5070 6082" HPOS="427" VPOS="5978" WIDTH="4641" HEIGHT="224">
+            <Shape><Polygon POINTS="437 6186 427 6040 1234 6019 1239 6019 1244 6019 1260 6030 1317 6056 1593 6061 3365 6004 4104 5978 4109 5978 5057 5983 5068 6077 5063 6092 437 6202" /></Shape>
+	    <String CONTENT="(Ed.ni Brogi) 12807. NAPOLI - Chiesa di S. Giovanni a Carbonara - Particolare del Monumento al Re Ladislao; A. Ciccione." HPOS="427" VPOS="5978" WIDTH="4641" HEIGHT="224" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4001" VPOS="6086" WIDTH="762" HEIGHT="142" ID="eSc_textblock_bd37492c" TAGREFS="BT297">
+          <Shape><Polygon POINTS="4763 6089 4754 6228 4010 6228 4001 6086" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="4904" VPOS="6127" WIDTH="343" HEIGHT="120" ID="eSc_textblock_877fac2f" TAGREFS="BT285">
+          <Shape><Polygon POINTS="4904 6127 4904 6247 5247 6247 5247 6127" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

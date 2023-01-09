@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_4_V_005_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4840" HEIGHT="6220" PHYSICAL_IMG_NR="524" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="4840" HEIGHT="6220">
+        
+        <TextBlock HPOS="95" VPOS="230" WIDTH="4660" HEIGHT="5661" ID="eSc_textblock_76e5783a" TAGREFS="BT284">
+          <Shape><Polygon POINTS="95 286 95 5891 4755 5866 4748 230" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_d7c773d8" TAGREFS="LT102" BASELINE="741 5845 4001 5814" HPOS="731" VPOS="5722" WIDTH="3268" HEIGHT="187">
+            <Shape><Polygon POINTS="736 5841 736 5877 928 5893 933 5893 938 5893 944 5893 959 5877 970 5867 1006 5877 1104 5909 1110 5909 1115 5909 1120 5909 1213 5877 1229 5872 1255 5877 1431 5903 1436 5903 1442 5903 1447 5903 1483 5872 1499 5857 1556 5872 1628 5893 1634 5893 1639 5893 1877 5867 2007 5857 2038 5867 2111 5893 2116 5893 2121 5893 2126 5893 2168 5872 2355 5898 2360 5898 2500 5867 2593 5893 2598 5893 2604 5893 2894 5877 2899 5877 2946 5857 2988 5841 3071 5857 3133 5867 3138 5867 3309 5857 3553 5836 3703 5851 3911 5872 3916 5872 3921 5872 3999 5846 3999 5810 3984 5722 731 5748 736 5841" /></Shape>
+	    <String CONTENT="12616 - BERGAMO - Ritratto di vecchio - Moroni - Accad. Carrara - Anderson, Roma" HPOS="731" VPOS="5722" WIDTH="3268" HEIGHT="187" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_XV_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7685" HEIGHT="5945" PHYSICAL_IMG_NR="287" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="7685" HEIGHT="5945">
+        
+        <TextBlock HPOS="687" VPOS="455" WIDTH="6226" HEIGHT="4946" ID="eSc_textblock_27f51f44" TAGREFS="BT284">
+          <Shape><Polygon POINTS="6913 504 6909 5294 6594 5345 745 5401 687 476 788 455 872 515" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_d258d720" TAGREFS="LT102" BASELINE="1991 5236 5450 5216 6153 5231" HPOS="1986" VPOS="5073" WIDTH="4167" HEIGHT="232">
+            <Shape><Polygon POINTS="1991 5236 1986 5107 2244 5117 2299 5107 2373 5087 2378 5087 2383 5087 2388 5087 2427 5107 2472 5127 2517 5107 2526 5102 2531 5102 2536 5102 2586 5107 2754 5127 2784 5107 2814 5087 2819 5087 2824 5087 2829 5087 3106 5087 3111 5087 3166 5107 3200 5122 3230 5107 3280 5082 3285 5082 3290 5082 3532 5107 3661 5122 3686 5107 3721 5082 3726 5082 3731 5082 3735 5082 3909 5082 4033 5112 4097 5122 4325 5122 4340 5112 4409 5078 4414 5078 4419 5078 4424 5078 4523 5112 4543 5117 4558 5112 4612 5087 4617 5087 4622 5087 4806 5112 4855 5117 4865 5112 4920 5078 4925 5078 4930 5078 4935 5078 4940 5078 5058 5112 5078 5117 5083 5112 5123 5082 5128 5082 5133 5082 5138 5082 5281 5112 5286 5112 5410 5073 5415 5073 5420 5073 5564 5073 5569 5073 5574 5073 5613 5102 5648 5073 5653 5073 5658 5073 5663 5073 5797 5073 5802 5073 5881 5112 5975 5078 5980 5078 5985 5078 6148 5117 6153 5231 6153 5246 6030 5286 6025 5286 6025 5291 5737 5291 5732 5286 5603 5256 5539 5241 5470 5256 5366 5281 5361 5281 5356 5281 5286 5261 5237 5246 5217 5261 5202 5276 5197 5276 5192 5276 5187 5276 5182 5276 5128 5261 5078 5251 5024 5266 4964 5281 4959 5281 4954 5281 4801 5266 4627 5251 4538 5271 4449 5291 4444 5291 4360 5276 4251 5251 3666 5281 3661 5281 3493 5251 3349 5291 3334 5291 3329 5291 3324 5291 3304 5291 3126 5251 2893 5296 2878 5296 2873 5296 2863 5296 2705 5261 2606 5296 2601 5296 2596 5296 2591 5296 2472 5266 1991 5305" /></Shape>
+	    <String CONTENT="335- Firenze- Galleria Uffizi - Madonna col figlio e Santi. 23° Angelico" HPOS="1986" VPOS="5073" WIDTH="4167" HEIGHT="232" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="107" VPOS="5201" WIDTH="241" HEIGHT="557" ID="eSc_textblock_beba03a2" TAGREFS="BT285">
+          <Shape><Polygon POINTS="107 5201 107 5758 348 5758 348 5201" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

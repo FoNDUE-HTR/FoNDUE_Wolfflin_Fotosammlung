@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0006_XII_009_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7656" HEIGHT="5686" PHYSICAL_IMG_NR="54" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="7656" HEIGHT="5686">
+        
+        <TextBlock HPOS="873" VPOS="406" WIDTH="5871" HEIGHT="4760" ID="eSc_textblock_a4c11bb0" TAGREFS="BT284">
+          <Shape><Polygon POINTS="873 406 878 5129 6706 5166 6744 406" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_d8b5b618" TAGREFS="LT102" BASELINE="1488 5041 5840 5032" HPOS="1479" VPOS="4942" WIDTH="4361" HEIGHT="128">
+            <Shape><Polygon POINTS="1488 5041 1479 4942 5830 4951 5840 5032 5835 5051 1488 5070" /></Shape>
+	    <String CONTENT="T 724 – Art gothique – XIIIe siècle. – Six apôtres du linteau de la porte Saint–Honore. Cathe-" HPOS="1479" VPOS="4942" WIDTH="4361" HEIGHT="128" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="82" VPOS="4831" WIDTH="232" HEIGHT="536" ID="eSc_textblock_97836a41" TAGREFS="BT285">
+          <Shape><Polygon POINTS="95 4831 82 5367 300 5314 314 4838" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="816" VPOS="5083" WIDTH="4904" HEIGHT="238" ID="eSc_textblock_bb2f1d5d" TAGREFS="BT297">
+          <Shape><Polygon POINTS="5720 5321 5720 5083 816 5083 816 5321" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_07663700" TAGREFS="LT102" BASELINE="4541 5112 5826 5122" HPOS="4531" VPOS="5032" WIDTH="1295" HEIGHT="137">
+            <Shape><Polygon POINTS="4541 5112 4541 5032 5821 5046 5826 5122 5816 5169 4531 5155" /></Shape>
+	    <String CONTENT="drale d'Amiens. A. G. phot." HPOS="4531" VPOS="5032" WIDTH="1295" HEIGHT="137" />
+          </TextLine>
+
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_X_003_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4788" HEIGHT="6228" PHYSICAL_IMG_NR="267" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="4788" HEIGHT="6228">
+        
+        <TextBlock HPOS="164" VPOS="6013" WIDTH="4334" HEIGHT="213" ID="eSc_textblock_db8a254d" TAGREFS="BT297">
+          <Shape><Polygon POINTS="164 6013 164 6226 4498 6226 4498 6013" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_4a86a5de" TAGREFS="LT102" BASELINE="207 6149 4481 6201" HPOS="197" VPOS="6056" WIDTH="4279" HEIGHT="177">
+            <Shape><Polygon POINTS="202 6144 202 6056 4471 6108 4476 6196 4466 6233 2773 6228 2773 6228 1672 6186 1428 6181 1396 6181 1235 6207 1235 6207 1230 6207 1230 6207 1230 6207 1225 6207 1225 6207 1220 6207 1220 6207 1184 6181 1184 6176 197 6160" /></Shape>
+	    <String CONTENT="6617 FIRENZE Angelo del Tabernacolo ( Beato Angelico) Gall. Uff. Riproduzione interdetta" HPOS="197" VPOS="6056" WIDTH="4279" HEIGHT="177" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1188" VPOS="0" WIDTH="2593" HEIGHT="6089" ID="eSc_textblock_21a895df" TAGREFS="BT284">
+          <Shape><Polygon POINTS="1393 0 1188 6089 3636 6089 3781 17" /></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

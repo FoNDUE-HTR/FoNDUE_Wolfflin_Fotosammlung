@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_XIII_003_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6458" HEIGHT="4957" PHYSICAL_IMG_NR="279" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6458" HEIGHT="4957">
+        
+        <TextBlock HPOS="220" VPOS="275" WIDTH="6104" HEIGHT="4260" ID="eSc_textblock_7398182e" TAGREFS="BT284">
+          <Shape><Polygon POINTS="220 275 220 4535 6324 4535 6324 275" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_74ccb8d0" TAGREFS="LT102" BASELINE="1561 4052 5044 4068" HPOS="1545" VPOS="3965" WIDTH="3499" HEIGHT="149">
+            <Shape><Polygon POINTS="1561 4052 1561 3965 5040 3982 5044 4068 5040 4093 4334 4114 4330 4114 4330 4114 4325 4114 4247 4093 3826 4110 3821 4110 3821 4110 3681 4089 3536 4110 3536 4110 3532 4110 3532 4110 3532 4110 3528 4110 3462 4089 3309 4110 3309 4110 3305 4110 3305 4110 3094 4085 2879 4106 2879 4106 2875 4106 2115 4081 1983 4101 1983 4101 1979 4101 1979 4101 1979 4101 1974 4101 1974 4101 1921 4081 1599 4097 1594 4097 1594 4097 1594 4097 1590 4097 1590 4097 1586 4097 1545 4073" /></Shape>
+	    <String CONTENT="P.E 2.A - N°. 7221. PERUGIA - PINACOTECA VANNUCCI. QUATTRO SANTI (BEATO ANGELICO)" HPOS="1545" VPOS="3965" WIDTH="3499" HEIGHT="149" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="20" VPOS="3762" WIDTH="184" HEIGHT="571" ID="eSc_textblock_1323cc89" TAGREFS="BT285">
+          <Shape><Polygon POINTS="204 4333 204 3762 20 3762 20 4333" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="938" VPOS="4506" WIDTH="1770" HEIGHT="232" ID="eSc_textblock_3083d0ef" TAGREFS="BT297">
+          <Shape><Polygon POINTS="938 4506 938 4738 2703 4738 2708 4521" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

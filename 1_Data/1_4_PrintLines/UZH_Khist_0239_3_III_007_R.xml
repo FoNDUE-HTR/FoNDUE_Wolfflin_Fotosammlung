@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_3_III_007_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4773" HEIGHT="6210" PHYSICAL_IMG_NR="448" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="4773" HEIGHT="6210">
+        
+        <TextBlock HPOS="0" VPOS="0" WIDTH="4738" HEIGHT="6207" ID="eSc_textblock_ab8c3b7a" TAGREFS="BT284">
+          <Shape><Polygon POINTS="0 19 0 6207 4738 6088 4738 0" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_c46c01b5" TAGREFS="LT102" BASELINE="262 6045 4725 6026" HPOS="253" VPOS="5940" WIDTH="4468" HEIGHT="145">
+            <Shape><Polygon POINTS="258 6044 258 6085 4716 6049 4721 6023 4705 5940 253 5956 258 6044" /></Shape>
+	    <String CONTENT="51824 – AOILR – L Meine Le afrio ce e Giti – Moalo d fieraco Tiete" HPOS="253" VPOS="5940" WIDTH="4468" HEIGHT="145" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

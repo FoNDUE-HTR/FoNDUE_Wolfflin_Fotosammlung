@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0172_V_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5482" HEIGHT="7183" PHYSICAL_IMG_NR="388" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5482" HEIGHT="7183">
+        
+        <TextBlock HPOS="616" VPOS="6303" WIDTH="4170" HEIGHT="507" ID="eSc_textblock_f85eb093" TAGREFS="BT297">
+          <Shape><Polygon POINTS="616 6321 669 6766 4786 6810 4786 6303" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_f1e65f8f" TAGREFS="LT105" BASELINE="641 6446 2090 6458" HPOS="635" VPOS="6315" WIDTH="1455" HEIGHT="179">
+            <Shape><Polygon POINTS="641 6446 641 6315 2090 6333 2090 6458 2084 6494 635 6494" /></Shape>
+	    <String CONTENT="Hans Holbein d. J. (1497 – 1543)." HPOS="635" VPOS="6315" WIDTH="1455" HEIGHT="179" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c291b2b4" TAGREFS="LT105" BASELINE="3337 6440 4703 6440" HPOS="3337" VPOS="6338" WIDTH="1378" HEIGHT="174">
+            <Shape><Polygon POINTS="3337 6440 3337 6338 4703 6338 4703 6440 4715 6470 4661 6506 4655 6506 4655 6506 4655 6506 4649 6506 4649 6506 4649 6506 4643 6506 4271 6482 4163 6476 4151 6488 4133 6500 4133 6506 4133 6506 4127 6506 4127 6506 4127 6506 4121 6506 4121 6506 4121 6512 3582 6512 3576 6506 3576 6506 3570 6506 3558 6500 3474 6476 3337 6506" /></Shape>
+	    <String CONTENT="Hirth: Renaissance. N°. 249." HPOS="3337" VPOS="6338" WIDTH="1378" HEIGHT="174" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6c9ae53d" TAGREFS="LT105" BASELINE="1713 6728 3624 6746" HPOS="1695" VPOS="6620" WIDTH="1929" HEIGHT="167">
+            <Shape><Polygon POINTS="1713 6728 1707 6626 3403 6620 3409 6620 3409 6620 3618 6656 3624 6746 3618 6769 1809 6787 1803 6787 1803 6787 1797 6787 1797 6787 1695 6746" /></Shape>
+	    <String CONTENT="Verlag von G. Hirth in Leipzig. — Druck von Knorr &amp; Hirth in München." HPOS="1695" VPOS="6620" WIDTH="1929" HEIGHT="167" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1327" VPOS="6810" WIDTH="3023" HEIGHT="302" ID="eSc_textblock_d3a8ed7c" TAGREFS="BT297">
+          <Shape><Polygon POINTS="4350 7112 4350 6810 1327 6810 1327 7112" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="598" VPOS="702" WIDTH="4188" HEIGHT="5566" ID="eSc_textblock_2622a3e7" TAGREFS="BT284">
+          <Shape><Polygon POINTS="4769 702 4786 6268 607 6241 598 711" /></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

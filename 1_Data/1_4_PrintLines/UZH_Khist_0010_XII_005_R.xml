@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_XII_005_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6255" HEIGHT="7662" PHYSICAL_IMG_NR="276" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6255" HEIGHT="7662">
+        
+        <TextBlock HPOS="596" VPOS="576" WIDTH="5073" HEIGHT="6393" ID="eSc_textblock_c6697f4d" TAGREFS="BT284">
+          <Shape><Polygon POINTS="596 576 596 6969 5669 6969 5669 576" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_67ce35a8" TAGREFS="LT102" BASELINE="734 6634 5507 6608" HPOS="715" VPOS="6506" WIDTH="4792" HEIGHT="166">
+            <Shape><Polygon POINTS="734 6634 715 6525 5488 6506 5507 6608 5507 6653 734 6672" /></Shape>
+	    <String CONTENT="15740 – PERUGIA – I Ss. Benedetto, Maddalena e Lorenzo – Beato Angelico – Pinacoteca." HPOS="715" VPOS="6506" WIDTH="4792" HEIGHT="166" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_99081e04" TAGREFS="LT102" BASELINE="2728 6755 3515 6782" HPOS="2709" VPOS="6640" WIDTH="805" HEIGHT="185">
+            <Shape><Polygon POINTS="2721 6748 2715 6653 3194 6640 3200 6640 3200 6640 3514 6685 3514 6780 3507 6800 3200 6825 3194 6825 3194 6825 2709 6780" /></Shape>
+	    <String CONTENT="Anderson – Roma." HPOS="2709" VPOS="6640" WIDTH="805" HEIGHT="185" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5772" VPOS="7407" WIDTH="483" HEIGHT="258" ID="eSc_textblock_63fb81a0" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5772 7407 5772 7665 6255 7665 6255 7407" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

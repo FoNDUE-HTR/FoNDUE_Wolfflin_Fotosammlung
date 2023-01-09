@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_VIII_003_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7684" HEIGHT="5900" PHYSICAL_IMG_NR="262" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="7684" HEIGHT="5900">
+        
+        <TextBlock HPOS="728" VPOS="531" WIDTH="6129" HEIGHT="4754" ID="eSc_textblock_a25900da" TAGREFS="BT284">
+          <Shape><Polygon POINTS="6483 531 6837 590 6857 5285 767 5285 728 609 767 550 1101 531" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_10ce251a" TAGREFS="LT102" BASELINE="882 4376 3833 4335" HPOS="870" VPOS="4238" WIDTH="2962" HEIGHT="182">
+            <Shape><Polygon POINTS="880 4375 870 4262 3817 4238 3832 4331 3832 4361 2617 4395 2612 4395 2612 4395 2612 4395 2533 4380 2513 4375 2459 4380 2184 4405 2179 4405 2179 4405 1962 4385 1948 4385 1943 4385 1859 4410 1854 4410 1854 4410 1854 4410 1849 4410 1569 4390 1554 4390 1549 4390 1475 4415 1470 4415 1470 4415 1470 4415 1465 4415 1215 4395 1210 4395 1205 4395 1121 4420 1116 4420 1116 4420 1111 4420 1111 4420 875 4395" /></Shape>
+	    <String CONTENT="239. Bis FIRENZE – Galleria Uffizi – Transito della Vergine. (Beato Angelico)." HPOS="870" VPOS="4238" WIDTH="2962" HEIGHT="182" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_84601a54" TAGREFS="LT102" BASELINE="5970 4298 6682 4287" HPOS="5957" VPOS="4198" WIDTH="738" HEIGHT="153">
+            <Shape><Polygon POINTS="5967 4297 5957 4198 6670 4203 6680 4282 6695 4307 6670 4336 6665 4336 6665 4341 6665 4341 6660 4341 6660 4341 6660 4341 6655 4341 6655 4341 6650 4341 6365 4326 6208 4321 5967 4351" /></Shape>
+	    <String CONTENT="(Ediz. V. Jacquier)" HPOS="5957" VPOS="4198" WIDTH="738" HEIGHT="153" />
+          </TextLine>
+
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="90" VPOS="5232" WIDTH="293" HEIGHT="493" ID="eSc_textblock_15a30dc9" TAGREFS="BT285">
+          <Shape><Polygon POINTS="90 5232 90 5725 383 5725 383 5232" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

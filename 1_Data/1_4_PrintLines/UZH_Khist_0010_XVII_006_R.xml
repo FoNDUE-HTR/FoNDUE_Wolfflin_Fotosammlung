@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_XVII_006_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7705" HEIGHT="5810" PHYSICAL_IMG_NR="300" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="7705" HEIGHT="5810">
+        
+        <TextBlock HPOS="881" VPOS="164" WIDTH="6012" HEIGHT="4850" ID="eSc_textblock_a60da84d" TAGREFS="BT284">
+          <Shape><Polygon POINTS="881 164 881 5014 6893 5014 6893 164" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_d401b120" TAGREFS="LT102" BASELINE="1646 4948 6005 4928" HPOS="1636" VPOS="4851" WIDTH="4369" HEIGHT="126">
+            <Shape><Polygon POINTS="1646 4948 1636 4870 5990 4851 6005 4928 6005 4953 1646 4977" /></Shape>
+	    <String CONTENT="(Ed.ne Alinari) P.e 2.a N.° 1516. FIRENZE - R. Galleria Antica e Moderna. Il Paradisio, dettaglio del quadro il Giudizio finale. ( Beato Angelico.)" HPOS="1636" VPOS="4851" WIDTH="4369" HEIGHT="126" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="0" VPOS="5110" WIDTH="235" HEIGHT="618" ID="eSc_textblock_61b85970" TAGREFS="BT285">
+          <Shape><Polygon POINTS="235 5110 235 5728 0 5728 0 5110" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

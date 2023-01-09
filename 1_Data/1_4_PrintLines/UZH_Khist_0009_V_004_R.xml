@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0009_V_004_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5941" HEIGHT="7727" PHYSICAL_IMG_NR="193" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5941" HEIGHT="7727">
+        
+        <TextBlock HPOS="489" VPOS="728" WIDTH="4897" HEIGHT="6013" ID="eSc_textblock_81736d72" TAGREFS="BT284">
+          <Shape><Polygon POINTS="5160 746 5386 728 5373 6741 515 6716 489 875 509 740" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_f760d483" TAGREFS="LT102" BASELINE="928 6704 5116 6684" HPOS="921" VPOS="6548" WIDTH="4188" HEIGHT="277">
+            <Shape><Polygon POINTS="927 6703 921 6600 1398 6600 1398 6593 1449 6555 1449 6548 1456 6548 1456 6548 1456 6548 1462 6548 1462 6548 1469 6548 1945 6548 1945 6548 1945 6548 1952 6548 1952 6548 1952 6548 1958 6548 1958 6555 2010 6593 2016 6606 4297 6606 4317 6593 4362 6555 4362 6555 4368 6555 4368 6555 4375 6555 4375 6555 4375 6555 4381 6555 4381 6555 4381 6555 4388 6555 4388 6555 4471 6593 4484 6593 5090 6593 5109 6683 5103 6806 3717 6774 3524 6812 3473 6819 3473 6819 3466 6819 3466 6819 3376 6812 2996 6774 2841 6812 2815 6819 2809 6819 2809 6819 2802 6819 2802 6819 2802 6819 2796 6819 2796 6819 2790 6819 2783 6812 2725 6780 2570 6806 2570 6806 2570 6806 2564 6806 2564 6806 2558 6806 2442 6774 2319 6812 2281 6825 2274 6825 2274 6825 2274 6825 2268 6825 2268 6825 2165 6812 1952 6786 1778 6812 1733 6819 1733 6819 1726 6819 1726 6819 1726 6819 1720 6819 1720 6819 1707 6812 1610 6780 927 6812" /></Shape>
+	    <String CONTENT="(Ed. ni Brogi) 6714. FIRENZE. (Cappellone degli Spagnoli) Gruppo d'Angioli, dettaglio della Chiesa militante e trionfante." HPOS="921" VPOS="6548" WIDTH="4188" HEIGHT="277" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4954" VPOS="7311" WIDTH="589" HEIGHT="245" ID="eSc_textblock_d24e32db" TAGREFS="BT297">
+          <Shape><Polygon POINTS="4954 7311 4954 7556 5543 7556 5543 7311" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

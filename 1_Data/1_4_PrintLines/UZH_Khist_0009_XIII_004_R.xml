@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0009_XIII_004_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6239" HEIGHT="7796" PHYSICAL_IMG_NR="217" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6239" HEIGHT="7796">
+        
+        <TextBlock HPOS="809" VPOS="846" WIDTH="4628" HEIGHT="5962" ID="eSc_textblock_eeef2aae" TAGREFS="BT284">
+          <Shape><Polygon POINTS="875 846 809 6808 5324 6808 5437 893" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_ac880920" TAGREFS="LT102" BASELINE="1237 6535 4883 6566" HPOS="1221" VPOS="6392" WIDTH="3659" HEIGHT="234">
+            <Shape><Polygon POINTS="1234 6529 1234 6392 4880 6444 4880 6561 4874 6587 4198 6626 4191 6626 4191 6626 3925 6587 3918 6587 3899 6587 3307 6613 3301 6613 3301 6613 3301 6613 3132 6581 3119 6581 3100 6581 2937 6613 2937 6613 2937 6613 2931 6613 2931 6613 2697 6581 2645 6574 2528 6581 1969 6607 1962 6607 1221 6568" /></Shape>
+	    <String CONTENT="(Ed.ne Alinari) P.e 2.a N.° 12059 b. NAPOLI – Museo Nazionale. La Madonna col Figlio e S. Giovanni. (Andrea da Salerno.)" HPOS="1221" VPOS="6392" WIDTH="3659" HEIGHT="234" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5598" VPOS="7525" WIDTH="559" HEIGHT="226" ID="eSc_textblock_28ec9df6" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5598 7525 5598 7751 6157 7751 6157 7525" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_4_III_007_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4814" HEIGHT="6254" PHYSICAL_IMG_NR="536" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="4814" HEIGHT="6254">
+        
+        <TextBlock HPOS="20" VPOS="0" WIDTH="4766" HEIGHT="6243" ID="eSc_textblock_e76b869e" TAGREFS="BT284">
+          <Shape><Polygon POINTS="47 0 20 6243 4786 6235 4786 9" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_d82f1aad" TAGREFS="LT102" BASELINE="505 6194 4363 6194" HPOS="500" VPOS="6113" WIDTH="3860" HEIGHT="109">
+            <Shape><Polygon POINTS="500 6191 500 6222 4355 6217 4360 6191 4355 6113 500 6113 500 6191" /></Shape>
+	    <String CONTENT="11178 - MILANO - S. Antonio di Padova - Moroni - Poldi - Pezzoli - Anderson, Roma" HPOS="500" VPOS="6113" WIDTH="3860" HEIGHT="109" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

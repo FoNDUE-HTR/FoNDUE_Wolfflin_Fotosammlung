@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_VI_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6252" HEIGHT="4736" PHYSICAL_IMG_NR="101" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6252" HEIGHT="4736">
+        
+        <TextBlock HPOS="1012" VPOS="4088" WIDTH="4083" HEIGHT="253" ID="eSc_textblock_c5700fc9" TAGREFS="BT297">
+          <Shape><Polygon POINTS="4985 4088 5063 4104 5095 4195 3473 4226 3468 4300 3174 4326 2616 4341 2601 4226 1042 4257 1012 4131 3550 4105 4057 4088" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_81fd42de" TAGREFS="LT102" BASELINE="1081 4211 5091 4179" HPOS="1073" VPOS="4096" WIDTH="4018" HEIGHT="138">
+            <Shape><Polygon POINTS="1081 4211 1073 4132 5079 4096 5091 4179 5091 4218 1081 4234" /></Shape>
+	    <String CONTENT="FOT. F .LLI ALINARI, FIRENZE, N°61284 (1969) – BOLOGNA, M° FRANCESCO MOLINARI PRADELLI - VENERE E AMORE (JACOPO AMIGONI)" HPOS="1073" VPOS="4096" WIDTH="4018" HEIGHT="138" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_81eccd79" TAGREFS="LT102" BASELINE="2636 4286 3449 4274" HPOS="2628" VPOS="4207" WIDTH="821" HEIGHT="122">
+            <Shape><Polygon POINTS="2636 4286 2628 4211 3437 4207 3449 4274 3449 4317 2636 4329" /></Shape>
+	    <String CONTENT="Riproduzione interdetta" HPOS="2628" VPOS="4207" WIDTH="821" HEIGHT="122" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="571" VPOS="567" WIDTH="5195" HEIGHT="3534" ID="eSc_textblock_d0b330f5" TAGREFS="BT284">
+          <Shape><Polygon POINTS="621 592 571 4101 5766 4076 5758 567" /></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

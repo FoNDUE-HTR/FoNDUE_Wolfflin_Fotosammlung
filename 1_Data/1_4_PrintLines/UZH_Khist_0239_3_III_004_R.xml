@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_3_III_004_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5332" HEIGHT="7627" PHYSICAL_IMG_NR="445" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5332" HEIGHT="7627">
+        
+        <TextBlock HPOS="384" VPOS="602" WIDTH="4767" HEIGHT="6255" ID="eSc_textblock_94efef5a" TAGREFS="BT284">
+          <Shape><Polygon POINTS="391 648 384 6857 5151 6818 5151 602" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_5a75d4eb" TAGREFS="LT102" BASELINE="618 6679 4861 6662" HPOS="610" VPOS="6559" WIDTH="4244" HEIGHT="159">
+            <Shape><Polygon POINTS="617 6718 4848 6692 4854 6660 4835 6559 610 6565 617 6673" /></Shape>
+	    <String CONTENT="(Ed.ne Alinari) P.e 2.ª N.° 10484. FRONA - Chiesa di S. Gioeio Monico. La Verzino in Marto e Sinteno Mati. (Mnrgio da Racine.)" HPOS="610" VPOS="6559" WIDTH="4244" HEIGHT="159" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4494" VPOS="7342" WIDTH="703" HEIGHT="250" ID="eSc_textblock_cccb95c5" TAGREFS="BT285">
+          <Shape><Polygon POINTS="4494 7342 4494 7592 5197 7592 5197 7342" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0011_III_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5751" HEIGHT="7641" PHYSICAL_IMG_NR="315" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5751" HEIGHT="7641">
+        
+        <TextBlock HPOS="598" VPOS="694" WIDTH="4561" HEIGHT="5945" ID="eSc_textblock_30a4e1da" TAGREFS="BT284">
+          <Shape><Polygon POINTS="610 750 598 6639 5159 6608 5159 694" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_b77a5802" TAGREFS="LT102" BASELINE="1007 6265 4838 6227" HPOS="993" VPOS="6131" WIDTH="3840" HEIGHT="217">
+            <Shape><Polygon POINTS="1006 6259 993 6157 4814 6131 4833 6221 4827 6271 4470 6310 4464 6310 4458 6310 4451 6310 4451 6303 4426 6284 4419 6278 4203 6278 4184 6284 4146 6316 4139 6316 4133 6316 4126 6316 3591 6297 3356 6291 3343 6303 3324 6316 3324 6322 3318 6322 3311 6322 3305 6322 3152 6303 3025 6291 2948 6310 2878 6329 2872 6329 2865 6329 2611 6316 2286 6297 2178 6322 2127 6335 2120 6335 2120 6342 1764 6342 1757 6335 1751 6335 1745 6335 1745 6329 1713 6303 1541 6335 1490 6342 1483 6342 1407 6335 1063 6310 1019 6348" /></Shape>
+	    <String CONTENT="(Ed.ne Alinari) P.e 2.a N.° 4300. FIRENZE - R. Museo di San Marco. L'Incoronazione della Vergine. (Beato Angelico.)" HPOS="993" VPOS="6131" WIDTH="3840" HEIGHT="217" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5128" VPOS="7376" WIDTH="541" HEIGHT="215" ID="eSc_textblock_ec3a1bb7" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5128 7376 5128 7591 5669 7591 5669 7376" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

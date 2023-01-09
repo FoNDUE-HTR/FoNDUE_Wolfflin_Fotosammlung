@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_V_004_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7151" HEIGHT="5994" PHYSICAL_IMG_NR="250" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="7151" HEIGHT="5994">
+        
+        <TextBlock HPOS="606" VPOS="603" WIDTH="5977" HEIGHT="4686" ID="eSc_textblock_229f979c" TAGREFS="BT284">
+          <Shape><Polygon POINTS="606 603 621 5289 6583 5289 6583 603" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_f636d443" TAGREFS="LT102" BASELINE="1524 5262 5581 5252" HPOS="1509" VPOS="5109" WIDTH="4067" HEIGHT="195">
+            <Shape><Polygon POINTS="1519 5259 1509 5109 5566 5119 5576 5249 5571 5299 1519 5304" /></Shape>
+	    <String CONTENT="(Ed.ni Brogi) 17484. FIRENZE. Galleria Antica e Moderna. Storia dei Santi Cosimo e Damiano; Beato Angelico." HPOS="1509" VPOS="5109" WIDTH="4067" HEIGHT="195" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="10" VPOS="5396" WIDTH="267" HEIGHT="512" ID="eSc_textblock_e3fac7d4" TAGREFS="BT285">
+          <Shape><Polygon POINTS="277 5908 239 5396 10 5396 48 5885" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="2198" VPOS="5433" WIDTH="2710" HEIGHT="320" ID="eSc_textblock_337510f0" TAGREFS="BT297">
+          <Shape><Polygon POINTS="2198 5433 2198 5753 4908 5753 4908 5433" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

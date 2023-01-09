@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_XX_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7787" HEIGHT="5913" PHYSICAL_IMG_NR="160" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="7787" HEIGHT="5913">
+        
+        <TextBlock HPOS="851" VPOS="549" WIDTH="5968" HEIGHT="4677" ID="eSc_textblock_6d97c3c7" TAGREFS="BT284">
+          <Shape><Polygon POINTS="851 640 851 5226 6811 5226 6819 549" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_8b2834b8" TAGREFS="LT102" BASELINE="2124 5159 5598 5139" HPOS="2109" VPOS="5035" WIDTH="3489" HEIGHT="232">
+            <Shape><Polygon POINTS="2124 5159 2109 5070 5583 5035 5598 5139 5598 5237 4001 5257 3996 5257 3992 5257 3942 5237 3903 5228 3750 5237 3587 5252 3583 5252 3376 5237 3252 5233 3233 5237 3178 5262 3173 5262 3169 5262 2942 5237 2907 5237 2897 5237 2833 5267 2828 5267 2824 5267 2819 5267 2725 5237 2710 5237 2641 5237 2203 5262 2198 5262 2193 5262 2114 5237" /></Shape>
+	    <String CONTENT="(Ed.ne Alinari) P.e I.a N.° 6832.  ANAGNI - Prov. di Roma. Panorama della Città veduto dal Colle di S. Francesco." HPOS="2109" VPOS="5035" WIDTH="3489" HEIGHT="232" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="183" VPOS="5098" WIDTH="255" HEIGHT="564" ID="eSc_textblock_6a4a59bd" TAGREFS="BT285">
+          <Shape><Polygon POINTS="183 5098 183 5662 438 5662 438 5098" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

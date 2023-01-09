@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_IV_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7640" HEIGHT="5778" PHYSICAL_IMG_NR="235" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="7640" HEIGHT="5778">
+        
+        <TextBlock HPOS="753" VPOS="497" WIDTH="6035" HEIGHT="4704" ID="eSc_textblock_63ffff07" TAGREFS="BT284">
+          <Shape><Polygon POINTS="811 563 753 5201 6788 5111 6788 497" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_e489ed10" TAGREFS="LT102" BASELINE="2277 5121 5426 5103" HPOS="2259" VPOS="5022" WIDTH="3165" HEIGHT="125">
+            <Shape><Polygon POINTS="2273 5118 2259 5041 5409 5022 5424 5099 5424 5142 2273 5147" /></Shape>
+	    <String CONTENT="(Ed.ne Alinari) P.e 2.a N. 10482. CORTONA – Chiesa del Gesù. L'Annunziazione. (Beato Angelico.)" HPOS="2259" VPOS="5022" WIDTH="3165" HEIGHT="125" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="84" VPOS="5095" WIDTH="220" HEIGHT="546" ID="eSc_textblock_82f7901c" TAGREFS="BT285">
+          <Shape><Polygon POINTS="84 5095 84 5641 299 5634 304 5095" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="2101" VPOS="5299" WIDTH="2474" HEIGHT="270" ID="eSc_textblock_67307344" TAGREFS="BT297">
+          <Shape><Polygon POINTS="2101 5299 2101 5569 4575 5569 4575 5299" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="6739" VPOS="1001" WIDTH="14" HEIGHT="169" ID="eSc_textblock_045563eb" TAGREFS="BT284">
+          <Shape><Polygon POINTS="6739 1170 6739 1001 6753 1001 6753 1170" /></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

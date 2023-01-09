@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_VII_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4795" HEIGHT="6016" PHYSICAL_IMG_NR="256" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="4795" HEIGHT="6016">
+        
+        <TextBlock HPOS="37" VPOS="51" WIDTH="4732" HEIGHT="5953" ID="eSc_textblock_e300ab77" TAGREFS="BT284">
+          <Shape><Polygon POINTS="37 51 37 6004 4769 6004 4769 51" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_e9ea3ce1" TAGREFS="LT102" BASELINE="269 5933 3270 5954 4500 5968" HPOS="260" VPOS="5755" WIDTH="4239" HEIGHT="215">
+            <Shape><Polygon POINTS="265 5930 260 5795 506 5755 511 5755 516 5755 521 5755 576 5790 586 5800 1289 5800 1419 5785 1559 5770 1564 5770 1845 5785 2272 5805 2352 5780 2427 5755 2432 5755 2437 5755 2442 5755 2512 5780 2598 5810 2743 5780 2768 5775 2773 5775 2793 5780 2939 5810 3094 5775 3169 5760 3174 5760 3430 5765 3435 5765 3440 5765 3450 5775 3475 5790 3651 5775 3741 5765 3746 5765 3786 5770 3997 5820 4092 5770 4097 5770 4102 5770 4494 5770 4499 5965 4489 5970 260 5945" /></Shape>
+	    <String CONTENT="2768. FIRENZE – Museo di S. Marco – L'Incoronazione della Vergine; Beato Angelico. (Edizione Brogi)" HPOS="260" VPOS="5755" WIDTH="4239" HEIGHT="215" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

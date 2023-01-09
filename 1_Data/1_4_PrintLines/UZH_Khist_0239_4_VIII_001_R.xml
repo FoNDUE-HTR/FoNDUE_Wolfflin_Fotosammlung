@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_4_VIII_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5805" HEIGHT="7741" PHYSICAL_IMG_NR="509" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5805" HEIGHT="7741">
+        
+        <TextBlock HPOS="393" VPOS="686" WIDTH="4859" HEIGHT="6068" ID="eSc_textblock_e952f985" TAGREFS="BT284">
+          <Shape><Polygon POINTS="5236 696 5236 6625 5252 6754 441 6728 393 686 749 696" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_d4d36031" TAGREFS="LT102" BASELINE="4071 6676 5028 6691" HPOS="4061" VPOS="6566" WIDTH="962" HEIGHT="304">
+            <Shape><Polygon POINTS="4068 6670 4061 6799 4384 6863 4390 6870 4487 6870 4487 6863 4494 6863 4500 6863 4500 6857 4558 6799 4578 6786 5010 6799 5023 6689 5023 6579 4068 6566 4068 6670" /></Shape>
+	    <String CONTENT="Fot. R. Moscioni - Roma" HPOS="4061" VPOS="6566" WIDTH="962" HEIGHT="304" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c756e47b" TAGREFS="LT102" BASELINE="525 6680 792 6685" HPOS="516" VPOS="6554" WIDTH="271" HEIGHT="161">
+            <Shape><Polygon POINTS="523 6676 516 6715 781 6715 787 6683 781 6554 523 6554 523 6676" /></Shape>
+	    <String CONTENT="21353" HPOS="516" VPOS="6554" WIDTH="271" HEIGHT="161" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fdd0a2ca" TAGREFS="LT102" BASELINE="1293 6680 3599 6684" HPOS="1284" VPOS="6566" WIDTH="2312" HEIGHT="155">
+            <Shape><Polygon POINTS="1291 6676 1284 6721 3590 6721 3596 6683 3596 6573 1291 6566 1291 6676" /></Shape>
+	    <String CONTENT="Ambone della chiesa di S. Maria del lago - Moscufo" HPOS="1284" VPOS="6566" WIDTH="2312" HEIGHT="155" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4151" VPOS="7376" WIDTH="874" HEIGHT="301" ID="eSc_textblock_27359279" TAGREFS="BT285">
+          <Shape><Polygon POINTS="4151 7376 4151 7677 5025 7677 5025 7376" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

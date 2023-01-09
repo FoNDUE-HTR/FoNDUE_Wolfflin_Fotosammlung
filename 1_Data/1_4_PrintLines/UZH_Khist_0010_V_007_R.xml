@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_V_007_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5761" HEIGHT="7661" PHYSICAL_IMG_NR="253" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5761" HEIGHT="7661">
+        
+        <TextBlock HPOS="503" VPOS="792" WIDTH="4841" HEIGHT="6135" ID="eSc_textblock_ad4231fa" TAGREFS="BT284">
+          <Shape><Polygon POINTS="541 800 503 6927 5344 6911 5344 792" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_23775656" TAGREFS="LT102" BASELINE="1579 6821 4155 6830" HPOS="1571" VPOS="6703" WIDTH="2580" HEIGHT="147">
+            <Shape><Polygon POINTS="1577 6818 1577 6703 4145 6709 4151 6824 4145 6843 1571 6850" /></Shape>
+	    <String CONTENT="2472. FIRENZE - Accademia di Belle Arti - San Paolo ; Beato Angelico." HPOS="1571" VPOS="6703" WIDTH="2580" HEIGHT="147" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1557" VPOS="7119" WIDTH="2586" HEIGHT="339" ID="eSc_textblock_eaec04f5" TAGREFS="BT297">
+          <Shape><Polygon POINTS="1557 7119 1557 7458 4143 7458 4143 7119" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="5152" VPOS="7412" WIDTH="531" HEIGHT="215" ID="eSc_textblock_edb9e0e2" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5159 7412 5152 7627 5683 7627 5683 7412" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="25" VPOS="76" WIDTH="5729" HEIGHT="7578" ID="eSc_textblock_51c6f037" TAGREFS="BT284">
+          <Shape><Polygon POINTS="153 76 5147 102 5754 229 5754 7118 5684 7124 5607 7629 1098 7654 127 7526 25 6684 25 280 153 76" /></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

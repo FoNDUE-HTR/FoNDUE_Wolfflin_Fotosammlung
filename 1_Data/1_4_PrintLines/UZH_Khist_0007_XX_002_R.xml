@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_XX_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7887" HEIGHT="5960" PHYSICAL_IMG_NR="161" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="7887" HEIGHT="5960">
+        
+        <TextBlock HPOS="858" VPOS="601" WIDTH="5950" HEIGHT="4745" ID="eSc_textblock_6f0156b4" TAGREFS="BT284">
+          <Shape><Polygon POINTS="858 661 894 5346 6808 5286 6808 601" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_0639ccc3" TAGREFS="LT102" BASELINE="1779 5219 5909 5195" HPOS="1764" VPOS="5110" WIDTH="4145" HEIGHT="159">
+            <Shape><Polygon POINTS="1779 5219 1764 5115 5894 5110 5909 5195 5909 5244 5267 5249 5262 5249 5258 5249 5158 5224 5064 5254 5054 5254 5049 5254 5044 5254 5024 5254 4925 5229 4845 5254 4840 5254 4835 5254 4830 5254 4761 5254 4249 5234 3871 5259 3836 5259 3831 5259 3826 5259 3821 5259 3781 5234 3453 5259 3399 5264 3394 5264 3324 5264 2922 5239 2842 5264 2837 5264 2832 5264 2822 5264 2599 5239 1779 5269" /></Shape>
+	    <String CONTENT="(Ed.ne Alinari) P.e I.a N.° 6833. ANAGNI- Prov. di Roma. Porta Principe Umberto già di S. Maria e in origine degl' Idoli. (XVI secolo.)" HPOS="1764" VPOS="5110" WIDTH="4145" HEIGHT="159" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="158" VPOS="5223" WIDTH="253" HEIGHT="609" ID="eSc_textblock_f107416e" TAGREFS="BT285">
+          <Shape><Polygon POINTS="158 5223 158 5832 411 5832 411 5223" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_44b178ef" TAGREFS="LT105" BASELINE="231 5261 231 5809" HPOS="168" VPOS="5269" WIDTH="224" HEIGHT="537">
+            <Shape><Polygon POINTS="238 5279 392 5279 357 5806 228 5806 203 5801 168 5577 168 5572 193 5269" /></Shape>
+	    <String CONTENT="7. IX. 35" HPOS="168" VPOS="5269" WIDTH="224" HEIGHT="537" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

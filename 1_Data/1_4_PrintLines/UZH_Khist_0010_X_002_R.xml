@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_X_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5929" HEIGHT="7713" PHYSICAL_IMG_NR="266" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5929" HEIGHT="7713">
+        
+        <TextBlock HPOS="480" VPOS="620" WIDTH="4855" HEIGHT="6177" ID="eSc_textblock_9425af4f" TAGREFS="BT284">
+          <Shape><Polygon POINTS="5052 620 5248 652 5335 6765 480 6797 486 674 3826 642" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_096dd662" TAGREFS="LT102" BASELINE="4250 6717 4868 6720" HPOS="4244" VPOS="6620" WIDTH="623" HEIGHT="135">
+            <Shape><Polygon POINTS="4244 6716 4244 6620 4867 6626 4867 6716 4867 6748 4244 6755" /></Shape>
+	    <String CONTENT="( Ediz. Jacquier)" HPOS="4244" VPOS="6620" WIDTH="623" HEIGHT="135" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2133ca48" TAGREFS="LT102" BASELINE="861 6773 4071 6754" HPOS="842" VPOS="6639" WIDTH="3228" HEIGHT="231">
+            <Shape><Polygon POINTS="855 6768 842 6658 4051 6639 4070 6748 4070 6851 855 6870" /></Shape>
+	    <String CONTENT="344. FIRENZE – Gall. Uffizi – Un Angelo del gran" HPOS="842" VPOS="6639" WIDTH="3228" HEIGHT="231" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5251" VPOS="7372" WIDTH="544" HEIGHT="216" ID="eSc_textblock_ce31a223" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5251 7372 5251 7588 5795 7588 5795 7372" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

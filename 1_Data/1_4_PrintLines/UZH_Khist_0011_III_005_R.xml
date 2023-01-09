@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0011_III_005_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5765" HEIGHT="7686" PHYSICAL_IMG_NR="319" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5765" HEIGHT="7686">
+        
+        <TextBlock HPOS="503" VPOS="647" WIDTH="4737" HEIGHT="5961" ID="eSc_textblock_4fbf0b73" TAGREFS="BT284">
+          <Shape><Polygon POINTS="542 647 503 6608 5148 6600 5240 670" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_7df01fd4" TAGREFS="LT102" BASELINE="903 6430 4842 6411" HPOS="896" VPOS="6289" WIDTH="3946" HEIGHT="231">
+            <Shape><Polygon POINTS="903 6430 896 6302 2190 6328 2376 6296 2427 6289 2434 6289 2523 6296 2780 6328 3061 6328 3087 6296 3093 6296 3093 6289 3100 6289 3106 6289 3113 6289 3151 6296 3273 6321 4823 6296 4842 6411 4842 6475 3907 6507 3900 6507 3894 6507 3804 6475 3747 6462 3689 6475 3593 6507 3587 6507 3580 6507 3574 6507 3567 6507 3535 6475 3529 6469 3510 6475 3452 6501 3446 6501 3439 6501 3433 6501 3369 6475 3343 6469 3311 6475 3221 6513 3215 6513 3209 6513 3202 6513 3100 6475 3081 6469 2844 6469 2824 6475 2799 6501 2792 6501 2786 6501 2780 6501 2773 6501 2767 6501 2741 6475 2722 6469 2216 6469 2165 6475 2049 6507 2043 6507 2036 6507 1729 6475 1671 6475 1639 6475 1454 6513 1447 6513 1441 6513 1345 6475 1332 6475 1319 6475 1229 6520 1223 6520 1217 6520 1210 6520 1204 6520 1133 6481 903 6481" /></Shape>
+	    <String CONTENT="(Ed.ne Alinari) P.e 2.a N.° 4310. FIRENZE - R. Museo di S. Marco. Gesù Cristo che porta la croce al calvario. (Beato Angelico.)" HPOS="896" VPOS="6289" WIDTH="3946" HEIGHT="231" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5001" VPOS="7425" WIDTH="678" HEIGHT="262" ID="eSc_textblock_76efa642" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5001 7425 5001 7687 5679 7687 5679 7425" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

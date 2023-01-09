@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_II_011_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6968" HEIGHT="5541" PHYSICAL_IMG_NR="77" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6968" HEIGHT="5541">
+        
+        <TextBlock HPOS="2509" VPOS="86" WIDTH="1905" HEIGHT="146" ID="eSc_textblock_65eeb777" TAGREFS="BT297">
+          <Shape><Polygon POINTS="4403 86 4414 232 2516 230 2509 88" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_0bad05f2" TAGREFS="LT105" BASELINE="2548 161 4345 170" HPOS="2539" VPOS="87" WIDTH="1806" HEIGHT="116">
+            <Shape><Polygon POINTS="2548 161 2544 92 4335 87 4345 170 4335 203 2539 198" /></Shape>
+	    <String CONTENT="Kunstkalender XIX. Jahrgang / Berner Allgemeine / Berner Leben" HPOS="2539" VPOS="87" WIDTH="1806" HEIGHT="116" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="997" VPOS="4726" WIDTH="527" HEIGHT="168" ID="eSc_textblock_d488be2f" TAGREFS="BT297">
+          <Shape><Polygon POINTS="1524 4726 1523 4881 1036 4894 997 4726" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_e6f5b1d5" TAGREFS="LT105" BASELINE="1057 4820 1459 4811" HPOS="1048" VPOS="4728" WIDTH="411" HEIGHT="143">
+            <Shape><Polygon POINTS="1057 4820 1048 4728 1449 4732 1459 4811 1459 4848 1057 4871" /></Shape>
+	    <String CONTENT="Cuno Amiet" HPOS="1048" VPOS="4728" WIDTH="411" HEIGHT="143" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5343" VPOS="4714" WIDTH="567" HEIGHT="184" ID="eSc_textblock_7d908d51" TAGREFS="BT297">
+          <Shape><Polygon POINTS="5831 4714 5910 4864 5343 4898 5349 4725" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_ed8b479f" TAGREFS="LT105" BASELINE="5384 4811 5869 4820" HPOS="5379" VPOS="4728" WIDTH="490" HEIGHT="129">
+            <Shape><Polygon POINTS="5384 4811 5379 4732 5864 4728 5869 4820 5864 4848 5379 4857" /></Shape>
+	    <String CONTENT="Winter in Paris" HPOS="5379" VPOS="4728" WIDTH="490" HEIGHT="129" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="62" VPOS="4833" WIDTH="245" HEIGHT="581" ID="eSc_textblock_c4289a3b" TAGREFS="BT285">
+          <Shape><Polygon POINTS="62 4833 62 5414 307 5414 307 4833" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="1073" VPOS="725" WIDTH="4832" HEIGHT="3929" ID="eSc_textblock_a564dbfc" TAGREFS="BT284">
+          <Shape><Polygon POINTS="1073 725 1073 4654 5905 4654 5905 725" /></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

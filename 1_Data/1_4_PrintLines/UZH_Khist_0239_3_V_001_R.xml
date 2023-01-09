@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_3_V_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6252" HEIGHT="7629" PHYSICAL_IMG_NR="456" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6252" HEIGHT="7629">
+        
+        <TextBlock HPOS="985" VPOS="591" WIDTH="4250" HEIGHT="6016" ID="eSc_textblock_4d07b0c8" TAGREFS="BT284">
+          <Shape><Polygon POINTS="1016 591 985 6600 5213 6607 5235 591" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_825b5969" TAGREFS="LT102" BASELINE="1739 6536 4494 6562" HPOS="1729" VPOS="6433" WIDTH="2761" HEIGHT="191">
+            <Shape><Polygon POINTS="1736 6535 1729 6592 2353 6567 2397 6599 2410 6611 2416 6611 2423 6611 2429 6618 2715 6618 2715 6611 2722 6611 2728 6611 2753 6592 2792 6573 3091 6573 3154 6592 3230 6618 3237 6618 3243 6618 3402 6592 3459 6580 3472 6592 3491 6605 3491 6611 3498 6611 3504 6611 4032 6624 4038 6624 4045 6624 4051 6624 4051 6618 4089 6586 4483 6586 4490 6560 4490 6452 1736 6433 1736 6535" /></Shape>
+	    <String CONTENT="(Ed.ne Ainai P.e 2a . 409. MEe Vimmectec. Pattale. (Boeio da Misn." HPOS="1729" VPOS="6433" WIDTH="2761" HEIGHT="191" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5142" VPOS="7361" WIDTH="538" HEIGHT="220" ID="eSc_textblock_8c3010bb" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5142 7361 5142 7581 5680 7581 5680 7361" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

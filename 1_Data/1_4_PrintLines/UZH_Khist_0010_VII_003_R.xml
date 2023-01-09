@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_VII_003_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6235" HEIGHT="4816" PHYSICAL_IMG_NR="257" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6235" HEIGHT="4816">
+        
+        <TextBlock HPOS="27" VPOS="33" WIDTH="6207" HEIGHT="4765" ID="eSc_textblock_f2219dba" TAGREFS="BT284">
+          <Shape><Polygon POINTS="27 33 27 4798 6225 4789 6234 33" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_f3bc7760" TAGREFS="LT102" BASELINE="758 4769 5471 4765" HPOS="750" VPOS="4643" WIDTH="4718" HEIGHT="160">
+            <Shape><Polygon POINTS="754 4767 750 4691 2123 4691 2127 4687 2328 4643 2328 4643 2332 4643 3906 4643 3906 4643 3906 4643 3910 4643 3910 4643 4018 4687 4022 4687 4163 4687 5215 4667 5219 4667 5460 4687 5468 4763 5464 4779 4532 4779 4504 4783 4412 4799 4412 4799 4412 4799 4408 4799 4183 4783 4083 4779 4030 4787 3942 4799 3942 4799 3938 4799 3938 4799 3938 4799 3874 4787 3830 4779 3701 4787 3533 4799 3529 4799 3529 4799 3529 4799 3460 4787 3396 4779 3272 4791 3163 4799 3163 4799 3159 4799 3159 4799 3107 4791 3035 4779 1453 4779 1401 4799 1401 4799 1397 4799 1397 4799 1397 4799 754 4803" /></Shape>
+	    <String CONTENT="8293 - FIRENZE - L'Incoronazione della Vergine – Beato Angelico - Galleria Uffizi Ripr. Int. - Anderson Roma." HPOS="750" VPOS="4643" WIDTH="4718" HEIGHT="160" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_XIV_005_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4937" HEIGHT="6411" PHYSICAL_IMG_NR="127" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="4937" HEIGHT="6411">
+        
+        <TextBlock HPOS="62" VPOS="60" WIDTH="4803" HEIGHT="6091" ID="eSc_textblock_8f5d57c9" TAGREFS="BT284">
+          <Shape><Polygon POINTS="62 60 62 6151 4865 6151 4865 60" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_08a16428" TAGREFS="LT102" BASELINE="288 6095 983 6085 1132 6095 3812 6093" HPOS="277" VPOS="5999" WIDTH="3532" HEIGHT="139">
+            <Shape><Polygon POINTS="283 6090 277 5999 3804 5999 3809 6090 3798 6111 908 6106 283 6138" /></Shape>
+	    <String CONTENT="Roma. N. 5777-a Statua di Bonifacio VIII. Facciata della Cattedrale di Anagni" HPOS="277" VPOS="5999" WIDTH="3532" HEIGHT="139" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1948" VPOS="6133" WIDTH="1473" HEIGHT="207" ID="eSc_textblock_3354bcdd" TAGREFS="BT297">
+          <Shape><Polygon POINTS="1987 6154 2073 6133 3350 6133 3421 6323 1948 6340" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="4375" VPOS="6199" WIDTH="426" HEIGHT="201" ID="eSc_textblock_cec0179d" TAGREFS="BT285">
+          <Shape><Polygon POINTS="4801 6387 4411 6400 4375 6199 4796 6221" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

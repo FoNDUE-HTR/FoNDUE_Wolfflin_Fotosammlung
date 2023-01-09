@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0009_XI_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5011" HEIGHT="5896" PHYSICAL_IMG_NR="209" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5011" HEIGHT="5896">
+        
+        <TextBlock HPOS="10" VPOS="15" WIDTH="4996" HEIGHT="5822" ID="eSc_textblock_ef8d1324" TAGREFS="BT284">
+          <Shape><Polygon POINTS="10 15 10 5837 5006 5837 5006 15" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_8af6e692" TAGREFS="LT102" BASELINE="122 5692 1157 5703" HPOS="113" VPOS="5596" WIDTH="1042" HEIGHT="142">
+            <Shape><Polygon POINTS="118 5689 118 5596 1155 5606 1155 5699 1150 5733 113 5738" /></Shape>
+	    <String CONTENT="WIEN, GEMÄLDEGALERIE No. 9." HPOS="113" VPOS="5596" WIDTH="1042" HEIGHT="142" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_16a632c4" TAGREFS="LT102" BASELINE="1685 5704 3174 5717" HPOS="1671" VPOS="5606" WIDTH="1500" HEIGHT="157">
+            <Shape><Polygon POINTS="1681 5699 1681 5606 3166 5620 3171 5714 3161 5763 1671 5728" /></Shape>
+	    <String CONTENT="ANDREA DA MURANO, CHRISTUS AM KREUZ." HPOS="1671" VPOS="5606" WIDTH="1500" HEIGHT="157" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7923943a" TAGREFS="LT102" BASELINE="3696 5724 4878 5737" HPOS="3678" VPOS="5620" WIDTH="1195" HEIGHT="167">
+            <Shape><Polygon POINTS="3693 5719 3693 5620 4868 5635 4873 5733 4873 5758 4760 5787 4755 5787 4750 5787 4499 5782 4494 5782 4489 5782 4465 5763 4435 5782 4430 5782 4425 5782 4425 5787 4111 5787 4106 5782 4101 5782 4032 5753 3757 5778 3752 5778 3747 5778 3678 5743" /></Shape>
+	    <String CONTENT="V. -A. BRUCKMANN, MÜNCHEN 1905." HPOS="3678" VPOS="5620" WIDTH="1195" HEIGHT="167" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

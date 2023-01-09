@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_XIII_006_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6250" HEIGHT="7680" PHYSICAL_IMG_NR="122" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6250" HEIGHT="7680">
+        
+        <TextBlock HPOS="784" VPOS="708" WIDTH="4542" HEIGHT="6693" ID="eSc_textblock_e5163bdf" TAGREFS="BT284">
+          <Shape><Polygon POINTS="784 708 824 7401 5313 7355 5326 708" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_7ffb1e75" TAGREFS="LT102" BASELINE="2119 7172 3989 7164" HPOS="2100" VPOS="6976" WIDTH="1883" HEIGHT="320">
+            <Shape><Polygon POINTS="2113 7168 2100 6988 2254 7020 2350 6988 2394 6976 2401 6976 2401 6976 2407 6976 2715 6976 2715 6976 2715 6976 2721 6976 2721 6976 2727 6976 2727 6976 2753 6995 2785 7020 2888 7001 3009 6976 3009 6976 3009 6976 3016 6976 3016 6976 3016 6976 3022 6976 3105 7001 3163 7020 3310 7008 3554 6982 3554 6982 3560 6982 3560 6982 3566 6982 3566 6982 3566 6982 3624 7014 3643 7020 3963 7020 3983 7161 3970 7264 3682 7232 3643 7264 3618 7283 3618 7289 3618 7289 3611 7289 3611 7289 3611 7289 3605 7289 3605 7289 3605 7296 2459 7296 2452 7289 2452 7289 2446 7289 2446 7289 2446 7289 2439 7289 2439 7289 2439 7283 2388 7238 2375 7232 2113 7232" /></Shape>
+	    <String CONTENT="VLÄMISCHE SCHULE DES XV. JAHRH. (RICHTUNG DES H. V. D. GOES)," HPOS="2100" VPOS="6976" WIDTH="1883" HEIGHT="320" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_529b418f" TAGREFS="LT102" BASELINE="988 7206 1949 7206" HPOS="986" VPOS="7110" WIDTH="960" HEIGHT="160">
+            <Shape><Polygon POINTS="986 7200 986 7110 1946 7110 1946 7200 1946 7257 986 7270" /></Shape>
+	    <String CONTENT="AMSTERDAM, RIJKSMUSEUM No. 341." HPOS="986" VPOS="7110" WIDTH="960" HEIGHT="160" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_556aff0c" TAGREFS="LT102" BASELINE="4188 7200 5151 7212" HPOS="4175" VPOS="7091" WIDTH="973" HEIGHT="179">
+            <Shape><Polygon POINTS="4181 7200 4181 7091 5142 7110 5148 7206 5142 7270 4175 7270" /></Shape>
+	    <String CONTENT="V.-A. BRUCKMANN, MÜNCHEN 1904." HPOS="4175" VPOS="7091" WIDTH="973" HEIGHT="179" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_07d0e0e6" TAGREFS="LT102" BASELINE="2465 7244 3638 7227" HPOS="2446" VPOS="7148" WIDTH="1191" HEIGHT="148">
+            <Shape><Polygon POINTS="2459 7238 2446 7155 3618 7148 3637 7225 3637 7264 2459 7296" /></Shape>
+	    <String CONTENT="STIFTER MIT DEM HL. JOHANNES D. TÄUFER" HPOS="2446" VPOS="7148" WIDTH="1191" HEIGHT="148" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5538" VPOS="7449" WIDTH="577" HEIGHT="187" ID="eSc_textblock_3aed3f4f" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5558 7449 6089 7449 6115 7520 6096 7629 5538 7636" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

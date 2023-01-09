@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_3_III_003_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4785" HEIGHT="6271" PHYSICAL_IMG_NR="444" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="4785" HEIGHT="6271">
+        
+        <TextBlock HPOS="33" VPOS="6" WIDTH="4735" HEIGHT="6265" ID="eSc_textblock_fa02defc" TAGREFS="BT284">
+          <Shape><Polygon POINTS="33 6 33 6271 4768 6271 4768 6" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_a5d213a0" TAGREFS="LT102" BASELINE="284 6239 4548 6221" HPOS="277" VPOS="6119" WIDTH="4267" HEIGHT="146">
+            <Shape><Polygon POINTS="282 6234 282 6265 329 6265 381 6265 434 6265 486 6265 538 6265 590 6265 643 6265 695 6265 747 6265 800 6265 852 6265 904 6265 957 6265 1009 6265 1061 6265 1113 6265 1166 6265 1218 6265 1270 6265 1323 6265 1375 6265 1427 6265 1479 6265 1532 6265 1584 6265 1636 6265 1689 6265 1741 6265 1793 6265 1846 6265 1898 6265 1950 6265 2002 6265 2055 6265 2107 6265 2159 6265 2212 6265 2264 6265 2316 6265 2368 6265 2421 6265 2473 6265 2525 6265 2578 6265 2630 6265 2682 6265 2735 6265 2787 6265 2839 6265 2891 6265 2944 6265 2996 6265 3048 6265 3101 6265 3153 6265 3205 6265 3257 6265 3310 6265 3362 6265 3414 6265 3467 6265 3519 6265 3571 6265 3624 6265 3676 6265 3728 6265 3780 6265 3833 6265 3885 6265 3937 6265 3990 6265 4042 6265 4094 6265 4147 6265 4199 6265 4251 6265 4303 6265 4356 6265 4408 6265 4460 6265 4513 6265 4539 6265 4544 6218 4533 6124 277 6119 282 6234" /></Shape>
+	    <String CONTENT="2471 RIRENZE La Maseina Un Mario en Mapelico Bealo Beogtio dea Birelio - S. Toeralo - Arn qnn." HPOS="277" VPOS="6119" WIDTH="4267" HEIGHT="146" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

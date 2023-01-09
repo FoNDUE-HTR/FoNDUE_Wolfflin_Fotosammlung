@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_4_XV_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5666" HEIGHT="7502" PHYSICAL_IMG_NR="482" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5666" HEIGHT="7502">
+        
+        <TextBlock HPOS="150" VPOS="267" WIDTH="5333" HEIGHT="6928" ID="eSc_textblock_0f82f236" TAGREFS="BT284">
+          <Shape><Polygon POINTS="5464 267 5465 1100 5483 7166 1550 7195 300 7170 157 7180 150 1225 200 350 341 282" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_34984ba8" TAGREFS="LT102" BASELINE="4720 7096 5299 7102" HPOS="4709" VPOS="6914" WIDTH="588" HEIGHT="219">
+            <Shape><Polygon POINTS="4715 7095 4709 7114 5284 7133 5297 7101 5297 6920 4715 6914 4715 7095" /></Shape>
+	    <String CONTENT="10. III. 11" HPOS="4709" VPOS="6914" WIDTH="588" HEIGHT="219" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eb6bbc68" TAGREFS="LT102" BASELINE="1333 7116 4095 7109" HPOS="1325" VPOS="6914" WIDTH="2765" HEIGHT="219">
+            <Shape><Polygon POINTS="1332 7114 1332 7133 4083 7126 4090 7108 4077 6920 1325 6914 1332 7114" /></Shape>
+	    <String CONTENT="Golrie da'tartrae laIcsosheae sericonae eata Altaco." HPOS="1325" VPOS="6914" WIDTH="2765" HEIGHT="219" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e086f393" TAGREFS="LT102" BASELINE="291 7134 710 7117" HPOS="275" VPOS="6926" WIDTH="431" HEIGHT="213">
+            <Shape><Polygon POINTS="287 7133 287 7139 706 7133 706 7114 687 6926 275 6939 287 7133" /></Shape>
+	    <String CONTENT="N° 814" HPOS="275" VPOS="6926" WIDTH="431" HEIGHT="213" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4579" VPOS="7268" WIDTH="837" HEIGHT="216" ID="eSc_textblock_0589f924" TAGREFS="BT285">
+          <Shape><Polygon POINTS="4579 7471 4622 7268 5379 7268 5416 7484" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

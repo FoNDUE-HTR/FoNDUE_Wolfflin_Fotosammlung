@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0006_II_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6233" HEIGHT="7758" PHYSICAL_IMG_NR="3" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6233" HEIGHT="7758">
+        
+        <TextBlock HPOS="886" VPOS="764" WIDTH="4474" HEIGHT="6046" ID="eSc_textblock_e2d9a6a1" TAGREFS="BT284">
+          <Shape><Polygon POINTS="886 764 886 6810 5360 6810 5360 764" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_9b99290d" TAGREFS="LT102" BASELINE="976 6730 3304 6691 5282 6697" HPOS="956" VPOS="6594" WIDTH="4326" HEIGHT="174">
+            <Shape><Polygon POINTS="976 6730 956 6607 5269 6594 5282 6697 5276 6749 976 6768" /></Shape>
+	    <String CONTENT="(Ed.ne Alinari) P.e 2.ª N.°7452 ROMA - Galleria Lateranense. L'Assunzione della Vergine, in basso gli Apostoli. (Cola dalla Matrice.)" HPOS="956" VPOS="6594" WIDTH="4326" HEIGHT="174" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5617" VPOS="7496" WIDTH="540" HEIGHT="238" ID="eSc_textblock_a83f4742" TAGREFS="BT285">
+          <Shape><Polygon POINTS="6102 7508 6157 7734 5617 7730 5629 7496" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

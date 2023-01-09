@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0006_XII_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2624" HEIGHT="3951" PHYSICAL_IMG_NR="47" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2624" HEIGHT="3951">
+        
+        <TextBlock HPOS="105" VPOS="116" WIDTH="2419" HEIGHT="3796" ID="eSc_textblock_6071bdfd" TAGREFS="BT284">
+          <Shape><Polygon POINTS="105 116 105 3912 2524 3912 2524 116" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_5d849793" TAGREFS="LT102" BASELINE="1186 3796 1511 3792" HPOS="1176" VPOS="3713" WIDTH="333" HEIGHT="106">
+            <Shape><Polygon POINTS="1183 3792 1176 3713 1503 3720 1509 3789 1506 3809 1183 3819" /></Shape>
+	    <String CONTENT="AMIENS" HPOS="1176" VPOS="3713" WIDTH="333" HEIGHT="106" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_824275f5" TAGREFS="LT102" BASELINE="797 3858 1899 3844" HPOS="787" VPOS="3769" WIDTH="1111" HEIGHT="109">
+            <Shape><Polygon POINTS="794 3855 787 3799 965 3802 985 3796 1041 3776 1041 3776 1044 3776 1044 3776 1048 3776 1048 3776 1190 3796 1226 3799 1262 3796 1377 3776 1377 3776 1381 3776 1381 3776 1552 3792 1592 3796 1615 3792 1733 3769 1733 3769 1733 3769 1737 3769 1737 3769 1892 3792 1898 3842 1895 3871 794 3878" /></Shape>
+	    <String CONTENT="A CATHÉDRALE - PORTAIL LATÉRAL" HPOS="787" VPOS="3769" WIDTH="1111" HEIGHT="109" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3524f9ec" TAGREFS="LT102" BASELINE="911 3898 1690 3894" HPOS="903" VPOS="3839" WIDTH="784" HEIGHT="69">
+            <Shape><Polygon POINTS="909 3895 903 3855 1677 3839 1687 3891 1684 3904 909 3908" /></Shape>
+	    <String CONTENT="DIT DE LA VIERGE DORÉE" HPOS="903" VPOS="3839" WIDTH="784" HEIGHT="69" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_3_I_005_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6233" HEIGHT="7761" PHYSICAL_IMG_NR="432" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6233" HEIGHT="7761">
+        
+        <TextBlock HPOS="755" VPOS="760" WIDTH="4813" HEIGHT="6148" ID="eSc_textblock_a2699fbe" TAGREFS="BT284">
+          <Shape><Polygon POINTS="755 760 755 6908 5568 6908 5568 760" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_6f6e3e48" TAGREFS="LT102" BASELINE="1705 6790 4589 6837" HPOS="1695" VPOS="6551" WIDTH="2893" HEIGHT="349">
+            <Shape><Polygon POINTS="1702 6784 1695 6823 2420 6868 2427 6868 2537 6849 2614 6836 2802 6855 2925 6868 2932 6868 3093 6862 3495 6849 3754 6881 3864 6894 3870 6894 3941 6887 4142 6862 4576 6900 4588 6836 4588 6674 4524 6642 4517 6642 4511 6642 4504 6642 4498 6642 4459 6674 4427 6700 3987 6700 3922 6648 3851 6590 3844 6590 3838 6590 3831 6590 3825 6590 3818 6590 3773 6622 3501 6596 3495 6596 3488 6596 3482 6596 3482 6603 3449 6629 3430 6655 3229 6667 3022 6609 3016 6609 3009 6609 3003 6609 2867 6667 2822 6622 2822 6616 2815 6616 2809 6616 2686 6590 2530 6570 2524 6570 2517 6570 2466 6583 2343 6616 2129 6570 2071 6558 1702 6551 1702 6784" /></Shape>
+	    <String CONTENT="27. FENgE AaMorST MaHe MKMAM asaser)" HPOS="1695" VPOS="6551" WIDTH="2893" HEIGHT="349" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5536" VPOS="7537" WIDTH="565" HEIGHT="195" ID="eSc_textblock_29439880" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5536 7537 5536 7732 6101 7732 6101 7537" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0008_IV_003_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7691" HEIGHT="6257" PHYSICAL_IMG_NR="175" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="7691" HEIGHT="6257">
+        
+        <TextBlock HPOS="990" VPOS="1202" WIDTH="2480" HEIGHT="3675" ID="eSc_textblock_3a5b53f3" TAGREFS="BT284">
+          <Shape><Polygon POINTS="990 1259 1006 4877 3470 4877 3431 2361 3413 1202" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_2736c385" TAGREFS="LT102" BASELINE="1161 4731 1819 4717" HPOS="1147" VPOS="4572" WIDTH="667" HEIGHT="282">
+            <Shape><Polygon POINTS="1157 4729 1147 4572 1804 4588 1814 4713 1814 4823 1444 4854 1439 4854 1439 4854 1439 4854 1433 4854 1433 4854 1433 4854 1428 4854 1386 4823 1381 4823 1157 4823" /></Shape>
+	    <String CONTENT="Pfarr-Kirche" HPOS="1147" VPOS="4572" WIDTH="667" HEIGHT="282" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_32c6e56c" TAGREFS="LT102" BASELINE="2769 4708 3303 4704" HPOS="2768" VPOS="4562" WIDTH="532" HEIGHT="276">
+            <Shape><Polygon POINTS="2768 4703 2768 4562 3300 4572 3300 4703 3300 4791 3092 4833 3092 4833 3092 4833 3086 4833 3086 4833 3086 4833 3013 4817 2935 4797 2904 4823 2899 4828 2899 4833 2899 4833 2893 4833 2893 4833 2893 4833 2888 4833 2888 4833 2888 4838 2768 4838" /></Shape>
+	    <String CONTENT="Andernach" HPOS="2768" VPOS="4562" WIDTH="532" HEIGHT="276" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="316" VPOS="5087" WIDTH="206" HEIGHT="480" ID="eSc_textblock_f972b111" TAGREFS="BT285">
+          <Shape><Polygon POINTS="316 5087 316 5567 522 5567 522 5087" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_35c9ee73" BASELINE="353 5106 353 5530" HPOS="318" VPOS="5104" WIDTH="192" HEIGHT="423">
+            <Shape><Polygon POINTS="349 5104 505 5104 484 5417 510 5516 349 5527 318 5527 318 5104" /></Shape>
+	    <String CONTENT="8. IV. 3" HPOS="318" VPOS="5104" WIDTH="192" HEIGHT="423" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="97" VPOS="5055" WIDTH="183" HEIGHT="516" ID="eSc_textblock_ab452369" TAGREFS="BT285">
+          <Shape><Polygon POINTS="97 5055 97 5571 280 5571 280 5055" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_7ff35ade" BASELINE="157 5096 152 5526" HPOS="119" VPOS="5083" WIDTH="146" HEIGHT="438">
+            <Shape><Polygon POINTS="156 5094 265 5094 260 5516 151 5521 119 5511 125 5083" /></Shape>
+	    <String CONTENT="8. IV. 4" HPOS="119" VPOS="5083" WIDTH="146" HEIGHT="438" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4443" VPOS="1246" WIDTH="2511" HEIGHT="3644" ID="eSc_textblock_ba3acad9" TAGREFS="BT284">
+          <Shape><Polygon POINTS="4459 1254 4443 4890 6954 4874 6863 1246" /></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

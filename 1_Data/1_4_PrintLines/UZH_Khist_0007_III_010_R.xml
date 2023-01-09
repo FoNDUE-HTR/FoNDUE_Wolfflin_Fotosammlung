@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_III_010_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6267" HEIGHT="7677" PHYSICAL_IMG_NR="87" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6267" HEIGHT="7677">
+        
+        <TextBlock HPOS="1348" VPOS="1513" WIDTH="3544" HEIGHT="4877" ID="eSc_textblock_87105b8a" TAGREFS="BT284">
+          <Shape><Polygon POINTS="1348 1627 1415 6390 4892 6310 4825 1513" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_8e40a8be" TAGREFS="LT102" BASELINE="1422 6272 2091 6258" HPOS="1401" VPOS="6160" WIDTH="685" HEIGHT="167">
+            <Shape><Polygon POINTS="1421 6269 1401 6179 2067 6160 2086 6256 2086 6288 1696 6327 1689 6327 1689 6327 1414 6295" /></Shape>
+	    <String CONTENT="Le temps des moissons" HPOS="1401" VPOS="6160" WIDTH="685" HEIGHT="167" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_58833ddc" TAGREFS="LT102" BASELINE="3075 6243 3371 6233" HPOS="3053" VPOS="6116" WIDTH="314" HEIGHT="159">
+            <Shape><Polygon POINTS="3072 6237 3053 6122 3347 6116 3367 6231 3367 6256 3072 6275" /></Shape>
+	    <String CONTENT="Erntezeit" HPOS="3053" VPOS="6116" WIDTH="314" HEIGHT="159" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b16479ed" TAGREFS="LT102" BASELINE="4349 6214 4881 6201" HPOS="4333" VPOS="6103" WIDTH="544" HEIGHT="288">
+            <Shape><Polygon POINTS="4346 6211 4333 6103 4865 6103 4877 6199 4877 6378 4660 6346 4564 6371 4506 6391 4500 6391 4500 6391 4500 6391 4493 6391 4493 6391 4340 6365" /></Shape>
+	    <String CONTENT="Tempo di raccolta" HPOS="4333" VPOS="6103" WIDTH="544" HEIGHT="288" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1320" VPOS="6622" WIDTH="2693" HEIGHT="357" ID="eSc_textblock_52740927" TAGREFS="BT297">
+          <Shape><Polygon POINTS="3047 6653 3972 6622 4013 6826 1377 6979 1320 6678" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="5623" VPOS="7405" WIDTH="606" HEIGHT="275" ID="eSc_textblock_f8709793" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5623 7405 6164 7441 6190 7542 6229 7649 5639 7680" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

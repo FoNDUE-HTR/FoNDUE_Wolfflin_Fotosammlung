@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_4_XIV_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6239" HEIGHT="7678" PHYSICAL_IMG_NR="495" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6239" HEIGHT="7678">
+        
+        <TextBlock HPOS="1336" VPOS="7046" WIDTH="2173" HEIGHT="628" ID="eSc_textblock_8afb6271" TAGREFS="BT297">
+          <Shape><Polygon POINTS="1336 7046 1336 7674 3509 7674 3509 7046" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="3606" VPOS="7037" WIDTH="1731" HEIGHT="637" ID="eSc_textblock_1130b147" TAGREFS="BT297">
+          <Shape><Polygon POINTS="3606 7037 3606 7674 5337 7674 5337 7037" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_959cd7ec" TAGREFS="LT105" BASELINE="3682 7244 5329 7252" HPOS="3673" VPOS="7108" WIDTH="1650" HEIGHT="173">
+            <Shape><Polygon POINTS="3673 7268 5311 7281 5323 7249 5317 7140 3724 7140 3692 7108 3679 7242 3673 7268" /></Shape>
+	    <String CONTENT="Lugano Sammlung Thyssen" HPOS="3673" VPOS="7108" WIDTH="1650" HEIGHT="173" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c4ab63c7" TAGREFS="LT105" BASELINE="3665 7395 4546 7408" HPOS="3653" VPOS="7255" WIDTH="890" HEIGHT="167">
+            <Shape><Polygon POINTS="3660 7390 3653 7422 4536 7422 4543 7402 4543 7287 4428 7255 4421 7255 3660 7255 3660 7390" /></Shape>
+	    <String CONTENT="Kat. Nr 224" HPOS="3653" VPOS="7255" WIDTH="890" HEIGHT="167" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3362e5be" TAGREFS="LT105" BASELINE="3652 7563 4946 7564" HPOS="3647" VPOS="7428" WIDTH="1293" HEIGHT="186">
+            <Shape><Polygon POINTS="3647 7562 3647 7594 4933 7614 4940 7562 4933 7428 3647 7447 3647 7562" /></Shape>
+	    <String CONTENT="Foto Brunel Lugano" HPOS="3647" VPOS="7428" WIDTH="1293" HEIGHT="186" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5413" VPOS="7425" WIDTH="670" HEIGHT="249" ID="eSc_textblock_a9fd22f7" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5413 7425 5413 7674 6083 7674 6083 7425" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="1412" VPOS="503" WIDTH="3640" HEIGHT="5300" ID="eSc_textblock_25948252" TAGREFS="BT284">
+          <Shape><Polygon POINTS="1412 514 1434 5803 4983 5803 5052 503" /></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

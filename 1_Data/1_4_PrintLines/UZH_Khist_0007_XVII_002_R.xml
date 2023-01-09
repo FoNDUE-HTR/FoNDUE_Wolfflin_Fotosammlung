@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_XVII_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6059" HEIGHT="7783" PHYSICAL_IMG_NR="145" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6059" HEIGHT="7783">
+        
+        <TextBlock HPOS="593" VPOS="773" WIDTH="4729" HEIGHT="6031" ID="eSc_textblock_32583efa" TAGREFS="BT284">
+          <Shape><Polygon POINTS="605 834 593 6804 5322 6804 5298 773" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_f610fd1d" TAGREFS="LT105" BASELINE="1832 6738 3913 6730" HPOS="1809" VPOS="6609" WIDTH="2102" HEIGHT="253">
+            <Shape><Polygon POINTS="1829 6732 1809 6622 3892 6609 3911 6725 3911 6836 1829 6862" /></Shape>
+	    <String CONTENT="Sedia Episcopale nella cattedrale di Anagni" HPOS="1809" VPOS="6609" WIDTH="2102" HEIGHT="253" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c7151454" TAGREFS="LT105" BASELINE="619 6768 1376 6759" HPOS="616" VPOS="6615" WIDTH="759" HEIGHT="240">
+            <Shape><Polygon POINTS="629 6751 629 6615 1375 6628 1375 6758 1362 6855 616 6849" /></Shape>
+	    <String CONTENT="oma N. 5791" HPOS="616" VPOS="6615" WIDTH="759" HEIGHT="240" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2bc0cc66" TAGREFS="LT105" BASELINE="4313 6723 5144 6719" HPOS="4288" VPOS="6589" WIDTH="849" HEIGHT="260">
+            <Shape><Polygon POINTS="4307 6719 4288 6596 5118 6589 5137 6712 5137 6810 5008 6849 5001 6849 4995 6849 4988 6849 4923 6823 4917 6816 4910 6823 4878 6849 4871 6849 4865 6849 4858 6849 4852 6849 4806 6823 4787 6816 4307 6842" /></Shape>
+	    <String CONTENT="Fotogr. R. Moscioni" HPOS="4288" VPOS="6589" WIDTH="849" HEIGHT="260" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5271" VPOS="7437" WIDTH="478" HEIGHT="208" ID="eSc_textblock_f12e1c95" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5277 7645 5271 7437 5720 7437 5749 7614" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

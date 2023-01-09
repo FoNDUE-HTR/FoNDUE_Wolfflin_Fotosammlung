@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_VII_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5557" HEIGHT="7191" PHYSICAL_IMG_NR="255" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5557" HEIGHT="7191">
+        
+        <TextBlock HPOS="373" VPOS="475" WIDTH="4737" HEIGHT="6266" ID="eSc_textblock_39cbbae9" TAGREFS="BT284">
+          <Shape><Polygon POINTS="455 475 373 6734 5110 6741 5110 475" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_ec52a34f" TAGREFS="LT105" BASELINE="1102 6684 4794 6680" HPOS="1091" VPOS="6536" WIDTH="3698" HEIGHT="217">
+            <Shape><Polygon POINTS="1097 6681 1091 6566 1539 6536 1658 6547 1735 6541 1872 6553 2021 6542 2205 6578 2325 6542 2420 6554 2521 6566 2691 6585 2793 6555 2799 6555 2805 6555 4070 6555 4693 6555 4699 6555 4783 6597 4789 6675 4783 6693 3944 6705 3932 6711 3776 6753 3770 6753 3764 6753 3758 6753 3686 6717 3656 6699 2134 6699 2080 6747 2074 6747 2074 6753 2068 6753 2062 6753 1097 6753" /></Shape>
+	    <String CONTENT="2015 FIRENZE - Museo di S. Marco - Incoronazione della Vergine; Angelico (part.)." HPOS="1091" VPOS="6536" WIDTH="3698" HEIGHT="217" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4991" VPOS="6956" WIDTH="468" HEIGHT="216" ID="eSc_textblock_91b7dcdd" TAGREFS="BT285">
+          <Shape><Polygon POINTS="4991 6956 4991 7172 5459 7172 5459 6956" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

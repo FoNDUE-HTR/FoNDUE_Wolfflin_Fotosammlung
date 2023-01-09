@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_4_VI_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5953" HEIGHT="4699" PHYSICAL_IMG_NR="511" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5953" HEIGHT="4699">
+        
+        <TextBlock HPOS="25" VPOS="17" WIDTH="5888" HEIGHT="4656" ID="eSc_textblock_bc1cb2d2" TAGREFS="BT284">
+          <Shape><Polygon POINTS="25 59 25 4673 5913 4673 5913 17" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_e80578a6" TAGREFS="LT102" BASELINE="341 4595 5468 4602" HPOS="336" VPOS="4514" WIDTH="5131" HEIGHT="110">
+            <Shape><Polygon POINTS="5463 4518 340 4514 340 4593 336 4616 5459 4624 5467 4601 5467 4597 5463 4518" /></Shape>
+	    <String CONTENT="(Ed. ne Alinari) P.e I.a N.° 12230. PADOVA – Basilica di S. Antonio. Un Miracolo del Santo e conversione dell' eretico Aleardino. (Giov. Maria da Padova e Paolo Stella.)" HPOS="336" VPOS="4514" WIDTH="5131" HEIGHT="110" />
+          </TextLine>
+
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

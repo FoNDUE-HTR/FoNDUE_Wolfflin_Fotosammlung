@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_IX_003_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5902" HEIGHT="7671" PHYSICAL_IMG_NR="242" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5902" HEIGHT="7671">
+        
+        <TextBlock HPOS="498" VPOS="473" WIDTH="4770" HEIGHT="6199" ID="eSc_textblock_953b9ff0" TAGREFS="BT284">
+          <Shape><Polygon POINTS="4667 549 5268 538 5160 6667 1278 6667 498 6672 537 639 531 486 967 473" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_0846a689" TAGREFS="LT102" BASELINE="745 6601 4003 6614" HPOS="728" VPOS="6475" WIDTH="3274" HEIGHT="249">
+            <Shape><Polygon POINTS="741 6597 741 6475 4002 6501 4002 6609 3996 6692 2749 6724 2743 6724 2743 6724 2736 6724 2589 6686 2583 6680 2199 6680 2193 6680 2154 6712 2154 6712 2148 6712 2148 6712 2148 6712 2142 6712 2142 6712 2135 6712 2135 6712 2135 6712 2129 6712 2129 6712 2052 6680 2027 6705 2027 6712 2027 6712 2020 6712 2020 6712 2020 6712 2014 6712 2014 6712 2014 6712 2007 6712 2007 6712 1784 6680 1771 6680 1764 6680 1457 6718 1457 6718 1451 6718 1451 6718 1445 6718 1304 6680 1093 6705 1093 6705 1087 6705 1087 6705 728 6667" /></Shape>
+	    <String CONTENT="341. FIRENZE - Gall. Uffizi – Un Angelo del gran Tabernacolo. (Beato Angelico)." HPOS="728" VPOS="6475" WIDTH="3274" HEIGHT="249" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

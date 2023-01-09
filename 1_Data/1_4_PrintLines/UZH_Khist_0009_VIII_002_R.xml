@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0009_VIII_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5817" HEIGHT="7244" PHYSICAL_IMG_NR="202" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5817" HEIGHT="7244">
+        
+        <TextBlock HPOS="601" VPOS="542" WIDTH="4583" HEIGHT="6097" ID="eSc_textblock_89b96b11" TAGREFS="BT284">
+          <Shape><Polygon POINTS="5146 571 5184 6554 3346 6601 681 6639 604 911 601 542" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_74e94850" TAGREFS="LT102" BASELINE="786 6600 5151 6509" HPOS="767" VPOS="6404" WIDTH="4379" HEIGHT="260">
+            <Shape><Polygon POINTS="785 6598 767 6501 5128 6404 5146 6507 5140 6543 3491 6567 3449 6592 3400 6616 3400 6616 3400 6616 3394 6616 3394 6616 3394 6616 2518 6634 2512 6634 2138 6628 1407 6616 1334 6652 1316 6658 1316 6658 1310 6658 1310 6658 1310 6658 1304 6658 1214 6652 893 6634 791 6664" /></Shape>
+	    <String CONTENT="(Ed.ne Alinari) P.e 2.a N.° 4093. FIRENZE - Chiostro di S. M. Novella. Cappella degli Spagnoli. la venuta dello Spirito Santo. ⟦(Taddeo Gaddi ?)⟧" HPOS="767" VPOS="6404" WIDTH="4379" HEIGHT="260" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="698" VPOS="6752" WIDTH="3003" HEIGHT="323" ID="eSc_textblock_28f304a3" TAGREFS="BT297">
+          <Shape><Polygon POINTS="698 6752 698 7075 3701 7075 3701 6752" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="3869" VPOS="6582" WIDTH="1610" HEIGHT="280" ID="eSc_textblock_5e956f74" TAGREFS="BT297">
+          <Shape><Polygon POINTS="3869 6582 3869 6862 5479 6862 5479 6582" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="5212" VPOS="6976" WIDTH="460" HEIGHT="223" ID="eSc_textblock_22ac07f8" TAGREFS="BT297">
+          <Shape><Polygon POINTS="5212 6976 5212 7199 5672 7199 5672 6976" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

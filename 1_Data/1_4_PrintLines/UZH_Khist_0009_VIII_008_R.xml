@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0009_VIII_008_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7621" HEIGHT="6607" PHYSICAL_IMG_NR="208" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="7621" HEIGHT="6607">
+        
+        <TextBlock HPOS="792" VPOS="797" WIDTH="6098" HEIGHT="4835" ID="eSc_textblock_8764a798" TAGREFS="BT284">
+          <Shape><Polygon POINTS="6890 860 6844 2136 6829 5439 6821 5588 3430 5632 1453 5588 795 5599 792 1060 794 797 969 814" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_6981e665" TAGREFS="LT102" BASELINE="1407 5539 6756 5545" HPOS="1398" VPOS="5340" WIDTH="5352" HEIGHT="264">
+            <Shape><Polygon POINTS="1404 5538 1398 5357 1960 5340 1965 5340 1965 5340 1971 5340 1971 5340 1971 5340 2020 5362 2120 5417 2433 5417 2532 5373 2532 5373 2532 5373 2538 5373 2538 5373 2544 5373 2544 5373 2544 5373 2549 5373 2742 5412 2995 5412 3083 5379 3210 5340 3215 5340 3215 5340 3215 5340 3221 5340 3221 5340 3221 5340 3226 5340 3226 5340 3320 5384 3375 5412 3661 5412 3821 5390 4195 5340 4195 5340 4201 5340 4201 5340 4201 5340 4471 5401 4504 5406 4537 5401 4680 5379 4680 5379 4686 5379 4686 5379 5043 5406 5313 5362 5313 5362 5319 5362 5319 5362 5319 5362 5324 5362 5462 5406 5572 5384 5572 5384 5572 5384 5578 5384 5578 5384 5578 5384 5583 5384 5583 5384 5660 5417 5682 5434 6750 5439 6750 5544 6739 5604 1398 5593" /></Shape>
+	    <String CONTENT="6723. FIRENZE. (Cappellone degli Spagnoli) La Resurrezione di Cristo ; affresco creduto di Taddeo Gaddi, ma piuttosto di A. Veneziano. (Edizione Brogi)" HPOS="1398" VPOS="5340" WIDTH="5352" HEIGHT="264" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="789" VPOS="5745" WIDTH="3329" HEIGHT="299" ID="eSc_textblock_d10b0193" TAGREFS="BT297">
+          <Shape><Polygon POINTS="789 5745 816 6044 4096 6044 4118 5756" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="29" VPOS="5957" WIDTH="309" HEIGHT="576" ID="eSc_textblock_f1bac3d3" TAGREFS="BT297">
+          <Shape><Polygon POINTS="29 5957 29 6533 338 6533 338 5957" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="5545" VPOS="5572" WIDTH="1356" HEIGHT="226" ID="eSc_textblock_640230ce" TAGREFS="BT297">
+          <Shape><Polygon POINTS="6901 5798 6901 5572 5545 5572 5545 5798" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

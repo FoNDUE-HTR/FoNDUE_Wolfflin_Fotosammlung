@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_3_II_005_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6241" HEIGHT="7761" PHYSICAL_IMG_NR="437" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6241" HEIGHT="7761">
+        
+        <TextBlock HPOS="1042" VPOS="776" WIDTH="4309" HEIGHT="6147" ID="eSc_textblock_42d7b192" TAGREFS="BT284">
+          <Shape><Polygon POINTS="1042 776 1042 6923 5351 6923 5351 776" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_05c43596" TAGREFS="LT102" BASELINE="1129 6863 5190 6899" HPOS="1120" VPOS="6583" WIDTH="4065" HEIGHT="427">
+            <Shape><Polygon POINTS="1126 6862 1120 6984 1579 6991 1586 6991 1592 6991 1599 6991 1650 6952 1747 6984 1754 6984 1760 6984 1767 6984 1877 6952 1987 6991 2006 6997 2013 6997 2019 6997 2026 6997 2045 6991 2123 6965 2421 6991 2427 6991 2634 6952 2984 6997 3062 7004 3068 7004 3133 6997 3385 6959 3515 6997 3554 7010 3560 7010 3567 7010 3962 7004 3968 7004 3975 7004 4033 6965 4609 6997 4616 6997 5030 6971 5166 7004 5185 6894 5179 6706 4616 6680 4505 6609 4499 6609 4493 6609 4486 6609 4480 6609 4234 6680 4013 6616 4007 6616 4000 6616 3994 6616 3988 6616 3923 6655 3716 6629 3709 6629 3703 6629 3599 6680 3560 6642 3554 6642 3547 6642 3204 6609 3198 6609 3191 6609 3101 6648 3016 6616 3010 6616 3003 6616 2634 6674 2233 6590 2227 6590 2220 6590 2039 6648 1974 6590 1974 6583 1968 6583 1961 6583 1838 6583 1832 6583 1825 6583 1819 6583 1702 6661 1612 6583 1605 6583 1599 6583 1424 6583 1417 6583 1411 6583 1404 6583 1404 6590 1307 6674 1301 6674 1126 6674 1126 6862" /></Shape>
+	    <String CONTENT="A saan" HPOS="1120" VPOS="6583" WIDTH="4065" HEIGHT="427" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5257" VPOS="7490" WIDTH="544" HEIGHT="272" ID="eSc_textblock_e586ff64" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5257 7490 5257 7762 5801 7762 5801 7490" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

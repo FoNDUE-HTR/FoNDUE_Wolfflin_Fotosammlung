@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_VII_004_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7635" HEIGHT="5689" PHYSICAL_IMG_NR="258" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="7635" HEIGHT="5689">
+        
+        <TextBlock HPOS="850" VPOS="499" WIDTH="5957" HEIGHT="4580" ID="eSc_textblock_5904031f" TAGREFS="BT284">
+          <Shape><Polygon POINTS="860 499 850 5079 6807 5079 6807 499" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_124412cf" TAGREFS="LT102" BASELINE="1829 5003 5800 4992" HPOS="1811" VPOS="4887" WIDTH="3988" HEIGHT="147">
+            <Shape><Polygon POINTS="1825 5001 1811 4902 5785 4887 5799 4987 5795 5006 1825 5034" /></Shape>
+	    <String CONTENT="(Ed. ne Alinari) P.e 2.a N.° 644. FIRENZE  – R. Galleria Uffizi. Un dettaglio dell' Incoronazione della Vergine. (Beato Angelico.)" HPOS="1811" VPOS="4887" WIDTH="3988" HEIGHT="147" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="125" VPOS="4906" WIDTH="235" HEIGHT="571" ID="eSc_textblock_8469c323" TAGREFS="BT285">
+          <Shape><Polygon POINTS="125 4906 125 5477 360 5477 360 4906" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

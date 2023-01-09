@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0006_VI_004_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5581" HEIGHT="7479" PHYSICAL_IMG_NR="31" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5581" HEIGHT="7479">
+        
+        <TextBlock HPOS="2028" VPOS="607" WIDTH="1458" HEIGHT="155" ID="eSc_textblock_e661c176" TAGREFS="BT297">
+          <Shape><Polygon POINTS="3435 628 3486 753 2028 762 2032 607" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_e70385d4" TAGREFS="LT105" BASELINE="2070 716 3442 716" HPOS="2070" VPOS="598" WIDTH="1372" HEIGHT="162">
+            <Shape><Polygon POINTS="2070 716 2070 598 3442 598 3442 716 3442 760 2070 760" /></Shape>
+	    <String CONTENT="OBERDEUTSCHE SCHULE" HPOS="2070" VPOS="598" WIDTH="1372" HEIGHT="162" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="713" VPOS="5902" WIDTH="4156" HEIGHT="1342" ID="eSc_textblock_0cc04e86" TAGREFS="BT297">
+          <Shape><Polygon POINTS="713 5902 713 7244 4869 7244 4869 5902" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_e74ee8f0" TAGREFS="LT105" BASELINE="766 6051 1758 6064" HPOS="760" VPOS="5864" WIDTH="998" HEIGHT="250">
+            <Shape><Polygon POINTS="766 6051 766 5864 1758 5883 1758 6064 1752 6107 760 6114" /></Shape>
+	    <String CONTENT="Klassischer Bilderschaz Nr. 994" HPOS="760" VPOS="5864" WIDTH="998" HEIGHT="250" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d8bb73f9" TAGREFS="LT105" BASELINE="3810 6045 4764 6045" HPOS="3803" VPOS="5864" WIDTH="961" HEIGHT="250">
+            <Shape><Polygon POINTS="3810 6045 3803 5871 4757 5864 4764 6045 4764 6089 3810 6114" /></Shape>
+	    <String CONTENT="Sammlung Schubart, München" HPOS="3803" VPOS="5864" WIDTH="961" HEIGHT="250" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5bb90562" TAGREFS="LT105" BASELINE="2026 6238 3498 6226" HPOS="2007" VPOS="6101" WIDTH="1491" HEIGHT="168">
+            <Shape><Polygon POINTS="2026 6238 2007 6107 3479 6101 3498 6226 3498 6263 2026 6269" /></Shape>
+	    <String CONTENT="CHRISTOPH AMBERGER" HPOS="2007" VPOS="6101" WIDTH="1491" HEIGHT="168" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_352593d4" TAGREFS="LT105" BASELINE="2375 6382 3142 6363" HPOS="2363" VPOS="6269" WIDTH="779" HEIGHT="144">
+            <Shape><Polygon POINTS="2375 6382 2363 6288 3124 6269 3142 6363 3136 6400 2375 6413" /></Shape>
+	    <String CONTENT="1500(?)–1560/61" HPOS="2363" VPOS="6269" WIDTH="779" HEIGHT="144" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a8980caf" TAGREFS="LT105" BASELINE="1346 6693 4184 6681" HPOS="1340" VPOS="6581" WIDTH="2844" HEIGHT="175">
+            <Shape><Polygon POINTS="1346 6693 1340 6581 4171 6587 4184 6681 4184 6756 1346 6756" /></Shape>
+	    <String CONTENT="Bildnis der Barbara Schwartz – Portrait de Barbara Schwartz" HPOS="1340" VPOS="6581" WIDTH="2844" HEIGHT="175" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_616a60e7" TAGREFS="LT105" BASELINE="1571 7092 3947 7080" HPOS="1558" VPOS="6974" WIDTH="2389" HEIGHT="174">
+            <Shape><Polygon POINTS="1571 7092 1558 6986 3928 6974 3947 7080 3940 7148 1571 7148" /></Shape>
+	    <String CONTENT="VERLAGSANSTALT FÜR KUNST UND WISSENSCHAFT VORMALS FRIEDR. BRUCKMANN. MÜNCHEN" HPOS="1558" VPOS="6974" WIDTH="2389" HEIGHT="174" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="728" VPOS="1102" WIDTH="4057" HEIGHT="4721" ID="eSc_textblock_a6f20aaf" TAGREFS="BT284">
+          <Shape><Polygon POINTS="728 1102 728 5823 4785 5823 4777 1121" /></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0009_IV_006_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7241" HEIGHT="5817" PHYSICAL_IMG_NR="185" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="7241" HEIGHT="5817">
+        
+        <TextBlock HPOS="659" VPOS="465" WIDTH="5972" HEIGHT="4652" ID="eSc_textblock_3f135199" TAGREFS="BT284">
+          <Shape><Polygon POINTS="6600 562 6631 4946 6630 5102 5642 5114 4220 5117 717 5102 659 717 717 484 1125 465" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_80860263" TAGREFS="LT102" BASELINE="746 5075 6612 5085" HPOS="732" VPOS="4988" WIDTH="5878" HEIGHT="121">
+            <Shape><Polygon POINTS="742 5070 742 4988 6610 5002 6610 5080 6600 5109 732 5099" /></Shape>
+	    <String CONTENT="(Ed.ne Alinari) P.e 2.a N.° 4105. FIRENZE - Chiostro di S. M. Novella, Cappella degli Spagnoli. Boccaccio, il cav. di Rodi ed altri tre personaggi, dettaglio degli Affreschi. ⟦(Simone Martini)⟧" HPOS="732" VPOS="4988" WIDTH="5878" HEIGHT="121" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="72" VPOS="5100" WIDTH="271" HEIGHT="487" ID="eSc_textblock_041e4413" TAGREFS="BT285">
+          <Shape><Polygon POINTS="72 5100 72 5587 343 5587 343 5100" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="5497" VPOS="5132" WIDTH="1581" HEIGHT="232" ID="eSc_textblock_803ebcba" TAGREFS="BT297">
+          <Shape><Polygon POINTS="5497 5132 5497 5364 7078 5364 7078 5132" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

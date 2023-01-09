@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0006_XII_006_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5692" HEIGHT="7646" PHYSICAL_IMG_NR="51" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5692" HEIGHT="7646">
+        
+        <TextBlock HPOS="597" VPOS="629" WIDTH="4455" HEIGHT="6164" ID="eSc_textblock_b39828a3" TAGREFS="BT284">
+          <Shape><Polygon POINTS="656 629 597 6769 5052 6793 5052 629" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_9f1820d6" TAGREFS="LT102" BASELINE="615 6667 2307 6672 2447 6658 3301 6658 3441 6662 4366 6664 4493 6671 5003 6671" HPOS="605" VPOS="6562" WIDTH="4392" HEIGHT="147">
+            <Shape><Polygon POINTS="611 6664 611 6562 4997 6581 4997 6664 4984 6709 605 6683" /></Shape>
+	    <String CONTENT="T 721 - Art gothique - XIIIe siècle . - Tête du beau Dieu. - Cathédrale d'Amiens. A. G. phot." HPOS="605" VPOS="6562" WIDTH="4392" HEIGHT="147" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5016" VPOS="7385" WIDTH="516" HEIGHT="190" ID="eSc_textblock_1220f21c" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5506 7385 5532 7550 5016 7575 5035 7397" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

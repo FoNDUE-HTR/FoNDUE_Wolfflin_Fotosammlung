@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0009_VIII_006_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7249" HEIGHT="5802" PHYSICAL_IMG_NR="206" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="7249" HEIGHT="5802">
+        
+        <TextBlock HPOS="582" VPOS="450" WIDTH="6115" HEIGHT="4626" ID="eSc_textblock_ac9586ee" TAGREFS="BT284">
+          <Shape><Polygon POINTS="582 450 626 5076 6697 5054 6670 477" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_6f6ce369" TAGREFS="LT102" BASELINE="1797 5056 5639 5025" HPOS="1779" VPOS="4941" WIDTH="3859" HEIGHT="130">
+            <Shape><Polygon POINTS="1794 5052 1779 4951 5624 4941 5638 5023 5638 5052 1794 5071" /></Shape>
+	    <String CONTENT="(Ed.ne Alinari) P.e 2.a N.° 4092. FIRENZE - Chiostro di S. M. Novella. Cappella degli Spagnoli. L'Ascensione. ⟦(Taddeo Gaddi?)⟧" HPOS="1779" VPOS="4941" WIDTH="3859" HEIGHT="130" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="51" VPOS="5167" WIDTH="268" HEIGHT="521" ID="eSc_textblock_df8afa0a" TAGREFS="BT297">
+          <Shape><Polygon POINTS="51 5167 51 5688 319 5688 319 5167" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="641" VPOS="5397" WIDTH="3167" HEIGHT="256" ID="eSc_textblock_e6eea6f5" TAGREFS="BT297">
+          <Shape><Polygon POINTS="641 5397 641 5653 3808 5653 3808 5397" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="4776" VPOS="5008" WIDTH="1896" HEIGHT="277" ID="eSc_textblock_3e4564b3" TAGREFS="BT297">
+          <Shape><Polygon POINTS="6672 5279 6666 5008 4776 5008 4776 5285" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

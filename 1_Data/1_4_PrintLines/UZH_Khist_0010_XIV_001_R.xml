@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_XIV_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4946" HEIGHT="6461" PHYSICAL_IMG_NR="282" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="4946" HEIGHT="6461">
+        
+        <TextBlock HPOS="201" VPOS="217" WIDTH="4517" HEIGHT="5991" ID="eSc_textblock_57716d38" TAGREFS="BT284">
+          <Shape><Polygon POINTS="201 217 201 6208 4718 6208 4718 217" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_02a3ce40" TAGREFS="LT102" BASELINE="538 6019 4321 5992" HPOS="522" VPOS="5890" WIDTH="3793" HEIGHT="177">
+            <Shape><Polygon POINTS="533 6014 522 5917 4299 5890 4315 5987 4315 6024 533 6067" /></Shape>
+	    <String CONTENT="PE. 2.A -N°. 7217 PERUGIA - PINACOTECA VANNUCCI. S. DOMENICO E S. NICCOLO. (BEATO ANGELICO)." HPOS="522" VPOS="5890" WIDTH="3793" HEIGHT="177" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="969" VPOS="6121" WIDTH="1861" HEIGHT="260" ID="eSc_textblock_e4d3c929" TAGREFS="BT297">
+          <Shape><Polygon POINTS="2798 6381 2830 6121 969 6121 969 6381" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="4173" VPOS="6243" WIDTH="602" HEIGHT="214" ID="eSc_textblock_3d08922b" TAGREFS="BT285">
+          <Shape><Polygon POINTS="4173 6243 4173 6457 4775 6457 4775 6243" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

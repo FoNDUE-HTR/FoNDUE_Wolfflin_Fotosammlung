@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_XVII_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5840" HEIGHT="7589" PHYSICAL_IMG_NR="296" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5840" HEIGHT="7589">
+        
+        <TextBlock HPOS="721" VPOS="405" WIDTH="4484" HEIGHT="6263" ID="eSc_textblock_fa7a37af" TAGREFS="BT284">
+          <Shape><Polygon POINTS="783 405 721 6668 5205 6658 5205 499" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_f36c0120" TAGREFS="LT105" BASELINE="2176 588 3960 607" HPOS="2163" VPOS="499" WIDTH="1797" HEIGHT="127">
+            <Shape><Polygon POINTS="2176 588 2176 499 3960 518 3960 607 3948 626 2163 613" /></Shape>
+	    <String CONTENT="RIPRODUZIONE INTERDETTA" HPOS="2163" VPOS="499" WIDTH="1797" HEIGHT="127" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7d506fdf" TAGREFS="LT102" BASELINE="1284 6539 4656 6577" HPOS="1271" VPOS="6438" WIDTH="3385" HEIGHT="164">
+            <Shape><Polygon POINTS="1284 6539 1284 6438 4656 6463 4656 6577 4644 6602 1271 6583" /></Shape>
+	    <String CONTENT="(Ed.ne Alinari) P.e 2.a N. 7382 ROMA - Galleria Corsini. La discesa dello Spirito Santo. (Beato Angelico.)" HPOS="1271" VPOS="6438" WIDTH="3385" HEIGHT="164" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1331" VPOS="6791" WIDTH="3352" HEIGHT="331" ID="eSc_textblock_2d4bd927" TAGREFS="BT297">
+          <Shape><Polygon POINTS="1331 6791 1331 7122 4683 7122 4683 6791" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="5177" VPOS="7297" WIDTH="599" HEIGHT="262" ID="eSc_textblock_2c6c141a" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5177 7297 5177 7559 5776 7559 5776 7297" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

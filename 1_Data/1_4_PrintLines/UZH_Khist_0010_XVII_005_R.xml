@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_XVII_005_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7801" HEIGHT="5886" PHYSICAL_IMG_NR="299" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="7801" HEIGHT="5886">
+        
+        <TextBlock HPOS="742" VPOS="436" WIDTH="6246" HEIGHT="4928" ID="eSc_textblock_a228c649" TAGREFS="BT284">
+          <Shape><Polygon POINTS="742 523 800 5364 6988 5237 6970 436" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_f25b6fc1" TAGREFS="LT102" BASELINE="6132 5175 6790 5168" HPOS="6113" VPOS="5066" WIDTH="672" HEIGHT="133">
+            <Shape><Polygon POINTS="6127 5174 6113 5086 6770 5066 6785 5164 6780 5189 6127 5199" /></Shape>
+	    <String CONTENT="(Ediz. V. Jacquier)" HPOS="6113" VPOS="5066" WIDTH="672" HEIGHT="133" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_367e69a6" TAGREFS="LT102" BASELINE="1035 5263 1648 5248 1727 5258 2781 5228 2865 5228 4450 5189 4518 5189 5108 5186" HPOS="1015" VPOS="5086" WIDTH="4092" HEIGHT="275">
+            <Shape><Polygon POINTS="1030 5258 1015 5174 5097 5086 5107 5184 5107 5204 3689 5238 3650 5263 3566 5302 3566 5302 3566 5302 3561 5302 3561 5302 3557 5302 3557 5302 3365 5277 3321 5307 3316 5307 3316 5307 3316 5307 3311 5307 3311 5307 3311 5307 3306 5307 3046 5287 3041 5287 3036 5287 2933 5317 2929 5317 2929 5317 2929 5317 2575 5321 2570 5321 2570 5321 2482 5307 2389 5292 2266 5317 2227 5321 2227 5321 2222 5321 2222 5321 2183 5317 2075 5307 1888 5331 1790 5341 1790 5341 1785 5341 1785 5341 1785 5341 1780 5341 1756 5336 1692 5317 1030 5361" /></Shape>
+	    <String CONTENT="241.Bis FIRENZE - (Galleria Antica e Moderna) - L'Inferno - (Dettaglio del Giudizio finale.) -Beato Angelico." HPOS="1015" VPOS="5086" WIDTH="4092" HEIGHT="275" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="156" VPOS="5079" WIDTH="220" HEIGHT="605" ID="eSc_textblock_c09d9804" TAGREFS="BT285">
+          <Shape><Polygon POINTS="156 5079 156 5684 376 5684 376 5079" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_III_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6963" HEIGHT="5503" PHYSICAL_IMG_NR="78" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6963" HEIGHT="5503">
+        
+        <TextBlock HPOS="2499" VPOS="49" WIDTH="1912" HEIGHT="159" ID="eSc_textblock_e485d3be" TAGREFS="BT297">
+          <Shape><Polygon POINTS="2505 49 4411 52 4405 208 2499 202" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_6cd2fe4c" TAGREFS="LT105" BASELINE="2564 146 4348 146" HPOS="2559" VPOS="73" WIDTH="1789" HEIGHT="119">
+            <Shape><Polygon POINTS="2564 146 2564 73 4348 73 4348 146 4343 192 2559 174" /></Shape>
+	    <String CONTENT="Kunstkalender XIX. Jahrgang / Berner Allgemeine / Berner Leben" HPOS="2559" VPOS="73" WIDTH="1789" HEIGHT="119" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="967" VPOS="4656" WIDTH="457" HEIGHT="150" ID="eSc_textblock_75432c06" TAGREFS="BT297">
+          <Shape><Polygon POINTS="1424 4657 1420 4761 967 4806 997 4656" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_ce400280" TAGREFS="LT105" BASELINE="1013 4737 1408 4727" HPOS="999" VPOS="4650" WIDTH="409" HEIGHT="119">
+            <Shape><Polygon POINTS="1013 4737 999 4663 1394 4650 1408 4727 1408 4760 1013 4769" /></Shape>
+	    <String CONTENT="Cuno Amiet" HPOS="999" VPOS="4650" WIDTH="409" HEIGHT="119" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="29" VPOS="4851" WIDTH="251" HEIGHT="572" ID="eSc_textblock_1967e39b" TAGREFS="BT285">
+          <Shape><Polygon POINTS="29 4851 29 5423 280 5423 280 4851" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="5208" VPOS="4654" WIDTH="709" HEIGHT="120" ID="eSc_textblock_b2debd29" TAGREFS="BT297">
+          <Shape><Polygon POINTS="5228 4774 5208 4654 5898 4677 5917 4746 5408 4764" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_20cd2d69" TAGREFS="LT105" BASELINE="5252 4732 5917 4741" HPOS="5247" VPOS="4659" WIDTH="670" HEIGHT="137">
+            <Shape><Polygon POINTS="5252 4732 5252 4659 5912 4668 5917 4741 5917 4769 5825 4796 5820 4796 5816 4796 5651 4773 5568 4764 5247 4778" /></Shape>
+	    <String CONTENT="Heiteren bei Zofingen" HPOS="5247" VPOS="4659" WIDTH="670" HEIGHT="137" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1014" VPOS="692" WIDTH="4912" HEIGHT="3892" ID="eSc_textblock_044350bd" TAGREFS="BT284">
+          <Shape><Polygon POINTS="1014 699 1022 4584 5926 4569 5926 692" /></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

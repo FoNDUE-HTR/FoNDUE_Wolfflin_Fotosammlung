@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0009_III_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5800" HEIGHT="7912" PHYSICAL_IMG_NR="179" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5800" HEIGHT="7912">
+        
+        <TextBlock HPOS="552" VPOS="852" WIDTH="4642" HEIGHT="6099" ID="eSc_textblock_aba3efd4" TAGREFS="BT284">
+          <Shape><Polygon POINTS="552 852 552 6951 5194 6943 5194 852" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_555ab7c4" TAGREFS="LT102" BASELINE="890 6870 4645 6896" HPOS="877" VPOS="6777" WIDTH="3768" HEIGHT="152">
+            <Shape><Polygon POINTS="890 6870 890 6777 4638 6791 4645 6896 4632 6929 877 6909" /></Shape>
+	    <String CONTENT="(Ed.ne Alinari) P.e I.a N.° 10641. BOLOGNA - Museo Civico. Sarcofago di Bartolommeo da Saliceto. (Andrea da Fiesole.)" HPOS="877" VPOS="6777" WIDTH="3768" HEIGHT="152" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5094" VPOS="7602" WIDTH="521" HEIGHT="250" ID="eSc_textblock_a3eb9db3" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5127 7602 5615 7648 5615 7826 5225 7852 5094 7851" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0172_VII_005_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5747" HEIGHT="7145" PHYSICAL_IMG_NR="420" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5747" HEIGHT="7145">
+        
+        <TextBlock HPOS="998" VPOS="817" WIDTH="3790" HEIGHT="5417" ID="eSc_textblock_1110fe89" TAGREFS="BT284">
+          <Shape><Polygon POINTS="1008 817 998 6234 4788 6182 4788 817" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_375a10ce" TAGREFS="LT105" BASELINE="1111 6126 4633 6091" HPOS="1089" VPOS="5930" WIDTH="3538" HEIGHT="232">
+            <Shape><Polygon POINTS="1107 6120 1089 5983 4609 5930 4627 6085 4627 6120 1107 6162" /></Shape>
+	    <String CONTENT="DOROTHEA KANNENGIESSER, UXOR JAC MEIERI COS · BAS·" HPOS="1089" VPOS="5930" WIDTH="3538" HEIGHT="232" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1000" VPOS="6272" WIDTH="1603" HEIGHT="299" ID="eSc_textblock_79019752" TAGREFS="BT297">
+          <Shape><Polygon POINTS="1000 6272 1018 6571 2547 6524 2603 6272" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="4001" VPOS="6813" WIDTH="932" HEIGHT="335" ID="eSc_textblock_7020e652" TAGREFS="BT285">
+          <Shape><Polygon POINTS="4048 6813 4001 7148 4933 7148 4933 6841" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0009_IV_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7247" HEIGHT="5815" PHYSICAL_IMG_NR="181" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="7247" HEIGHT="5815">
+        
+        <TextBlock HPOS="715" VPOS="580" WIDTH="5825" HEIGHT="4553" ID="eSc_textblock_f5f209a2" TAGREFS="BT284">
+          <Shape><Polygon POINTS="715 580 715 5133 6540 5116 6540 580" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_c61f296d" TAGREFS="LT102" BASELINE="1458 5103 5695 5112" HPOS="1449" VPOS="5010" WIDTH="4241" HEIGHT="155">
+            <Shape><Polygon POINTS="1454 5102 1454 5010 5690 5015 5690 5107 5686 5165 5065 5165 5060 5160 5060 5160 5055 5160 5055 5160 5055 5160 5055 5160 5051 5160 4992 5126 4357 5126 4231 5160 4231 5160 4227 5160 4227 5160 4227 5165 3688 5165 3684 5160 3684 5160 3679 5160 3679 5160 3674 5160 3577 5126 2738 5126 2525 5160 2506 5160 2506 5160 2501 5160 2501 5160 2501 5160 2486 5160 2331 5126 1890 5126 1822 5160 1817 5160 1817 5160 1817 5160 1812 5160 1812 5160 1808 5160 1449 5155" /></Shape>
+	    <String CONTENT="(Ed.ne Alinari) P.e 2.a N.° 4100. FIRENZE- Chiostro di S. M. Novella. Capp. degli Spagnoli. La Chiesa militante e trionfante. ⟦(s. Martini)⟧" HPOS="1449" VPOS="5010" WIDTH="4241" HEIGHT="155" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="47" VPOS="5277" WIDTH="257" HEIGHT="431" ID="eSc_textblock_8fb8a09d" TAGREFS="BT285">
+          <Shape><Polygon POINTS="47 5277 56 5708 281 5654 304 5298" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="4943" VPOS="5138" WIDTH="1730" HEIGHT="268" ID="eSc_textblock_346c149c" TAGREFS="BT297">
+          <Shape><Polygon POINTS="4943 5138 4943 5406 6673 5406 6673 5138" /></Shape>
+          
+          
+          </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
