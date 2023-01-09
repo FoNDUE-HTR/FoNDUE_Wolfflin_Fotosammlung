@@ -1,0 +1,95 @@
+KETOS training
+WARNING:root:scikit-learn version 1.0.2 is not supported. Minimum required version: 0.17. Maximum required version: 0.19.2. Disabling scikit-learn conversion API.
+WARNING:root:Torch version 1.10.0+cu102 has not been tested with coremltools. You may run into unexpected errors. Torch 1.9.1 is the most recent version that has been tested.
+Building training set
+[221.6394] Line polygon outside of image bounds 
+[232.5768] Line polygon outside of image bounds 
+[341.9667] Text line " " is empty after transformations 
+[463.9373] Line polygon outside of image bounds 
+[546.1458] Text line " " is empty after transformations 
+[555.9851] Line polygon outside of image bounds 
+[599.0702] Line polygon outside of image bounds 
+[635.7593] Text line " " is empty after transformations 
+[639.1251] Line polygon outside of image bounds 
+[733.7384] Text line " " is empty after transformations 
+[947.0076] Line polygon outside of image bounds 
+[947.6859] Line polygon outside of image bounds 
+[1088.5865] Line polygon outside of image bounds 
+[1165.5294] Text line " " is empty after transformations 
+[1300.0384] Text line " " is empty after transformations 
+[1382.1809] Line polygon outside of image bounds 
+[1482.3852] Text line " " is empty after transformations 
+[1499.9628] Text line " " is empty after transformations 
+[1562.6558] Text line " " is empty after transformations 
+[1562.6562] Text line " " is empty after transformations 
+[1562.6563] Text line " " is empty after transformations 
+[1562.6564] Text line " " is empty after transformations 
+[1635.2205] Line polygon outside of image bounds 
+[1644.1042] Text line " " is empty after transformations 
+[1662.4144] Text line " " is empty after transformations 
+[1678.9939] Line polygon outside of image bounds 
+[1818.8970] Line polygon outside of image bounds 
+[1911.9826] Line polygon outside of image bounds 
+[1991.2294] Line polygon outside of image bounds 
+[2163.3609] Text line " " is empty after transformations 
+[2164.1611] Line polygon outside of image bounds 
+Building validation set
+[2335.0932] Line polygon outside of image bounds 
+[2631.2894] Text line " " is empty after transformations 
+[2631.2898] Text line " " is empty after transformations 
+[2631.2900] Text line " " is empty after transformations 
+[2631.2901] Text line " " is empty after transformations 
+[2633.4777] alphabet mismatch: chars in training set only: {'€', 'À', 'ù', '›', 'Ö', 'ª', 'â', 'Ò', 'ß', '>', '"', 'Æ', 'Q', '‹', '⟧', '?', '+', 'ū', '·', '<', '[', '$', 'œ', 'ò', 'ō', ']', 'ó', '⟦'} (not included in accuracy test during training) 
+[2633.4780] alphabet mismatch: chars in validation set only: {'û'} (not trained) 
+Initializing model ✓
+stage 1/∞
+Accuracy report (1) 0.0041 4685 4666
+stage 2/∞
+Accuracy report (2) 0.0645 4685 4383
+stage 3/∞
+Accuracy report (3) 0.1308 4685 4072
+stage 4/∞
+Accuracy report (4) 0.1712 4685 3883
+stage 5/∞
+Accuracy report (5) 0.2192 4685 3658
+stage 6/∞
+Accuracy report (6) 0.2425 4685 3549
+stage 7/∞
+Accuracy report (7) 0.2685 4685 3427
+stage 8/∞
+Accuracy report (8) 0.2771 4685 3387
+stage 9/∞
+Accuracy report (9) 0.2896 4685 3328
+stage 10/∞
+Accuracy report (10) 0.3345 4685 3118
+stage 11/∞
+Accuracy report (11) 0.3372 4685 3105
+stage 12/∞
+Accuracy report (12) 0.3603 4685 2997
+stage 13/∞
+Accuracy report (13) 0.3289 4685 3144
+stage 14/∞
+Accuracy report (14) 0.3652 4685 2974
+stage 15/∞
+Accuracy report (15) 0.3942 4685 2838
+stage 16/∞
+Accuracy report (16) 0.3810 4685 2900
+stage 17/∞
+Accuracy report (17) 0.3994 4685 2814
+stage 18/∞
+Accuracy report (18) 0.4028 4685 2798
+stage 19/∞
+Accuracy report (19) 0.4156 4685 2738
+stage 20/∞
+Accuracy report (20) 0.4295 4685 2673
+stage 21/∞
+Accuracy report (21) 0.4316 4685 2663
+stage 22/∞
+Accuracy report (22) 0.4401 4685 2623
+stage 23/∞
+Accuracy report (23) 0.4297 4685 2672
+stage 24/∞
+Accuracy report (24) 0.4497 4685 2578
+stage 25/∞
+Accuracy report (25) 0.4531 4685 2562
+Moving best model AllLines_20.mlmodel (0.4294556975364685) to AllLines_best.mlmodel

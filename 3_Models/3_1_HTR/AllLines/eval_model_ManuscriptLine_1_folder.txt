@@ -1,0 +1,52 @@
+Loading model AllLines_best.mlmodel	✓
+Evaluating AllLines_best.mlmodel
+Evaluating
+=== report  ===
+
+485	Characters
+43	Errors
+91.13%	Accuracy
+
+26	Insertions
+1	Deletions
+16	Substitutions
+
+Count	Missed	%Right
+155	7	95.48%	Common
+330	35	89.39%	Latin
+
+Errors	Correct-Generated
+4	{ I } - {  }
+3	{ s } - {  }
+3	{ i } - {  }
+2	{ O } - {  }
+2	{ n } - {  }
+2	{ 1 } - {  }
+2	{ B } - {  }
+1	{ Y } - {  }
+1	{ i } - { e }
+1	{ b } - { d }
+1	{ l } - { e }
+1	{ h } - { o }
+1	{ e } - { r }
+1	{ e } - {  }
+1	{ 6 } - { 2 }
+1	{ ä } - { a }
+1	{ u } - {  }
+1	{ V } - {  }
+1	{ R } - { H }
+1	{ U } - {  }
+1	{  } - { 2 }
+1	{ 3 } - { 6 }
+1	{ 4 } - { 6 }
+1	{ 5 } - {  }
+1	{ V } - { I }
+1	{ M } - {  }
+1	{ i } - { a }
+1	{ h } - { i }
+1	{ p } - { n }
+1	{ t } - {  }
+1	{ r } - { c }
+1	{ 3 } - { 0 }
+
+Average accuracy: 91.13%, (stddev: 0.00)

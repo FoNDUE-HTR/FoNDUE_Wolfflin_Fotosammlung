@@ -1,0 +1,90 @@
+Requirement already satisfied: albumentations in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (1.1.0)
+Requirement already satisfied: scikit-image>=0.16.1 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from albumentations) (0.19.0)
+Requirement already satisfied: numpy>=1.11.1 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from albumentations) (1.21.4)
+Requirement already satisfied: PyYAML in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from albumentations) (6.0)
+Requirement already satisfied: qudida>=0.0.4 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from albumentations) (0.0.4)
+Requirement already satisfied: scipy in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from albumentations) (1.7.3)
+Requirement already satisfied: opencv-python-headless>=4.1.1 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from albumentations) (4.5.5.64)
+Requirement already satisfied: tifffile>=2019.7.26 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (2021.11.2)
+Requirement already satisfied: networkx>=2.2 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (2.6.3)
+Requirement already satisfied: PyWavelets>=1.1.1 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (1.2.0)
+Requirement already satisfied: pillow!=7.1.0,!=7.1.1,!=8.3.0,>=6.1.0 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (8.4.0)
+Requirement already satisfied: imageio>=2.4.1 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (2.13.3)
+Requirement already satisfied: packaging>=20.0 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (21.3)
+Requirement already satisfied: typing-extensions in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from qudida>=0.0.4->albumentations) (4.0.1)
+Requirement already satisfied: scikit-learn>=0.19.1 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from qudida>=0.0.4->albumentations) (1.1.0)
+Requirement already satisfied: pyparsing!=3.0.5,>=2.0.2 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from packaging>=20.0->scikit-image>=0.16.1->albumentations) (3.0.6)
+Requirement already satisfied: joblib>=1.0.0 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from scikit-learn>=0.19.1->qudida>=0.0.4->albumentations) (1.1.0)
+Requirement already satisfied: threadpoolctl>=2.0.0 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from scikit-learn>=0.19.1->qudida>=0.0.4->albumentations) (3.1.0)
+WARNING: You are using pip version 20.2.1; however, version 22.1.2 is available.
+You should consider upgrading via the '/home/users/j/jacsont/Topenv/bin/python3 -m pip install --upgrade pip' command.
+KETOS training
+WARNING:root:scikit-learn version 1.1.0 is not supported. Minimum required version: 0.17. Maximum required version: 0.19.2. Disabling scikit-learn conversion API.
+WARNING:root:Torch version 1.10.0+cu102 has not been tested with coremltools. You may run into unexpected errors. Torch 1.9.1 is the most recent version that has been tested.
+Building training set
+[124.4622] Text line " " is empty after transformations 
+[133.7034] Line polygon outside of image bounds 
+[134.4222] Line polygon outside of image bounds 
+[191.8582] Line polygon outside of image bounds 
+[211.7623] Line polygon outside of image bounds 
+[332.0379] Text line " " is empty after transformations 
+[404.7224] Text line " " is empty after transformations 
+[484.7200] Text line " " is empty after transformations 
+[484.7203] Text line " " is empty after transformations 
+[484.7204] Text line " " is empty after transformations 
+[484.7206] Text line " " is empty after transformations 
+[513.7478] Text line " " is empty after transformations 
+[600.0158] Line polygon outside of image bounds 
+[673.9668] Line polygon outside of image bounds 
+[782.8778] Text line " " is empty after transformations 
+Building validation set
+[836.6547] Line polygon outside of image bounds 
+[896.6806] Text line " " is empty after transformations 
+[897.3643] Line polygon outside of image bounds 
+[908.3836] Line polygon outside of image bounds 
+[914.3236] alphabet mismatch: chars in training set only: {'b', 'Ä', 'ó', '"', '°', 'ō', 'ū', '?', '€', '$', ',', 'Q', 'q', 'ü', 'w', 'j'} (not included in accuracy test during training) 
+[914.3239] alphabet mismatch: chars in validation set only: {'Y', 'é'} (not trained) 
+Initializing model ✓
+stage 1/∞
+Accuracy report (1) 0.0000 1234 1234
+stage 2/∞
+Accuracy report (2) 0.0900 1234 1123
+stage 3/∞
+Accuracy report (3) 0.0940 1234 1118
+stage 4/∞
+Accuracy report (4) 0.1021 1234 1108
+stage 5/∞
+Accuracy report (5) 0.1191 1234 1087
+stage 6/∞
+Accuracy report (6) 0.1823 1234 1009
+stage 7/∞
+Accuracy report (7) 0.2042 1234 982
+stage 8/∞
+Accuracy report (8) 0.2326 1234 947
+stage 9/∞
+Accuracy report (9) 0.2553 1234 919
+stage 10/∞
+Accuracy report (10) 0.2577 1234 916
+stage 11/∞
+Accuracy report (11) 0.2925 1234 873
+stage 12/∞
+Accuracy report (12) 0.2723 1234 898
+stage 13/∞
+Accuracy report (13) 0.2869 1234 880
+stage 14/∞
+Accuracy report (14) 0.2917 1234 874
+stage 15/∞
+Accuracy report (15) 0.3225 1234 836
+stage 16/∞
+Accuracy report (16) 0.3541 1234 797
+stage 17/∞
+Accuracy report (17) 0.3436 1234 810
+stage 18/∞
+Accuracy report (18) 0.3647 1234 784
+stage 19/∞
+Accuracy report (19) 0.3793 1234 766
+stage 20/∞
+Accuracy report (20) 0.3857 1234 758
+stage 21/∞
+Accuracy report (21) 0.3736 1234 773
+Moving best model output_name_16.mlmodel (0.35413289070129395) to output_name_best.mlmodel

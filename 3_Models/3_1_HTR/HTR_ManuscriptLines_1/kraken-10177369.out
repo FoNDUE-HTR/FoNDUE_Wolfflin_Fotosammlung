@@ -1,0 +1,251 @@
+Requirement already satisfied: albumentations in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (1.1.0)
+Requirement already satisfied: scikit-image>=0.16.1 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from albumentations) (0.19.0)
+Requirement already satisfied: numpy>=1.11.1 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from albumentations) (1.21.4)
+Requirement already satisfied: opencv-python-headless>=4.1.1 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from albumentations) (4.5.5.64)
+Requirement already satisfied: PyYAML in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from albumentations) (6.0)
+Requirement already satisfied: scipy in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from albumentations) (1.7.3)
+Requirement already satisfied: qudida>=0.0.4 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from albumentations) (0.0.4)
+Requirement already satisfied: packaging>=20.0 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (21.3)
+Requirement already satisfied: PyWavelets>=1.1.1 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (1.2.0)
+Requirement already satisfied: pillow!=7.1.0,!=7.1.1,!=8.3.0,>=6.1.0 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (8.4.0)
+Requirement already satisfied: networkx>=2.2 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (2.6.3)
+Requirement already satisfied: tifffile>=2019.7.26 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (2021.11.2)
+Requirement already satisfied: imageio>=2.4.1 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (2.13.3)
+Requirement already satisfied: scikit-learn>=0.19.1 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from qudida>=0.0.4->albumentations) (1.1.0)
+Requirement already satisfied: typing-extensions in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from qudida>=0.0.4->albumentations) (4.0.1)
+Requirement already satisfied: pyparsing!=3.0.5,>=2.0.2 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from packaging>=20.0->scikit-image>=0.16.1->albumentations) (3.0.6)
+Requirement already satisfied: joblib>=1.0.0 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from scikit-learn>=0.19.1->qudida>=0.0.4->albumentations) (1.1.0)
+Requirement already satisfied: threadpoolctl>=2.0.0 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from scikit-learn>=0.19.1->qudida>=0.0.4->albumentations) (3.1.0)
+WARNING: You are using pip version 20.2.1; however, version 22.1.2 is available.
+You should consider upgrading via the '/home/users/j/jacsont/Topenv/bin/python3 -m pip install --upgrade pip' command.
+KETOS training
+WARNING:root:scikit-learn version 1.1.0 is not supported. Minimum required version: 0.17. Maximum required version: 0.19.2. Disabling scikit-learn conversion API.
+WARNING:root:Torch version 1.10.0+cu102 has not been tested with coremltools. You may run into unexpected errors. Torch 1.9.1 is the most recent version that has been tested.
+[47.8767] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_II_005_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_II_005_R.xml 
+[48.1585] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVIII_008_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVIII_008_R.xml 
+[48.1988] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XV_002_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XV_002_R.xml 
+[48.4462] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVII_001_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVII_001_R.xml 
+[48.4796] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XIII_006_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XIII_006_R.xml 
+[48.4935] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XII_004_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XII_004_R.xml 
+[48.5683] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XII_002_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XII_002_R.xml 
+[48.6431] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_II_001_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_II_001_R.xml 
+[48.6531] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVIII_003_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVIII_003_R.xml 
+[48.7139] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XIII_004_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XIII_004_R.xml 
+[48.7419] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XIII_003_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XIII_003_R.xml 
+[48.7498] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_III_006_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_III_006_R.xml 
+[48.7982] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVI_005_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVI_005_R.xml 
+[48.8373] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVIII_004_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVIII_004_R.xml 
+[48.8459] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_II_002_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_II_002_R.xml 
+[48.8606] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_IV_005_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_IV_005_R.xml 
+[48.9334] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVII_003_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVII_003_R.xml 
+[48.9648] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_III_003_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_III_003_R.xml 
+[49.0415] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_II_010_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_II_010_R.xml 
+[49.3193] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_III_010_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_III_010_R.xml 
+[49.3689] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_VI_001_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_VI_001_R.xml 
+[49.4038] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVIII_007_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVIII_007_R.xml 
+[49.4383] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0008_I_002_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0008_I_002_R.xml 
+[49.5015] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_V_004_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_V_004_R.xml 
+[49.6031] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XV_001_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XV_001_R.xml 
+[49.6055] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0008_IV_003_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0008_IV_003_R.xml 
+[49.6427] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0008_III_001_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0008_III_001_R.xml 
+[49.6520] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_I_004_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_I_004_R.xml 
+[49.6842] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVIII_002_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVIII_002_R.xml 
+[49.6899] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVI_003_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVI_003_R.xml 
+[49.7035] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_V_001_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_V_001_R.xml 
+[49.8035] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_I_006_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_I_006_R.xml 
+[49.8350] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVI_006_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVI_006_R.xml 
+[49.8448] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0008_IV_002_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0008_IV_002_R.xml 
+[49.8509] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVIII_006_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVIII_006_R.xml 
+[49.8619] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVIII_009_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVIII_009_R.xml 
+[49.8988] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVII_002_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVII_002_R.xml 
+[50.0997] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_V_003_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_V_003_R.xml 
+[50.1060] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVI_001_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVI_001_R.xml 
+[50.1080] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0008_IV_004_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0008_IV_004_R.xml 
+[50.1228] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_III_005_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_III_005_R.xml 
+[50.1540] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVI_007_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVI_007_R.xml 
+[50.1952] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XIV_005_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XIV_005_R.xml 
+[50.3533] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XII_001_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XII_001_R.xml 
+[50.3568] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0008_II_002_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0008_II_002_R.xml 
+[50.3601] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_IV_006_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_IV_006_R.xml 
+[50.3621] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_VIII_004_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_VIII_004_R.xml 
+[50.4211] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_III_002_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_III_002_R.xml 
+[50.4508] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVIII_005_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVIII_005_R.xml 
+[50.4584] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_I_008_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_I_008_R.xml 
+[50.5268] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_IV_002_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_IV_002_R.xml 
+[50.5681] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_IV_003_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_IV_003_R.xml 
+[50.5702] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0008_IV_005_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0008_IV_005_R.xml 
+[50.5762] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_II_009_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_II_009_R.xml 
+[50.5816] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVII_005_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVII_005_R.xml 
+[50.6094] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XV_004_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XV_004_R.xml 
+[50.6111] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_V_007_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_V_007_R.xml 
+[50.6181] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XIV_003_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XIV_003_R.xml 
+[50.6204] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_II_008_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_II_008_R.xml 
+[50.6435] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_VIII_006_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_VIII_006_R.xml 
+[50.7048] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_VIII_008_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_VIII_008_R.xml 
+[50.7212] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XIX_003_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XIX_003_R.xml 
+[50.7230] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_VIII_002_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_VIII_002_R.xml 
+[50.7331] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_VIII_003_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_VIII_003_R.xml 
+[50.7354] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_III_008_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_III_008_R.xml 
+[50.7387] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_I_007_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_I_007_R.xml 
+[50.8172] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0008_I_003_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0008_I_003_R.xml 
+[50.8201] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_III_001_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_III_001_R.xml 
+[50.8221] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_II_011_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_II_011_R.xml 
+[50.8342] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XX_002_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XX_002_R.xml 
+[50.8360] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVI_002_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVI_002_R.xml 
+[50.8919] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XX_003_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XX_003_R.xml 
+[50.9160] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVI_004_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVI_004_R.xml 
+[50.9540] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0008_III_004_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0008_III_004_R.xml 
+[51.0041] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XIV_006_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XIV_006_R.xml 
+[51.0091] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XX_001_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XX_001_R.xml 
+[51.0120] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_IV_001_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_IV_001_R.xml 
+[51.0821] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_III_009_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_III_009_R.xml 
+[51.1788] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVIII_001_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVIII_001_R.xml 
+[51.2061] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_VII_001_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_VII_001_R.xml 
+[51.2089] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XIV_001_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XIV_001_R.xml 
+[51.2113] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0008_III_003_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0008_III_003_R.xml 
+[51.2430] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVII_006_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVII_006_R.xml 
+[51.2671] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_III_007_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_III_007_R.xml 
+[51.3258] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVI_008_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVI_008_R.xml 
+[51.3701] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_VI_002_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_VI_002_R.xml 
+[51.3984] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_VIII_007_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_VIII_007_R.xml 
+[51.4092] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_V_005_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_V_005_R.xml 
+[51.4109] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0008_III_002_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0008_III_002_R.xml 
+[51.4509] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_V_006_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_V_006_R.xml 
+[51.4529] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_V_002_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_V_002_R.xml 
+[51.4573] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_II_006_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_II_006_R.xml 
+[51.4918] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_I_003_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_I_003_R.xml 
+[51.4939] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_I_002_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_I_002_R.xml 
+[51.4972] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_I_005_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_I_005_R.xml 
+[51.5040] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_II_007_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_II_007_R.xml 
+[51.5793] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XX_004_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XX_004_R.xml 
+[51.5813] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XIV_002_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XIV_002_R.xml 
+[51.6851] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XIV_004_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XIV_004_R.xml 
+[51.8386] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XI_001_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XI_001_R.xml 
+[51.8972] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_IV_004_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_IV_004_R.xml 
+[51.9363] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_II_003_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_II_003_R.xml 
+[51.9673] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVII_004_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVII_004_R.xml 
+[51.9690] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XIII_001_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XIII_001_R.xml 
+[52.0398] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_VIII_005_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_VIII_005_R.xml 
+[52.0495] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XIX_002_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XIX_002_R.xml 
+[52.0523] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XIII_002_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XIII_002_R.xml 
+[52.0557] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XV_003_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XV_003_R.xml 
+[52.0588] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0008_II_001_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0008_II_001_R.xml 
+[52.0615] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_II_004_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_II_004_R.xml 
+[52.0731] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_I_001_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_I_001_R.xml 
+[52.1389] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_III_004_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_III_004_R.xml 
+[52.1528] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0008_I_001_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0008_I_001_R.xml 
+[52.1729] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_VIII_001_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_VIII_001_R.xml 
+[52.1755] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XII_003_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XII_003_R.xml 
+[52.1991] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0008_IV_001_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0008_IV_001_R.xml 
+[52.2064] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XIII_005_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XIII_005_R.xml 
+[52.2095] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVIII_010_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XVIII_010_R.xml 
+[52.2421] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XIX_001_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/ManuscriptLines/UZH_Khist_0007_XIX_001_R.xml 
+Building training set
+[87.7340] Line polygon outside of image bounds 
+[291.5055] Text line " " is empty after transformations 
+[291.5059] Text line " " is empty after transformations 
+[291.5060] Text line " " is empty after transformations 
+[291.5062] Text line " " is empty after transformations 
+[303.5702] Text line " " is empty after transformations 
+[307.2601] Text line " " is empty after transformations 
+Building validation set
+[551.2552] alphabet mismatch: chars in training set only: {'ü', 'P', 'ö', 'W', ':', 'Ä', 'y', 'f', 'q', "'", 'v', ',', 'ä', '€', 'ū', 'é'} (not included in accuracy test during training) 
+[551.2555] alphabet mismatch: chars in validation set only: {'ō', 'w'} (not trained) 
+Initializing model ✓
+stage 1/∞
+Accuracy report (1) 0.0000 538 538
+stage 2/∞
+Accuracy report (2) 0.0186 538 528
+stage 3/∞
+Accuracy report (3) 0.0465 538 513
+stage 4/∞
+Accuracy report (4) 0.0483 538 512
+stage 5/∞
+Accuracy report (5) 0.0706 538 500
+stage 6/∞
+Accuracy report (6) 0.0558 538 508
+stage 7/∞
+Accuracy report (7) 0.1171 538 475
+stage 8/∞
+Accuracy report (8) 0.1468 538 459
+stage 9/∞
+Accuracy report (9) 0.1543 538 455
+stage 10/∞
+Accuracy report (10) 0.1617 538 451
+stage 11/∞
+Accuracy report (11) 0.2045 538 428
+stage 12/∞
+Accuracy report (12) 0.1487 538 458
+stage 13/∞
+Accuracy report (13) 0.2063 538 427
+stage 14/∞
+Accuracy report (14) 0.2751 538 390
+stage 15/∞
+Accuracy report (15) 0.3011 538 376
+stage 16/∞
+Accuracy report (16) 0.3048 538 374
+stage 17/∞
+Accuracy report (17) 0.3476 538 351
+stage 18/∞
+Accuracy report (18) 0.3457 538 352
+stage 19/∞
+Accuracy report (19) 0.3550 538 347
+stage 20/∞
+Accuracy report (20) 0.3829 538 332
+stage 21/∞
+Accuracy report (21) 0.4145 538 315
+stage 22/∞
+Accuracy report (22) 0.4331 538 305
+stage 23/∞
+Accuracy report (23) 0.4684 538 286
+stage 24/∞
+Accuracy report (24) 0.4554 538 293
+stage 25/∞
+Accuracy report (25) 0.4944 538 272
+stage 26/∞
+Accuracy report (26) 0.4628 538 289
+stage 27/∞
+Accuracy report (27) 0.5279 538 254
+stage 28/∞
+Accuracy report (28) 0.5093 538 264
+stage 29/∞
+Accuracy report (29) 0.5483 538 243
+stage 30/∞
+Accuracy report (30) 0.5502 538 242
+stage 31/∞
+Accuracy report (31) 0.5465 538 244
+stage 32/∞
+Accuracy report (32) 0.5855 538 223
+stage 33/∞
+Accuracy report (33) 0.5818 538 225
+stage 34/∞
+Accuracy report (34) 0.5743 538 229
+stage 35/∞
+Accuracy report (35) 0.6097 538 210
+stage 36/∞
+Accuracy report (36) 0.5818 538 225
+stage 37/∞
+Accuracy report (37) 0.6041 538 213
+stage 38/∞
+Accuracy report (38) 0.6190 538 205
+stage 39/∞
+Accuracy report (39) 0.5948 538 218
+stage 40/∞
+Accuracy report (40) 0.6375 538 195
+stage 41/∞
+Accuracy report (41) 0.6450 538 191
+stage 42/∞
+Accuracy report (42) 0.6171 538 206
+stage 43/∞
+Accuracy report (43) 0.6710 538 177
+stage 44/∞
+Accuracy report (44) 0.6543 538 186
+stage 45/∞
+Accuracy report (45) 0.6599 538 183
+stage 46/∞
+Accuracy report (46) 0.6543 538 186
+stage 47/∞
+Accuracy report (47) 0.6357 538 196
+stage 48/∞
+Accuracy report (48) 0.6561 538 185
+Moving best model output_name_43.mlmodel (0.6710036993026733) to output_name_best.mlmodel
