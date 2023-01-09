@@ -1,0 +1,16 @@
+/home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/first_folderpage/UZH_Khist_0006_II_000.xml
+/home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/first_folderpage/UZH_Khist_0009_XI_000.xml
+/home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/first_folderpage/UZH_Khist_0009_X_000.xml
+/home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/first_folderpage/UZH_Khist_0010_II_000.xml
+/home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/first_folderpage/UZH_Khist_0011_II_000.xml
+/home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/first_folderpage/UZH_Khist_0173_II_000.xml
+/home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/first_folderpage/UZH_Khist_0173_XII_000.xml
+/home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/first_folderpage/UZH_Khist_0174_1_IX_000.xml
+/home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/first_folderpage/UZH_Khist_0174_1_XIII_000.xml
+/home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/first_folderpage/UZH_Khist_0174_1_XVI_000.xml
+/home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/first_folderpage/UZH_Khist_0174_II_000.xml
+/home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/first_folderpage/UZH_Khist_0175_XIII_000.xml
+/home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/first_folderpage/UZH_Khist_0176_III_000.xml
+/home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/first_folderpage/UZH_Khist_0302_1_IV_000.xml
+/home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/first_folderpage/UZH_Khist_0302_2_II_000.xml
+/home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/first_folderpage/UZH_Khist_0302_III_000.xml
