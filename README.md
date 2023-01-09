@@ -11,23 +11,21 @@ Indeed, the corpus contains several handwritten hands and different typographica
 
 ```mermaid
 flowchart LR
-    A[(Kunsthistorisches<br>UZH<br>Archivdatenbank)] -.- B{{1_Data}}
-    B -.- H>1_1_First_Folderpage]
+   
+    B{{1_Data}} -.- H>1_1_First_Folderpage]
     B -.- I>1_2_Illustrations_Pages]
     B -.- J>1_3_ManuscriptLines]
     B -.- K>1_4_PrintLines]
     B -.- L>1_5_Cremma16-17]
     B -.- M>1_6_CremmaMs_20]
     B -.- N>1_7_lectaurep-repertoires]
-    A -.- C{{2_Script_training}}
-   C  -.- O>2_1_HTR]
+    C{{2_Script_training}}  -.- O>2_1_HTR]
     C  -.- P>2_2_Segmentation]
-    A -.- D{{3_Models}}
-    D -.- Q>3_1_HTR]
+    D{{3_Models}} -.- Q>3_1_HTR]
     D -.- R>3_2_Segmentation]
-    A -.- E{{4_Split}}
-    A -.- F{{5_Script_python}}
-    A -.- G{{6_Images_Readme}}
+    E{{4_Split}}
+    F{{5_Script_python}}
+    G{{6_Images_Readme}}
 ```
 
 The data are organised in portfolios that allow them to be classified according to the origin of their content. We have chosen to divide our data with the first pages of the portfolio on one side and the pages containing the scanned illustrations on the other: this is to facilitate the training of the segmentation models; thus, we have created : 
