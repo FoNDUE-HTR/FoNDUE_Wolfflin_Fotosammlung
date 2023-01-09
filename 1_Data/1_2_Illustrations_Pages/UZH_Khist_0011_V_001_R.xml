@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0011_V_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4584"
+          HEIGHT="6032"
+          PHYSICAL_IMG_NR="332"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4584"
+                  HEIGHT="6032">
+        
+        <TextBlock HPOS="13"
+                   VPOS="19"
+                   WIDTH="4571"
+                   HEIGHT="6013"
+                   ID="eSc_textblock_ac077146"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="13 19 13 6032 4584 6032 4584 19"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e199c25a"
+                    
+                    BASELINE="342 5956 3547 5926 3698 5936 4516 5916" 
+                    HPOS="327"
+                    VPOS="5840"
+                    WIDTH="4186"
+                    HEIGHT="151">
+            <Shape><Polygon POINTS="337 5951 327 5871 4498 5840 4513 5911 4508 5936 337 5991"/></Shape>
+	    <String CONTENT="2970 - FIRENZE - Museo di S. Marco. San Domenico (dettaglio della Crocifissione). Beato Angelico. (Ed.ne Mannelli &amp; C.°)"
+                    HPOS="327"
+                    VPOS="5840"
+                    WIDTH="4186"
+                    HEIGHT="151"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4568"
+                   VPOS="5790"
+                   WIDTH="10"
+                   HEIGHT="176"
+                   ID="eSc_textblock_026f2508"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="4568 5966 4568 5790 4578 5790 4578 5966"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

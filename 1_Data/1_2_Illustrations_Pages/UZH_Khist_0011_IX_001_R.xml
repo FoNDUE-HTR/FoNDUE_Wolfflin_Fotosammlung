@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0011_IX_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7420"
+          HEIGHT="5362"
+          PHYSICAL_IMG_NR="328"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="7420"
+                  HEIGHT="5362">
+        
+        <TextBlock HPOS="530"
+                   VPOS="160"
+                   WIDTH="6351"
+                   HEIGHT="4866"
+                   ID="eSc_textblock_f20428e4"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="6807 232 6789 4428 6843 4714 6881 5026 530 5008 590 160"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_0f506d44"
+                    TAGREFS="LT102"
+                    BASELINE="4393 4915 6709 4915" 
+                    HPOS="4389"
+                    VPOS="4834"
+                    WIDTH="2320"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="4393 4915 4393 4834 6709 4848 6709 4915 6704 4955 4389 4941"/></Shape>
+	    <String CONTENT="Duomo Riproduzione interdetta - Anderson - Roma."
+                    HPOS="4389"
+                    VPOS="4834"
+                    WIDTH="2320"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_45af7ba8"
+                    TAGREFS="LT102"
+                    BASELINE="750 4924 4192 4910" 
+                    HPOS="741"
+                    VPOS="4821"
+                    WIDTH="3451"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="750 4924 741 4821 4183 4825 4192 4910 4188 4933 750 4946"/></Shape>
+	    <String CONTENT="15504 – ORVIETO – Dettaglio del Cristo Giudice - Beato Angelico"
+                    HPOS="741"
+                    VPOS="4821"
+                    WIDTH="3451"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="25"
+                   VPOS="4699"
+                   WIDTH="257"
+                   HEIGHT="567"
+                   ID="eSc_textblock_3b99ce9d"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="282 4699 282 5266 25 5266 25 4699"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_af4cca66"
+                    TAGREFS="LT103"
+                    BASELINE="117 4709 75 5274" 
+                    HPOS="53"
+                    VPOS="4696"
+                    WIDTH="224"
+                    HEIGHT="585">
+            <Shape><Polygon POINTS="116 4705 245 4700 277 4785 277 4785 277 4790 277 4790 277 4794 277 4794 277 4794 277 4798 277 4798 277 4803 236 4866 236 4888 227 5031 227 5035 263 5076 263 5076 263 5080 263 5080 263 5080 263 5084 263 5084 263 5084 263 5089 263 5089 263 5093 214 5281 71 5272 53 5263 58 4874 58 4874 58 4874 93 4696"/></Shape>
+	    <String CONTENT="11. II. 2"
+                    HPOS="53"
+                    VPOS="4696"
+                    WIDTH="224"
+                    HEIGHT="585"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

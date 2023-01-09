@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0172_VII_008_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="3770"
+          HEIGHT="5588"
+          PHYSICAL_IMG_NR="423"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3770"
+                  HEIGHT="5588">
+        
+        <TextBlock HPOS="1219"
+                   VPOS="122"
+                   WIDTH="1467"
+                   HEIGHT="195"
+                   ID="eSc_textblock_d2d8131a"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="1219 122 1219 317 2686 317 2686 122"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_bd5b3995"
+                    TAGREFS="LT105"
+                    BASELINE="1286 242 2628 256" 
+                    HPOS="1276"
+                    VPOS="144"
+                    WIDTH="1352"
+                    HEIGHT="130">
+            <Shape><Polygon POINTS="1286 242 1286 144 2623 153 2628 256 2618 274 1276 260"/></Shape>
+	    <String CONTENT="Collection Ambroise Firmin-Didot"
+                    HPOS="1276"
+                    VPOS="144"
+                    WIDTH="1352"
+                    HEIGHT="130"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="185"
+                   VPOS="4720"
+                   WIDTH="997"
+                   HEIGHT="165"
+                   ID="eSc_textblock_0519ee34"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="1182 4885 1182 4720 185 4720 185 4885"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e3bacd6f"
+                    TAGREFS="LT105"
+                    BASELINE="260 4814 1155 4814" 
+                    HPOS="251"
+                    VPOS="4684"
+                    WIDTH="904"
+                    HEIGHT="200">
+            <Shape><Polygon POINTS="260 4814 260 4693 885 4712 936 4684 936 4684 941 4684 941 4684 945 4684 945 4684 945 4684 950 4684 950 4684 950 4684 964 4684 1085 4712 1146 4684 1155 4814 1155 4870 582 4884 577 4884 577 4884 573 4884 573 4884 573 4884 568 4884 540 4861 540 4861 535 4861 507 4884 503 4884 503 4884 503 4884 498 4884 498 4884 493 4884 493 4884 493 4884 489 4884 414 4861 414 4861 414 4861 358 4884 358 4884 354 4884 354 4884 354 4884 349 4884 349 4884 344 4884 251 4856"/></Shape>
+	    <String CONTENT="Photo-Typ. St. Geoffray, A. Pilinski &amp; Fils."
+                    HPOS="251"
+                    VPOS="4684"
+                    WIDTH="904"
+                    HEIGHT="200"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1243"
+                   VPOS="4867"
+                   WIDTH="1162"
+                   HEIGHT="660"
+                   ID="eSc_textblock_03421a5a"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="1243 4867 1243 5527 2405 5527 2405 4867"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_41fc98ac"
+                    TAGREFS="LT105"
+                    BASELINE="1453 5047 2208 5047" 
+                    HPOS="1444"
+                    VPOS="4917"
+                    WIDTH="764"
+                    HEIGHT="182">
+            <Shape><Polygon POINTS="1453 5047 1453 4917 2208 4936 2208 5047 2208 5071 1523 5099 1519 5099 1519 5099 1514 5099 1514 5099 1444 5071"/></Shape>
+	    <String CONTENT="H. HOLBEIN"
+                    HPOS="1444"
+                    VPOS="4917"
+                    WIDTH="764"
+                    HEIGHT="182"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1ad6ed95"
+                    TAGREFS="LT105"
+                    BASELINE="1318 5243 2353 5252" 
+                    HPOS="1314"
+                    VPOS="5131"
+                    WIDTH="1039"
+                    HEIGHT="154">
+            <Shape><Polygon POINTS="1318 5243 1318 5131 1509 5159 1663 5140 1728 5136 1728 5136 1733 5136 1733 5136 1733 5136 1789 5145 1878 5164 1966 5154 2055 5140 2055 5140 2059 5140 2059 5140 2353 5168 2353 5252 2348 5280 1314 5285"/></Shape>
+	    <String CONTENT="UNE DAME SUISSE."
+                    HPOS="1314"
+                    VPOS="5131"
+                    WIDTH="1039"
+                    HEIGHT="154"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1e0ede3e"
+                    TAGREFS="LT105"
+                    BASELINE="1724 5429 1971 5420" 
+                    HPOS="1714"
+                    VPOS="5303"
+                    WIDTH="257"
+                    HEIGHT="159">
+            <Shape><Polygon POINTS="1724 5429 1714 5303 1961 5313 1971 5420 1961 5462 1719 5457"/></Shape>
+	    <String CONTENT="N° 28"
+                    HPOS="1714"
+                    VPOS="5303"
+                    WIDTH="257"
+                    HEIGHT="159"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2857"
+                   VPOS="4720"
+                   WIDTH="551"
+                   HEIGHT="171"
+                   ID="eSc_textblock_4b4a38ab"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="3408 4891 3408 4720 2857 4720 2857 4891"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_61aa52f7"
+                    TAGREFS="LT105"
+                    BASELINE="2884 4819 3373 4828" 
+                    HPOS="2879"
+                    VPOS="4698"
+                    WIDTH="494"
+                    HEIGHT="196">
+            <Shape><Polygon POINTS="2884 4819 2884 4698 3178 4726 3369 4703 3373 4828 3373 4866 3294 4894 3290 4894 3290 4894 3290 4894 3285 4894 3285 4894 3164 4870 3122 4866 2879 4875"/></Shape>
+	    <String CONTENT="Imp. Barousse Paris"
+                    HPOS="2879"
+                    VPOS="4698"
+                    WIDTH="494"
+                    HEIGHT="196"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3737"
+                   VPOS="3352"
+                   WIDTH="28"
+                   HEIGHT="1355"
+                   ID="eSc_textblock_0c86c171"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="3737 4670 3756 3352 3765 3352 3765 4707"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="185"
+                   VPOS="263"
+                   WIDTH="3357"
+                   HEIGHT="4518"
+                   ID="eSc_textblock_6684fcda"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="192 263 185 4769 3542 4781 3542 275"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

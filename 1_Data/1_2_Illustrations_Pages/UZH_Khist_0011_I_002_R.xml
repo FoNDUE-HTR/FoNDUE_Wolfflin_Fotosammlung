@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0011_I_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6242"
+          HEIGHT="4845"
+          PHYSICAL_IMG_NR="302"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6242"
+                  HEIGHT="4845">
+        
+        <TextBlock HPOS="31"
+                   VPOS="37"
+                   WIDTH="6211"
+                   HEIGHT="4804"
+                   ID="eSc_textblock_9097888e"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="31 37 31 4841 6242 4841 6242 37"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_8cd90a09"
+                    TAGREFS="LT102"
+                    BASELINE="912 4602 3862 4594" 
+                    HPOS="900"
+                    VPOS="4509"
+                    WIDTH="2959"
+                    HEIGHT="134">
+            <Shape><Polygon POINTS="908 4598 900 4509 3851 4517 3859 4590 3855 4614 3750 4639 3750 4639 3750 4639 3746 4639 3149 4622 2975 4618 2902 4622 2749 4639 2749 4639 2745 4639 2745 4639 2664 4626 2612 4618 2491 4626 2293 4643 2289 4643 1962 4631 1667 4622 908 4639"/></Shape>
+	    <String CONTENT="8390 - FIRENZE - L&#39;Annunziazione - Beato Angelico - Museo di S. Marco"
+                    HPOS="900"
+                    VPOS="4509"
+                    WIDTH="2959"
+                    HEIGHT="134"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a178837d"
+                    TAGREFS="LT102"
+                    BASELINE="4449 4598 5078 4586" 
+                    HPOS="4437"
+                    VPOS="4505"
+                    WIDTH="638"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="4445 4594 4437 4505 5067 4509 5075 4582 5071 4610 4445 4626"/></Shape>
+	    <String CONTENT="Anderson Roma"
+                    HPOS="4437"
+                    VPOS="4505"
+                    WIDTH="638"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

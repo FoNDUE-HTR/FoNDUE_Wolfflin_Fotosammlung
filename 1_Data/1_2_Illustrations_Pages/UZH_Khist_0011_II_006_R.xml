@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0011_II_006_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4811"
+          HEIGHT="6216"
+          PHYSICAL_IMG_NR="311"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4811"
+                  HEIGHT="6216">
+        
+        <TextBlock HPOS="28"
+                   VPOS="16"
+                   WIDTH="4783"
+                   HEIGHT="6200"
+                   ID="eSc_textblock_35afea23"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="28 16 28 6216 4811 6216 4811 16"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_3b89a679"
+                    TAGREFS="LT102"
+                    BASELINE="331 6055 4520 6045" 
+                    HPOS="316"
+                    VPOS="5894"
+                    WIDTH="4204"
+                    HEIGHT="197">
+            <Shape><Polygon POINTS="331 6055 316 5900 1171 5894 1176 5894 1264 5910 1420 5936 2172 5920 2680 5910 2685 5910 4510 5951 4520 6045 4510 6091 326 6081"/></Shape>
+	    <String CONTENT="8397 – FIRENZE – La Trasfigurazione – Beato Angelico – Museo di S. Marco - Anderson, Roma"
+                    HPOS="316"
+                    VPOS="5894"
+                    WIDTH="4204"
+                    HEIGHT="197"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

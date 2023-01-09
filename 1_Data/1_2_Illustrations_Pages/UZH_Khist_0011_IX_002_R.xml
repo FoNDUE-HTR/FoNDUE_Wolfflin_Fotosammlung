@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0011_IX_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7757"
+          HEIGHT="5410"
+          PHYSICAL_IMG_NR="329"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="7757"
+                  HEIGHT="5410">
+        
+        <TextBlock HPOS="757"
+                   VPOS="224"
+                   WIDTH="6129"
+                   HEIGHT="4615"
+                   ID="eSc_textblock_7af36282"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="2200 288 6886 306 6886 4684 6760 4756 6399 4774 4451 4799 825 4839 793 504 757 224"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_c09b23cb"
+                    TAGREFS="LT102"
+                    BASELINE="3040 4626 4735 4622" 
+                    HPOS="3026"
+                    VPOS="4440"
+                    WIDTH="1704"
+                    HEIGHT="208">
+            <Shape><Polygon POINTS="3039 4625 3026 4467 3472 4440 3477 4440 3477 4440 3477 4440 3481 4440 3571 4472 3603 4481 3630 4472 3702 4440 3702 4440 3707 4440 3707 4440 3711 4440 3711 4440 3711 4440 3716 4440 3819 4472 3860 4490 3964 4490 3986 4476 4027 4449 4031 4449 4031 4449 4036 4449 4036 4449 4036 4449 4040 4449 4040 4449 4040 4449 4045 4449 4126 4476 4153 4485 4180 4476 4221 4463 4221 4463 4225 4463 4225 4463 4230 4463 4230 4463 4230 4463 4234 4463 4234 4463 4239 4463 4239 4463 4257 4476 4270 4485 4717 4485 4730 4621 4721 4648 3035 4643"/></Shape>
+	    <String CONTENT="Cristo giudice. Dipinti dal Beato Angelico."
+                    HPOS="3026"
+                    VPOS="4440"
+                    WIDTH="1704"
+                    HEIGHT="208"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e0ac1c54"
+                    TAGREFS="LT102"
+                    BASELINE="2833 4746 4910 4746" 
+                    HPOS="2832"
+                    VPOS="4630"
+                    WIDTH="2074"
+                    HEIGHT="189">
+            <Shape><Polygon POINTS="2832 4742 2832 4630 3292 4630 3292 4630 3292 4630 3296 4630 3296 4630 3296 4630 3301 4630 3305 4634 3346 4661 3544 4661 3562 4639 3571 4634 3571 4630 3571 4630 3576 4630 3576 4630 3576 4630 3580 4630 3580 4630 3585 4630 3689 4630 3689 4630 3689 4630 3693 4630 3693 4630 3693 4630 3698 4630 3698 4630 3698 4634 3707 4639 3725 4661 4906 4661 4906 4742 4906 4819 4149 4819 4144 4814 4144 4814 4140 4814 4094 4801 3991 4765 2832 4769"/></Shape>
+	    <String CONTENT="N. 2373. Duomo di Orvieto. Cappella della Madonna."
+                    HPOS="2832"
+                    VPOS="4630"
+                    WIDTH="2074"
+                    HEIGHT="189"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="18"
+                   VPOS="4887"
+                   WIDTH="356"
+                   HEIGHT="502"
+                   ID="eSc_textblock_07ff359a"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="18 4887 22 5389 374 5385 374 4887"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f2a8c7ca"
+                    
+                    BASELINE="107 4916 126 5342" 
+                    HPOS="0"
+                    VPOS="4905"
+                    WIDTH="234"
+                    HEIGHT="432">
+            <Shape><Polygon POINTS="103 4914 234 4905 225 5328 121 5337 0 5337 0 4914"/></Shape>
+	    <String CONTENT="11. II. 3"
+                    HPOS="0"
+                    VPOS="4905"
+                    WIDTH="234"
+                    HEIGHT="432"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

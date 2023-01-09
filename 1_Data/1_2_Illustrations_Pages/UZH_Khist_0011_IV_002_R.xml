@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0011_IV_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4831"
+          HEIGHT="6242"
+          PHYSICAL_IMG_NR="322"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4831"
+                  HEIGHT="6242">
+        
+        <TextBlock HPOS="61"
+                   VPOS="29"
+                   WIDTH="4770"
+                   HEIGHT="6213"
+                   ID="eSc_textblock_a5d867f3"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="61 29 61 6242 4831 6242 4831 29"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_0d90fa53"
+                    TAGREFS="LT102"
+                    BASELINE="619 5971 2597 5955 2670 5961 4253 5945" 
+                    HPOS="603"
+                    VPOS="5862"
+                    WIDTH="3644"
+                    HEIGHT="151">
+            <Shape><Polygon POINTS="614 5966 603 5877 4232 5862 4247 5940 4242 5987 614 6013"/></Shape>
+	    <String CONTENT="8399 – FIRENZE – L&#39;Orazione all&#39;Orto – Museo di S. Marco —Anderson, Roma"
+                    HPOS="603"
+                    VPOS="5862"
+                    WIDTH="3644"
+                    HEIGHT="151"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

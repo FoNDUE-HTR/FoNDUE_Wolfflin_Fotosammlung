@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0011_II_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4821"
+          HEIGHT="6262"
+          PHYSICAL_IMG_NR="307"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4821"
+                  HEIGHT="6262">
+        
+        <TextBlock HPOS="34"
+                   VPOS="20"
+                   WIDTH="4787"
+                   HEIGHT="6241"
+                   ID="eSc_textblock_d1a78fbb"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="34 20 34 6261 4821 6261 4821 20"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_7dc2ea5c"
+                    TAGREFS="LT102"
+                    BASELINE="151 6064 4761 6089" 
+                    HPOS="141"
+                    VPOS="5948"
+                    WIDTH="4617"
+                    HEIGHT="162">
+            <Shape><Polygon POINTS="146 6063 146 5948 1013 5954 1018 5954 1023 5954 1028 5959 1086 6001 1405 6001 2867 5985 3170 5985 3175 5985 4758 6016 4758 6084 4747 6110 141 6089"/></Shape>
+	    <String CONTENT="8407 — FIRENZE — Gesù apparisce alla Maddalena — Beato Angelico — Museo di S. Marco — Anderson."
+                    HPOS="141"
+                    VPOS="5948"
+                    WIDTH="4617"
+                    HEIGHT="162"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

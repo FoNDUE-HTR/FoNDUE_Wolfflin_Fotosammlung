@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0172_VII_006_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5780"
+          HEIGHT="7320"
+          PHYSICAL_IMG_NR="421"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="5780"
+                  HEIGHT="7320">
+        
+        <TextBlock HPOS="828"
+                   VPOS="6271"
+                   WIDTH="3918"
+                   HEIGHT="618"
+                   ID="eSc_textblock_49b52a11"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="828 6271 828 6889 4746 6889 4746 6271"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1d75dee9"
+                    TAGREFS="LT103"
+                    BASELINE="1000 6490 4528 6447" 
+                    HPOS="988"
+                    VPOS="6276"
+                    WIDTH="3540"
+                    HEIGHT="293">
+            <Shape><Polygon POINTS="1000 6490 988 6301 1416 6301 1416 6301 1416 6301 1422 6301 1422 6301 1422 6301 1422 6301 1428 6301 1477 6331 1684 6301 1733 6295 1733 6295 1739 6295 1739 6295 1739 6295 1745 6295 1745 6295 1745 6295 1757 6301 1843 6344 2099 6301 2154 6295 2154 6295 2160 6295 2160 6295 2160 6295 2166 6295 2191 6301 2294 6337 2368 6301 2386 6295 2386 6295 2386 6295 2392 6295 2392 6295 2398 6295 2398 6295 2398 6295 2404 6295 2429 6301 2520 6331 2648 6301 2728 6289 2728 6289 2728 6289 2734 6289 2734 6289 2734 6289 2813 6307 2905 6325 2960 6307 3033 6276 3033 6276 3039 6276 3039 6276 3045 6276 3045 6276 3045 6276 3186 6307 3283 6325 3729 6325 3747 6307 3771 6289 3771 6289 3778 6289 3778 6289 3778 6289 3784 6289 3784 6289 3790 6289 3790 6289 3790 6289 3796 6289 3796 6289 3796 6289 3802 6289 3826 6307 3851 6319 4510 6313 4528 6447 4528 6484 4022 6539 4022 6539 4016 6539 4016 6539 4009 6539 4009 6539 4009 6539 3924 6502 3723 6539 3723 6539 3723 6539 3717 6539 3301 6508 3240 6545 3234 6545 3234 6545 3228 6545 3228 6545 3228 6545 3009 6551 3002 6551 3002 6551 2996 6551 2996 6551 2996 6551 2990 6551 2990 6551 2941 6514 2490 6514 2423 6557 2416 6557 2416 6557 2410 6557 2410 6557 2410 6557 2404 6557 1721 6527 1660 6563 1654 6563 1654 6563 1654 6563 1647 6563 1647 6563 1641 6563 1641 6563 1373 6539 1330 6569 1330 6569 1324 6569 1324 6569 1324 6569 1318 6569 1318 6569 1312 6569 1312 6569 994 6527"/></Shape>
+	    <String CONTENT="Holbein, Hans d. J. (1497 - 1543). Lady Margaret"
+                    HPOS="988"
+                    VPOS="6276"
+                    WIDTH="3540"
+                    HEIGHT="293"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_74f3587c"
+                    TAGREFS="LT103"
+                    BASELINE="1043 6716 3063 6704 3175 6703" 
+                    HPOS="1025"
+                    VPOS="6533"
+                    WIDTH="2148"
+                    HEIGHT="280">
+            <Shape><Polygon POINTS="1037 6710 1025 6581 1208 6539 1208 6539 1208 6539 1214 6539 1214 6539 1416 6575 1574 6539 1580 6539 1580 6539 1586 6539 1586 6539 1586 6539 1593 6539 1593 6539 1599 6539 1599 6539 1599 6539 1635 6575 1708 6539 1708 6539 1708 6539 1715 6539 1715 6539 1721 6539 1721 6539 1721 6539 1904 6575 1916 6581 2136 6581 2142 6575 2185 6539 2185 6539 2191 6539 2191 6539 2191 6539 2197 6539 2197 6539 2197 6539 2203 6539 2655 6575 2697 6575 2703 6575 2734 6545 2734 6539 2734 6539 2740 6539 2740 6539 2740 6539 2746 6539 2746 6539 2746 6539 2752 6539 2752 6539 2758 6539 2868 6569 2929 6533 2935 6533 2935 6533 2941 6533 2941 6533 2941 6533 2947 6533 2947 6533 2954 6533 2954 6533 2954 6533 2960 6533 2960 6533 3009 6575 3161 6575 3173 6697 3167 6771 2978 6801 2978 6801 2972 6801 2972 6801 2972 6801 2966 6801 2966 6801 2960 6801 2960 6801 2960 6795 2935 6777 2905 6746 2526 6746 2453 6789 2429 6807 2423 6807 2423 6807 2423 6807 2416 6807 2416 6807 2416 6813 2020 6813 2014 6807 2014 6807 2008 6807 2008 6807 2008 6807 1983 6795 1910 6752 1879 6777 1879 6777 1873 6777 1873 6777 1867 6777 1867 6777 1867 6777 1861 6777 1861 6777 1861 6777 1855 6777 1855 6777 1855 6777 1849 6777 1849 6777 1812 6746 1507 6746 1318 6807 1312 6807 1312 6807 1312 6807 1312 6807 1306 6807 1306 6807 1306 6807 1306 6807 1300 6807 1300 6807 1208 6771 1043 6813"/></Shape>
+	    <String CONTENT="Guilford. Basel, öff. Kunstslg."
+                    HPOS="1025"
+                    VPOS="6533"
+                    WIDTH="2148"
+                    HEIGHT="280"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3668"
+                   VPOS="7011"
+                   WIDTH="891"
+                   HEIGHT="305"
+                   ID="eSc_textblock_4349526e"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="3668 7011 3668 7316 4559 7316 4559 7011"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_534d84c8"
+                    TAGREFS="LT103"
+                    BASELINE="3820 7259 4467 7246" 
+                    HPOS="3802"
+                    VPOS="7063"
+                    WIDTH="665"
+                    HEIGHT="269">
+            <Shape><Polygon POINTS="3820 7259 3802 7088 4449 7063 4467 7246 4467 7326 3820 7332"/></Shape>
+	    <String CONTENT="172. VII. 6"
+                    HPOS="3802"
+                    VPOS="7063"
+                    WIDTH="665"
+                    HEIGHT="269"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="912"
+                   VPOS="741"
+                   WIDTH="3965"
+                   HEIGHT="5577"
+                   ID="eSc_textblock_6299f9fd"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="959 741 912 6318 4877 6243 4877 787"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

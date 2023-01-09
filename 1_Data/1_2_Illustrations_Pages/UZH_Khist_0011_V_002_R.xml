@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0011_V_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6392"
+          HEIGHT="4915"
+          PHYSICAL_IMG_NR="333"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6392"
+                  HEIGHT="4915">
+        
+        <TextBlock HPOS="0"
+                   VPOS="65"
+                   WIDTH="6387"
+                   HEIGHT="4796"
+                   ID="eSc_textblock_7ab57d5b"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="6076 65 6305 147 6359 1261 6387 638 6305 4828 6244 4845 6240 4763 6158 4861 0 4787 0 326 0 73 852 65"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_c7cb0e29"
+                    TAGREFS="LT102"
+                    BASELINE="1057 4280 5121 4308" 
+                    HPOS="1048"
+                    VPOS="4181"
+                    WIDTH="4073"
+                    HEIGHT="193">
+            <Shape><Polygon POINTS="1057 4280 1057 4181 1352 4206 1606 4185 1643 4185 1647 4185 1696 4190 1974 4210 2097 4194 2130 4190 2134 4190 2294 4194 2704 4214 2761 4202 2794 4194 2798 4194 2802 4194 2868 4202 2966 4218 3187 4206 3318 4202 3323 4202 3327 4202 3355 4210 3409 4222 3687 4214 3945 4206 3949 4206 3954 4206 3958 4206 3974 4218 3994 4230 5121 4235 5121 4308 5113 4374 4539 4337 4048 4357 4044 4357 3908 4329 3347 4329 3265 4357 3249 4362 3245 4362 3241 4362 3183 4357 3007 4337 2909 4353 2860 4362 2855 4362 2851 4362 2819 4353 2720 4325 2589 4325 2532 4349 2511 4357 2507 4357 2503 4357 1048 4333"/></Shape>
+	    <String CONTENT="8384 – FIRENZE – Crocefissione – Beato Angelico – Museo di S. Marco – Anderson. Roma"
+                    HPOS="1048"
+                    VPOS="4181"
+                    WIDTH="4073"
+                    HEIGHT="193"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

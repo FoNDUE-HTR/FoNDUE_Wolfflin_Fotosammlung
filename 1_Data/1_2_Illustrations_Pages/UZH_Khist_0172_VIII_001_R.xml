@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0172_VIII_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2204"
+          HEIGHT="3006"
+          PHYSICAL_IMG_NR="424"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2204"
+                  HEIGHT="3006">
+        
+        <TextBlock HPOS="51"
+                   VPOS="60"
+                   WIDTH="2059"
+                   HEIGHT="2885"
+                   ID="eSc_textblock_9a753c7c"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="2092 60 2110 2945 51 2909 51 78"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d88930a2"
+                    TAGREFS="LT103"
+                    BASELINE="167 2828 458 2823" 
+                    HPOS="155"
+                    VPOS="2715"
+                    WIDTH="303"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="167 2828 155 2770 190 2745 190 2745 193 2745 193 2745 195 2745 195 2745 195 2745 198 2745 198 2745 198 2745 200 2745 200 2745 200 2745 203 2745 203 2745 218 2758 235 2775 278 2775 338 2735 366 2717 368 2717 368 2717 371 2717 371 2717 371 2717 451 2715 458 2823 456 2835 167 2840"/></Shape>
+	    <String CONTENT="S. 310"
+                    HPOS="155"
+                    VPOS="2715"
+                    WIDTH="303"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eceed870"
+                    TAGREFS="LT103"
+                    BASELINE="668 2859 819 2865 2048 2873" 
+                    HPOS="659"
+                    VPOS="2768"
+                    WIDTH="1387"
+                    HEIGHT="137">
+            <Shape><Polygon POINTS="666 2858 659 2800 702 2768 702 2768 704 2768 704 2768 704 2768 707 2768 707 2768 709 2768 759 2768 759 2768 759 2768 762 2768 762 2768 762 2768 764 2768 764 2768 764 2770 794 2800 897 2800 927 2773 927 2770 927 2770 930 2770 930 2770 930 2770 932 2770 932 2770 935 2770 987 2770 987 2770 987 2770 990 2770 990 2770 990 2770 992 2770 992 2770 992 2773 1018 2795 1043 2773 1043 2770 1043 2770 1045 2770 1045 2770 1045 2770 1048 2770 1048 2770 1050 2770 1050 2770 1050 2770 1148 2788 1191 2770 1191 2770 1193 2770 1193 2770 1193 2770 1196 2770 1196 2770 1198 2770 1198 2770 1198 2770 1201 2770 1201 2770 1201 2773 1231 2803 1288 2803 1298 2803 1298 2803 1328 2775 1328 2773 1328 2773 1331 2773 1331 2773 1331 2773 1333 2773 1333 2773 1333 2773 1336 2773 1336 2773 1338 2773 1338 2773 1338 2773 1376 2790 1411 2773 1411 2773 1411 2773 1414 2773 1414 2773 1416 2773 1416 2773 1416 2773 1419 2773 1521 2803 1549 2778 1549 2775 1549 2775 1552 2775 1552 2775 1552 2775 1554 2775 1554 2775 1554 2775 1617 2773 1619 2773 1619 2773 1622 2773 1622 2773 1622 2773 1624 2773 1624 2773 1624 2775 1652 2803 1700 2778 1700 2778 1700 2778 1702 2778 1702 2778 1702 2778 1705 2778 1705 2778 1707 2778 1707 2778 1707 2778 1710 2778 1750 2803 1845 2803 1883 2775 1885 2775 1885 2775 1885 2775 1888 2775 1888 2775 1888 2775 1890 2775 1890 2775 1893 2775 1893 2775 1893 2775 1895 2775 1895 2775 1895 2778 1925 2805 1925 2808 2043 2808 2046 2870 2043 2905 1747 2905 1745 2903 1745 2903 1742 2903 1742 2903 1725 2898 1689 2883 1674 2895 1674 2895 1672 2895 1672 2895 1672 2895 1672 2895 1669 2895 1669 2895 1669 2898 1557 2898 1554 2895 1554 2895 1552 2895 1552 2895 1544 2893 1509 2878 1471 2878 1456 2890 1449 2895 1449 2898 1449 2898 1446 2898 1446 2898 1444 2898 1444 2898 1444 2898 1441 2898 1441 2898 1441 2898 1439 2898 1439 2898 1419 2890 1391 2878 1313 2888 1278 2890 1278 2890 1276 2890 1276 2890 1241 2885 1183 2875 1168 2883 1163 2888 1160 2888 1160 2888 1160 2888 1158 2888 1158 2888 1155 2888 1155 2888 1155 2888 1123 2883 1083 2875 1030 2880 950 2888 950 2888 947 2888 947 2888 947 2888 897 2878 887 2875 877 2878 834 2888 832 2888 832 2888 829 2888 829 2888 661 2870"/></Shape>
+	    <String CONTENT="Hans Holbein d. J. : Geisselung"
+                    HPOS="659"
+                    VPOS="2768"
+                    WIDTH="1387"
+                    HEIGHT="137"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

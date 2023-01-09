@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0172_II_008_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4362"
+          HEIGHT="6302"
+          PHYSICAL_IMG_NR="357"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4362"
+                  HEIGHT="6302">
+        
+        <TextBlock HPOS="556"
+                   VPOS="766"
+                   WIDTH="3195"
+                   HEIGHT="4074"
+                   ID="eSc_textblock_2139266e"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="597 766 556 4840 3751 4828 3751 790"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_30214e97"
+                    TAGREFS="LT102"
+                    BASELINE="1267 4747 2974 4747" 
+                    HPOS="1261"
+                    VPOS="4626"
+                    WIDTH="1708"
+                    HEIGHT="158">
+            <Shape><Polygon POINTS="1266 4742 1261 4658 1397 4626 1403 4626 1697 4652 1755 4626 1760 4626 1765 4626 1902 4658 2238 4658 2296 4626 2301 4626 2307 4626 2638 4652 2743 4626 2748 4626 2753 4626 2969 4658 2969 4742 2969 4773 1266 4784"/></Shape>
+	    <String CONTENT="handzeichnung"
+                    HPOS="1261"
+                    VPOS="4626"
+                    WIDTH="1708"
+                    HEIGHT="158"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="469"
+                   VPOS="4888"
+                   WIDTH="3226"
+                   HEIGHT="552"
+                   ID="eSc_textblock_36c6383a"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="469 4888 469 5440 3695 5440 3695 4888"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_438c18c4"
+                    TAGREFS="LT103"
+                    BASELINE="604 5094 2112 5041 3700 5073" 
+                    HPOS="588"
+                    VPOS="4878"
+                    WIDTH="3111"
+                    HEIGHT="263">
+            <Shape><Polygon POINTS="599 5088 588 4941 1077 4947 1093 4936 1150 4889 1150 4889 1156 4889 1156 4889 1156 4889 1161 4889 1161 4889 1166 4889 1166 4889 1166 4889 1397 4936 1434 4905 1434 4905 1439 4905 1439 4905 1439 4905 1445 4905 1445 4905 1445 4905 1450 4905 1450 4905 1455 4905 1455 4905 1455 4905 1518 4936 1518 4936 1518 4936 1765 4884 1765 4884 1765 4884 1771 4884 1771 4884 1771 4884 1944 4920 1981 4889 1981 4884 1981 4884 1986 4884 1986 4884 1986 4884 1991 4884 1991 4884 1991 4884 2312 4878 2317 4878 2680 4878 2680 4878 2680 4878 2680 4878 2911 4936 2927 4936 2969 4936 3321 4905 3326 4905 3326 4905 3326 4905 3331 4905 3331 4905 3331 4905 3337 4905 3337 4905 3368 4936 3694 4936 3699 5067 3694 5125 3452 5125 3447 5120 3447 5120 3442 5120 3442 5120 3368 5088 3079 5125 3074 5125 3074 5125 3069 5125 3069 5125 3063 5125 3063 5125 3063 5125 3063 5125 3058 5125 3058 5125 3058 5120 3011 5078 2879 5078 2685 5120 2685 5120 2685 5120 2680 5120 2680 5120 2680 5120 2675 5120 2675 5120 2669 5120 2669 5120 2669 5115 2622 5078 2538 5078 2480 5120 2480 5120 2475 5120 2475 5120 2470 5120 2470 5120 2470 5120 2464 5120 2464 5120 2464 5120 2459 5120 2333 5078 1907 5104 1902 5104 1902 5104 1902 5104 1897 5104 1897 5104 1844 5083 1776 5130 1771 5130 1771 5130 1771 5130 1765 5130 1765 5130 1760 5130 1760 5130 1350 5094 1150 5136 1150 5136 1150 5136 1145 5136 1145 5136 1145 5136 982 5099 599 5141"/></Shape>
+	    <String CONTENT="Holbein, Hans d. J. (1497-1543). William Warham"
+                    HPOS="588"
+                    VPOS="4878"
+                    WIDTH="3111"
+                    HEIGHT="263"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f82875b3"
+                    TAGREFS="LT103"
+                    BASELINE="604 5309 2039 5267 3421 5267" 
+                    HPOS="599"
+                    VPOS="5104"
+                    WIDTH="2822"
+                    HEIGHT="273">
+            <Shape><Polygon POINTS="604 5309 599 5146 1192 5167 1219 5141 1224 5141 1224 5136 1224 5136 1229 5136 1229 5136 1229 5136 1235 5136 1235 5136 1235 5136 1403 5130 1408 5130 1408 5130 1413 5130 1413 5130 1413 5130 1418 5130 1418 5130 1429 5141 1461 5167 1597 5167 1718 5141 1802 5125 1802 5125 1802 5125 1807 5125 1807 5125 1813 5125 1813 5125 1813 5125 1844 5141 1881 5157 1923 5141 1955 5125 1955 5125 1960 5125 1960 5125 1965 5125 1965 5125 1965 5125 2039 5136 2107 5151 2144 5136 2191 5120 2191 5120 2196 5120 2196 5120 2202 5120 2202 5120 2202 5120 2207 5120 2207 5120 2207 5120 2212 5120 2212 5120 2212 5125 2228 5136 2244 5151 2286 5136 2359 5115 2364 5115 2364 5115 2370 5115 2370 5115 2564 5136 2659 5146 2680 5136 2711 5109 2711 5109 2717 5109 2717 5109 2722 5109 2722 5109 2722 5109 2727 5109 2727 5109 2869 5136 2911 5141 3058 5141 3063 5136 3090 5109 3090 5104 3090 5104 3095 5104 3095 5104 3095 5104 3100 5104 3100 5104 3105 5104 3105 5104 3416 5136 3421 5267 3421 5330 2822 5340 2816 5340 2816 5340 2811 5340 2811 5340 2811 5340 2811 5340 2753 5314 2585 5346 2569 5346 2569 5346 2564 5346 2564 5346 2564 5346 2548 5346 2328 5304 2159 5304 2112 5346 2112 5351 2112 5351 2107 5351 2107 5351 2107 5351 2107 5351 2102 5351 2102 5351 2096 5351 2096 5351 2096 5351 2091 5351 2091 5351 1965 5314 1613 5314 1555 5351 1550 5351 1550 5351 1545 5351 1545 5351 1545 5351 1539 5351 1539 5351 1539 5351 1534 5351 1534 5351 1534 5351 1529 5351 1482 5319 1319 5319 1271 5361 1271 5367 1271 5367 1271 5367 1266 5367 1266 5367 1266 5367 1261 5367 1261 5367 1256 5367 1256 5367 1224 5367 919 5330 835 5372 830 5372 830 5372 830 5372 825 5372 825 5372 825 5377 604 5377"/></Shape>
+	    <String CONTENT="Erzbischaf v."
+                    HPOS="599"
+                    VPOS="5104"
+                    WIDTH="2822"
+                    HEIGHT="273"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2605"
+                   VPOS="6013"
+                   WIDTH="769"
+                   HEIGHT="289"
+                   ID="eSc_textblock_ab14be2d"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="2610 6013 2605 6302 3374 6302 3374 6023"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_b570252a"
+                    TAGREFS="LT103"
+                    BASELINE="2690 6263 3402 6249" 
+                    HPOS="2669"
+                    VPOS="6076"
+                    WIDTH="731"
+                    HEIGHT="194">
+            <Shape><Polygon POINTS="2685 6259 2669 6091 3384 6076 3400 6244 3395 6259 2685 6270"/></Shape>
+	    <String CONTENT="172. II. 8"
+                    HPOS="2669"
+                    VPOS="6076"
+                    WIDTH="731"
+                    HEIGHT="194"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

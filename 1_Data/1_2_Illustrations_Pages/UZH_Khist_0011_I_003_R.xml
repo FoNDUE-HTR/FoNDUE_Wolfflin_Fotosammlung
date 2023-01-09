@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0011_I_003_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4869"
+          HEIGHT="6199"
+          PHYSICAL_IMG_NR="303"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4869"
+                  HEIGHT="6199">
+        
+        <TextBlock HPOS="18"
+                   VPOS="102"
+                   WIDTH="4746"
+                   HEIGHT="6010"
+                   ID="eSc_textblock_11c9f23b"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="4764 102 4764 6112 18 6112 18 102"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_6073d858"
+                    TAGREFS="LT102"
+                    BASELINE="392 6038 4300 6023" 
+                    HPOS="377"
+                    VPOS="5863"
+                    WIDTH="3923"
+                    HEIGHT="248">
+            <Shape><Polygon POINTS="392 6038 377 5883 1054 5873 1059 5873 1064 5873 1069 5873 1085 5883 1116 5909 1199 5883 1209 5883 1214 5883 1219 5883 1225 5883 1235 5883 1369 5920 1488 5889 1540 5873 1545 5873 1550 5873 1555 5873 1586 5889 1674 5925 1984 5894 1989 5894 2114 5920 2496 5894 2574 5889 2579 5889 2584 5889 2594 5894 2636 5909 2656 5894 2687 5868 2692 5868 2698 5868 2977 5863 2982 5863 2987 5863 3065 5894 3080 5899 3101 5894 3189 5878 3194 5878 3199 5878 3271 5894 3328 5909 3607 5909 3638 5899 3788 5863 3793 5863 3979 5899 4036 5909 4284 5904 4300 6023 4290 6111 387 6106"/></Shape>
+	    <String CONTENT="(Ed.ni Brogi) 14639. FIRENZE - Museo di S. Marco - Particolare della Vergine col Figlio; Beato Angelico."
+                    HPOS="377"
+                    VPOS="5863"
+                    WIDTH="3923"
+                    HEIGHT="248"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

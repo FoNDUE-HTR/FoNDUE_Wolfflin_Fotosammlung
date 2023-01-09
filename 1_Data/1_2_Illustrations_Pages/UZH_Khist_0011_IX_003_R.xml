@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0011_IX_003_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5635"
+          HEIGHT="7610"
+          PHYSICAL_IMG_NR="330"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="5635"
+                  HEIGHT="7610">
+        
+        <TextBlock HPOS="406"
+                   VPOS="456"
+                   WIDTH="4588"
+                   HEIGHT="6232"
+                   ID="eSc_textblock_fd82e5a8"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="737 502 1522 456 4994 608 4943 6688 431 6635 406 761 431 558 586 487"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ec0d2dde"
+                    TAGREFS="LT102"
+                    BASELINE="1357 6582 4127 6615" 
+                    HPOS="1338"
+                    VPOS="6487"
+                    WIDTH="2786"
+                    HEIGHT="159">
+            <Shape><Polygon POINTS="1351 6576 1351 6487 4118 6525 4124 6614 4112 6646 1338 6627"/></Shape>
+	    <String CONTENT="(Ed.ne Alinari) P.e 2.a N.° 5482. ORVIETO - Cattedrale. Coro di Profeti. (Beato Angelico.)"
+                    HPOS="1338"
+                    VPOS="6487"
+                    WIDTH="2786"
+                    HEIGHT="159"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4986"
+                   VPOS="7348"
+                   WIDTH="505"
+                   HEIGHT="248"
+                   ID="eSc_textblock_3ed823da"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="4986 7348 4986 7596 5491 7596 5491 7348"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_dc03729b"
+                    TAGREFS="LT103"
+                    BASELINE="5063 7502 5431 7489" 
+                    HPOS="5044"
+                    VPOS="7356"
+                    WIDTH="387"
+                    HEIGHT="184">
+            <Shape><Polygon POINTS="5063 7502 5044 7375 5412 7356 5431 7489 5431 7527 5063 7540"/></Shape>
+	    <String CONTENT="11. II.4"
+                    HPOS="5044"
+                    VPOS="7356"
+                    WIDTH="387"
+                    HEIGHT="184"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

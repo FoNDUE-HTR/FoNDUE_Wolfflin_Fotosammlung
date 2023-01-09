@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0172_V_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5482"
+          HEIGHT="7183"
+          PHYSICAL_IMG_NR="388"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="5482"
+                  HEIGHT="7183">
+        
+        <TextBlock HPOS="616"
+                   VPOS="6303"
+                   WIDTH="4170"
+                   HEIGHT="507"
+                   ID="eSc_textblock_f85eb093"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="616 6321 669 6766 4786 6810 4786 6303"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f1e65f8f"
+                    TAGREFS="LT105"
+                    BASELINE="641 6446 2090 6458" 
+                    HPOS="635"
+                    VPOS="6315"
+                    WIDTH="1455"
+                    HEIGHT="179">
+            <Shape><Polygon POINTS="641 6446 641 6315 2090 6333 2090 6458 2084 6494 635 6494"/></Shape>
+	    <String CONTENT="Hans Holbein d. J. (1497 – 1543)."
+                    HPOS="635"
+                    VPOS="6315"
+                    WIDTH="1455"
+                    HEIGHT="179"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c291b2b4"
+                    TAGREFS="LT105"
+                    BASELINE="3337 6440 4703 6440" 
+                    HPOS="3337"
+                    VPOS="6338"
+                    WIDTH="1378"
+                    HEIGHT="174">
+            <Shape><Polygon POINTS="3337 6440 3337 6338 4703 6338 4703 6440 4715 6470 4661 6506 4655 6506 4655 6506 4655 6506 4649 6506 4649 6506 4649 6506 4643 6506 4271 6482 4163 6476 4151 6488 4133 6500 4133 6506 4133 6506 4127 6506 4127 6506 4127 6506 4121 6506 4121 6506 4121 6512 3582 6512 3576 6506 3576 6506 3570 6506 3558 6500 3474 6476 3337 6506"/></Shape>
+	    <String CONTENT="Hirth: Renaissance. N°. 249."
+                    HPOS="3337"
+                    VPOS="6338"
+                    WIDTH="1378"
+                    HEIGHT="174"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6c9ae53d"
+                    TAGREFS="LT105"
+                    BASELINE="1713 6728 3624 6746" 
+                    HPOS="1695"
+                    VPOS="6620"
+                    WIDTH="1929"
+                    HEIGHT="167">
+            <Shape><Polygon POINTS="1713 6728 1707 6626 3403 6620 3409 6620 3409 6620 3618 6656 3624 6746 3618 6769 1809 6787 1803 6787 1803 6787 1797 6787 1797 6787 1695 6746"/></Shape>
+	    <String CONTENT="Verlag von G. Hirth in Leipzig. — Druck von Knorr &amp; Hirth in München."
+                    HPOS="1695"
+                    VPOS="6620"
+                    WIDTH="1929"
+                    HEIGHT="167"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1327"
+                   VPOS="6810"
+                   WIDTH="3023"
+                   HEIGHT="302"
+                   ID="eSc_textblock_d3a8ed7c"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="4350 7112 4350 6810 1327 6810 1327 7112"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_3fa6bb53"
+                    TAGREFS="LT103"
+                    BASELINE="1443 6991 2911 6949 4169 6955" 
+                    HPOS="1431"
+                    VPOS="6793"
+                    WIDTH="2738"
+                    HEIGHT="258">
+            <Shape><Polygon POINTS="1443 6991 1431 6823 2222 6859 2534 6823 2540 6823 2546 6823 2624 6853 2708 6817 2732 6805 2738 6805 2743 6805 3355 6811 3361 6811 3367 6811 3403 6841 3498 6811 3522 6805 3528 6805 3534 6805 3540 6805 3558 6811 3612 6829 3630 6811 3648 6799 3648 6793 3654 6793 3660 6793 3666 6793 3672 6793 3708 6811 3762 6835 4157 6811 4169 6955 4169 6973 4080 7009 4074 7009 3732 7015 3726 7015 3720 7015 3630 6991 3588 6979 3444 6997 3217 7021 3211 7021 3205 7021 3151 7003 3097 6985 2989 7009 2893 7027 2887 7027 2881 7027 2833 7015 2767 6991 2720 7015 2684 7033 2678 7033 2672 7033 2588 7021 2456 6997 2324 7027 2264 7039 2258 7039 2192 7033 1995 7003 1629 7045 1623 7045 1617 7045 1611 7045 1605 7045 1557 7009 1449 7051"/></Shape>
+	    <String CONTENT="Beispiele aus dem sof. &quot;Totentanz&quot;. Holzschnitt"
+                    HPOS="1431"
+                    VPOS="6793"
+                    WIDTH="2738"
+                    HEIGHT="258"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="598"
+                   VPOS="702"
+                   WIDTH="4188"
+                   HEIGHT="5566"
+                   ID="eSc_textblock_2622a3e7"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="4769 702 4786 6268 607 6241 598 711"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

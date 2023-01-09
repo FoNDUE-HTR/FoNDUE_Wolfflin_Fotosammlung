@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0011_IV_003_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5579"
+          HEIGHT="7510"
+          PHYSICAL_IMG_NR="323"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="5579"
+                  HEIGHT="7510">
+        
+        <TextBlock HPOS="1791"
+                   VPOS="271"
+                   WIDTH="1843"
+                   HEIGHT="319"
+                   ID="eSc_textblock_41fbdfd8"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="1791 271 1791 590 3634 590 3634 271"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_3b5be204"
+                    TAGREFS="LT105"
+                    BASELINE="1903 506 3556 506" 
+                    HPOS="1903"
+                    VPOS="362"
+                    WIDTH="1653"
+                    HEIGHT="201">
+            <Shape><Polygon POINTS="1903 506 1903 362 3556 388 3556 506 3556 550 1903 563"/></Shape>
+	    <String CONTENT="ALTFLORENTINISCHE SCHULE"
+                    HPOS="1903"
+                    VPOS="362"
+                    WIDTH="1653"
+                    HEIGHT="201"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="431"
+                   VPOS="6231"
+                   WIDTH="4598"
+                   HEIGHT="847"
+                   ID="eSc_textblock_36135ed3"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="5029 6231 5029 6470 4075 6470 4075 7078 1403 7078 1403 6482 431 6482 431 6231"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f4e3fe58"
+                    TAGREFS="LT105"
+                    BASELINE="745 6308 1803 6295" 
+                    HPOS="726"
+                    VPOS="6095"
+                    WIDTH="1077"
+                    HEIGHT="263">
+            <Shape><Polygon POINTS="745 6308 726 6120 1784 6095 1803 6295 1797 6358 745 6358"/></Shape>
+	    <String CONTENT="Klassischer Bilderschatz Nr. 1021"
+                    HPOS="726"
+                    VPOS="6095"
+                    WIDTH="1077"
+                    HEIGHT="263"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_da7af2de"
+                    TAGREFS="LT105"
+                    BASELINE="4145 6295 4739 6308" 
+                    HPOS="4138"
+                    VPOS="6126"
+                    WIDTH="601"
+                    HEIGHT="263">
+            <Shape><Polygon POINTS="4145 6295 4145 6126 4739 6126 4739 6308 4733 6370 4138 6389"/></Shape>
+	    <String CONTENT="S. Marco, Florenz"
+                    HPOS="4138"
+                    VPOS="6126"
+                    WIDTH="601"
+                    HEIGHT="263"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3022b2ff"
+                    TAGREFS="LT102"
+                    BASELINE="1483 6433 3969 6433" 
+                    HPOS="1477"
+                    VPOS="6289"
+                    WIDTH="2492"
+                    HEIGHT="207">
+            <Shape><Polygon POINTS="1483 6433 1483 6289 3969 6314 3969 6433 3963 6496 1477 6471"/></Shape>
+	    <String CONTENT="FRA GIOVANNI ANGELICO DA FIESOLE"
+                    HPOS="1477"
+                    VPOS="6289"
+                    WIDTH="2492"
+                    HEIGHT="207"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8b690476"
+                    TAGREFS="LT105"
+                    BASELINE="2441 6564 3005 6577" 
+                    HPOS="2429"
+                    VPOS="6458"
+                    WIDTH="576"
+                    HEIGHT="144">
+            <Shape><Polygon POINTS="2441 6564 2441 6458 2999 6464 3005 6577 2992 6602 2429 6596"/></Shape>
+	    <String CONTENT="1387 — 1455"
+                    HPOS="2429"
+                    VPOS="6458"
+                    WIDTH="576"
+                    HEIGHT="144"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c2f8c8fe"
+                    TAGREFS="LT105"
+                    BASELINE="1759 6708 3656 6696" 
+                    HPOS="1753"
+                    VPOS="6577"
+                    WIDTH="1903"
+                    HEIGHT="182">
+            <Shape><Polygon POINTS="1759 6708 1753 6577 3644 6602 3656 6696 3644 6759 1753 6746"/></Shape>
+	    <String CONTENT="Die Kreuzigung Chrisi — La crucifixion"
+                    HPOS="1753"
+                    VPOS="6577"
+                    WIDTH="1903"
+                    HEIGHT="182"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_24adbc09"
+                    TAGREFS="LT105"
+                    BASELINE="1527 6890 3913 6877" 
+                    HPOS="1515"
+                    VPOS="6746"
+                    WIDTH="2398"
+                    HEIGHT="194">
+            <Shape><Polygon POINTS="1527 6890 1515 6759 1890 6752 1897 6752 1897 6752 1903 6752 1903 6752 1903 6752 1909 6752 1909 6752 1916 6759 1947 6790 2003 6759 2022 6752 2022 6752 2022 6752 2028 6752 2028 6752 2034 6752 2034 6752 2034 6752 2078 6759 2229 6796 2341 6765 2348 6765 2348 6765 2348 6765 2348 6765 2354 6765 2354 6765 2354 6765 2360 6765 2360 6765 2360 6765 2366 6765 2366 6765 2404 6802 2642 6802 2717 6765 2767 6746 2767 6746 2773 6746 2773 6746 2773 6746 2780 6746 2780 6746 2905 6765 2974 6777 2992 6765 3024 6752 3024 6752 3024 6752 3030 6752 3030 6752 3030 6752 3036 6752 3036 6752 3043 6752 3043 6752 3043 6752 3049 6752 3068 6765 3099 6790 3130 6771 3155 6746 3155 6746 3162 6746 3162 6746 3168 6746 3168 6746 3168 6746 3174 6746 3174 6746 3180 6746 3180 6746 3243 6771 3299 6790 3894 6777 3913 6877 3913 6927 1527 6940"/></Shape>
+	    <String CONTENT="VERLAGSANSTALT FÜR KUNST UND WISSENSCHAFT VORMALS FRIEDR. BRUCKMANN, MÜNCHEN."
+                    HPOS="1515"
+                    VPOS="6746"
+                    WIDTH="2398"
+                    HEIGHT="194"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4850"
+                   VPOS="7197"
+                   WIDTH="614"
+                   HEIGHT="274"
+                   ID="eSc_textblock_4a54f21a"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="4850 7197 4850 7471 5464 7471 5464 7197"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_acb85ac2"
+                    TAGREFS="LT103"
+                    BASELINE="4973 7411 5416 7384" 
+                    HPOS="4959"
+                    VPOS="7228"
+                    WIDTH="450"
+                    HEIGHT="206">
+            <Shape><Polygon POINTS="4971 7434 5403 7409 5409 7378 5397 7253 5309 7228 5303 7228 5297 7228 5290 7228 5209 7247 5103 7278 4959 7240 4971 7409 4971 7434"/></Shape>
+	    <String CONTENT="11. I. 23"
+                    HPOS="4959"
+                    VPOS="7228"
+                    WIDTH="450"
+                    HEIGHT="206"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="502"
+                   VPOS="603"
+                   WIDTH="4517"
+                   HEIGHT="5665"
+                   ID="eSc_textblock_271106df"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="539 603 502 6231 5019 6268 4960 603"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

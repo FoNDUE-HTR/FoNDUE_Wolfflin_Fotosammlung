@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0172_IX_005_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5479"
+          HEIGHT="7309"
+          PHYSICAL_IMG_NR="376"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="5479"
+                  HEIGHT="7309">
+        
+        <TextBlock HPOS="553"
+                   VPOS="6220"
+                   WIDTH="4106"
+                   HEIGHT="611"
+                   ID="eSc_textblock_41876635"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="553 6220 4659 6220 4659 6495 3637 6495 3637 6826 1531 6831 1531 6531 553 6531"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_4f3a60be"
+                    TAGREFS="LT102"
+                    BASELINE="578 6462 2023 6462" 
+                    HPOS="578"
+                    VPOS="6334"
+                    WIDTH="1445"
+                    HEIGHT="183">
+            <Shape><Polygon POINTS="578 6462 578 6334 2023 6364 2023 6462 2023 6505 578 6517"/></Shape>
+	    <String CONTENT="Hans Holbein d. J. (1497 – 1543)."
+                    HPOS="578"
+                    VPOS="6334"
+                    WIDTH="1445"
+                    HEIGHT="183"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_989e873b"
+                    TAGREFS="LT102"
+                    BASELINE="3272 6456 4046 6456" 
+                    HPOS="3272"
+                    VPOS="6364"
+                    WIDTH="774"
+                    HEIGHT="153">
+            <Shape><Polygon POINTS="3272 6456 3272 6364 4046 6364 4046 6456 4046 6505 3272 6517"/></Shape>
+	    <String CONTENT="Hirth: Renaissance."
+                    HPOS="3272"
+                    VPOS="6364"
+                    WIDTH="774"
+                    HEIGHT="153"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_97f9370a"
+                    TAGREFS="LT102"
+                    BASELINE="4132 6456 4644 6444" 
+                    HPOS="4119"
+                    VPOS="6334"
+                    WIDTH="525"
+                    HEIGHT="201">
+            <Shape><Polygon POINTS="4132 6456 4119 6334 4631 6340 4644 6444 4637 6505 4345 6535 4345 6535 4339 6535 4339 6535 4126 6498"/></Shape>
+	    <String CONTENT="No. 141."
+                    HPOS="4119"
+                    VPOS="6334"
+                    WIDTH="525"
+                    HEIGHT="201"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b4ff975e"
+                    TAGREFS="LT102"
+                    BASELINE="1639 6742 3571 6742" 
+                    HPOS="1633"
+                    VPOS="6651"
+                    WIDTH="1938"
+                    HEIGHT="146">
+            <Shape><Polygon POINTS="1639 6742 1639 6651 3571 6663 3571 6742 3565 6797 1633 6779"/></Shape>
+	    <String CONTENT="Verlag von G. Hirth in Leipzig. – Druck von Knorr &amp; Hirth in München."
+                    HPOS="1633"
+                    VPOS="6651"
+                    WIDTH="1938"
+                    HEIGHT="146"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1495"
+                   VPOS="6931"
+                   WIDTH="1707"
+                   HEIGHT="374"
+                   ID="eSc_textblock_942dd2e8"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="1495 6931 1495 7305 3202 7305 3202 6931"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_31c11d85"
+                    TAGREFS="LT103"
+                    BASELINE="1645 7132 3120 7095" 
+                    HPOS="1627"
+                    VPOS="6974"
+                    WIDTH="1493"
+                    HEIGHT="207">
+            <Shape><Polygon POINTS="1645 7132 1627 6992 3102 6974 3120 7095 3120 7126 2803 7168 2797 7168 2407 7150 2364 7181 2358 7181 2352 7181 2346 7181 2200 7150 1645 7156"/></Shape>
+	    <String CONTENT="Aus der Passions folge."
+                    HPOS="1627"
+                    VPOS="6974"
+                    WIDTH="1493"
+                    HEIGHT="207"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="553"
+                   VPOS="728"
+                   WIDTH="4186"
+                   HEIGHT="5607"
+                   ID="eSc_textblock_bfe7c4b4"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="554 728 553 6335 4730 6335 4739 746"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

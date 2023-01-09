@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0172_IX_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5476"
+          HEIGHT="7272"
+          PHYSICAL_IMG_NR="373"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="5476"
+                  HEIGHT="7272">
+        
+        <TextBlock HPOS="412"
+                   VPOS="6360"
+                   WIDTH="4279"
+                   HEIGHT="533"
+                   ID="eSc_textblock_2f98ea94"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="412 6360 412 6893 4691 6893 4691 6360"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f92a66e4"
+                    TAGREFS="LT105"
+                    BASELINE="2286 6496 2983 6496" 
+                    HPOS="2280"
+                    VPOS="6338"
+                    WIDTH="709"
+                    HEIGHT="206">
+            <Shape><Polygon POINTS="2286 6496 2286 6350 2662 6375 2710 6369 2850 6338 2850 6338 2850 6338 2856 6338 2856 6338 2856 6338 2862 6338 2989 6381 2983 6496 2977 6544 2280 6538"/></Shape>
+	    <String CONTENT="1879. N°. 7."
+                    HPOS="2280"
+                    VPOS="6338"
+                    WIDTH="709"
+                    HEIGHT="206"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_23f29901"
+                    TAGREFS="LT105"
+                    BASELINE="588 6538 1522 6538" 
+                    HPOS="588"
+                    VPOS="6435"
+                    WIDTH="934"
+                    HEIGHT="158">
+            <Shape><Polygon POINTS="588 6538 588 6435 1522 6435 1522 6538 1522 6581 588 6593"/></Shape>
+	    <String CONTENT="DER FORMENSCHATZ."
+                    HPOS="588"
+                    VPOS="6435"
+                    WIDTH="934"
+                    HEIGHT="158"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1ceb7007"
+                    TAGREFS="LT105"
+                    BASELINE="3887 6532 4657 6520" 
+                    HPOS="3868"
+                    VPOS="6417"
+                    WIDTH="789"
+                    HEIGHT="152">
+            <Shape><Polygon POINTS="3887 6532 3868 6429 4639 6417 4657 6520 4651 6556 3887 6569"/></Shape>
+	    <String CONTENT="L&#39;ART PRATIQUE."
+                    HPOS="3868"
+                    VPOS="6417"
+                    WIDTH="789"
+                    HEIGHT="152"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a145fe04"
+                    TAGREFS="LT105"
+                    BASELINE="679 6684 1412 6672" 
+                    HPOS="667"
+                    VPOS="6544"
+                    WIDTH="745"
+                    HEIGHT="206">
+            <Shape><Polygon POINTS="679 6684 667 6587 1394 6544 1412 6672 1406 6750 673 6726"/></Shape>
+	    <String CONTENT="ART TREASURE"
+                    HPOS="667"
+                    VPOS="6544"
+                    WIDTH="745"
+                    HEIGHT="206"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8eccc89c"
+                    TAGREFS="LT105"
+                    BASELINE="3862 6678 4657 6666" 
+                    HPOS="3844"
+                    VPOS="6562"
+                    WIDTH="813"
+                    HEIGHT="200">
+            <Shape><Polygon POINTS="3862 6678 3844 6575 4639 6562 4657 6666 4645 6756 4293 6726 3862 6762"/></Shape>
+	    <String CONTENT="L&#39;ARTE PRATICA."
+                    HPOS="3844"
+                    VPOS="6562"
+                    WIDTH="813"
+                    HEIGHT="200"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_882a904e"
+                    TAGREFS="LT105"
+                    BASELINE="2110 6726 3092 6714" 
+                    HPOS="2092"
+                    VPOS="6562"
+                    WIDTH="1000"
+                    HEIGHT="194">
+            <Shape><Polygon POINTS="2110 6726 2092 6599 3074 6562 3092 6714 3092 6744 2110 6756"/></Shape>
+	    <String CONTENT="HANS HOLBEIN."
+                    HPOS="2092"
+                    VPOS="6562"
+                    WIDTH="1000"
+                    HEIGHT="194"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1797"
+                   VPOS="6828"
+                   WIDTH="1736"
+                   HEIGHT="221"
+                   ID="eSc_textblock_e8c35b04"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="3533 7049 3533 6828 1797 6828 1797 7049"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_6593e888"
+                    TAGREFS="LT103"
+                    BASELINE="1873 6999 3499 6969" 
+                    HPOS="1861"
+                    VPOS="6841"
+                    WIDTH="1631"
+                    HEIGHT="218">
+            <Shape><Polygon POINTS="1867 6993 1861 6884 2916 6884 2929 6878 3068 6841 3074 6841 3074 6841 3080 6841 3080 6841 3480 6878 3492 6969 3492 6999 3080 7047 3080 7047 3074 7047 2734 7017 2722 7017 2710 7017 2522 7053 2522 7053 2522 7053 2516 7053 2516 7053 2516 7053 2510 7053 2510 7053 2437 7023 2437 7023 2431 7023 2158 7059 2158 7059 2152 7059 2152 7059 1861 7029"/></Shape>
+	    <String CONTENT="Aus der Passions folge."
+                    HPOS="1861"
+                    VPOS="6841"
+                    WIDTH="1631"
+                    HEIGHT="218"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3728"
+                   VPOS="7004"
+                   WIDTH="917"
+                   HEIGHT="268"
+                   ID="eSc_textblock_226fda09"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="3728 7004 3728 7272 4645 7272 4645 7004"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_805156fa"
+                    TAGREFS="LT103"
+                    BASELINE="3838 7193 4481 7211" 
+                    HPOS="3826"
+                    VPOS="7035"
+                    WIDTH="655"
+                    HEIGHT="194">
+            <Shape><Polygon POINTS="3838 7193 3838 7035 4481 7041 4481 7211 4469 7229 3826 7211"/></Shape>
+	    <String CONTENT="172. IX. 2"
+                    HPOS="3826"
+                    VPOS="7035"
+                    WIDTH="655"
+                    HEIGHT="194"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="495"
+                   VPOS="795"
+                   WIDTH="4179"
+                   HEIGHT="5572"
+                   ID="eSc_textblock_0f17d821"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="541 795 495 6344 4674 6367 4674 807"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

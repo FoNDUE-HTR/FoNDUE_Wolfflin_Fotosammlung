@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0011_III_003_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5987"
+          HEIGHT="7129"
+          PHYSICAL_IMG_NR="317"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="5987"
+                  HEIGHT="7129">
+        
+        <TextBlock HPOS="494"
+                   VPOS="543"
+                   WIDTH="4922"
+                   HEIGHT="6039"
+                   ID="eSc_textblock_114a52dd"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="494 543 547 6537 5416 6582 5400 543"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_4a96b924"
+                    TAGREFS="LT102"
+                    BASELINE="1082 6130 4091 6189" 
+                    HPOS="1058"
+                    VPOS="6000"
+                    WIDTH="3032"
+                    HEIGHT="267">
+            <Shape><Polygon POINTS="1076 6124 1082 6000 1212 6035 2265 6035 2937 6035 2942 6035 2948 6035 2966 6053 2990 6065 3079 6059 3228 6041 3234 6041 3240 6041 3246 6041 3246 6047 3264 6059 3275 6071 3347 6065 3507 6047 3513 6047 4084 6089 4090 6184 4084 6225 3793 6267 3787 6267 3781 6267 3775 6267 3709 6225 3264 6249 3258 6249 2889 6208 2877 6208 2871 6208 2687 6243 2681 6243 2497 6202 2283 6237 2277 6237 2271 6237 2265 6237 2199 6196 2193 6196 2187 6196 1682 6225 1676 6225 1670 6225 1664 6225 1611 6184 1605 6184 1420 6220 1415 6220 1409 6220 1313 6178 1307 6178 1183 6214 1177 6214 1171 6214 1165 6214 1058 6172"/></Shape>
+	    <String CONTENT="2769. FIRENZE. - Museo di S. Marco - La Presentazione al tempio; Beato Angelico."
+                    HPOS="1058"
+                    VPOS="6000"
+                    WIDTH="3032"
+                    HEIGHT="267"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_065f83dd"
+                    TAGREFS="LT102"
+                    BASELINE="4193 6189 4895 6196" 
+                    HPOS="4185"
+                    VPOS="6071"
+                    WIDTH="708"
+                    HEIGHT="226">
+            <Shape><Polygon POINTS="4191 6184 4191 6071 4893 6077 4893 6190 4887 6291 4684 6297 4679 6297 4673 6297 4643 6285 4506 6231 4185 6267"/></Shape>
+	    <String CONTENT="(Edizioni Brogi)"
+                    HPOS="4185"
+                    VPOS="6071"
+                    WIDTH="708"
+                    HEIGHT="226"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5262"
+                   VPOS="6856"
+                   WIDTH="604"
+                   HEIGHT="270"
+                   ID="eSc_textblock_88380790"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="5262 6856 5262 7126 5866 7126 5866 6856"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_279ee845"
+                    TAGREFS="LT103"
+                    BASELINE="5350 7062 5821 7069" 
+                    HPOS="5333"
+                    VPOS="6885"
+                    WIDTH="487"
+                    HEIGHT="202">
+            <Shape><Polygon POINTS="5344 7057 5350 6885 5457 6927 5547 6903 5600 6891 5606 6891 5606 6891 5612 6891 5612 6891 5612 6891 5814 6932 5820 7063 5808 7087 5333 7081"/></Shape>
+	    <String CONTENT="11. I. 17"
+                    HPOS="5333"
+                    VPOS="6885"
+                    WIDTH="487"
+                    HEIGHT="202"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0172_III_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7136"
+          HEIGHT="5756"
+          PHYSICAL_IMG_NR="360"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="7136"
+                  HEIGHT="5756">
+        
+        <TextBlock HPOS="855"
+                   VPOS="4513"
+                   WIDTH="5261"
+                   HEIGHT="505"
+                   ID="eSc_textblock_da81008f"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="855 4513 6116 4513 6116 4797 2802 4797 2802 5018 855 5018"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_b6ac2780"
+                    TAGREFS="LT103"
+                    BASELINE="926 4707 5936 4647" 
+                    HPOS="906"
+                    VPOS="4379"
+                    WIDTH="5025"
+                    HEIGHT="388">
+            <Shape><Polygon POINTS="921 4705 906 4388 5917 4379 5931 4643 5926 4700 5379 4681 5014 4715 4851 4729 4851 4729 4846 4729 4846 4729 4842 4729 4842 4729 4842 4729 4818 4719 4755 4686 4391 4686 4189 4724 4141 4734 4141 4734 4141 4734 4136 4734 4136 4734 4083 4729 3872 4695 3738 4734 3695 4743 3690 4743 3690 4743 3685 4743 3282 4739 2936 4734 2893 4743 2836 4758 2831 4758 2831 4758 2831 4763 2529 4763 2524 4758 2524 4758 2471 4748 2303 4715 2135 4753 2068 4767 2068 4767 2068 4767 2063 4767 2063 4767 2063 4767 2058 4767 2020 4753 1905 4719 1305 4719 921 4767"/></Shape>
+	    <String CONTENT="Holbein, Hans d. J. (1497 -1543). Entwurf zu einer Schueizerschlacht. 1530/32"
+                    HPOS="906"
+                    VPOS="4379"
+                    WIDTH="5025"
+                    HEIGHT="388"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_36a3e9fc"
+                    TAGREFS="LT103"
+                    BASELINE="930 4971 1813 4902 2698 4908" 
+                    HPOS="902"
+                    VPOS="4743"
+                    WIDTH="1794"
+                    HEIGHT="288">
+            <Shape><Polygon POINTS="926 4969 902 4835 974 4791 978 4791 978 4791 983 4791 983 4791 983 4791 988 4791 988 4791 1175 4820 1185 4820 1204 4820 1468 4772 1468 4772 1473 4772 1473 4772 1473 4772 1478 4772 1569 4801 1598 4806 1713 4806 1737 4791 1780 4763 1785 4763 1785 4763 1789 4763 1789 4763 1789 4763 1794 4763 1996 4777 2130 4787 2202 4767 2265 4748 2269 4748 2269 4748 2269 4748 2682 4743 2696 4906 2692 4974 2490 4964 2490 4964 2490 4964 2485 4964 2485 4964 2481 4964 2481 4964 2418 4921 2231 4945 2231 4945 2226 4945 2020 4930 1737 4950 1684 4988 1679 4988 1679 4988 1679 4988 1674 4988 1674 4988 1670 4988 1670 4988 1670 4988 1665 4988 1665 4988 1598 4959 1506 4998 1506 4998 1502 4998 1502 4998 1502 4998 1497 4998 1497 4998 1492 4998 1492 4998 1492 4998 1487 4998 1454 4974 1353 5017 1338 5022 1338 5022 1334 5022 1334 5022 1334 5022 1084 5026 1079 5026 1079 5026 1074 5026 1074 5026 1070 5026 988 4993 935 5031"/></Shape>
+	    <String CONTENT="Basel, off. Kunstsammlung."
+                    HPOS="902"
+                    VPOS="4743"
+                    WIDTH="1794"
+                    HEIGHT="288"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="6778"
+                   VPOS="1064"
+                   WIDTH="358"
+                   HEIGHT="1036"
+                   ID="eSc_textblock_d2aec3d4"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="6778 1076 6790 2100 7136 2100 7136 1064"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_fc7a5c87"
+                    TAGREFS="LT103"
+                    BASELINE="7109 2029 7082 1080" 
+                    HPOS="6809"
+                    VPOS="1074"
+                    WIDTH="322"
+                    HEIGHT="954">
+            <Shape><Polygon POINTS="7107 2028 6838 2028 6857 1501 6809 1079 7078 1079 7121 1074 7131 2024"/></Shape>
+	    <String CONTENT="172. III. 2"
+                    HPOS="6809"
+                    VPOS="1074"
+                    WIDTH="322"
+                    HEIGHT="954"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="858"
+                   VPOS="1185"
+                   WIDTH="5439"
+                   HEIGHT="3371"
+                   ID="eSc_textblock_a022c2a7"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="858 1185 872 4556 6297 4556 6297 1214"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

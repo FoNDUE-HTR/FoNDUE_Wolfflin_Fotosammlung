@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0172_IV_010_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5031"
+          HEIGHT="7707"
+          PHYSICAL_IMG_NR="371"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="5031"
+                  HEIGHT="7707">
+        
+        <TextBlock HPOS="119"
+                   VPOS="6981"
+                   WIDTH="4607"
+                   HEIGHT="368"
+                   ID="eSc_textblock_5147d9be"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="119 7017 119 7349 4726 7349 4726 6981"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_846f8826"
+                    TAGREFS="LT103"
+                    BASELINE="186 7270 4639 7161" 
+                    HPOS="179"
+                    VPOS="6981"
+                    WIDTH="4460"
+                    HEIGHT="340">
+            <Shape><Polygon POINTS="186 7270 179 7084 340 7109 391 7077 398 7071 404 7071 404 7071 404 7071 411 7071 411 7071 417 7071 591 7071 1130 7090 1445 7058 1657 7039 1657 7039 1664 7039 1664 7039 1760 7051 1863 7071 1889 7051 1914 7032 1921 7032 1921 7032 1921 7032 1927 7032 1927 7032 1927 7032 1934 7032 1934 7032 2030 7051 2120 7064 2165 7045 2197 7032 2197 7032 2203 7032 2203 7032 2203 7032 2210 7032 2210 7032 2306 7045 2409 7058 2435 7039 2460 7019 2467 7019 2467 7019 2467 7019 2473 7019 2473 7019 2480 7019 3373 7026 3745 7026 3803 7019 4015 6981 4015 6981 4022 6981 4626 7006 4639 7161 4639 7180 4131 7199 4099 7231 4099 7238 4099 7238 4092 7238 4092 7238 4092 7238 4086 7238 4086 7238 4080 7238 4080 7238 4080 7238 4073 7238 3977 7206 3893 7251 3893 7251 3893 7251 3887 7251 3887 7251 3887 7251 3880 7251 3880 7251 3880 7251 3874 7251 3874 7251 3868 7251 3797 7212 3321 7218 3077 7218 3071 7225 2987 7276 2981 7276 2981 7276 2981 7276 2974 7276 2974 7276 2968 7276 2968 7276 2563 7238 2544 7238 2531 7238 2274 7295 2274 7295 2274 7295 2268 7295 2268 7295 2268 7295 2261 7295 2133 7251 2081 7295 2081 7295 2075 7295 2075 7295 2075 7295 2068 7295 2068 7295 2068 7295 2062 7295 2062 7295 2056 7295 2056 7295 1946 7257 1856 7257 1548 7257 1542 7263 1477 7315 1477 7315 1471 7315 1471 7315 1464 7315 1464 7315 1464 7315 1227 7321 1220 7321 179 7295"/></Shape>
+	    <String CONTENT="Holbein, Hans d.J.  (1497-1543). Entwurf für Schweizerdolchscheide."
+                    HPOS="179"
+                    VPOS="6981"
+                    WIDTH="4460"
+                    HEIGHT="340"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2772"
+                   VPOS="7456"
+                   WIDTH="1067"
+                   HEIGHT="248"
+                   ID="eSc_textblock_09b7d69a"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="2772 7456 2772 7704 3839 7704 3839 7456"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_4b2cd619"
+                    TAGREFS="LT103"
+                    BASELINE="2981 7655 3283 7649 3341 7649 3700 7636" 
+                    HPOS="2955"
+                    VPOS="7443"
+                    WIDTH="739"
+                    HEIGHT="276">
+            <Shape><Polygon POINTS="2974 7649 2955 7495 3276 7456 3276 7456 3283 7456 3283 7456 3289 7456 3328 7469 3386 7482 3411 7462 3424 7450 3424 7450 3431 7450 3431 7450 3437 7450 3437 7450 3437 7450 3443 7450 3443 7450 3488 7456 3604 7475 3668 7443 3694 7629 3694 7706 2974 7719"/></Shape>
+	    <String CONTENT="172. IV. 10"
+                    HPOS="2955"
+                    VPOS="7443"
+                    WIDTH="739"
+                    HEIGHT="276"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="0"
+                   VPOS="7218"
+                   WIDTH="6"
+                   HEIGHT="7"
+                   ID="eSc_textblock_1e41e2ad"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="0 7218 6 7218 6 7225 0 7225"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1898"
+                   VPOS="1772"
+                   WIDTH="1270"
+                   HEIGHT="4501"
+                   ID="eSc_textblock_86cfad6b"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="1898 1784 2169 6273 2947 6254 3168 1772"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
