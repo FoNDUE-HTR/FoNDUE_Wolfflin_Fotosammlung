@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0172_II_006_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5925" HEIGHT="7250" PHYSICAL_IMG_NR="355" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5925" HEIGHT="7250">
+        
+        <TextBlock HPOS="1008" VPOS="839" WIDTH="3902" HEIGHT="5430" ID="eSc_textblock_93bdd349" TAGREFS="BT284">
+          <Shape><Polygon POINTS="1031 839 1008 6269 4910 6245 4886 854" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_166949a4" TAGREFS="LT104" BASELINE="1210 6144 4619 6144" HPOS="1203" VPOS="5963" WIDTH="3410" HEIGHT="217">
+            <Shape><Polygon POINTS="1209 6138 1203 5999 2629 5963 2636 5963 2938 5963 2944 5963 2950 5963 2992 5993 3192 5963 3198 5963 3518 5993 4425 5963 4431 5963 4613 5999 4613 6138 4606 6180 1203 6174" /></Shape>
+	    <String CONTENT="IACOBUS MEIERUS CONSUL REIP .BASIL." HPOS="1203" VPOS="5963" WIDTH="3410" HEIGHT="217" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1008" VPOS="6253" WIDTH="1567" HEIGHT="301" ID="eSc_textblock_e63947a0" TAGREFS="BT297">
+          <Shape><Polygon POINTS="2575 6554 2575 6253 1008 6253 1008 6554" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_ff545e75" TAGREFS="LT103" BASELINE="1075 6473 1871 6443 2513 6433" HPOS="1045" VPOS="6156" WIDTH="1464" HEIGHT="411">
+            <Shape><Polygon POINTS="1070 6470 1045 6168 2484 6156 2509 6428 2503 6531 2061 6482 1831 6488 1765 6543 1753 6555 1753 6555 1747 6555 1747 6555 1747 6555 1741 6555 1741 6555 1614 6561 1608 6561 1608 6561 1608 6561 1602 6561 1602 6561 1596 6561 1596 6561 1596 6561 1577 6543 1559 6525 1517 6549 1487 6561 1487 6561 1487 6561 1481 6561 1481 6561 1481 6567 1330 6567 1324 6561 1324 6561 1318 6561 1318 6561 1318 6561 1311 6561 1311 6561 1299 6549 1275 6525 1233 6549 1209 6561 1209 6561 1209 6561 1203 6561 1203 6561 1203 6561 1197 6561 1064 6549" /></Shape>
+	    <String CONTENT="Basel, öff: kunstslg." HPOS="1045" VPOS="6156" WIDTH="1464" HEIGHT="411" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3858" VPOS="6863" WIDTH="847" HEIGHT="356" ID="eSc_textblock_28133f75" TAGREFS="BT285">
+          <Shape><Polygon POINTS="3858 6863 3858 7219 4705 7219 4705 6863" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_cfea500e" TAGREFS="LT103" BASELINE="3912 7124 4664 7104" HPOS="3911" VPOS="6869" WIDTH="750" HEIGHT="308">
+            <Shape><Polygon POINTS="3935 7117 3911 6917 4044 6875 4050 6875 4056 6875 4062 6875 4177 6905 4401 6869 4407 6869 4649 6899 4661 7098 4655 7177 3929 7171" /></Shape>
+	    <String CONTENT="172. II. 6" HPOS="3911" VPOS="6869" WIDTH="750" HEIGHT="308" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

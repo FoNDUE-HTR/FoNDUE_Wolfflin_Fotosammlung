@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0172_VI_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6601"
+          HEIGHT="7804"
+          PHYSICAL_IMG_NR="90"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6601"
+                  HEIGHT="7804">
+        
+        <TextBlock HPOS="2627"
+                   VPOS="754"
+                   WIDTH="1710"
+                   HEIGHT="774"
+                   ID="eSc_textblock_c46579ca"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="4155 1138 4337 1248 4337 1528 2731 1528 2627 1424 2679 1222 2809 1190 2679 1112 2705 754 4285 754 4337 1086"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_868689e5"
+                    TAGREFS="LT100"
+                    BASELINE="2763 982 4215 968" 
+                    HPOS="2750"
+                    VPOS="799"
+                    WIDTH="1464"
+                    HEIGHT="222">
+            <Shape><Polygon POINTS="2757 975 2750 799 4201 799 4214 962 4207 995 2757 1021"/></Shape>
+	    <String CONTENT="HANS HOLBEIN D. J."
+                    HPOS="2750"
+                    VPOS="799"
+                    WIDTH="1464"
+                    HEIGHT="222"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f5b74877"
+                    TAGREFS="LT100"
+                    BASELINE="2718 1443 3930 1433" 
+                    HPOS="2692"
+                    VPOS="1242"
+                    WIDTH="1236"
+                    HEIGHT="253">
+            <Shape><Polygon POINTS="2711 1437 2692 1281 2783 1242 2783 1242 2789 1242 2789 1242 2789 1242 2796 1242 2796 1242 2802 1242 2802 1242 2802 1242 2809 1242 2809 1242 2809 1248 2848 1281 2855 1294 3349 1294 3355 1287 3446 1242 3446 1242 3446 1242 3453 1242 3453 1242 3459 1242 3687 1242 3687 1242 3687 1242 3693 1242 3693 1242 3693 1242 3700 1242 3700 1248 3752 1287 3752 1294 3915 1294 3928 1430 3921 1456 2711 1495"/></Shape>
+	    <String CONTENT="Haus zum Tanz"
+                    HPOS="2692"
+                    VPOS="1242"
+                    WIDTH="1236"
+                    HEIGHT="253"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3834"
+                   VPOS="7460"
+                   WIDTH="1074"
+                   HEIGHT="325"
+                   ID="eSc_textblock_343379a6"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="3834 7460 3834 7785 4908 7785 4908 7460"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_c039ce1a"
+                    TAGREFS="LT101"
+                    BASELINE="3909 7717 4870 7716" 
+                    HPOS="3902"
+                    VPOS="7433"
+                    WIDTH="962"
+                    HEIGHT="305">
+            <Shape><Polygon POINTS="3908 7712 3908 7498 4012 7498 4090 7433 4090 7433 4097 7433 4097 7433 4097 7433 4103 7433 4103 7433 4103 7433 4110 7433 4864 7498 4864 7712 4858 7738 3902 7732"/></Shape>
+	    <String CONTENT="172. VI. 1-15"
+                    HPOS="3902"
+                    VPOS="7433"
+                    WIDTH="962"
+                    HEIGHT="305"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

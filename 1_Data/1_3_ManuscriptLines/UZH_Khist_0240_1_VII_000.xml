@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0240_1_VII_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6598"
+          HEIGHT="7804"
+          PHYSICAL_IMG_NR="309"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6598"
+                  HEIGHT="7804">
+        
+        <TextBlock HPOS="4730"
+                   VPOS="1352"
+                   WIDTH="1061"
+                   HEIGHT="254"
+                   ID="eSc_textblock_429cecbb"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="4782 1352 5739 1378 5791 1606 4730 1606 4782 1352"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_0b728812"
+                    TAGREFS="LT100"
+                    BASELINE="4759 1557 5154 1575 5736 1528" 
+                    HPOS="4743"
+                    VPOS="1359"
+                    WIDTH="989"
+                    HEIGHT="227">
+            <Shape><Polygon POINTS="4756 1554 4743 1372 4912 1359 4919 1359 4919 1359 4919 1359 4925 1359 4925 1359 4925 1359 4932 1359 4945 1372 4997 1404 5062 1372 5081 1365 5081 1365 5088 1365 5088 1365 5088 1365 5094 1365 5094 1365 5094 1365 5101 1365 5101 1365 5101 1365 5107 1365 5107 1365 5114 1372 5140 1398 5205 1372 5238 1365 5244 1365 5244 1365 5244 1365 5251 1365 5719 1385 5732 1521 5732 1547 4756 1586"/></Shape>
+	    <String CONTENT="MÜNCHWILER"
+                    HPOS="4743"
+                    VPOS="1359"
+                    WIDTH="989"
+                    HEIGHT="227"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5120"
+                   VPOS="7517"
+                   WIDTH="1035"
+                   HEIGHT="280"
+                   ID="eSc_textblock_aa45b398"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5120 7517 6025 7517 6155 7771 5146 7797 5120 7517"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_29f585d0"
+                    TAGREFS="LT101"
+                    BASELINE="5195 7690 5648 7730 6059 7714" 
+                    HPOS="5179"
+                    VPOS="7543"
+                    WIDTH="885"
+                    HEIGHT="189">
+            <Shape><Polygon POINTS="5192 7686 5192 7543 5465 7576 5543 7563 5654 7543 5654 7543 5661 7543 5661 7543 5661 7543 5667 7543 5667 7543 5745 7576 5765 7582 5771 7576 5843 7550 5843 7550 5849 7550 5849 7550 5849 7550 5856 7550 5856 7550 5862 7550 5862 7550 5862 7550 5869 7550 5869 7550 5869 7556 5875 7556 5901 7589 5901 7589 5901 7589 5986 7556 5986 7556 5992 7556 5992 7556 5999 7556 5999 7556 5999 7556 6005 7556 6005 7556 6012 7556 6012 7556 6064 7595 6057 7712 6044 7732 5179 7712"/></Shape>
+	    <String CONTENT="240. 1. VII. 1-4"
+                    HPOS="5179"
+                    VPOS="7543"
+                    WIDTH="885"
+                    HEIGHT="189"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

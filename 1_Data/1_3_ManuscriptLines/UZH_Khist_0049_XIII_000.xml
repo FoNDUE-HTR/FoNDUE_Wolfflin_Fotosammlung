@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0049_XIII_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6591"
+          HEIGHT="7808"
+          PHYSICAL_IMG_NR="529"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6591"
+                  HEIGHT="7808">
+        
+        <TextBlock HPOS="2813"
+                   VPOS="806"
+                   WIDTH="2130"
+                   HEIGHT="254"
+                   ID="eSc_textblock_9c536dcc"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="2839 806 4891 832 4943 1034 2813 1060 2839 806"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_8d2779c3"
+                    TAGREFS="LT100"
+                    BASELINE="2846 985 3419 982 3582 995 4871 982" 
+                    HPOS="2839"
+                    VPOS="806"
+                    WIDTH="2026"
+                    HEIGHT="235">
+            <Shape><Polygon POINTS="4656 826 4591 826 4526 826 4461 826 4396 826 4376 819 4298 839 4265 845 4259 839 4226 819 4200 819 4135 819 4070 819 4005 819 3888 832 3836 839 3810 832 3738 813 3679 813 3640 813 3601 832 3529 865 3360 865 3328 826 3308 813 3308 806 3288 806 3282 806 3243 826 3191 852 3093 826 3080 819 3074 819 3067 819 3061 819 3048 819 2924 858 2839 819 2839 982 2839 1015 4252 1041 4259 1041 4265 1041 4285 1034 4337 1002 4363 1028 4363 1034 4370 1034 4376 1034 4383 1041 4865 1041 4865 976 4852 852 4689 826 4656 826"/></Shape>
+	    <String CONTENT="LUIS BORROSSA"
+                    HPOS="2839"
+                    VPOS="806"
+                    WIDTH="2026"
+                    HEIGHT="235"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4689"
+                   VPOS="7079"
+                   WIDTH="905"
+                   HEIGHT="306"
+                   ID="eSc_textblock_1f9a194e"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="4741 7079 5516 7105 5594 7359 4767 7385 4689 7306 4741 7079"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_27951f0a"
+                    TAGREFS="LT101"
+                    BASELINE="4760 7280 5516 7306" 
+                    HPOS="4754"
+                    VPOS="7092"
+                    WIDTH="762"
+                    HEIGHT="241">
+            <Shape><Polygon POINTS="5496 7131 5425 7111 5418 7111 5412 7111 5405 7111 5399 7111 5373 7131 5327 7157 5242 7124 5190 7105 5184 7105 5177 7105 5171 7105 5112 7118 5021 7144 4982 7111 4962 7098 4962 7092 4956 7092 4949 7092 4943 7092 4936 7092 4897 7111 4839 7137 4767 7105 4760 7280 4754 7313 5503 7333 5516 7306 5516 7157 5496 7131"/></Shape>
+	    <String CONTENT="49. IX. 1"
+                    HPOS="4754"
+                    VPOS="7092"
+                    WIDTH="762"
+                    HEIGHT="241"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

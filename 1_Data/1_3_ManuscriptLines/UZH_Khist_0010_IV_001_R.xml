@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_IV_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7640" HEIGHT="5778" PHYSICAL_IMG_NR="235" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="7640" HEIGHT="5778">
+        
+        <TextBlock HPOS="753" VPOS="497" WIDTH="6035" HEIGHT="4704" ID="eSc_textblock_63ffff07" TAGREFS="BT284">
+          <Shape><Polygon POINTS="811 563 753 5201 6788 5111 6788 497" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="84" VPOS="5095" WIDTH="220" HEIGHT="546" ID="eSc_textblock_82f7901c" TAGREFS="BT285">
+          <Shape><Polygon POINTS="84 5095 84 5641 299 5634 304 5095" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_9a2139bf" TAGREFS="LT103" BASELINE="149 5148 145 5553" HPOS="120" VPOS="5142" WIDTH="159" HEIGHT="409">
+            <Shape><Polygon POINTS="144 5147 260 5142 279 5546 144 5551 125 5551 120 5147" /></Shape>
+	    <String CONTENT="10. III. 1" HPOS="120" VPOS="5142" WIDTH="159" HEIGHT="409" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2101" VPOS="5299" WIDTH="2474" HEIGHT="270" ID="eSc_textblock_67307344" TAGREFS="BT297">
+          <Shape><Polygon POINTS="2101 5299 2101 5569 4575 5569 4575 5299" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_7652472f" TAGREFS="LT103" BASELINE="2142 5453 4499 5418" HPOS="2133" VPOS="5282" WIDTH="2361" HEIGHT="216">
+            <Shape><Polygon POINTS="2138 5450 2133 5306 2394 5320 2538 5306 2615 5296 2620 5296 2678 5306 2769 5320 2793 5306 2808 5291 2813 5291 2818 5291 2822 5291 2827 5291 2832 5291 2832 5296 2842 5306 2866 5325 2976 5306 3010 5301 3015 5301 3020 5301 3034 5306 3102 5325 3188 5306 3275 5286 3280 5286 3622 5306 3786 5315 3805 5306 3834 5286 3839 5286 3844 5286 3848 5286 3950 5306 3974 5310 3978 5306 4012 5282 4017 5282 4022 5282 4027 5282 4166 5306 4234 5282 4239 5282 4243 5282 4248 5282 4253 5282 4287 5306 4287 5310 4484 5310 4494 5416 4494 5474 4359 5474 4354 5469 4349 5469 4345 5469 4345 5465 4320 5440 4267 5465 4263 5465 4258 5465 4253 5465 4190 5445 4171 5469 4166 5469 4166 5474 4162 5474 4157 5474 4152 5474 4109 5469 3839 5436 3699 5436 3646 5469 3632 5479 3627 5479 3622 5479 3617 5479 3612 5479 3569 5469 3482 5445 3381 5469 3362 5469 3357 5469 3328 5465 3198 5445 3169 5465 3145 5489 3140 5489 3135 5489 3131 5489 2976 5465 2875 5450 2851 5465 2803 5493 2798 5493 2793 5493 2789 5493 2586 5465 2557 5460 2548 5465 2514 5493 2509 5493 2504 5493 2312 5498 2307 5498 2133 5460" /></Shape>
+	    <String CONTENT="Mitteltafel des Altars von Cortona" HPOS="2133" VPOS="5282" WIDTH="2361" HEIGHT="216" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="6739" VPOS="1001" WIDTH="14" HEIGHT="169" ID="eSc_textblock_045563eb" TAGREFS="BT284">
+          <Shape><Polygon POINTS="6739 1170 6739 1001 6753 1001 6753 1170" /></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

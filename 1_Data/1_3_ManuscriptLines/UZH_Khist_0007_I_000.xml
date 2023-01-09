@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_I_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6609"
+          HEIGHT="7806"
+          PHYSICAL_IMG_NR="13"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6609"
+                  HEIGHT="7806">
+        
+        <TextBlock HPOS="3837"
+                   VPOS="645"
+                   WIDTH="2139"
+                   HEIGHT="1149"
+                   ID="eSc_textblock_aff5173a"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="3837 645 3837 1794 5976 1794 5976 645"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_00712c0e"
+                    TAGREFS="LT100"
+                    BASELINE="3944 1008 4880 1056 5825 1017" 
+                    HPOS="3932"
+                    VPOS="702"
+                    WIDTH="1889"
+                    HEIGHT="416">
+            <Shape><Polygon POINTS="3939 1001 3932 774 4108 735 4115 735 4317 754 4421 767 4440 754 4486 715 4486 709 4492 709 4499 709 4505 709 4603 709 4610 709 4688 741 4753 774 5020 774 5104 728 5117 715 5124 715 5130 715 5137 715 5143 715 5176 722 5300 754 5410 715 5430 709 5436 709 5801 702 5821 1014 5814 1060 5352 1066 5228 1112 5222 1112 5222 1118 4863 1118 4857 1112 4850 1112 4746 1073 4701 1060 4655 1073 4564 1105 4557 1105 4557 1112 4343 1112 4336 1105 4330 1105 4277 1079 4245 1060 3932 1079"/></Shape>
+	    <String CONTENT="CUNO AMIET"
+                    HPOS="3932"
+                    VPOS="702"
+                    WIDTH="1889"
+                    HEIGHT="416"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4746"
+                   VPOS="7058"
+                   WIDTH="892"
+                   HEIGHT="379"
+                   ID="eSc_textblock_a7429cf6"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="4870 7067 5235 7058 5541 7155 5638 7419 4746 7437 4765 7253"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_914dc454"
+                    TAGREFS="LT101"
+                    BASELINE="4819 7321 5541 7311" 
+                    HPOS="4811"
+                    VPOS="7142"
+                    WIDTH="723"
+                    HEIGHT="234">
+            <Shape><Polygon POINTS="4818 7318 4811 7142 5521 7148 5534 7305 5521 7376 5196 7331 5098 7357 5046 7370 5039 7370 5033 7370 5026 7370 5020 7370 5020 7363 5000 7350 4987 7337 4818 7337"/></Shape>
+	    <String CONTENT="7. I. 1-8"
+                    HPOS="4811"
+                    VPOS="7142"
+                    WIDTH="723"
+                    HEIGHT="234"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_dee76aac"
+                    TAGREFS="LT100"
+                    BASELINE="3966 1506 4940 1528" 
+                    HPOS="3952"
+                    VPOS="1229"
+                    WIDTH="996"
+                    HEIGHT="384">
+            <Shape><Polygon POINTS="3965 1502 3965 1229 4069 1229 4076 1229 4082 1229 4082 1235 4089 1235 4147 1301 4362 1301 4401 1261 4414 1255 4414 1248 4421 1248 4427 1248 4434 1248 4440 1248 4538 1274 4583 1287 4610 1281 4727 1242 4733 1242 4740 1242 4746 1242 4753 1242 4753 1248 4792 1287 4863 1255 4870 1255 4876 1255 4883 1255 4890 1255 4890 1261 4948 1314 4935 1522 4929 1574 4616 1613 4610 1613 4603 1613 4434 1554 4395 1541 3952 1535"/></Shape>
+	    <String CONTENT="Porträt"
+                    HPOS="3952"
+                    VPOS="1229"
+                    WIDTH="996"
+                    HEIGHT="384"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

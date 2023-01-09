@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_XIV_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4946" HEIGHT="6461" PHYSICAL_IMG_NR="282" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="4946" HEIGHT="6461">
+        
+        <TextBlock HPOS="201" VPOS="217" WIDTH="4517" HEIGHT="5991" ID="eSc_textblock_57716d38" TAGREFS="BT284">
+          <Shape><Polygon POINTS="201 217 201 6208 4718 6208 4718 217" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="969" VPOS="6121" WIDTH="1861" HEIGHT="260" ID="eSc_textblock_e4d3c929" TAGREFS="BT297">
+          <Shape><Polygon POINTS="2798 6381 2830 6121 969 6121 969 6381" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_f2a98b24" TAGREFS="LT103" BASELINE="1082 6304 1923 6288 2429 6310 2763 6283" HPOS="1072" VPOS="6132" WIDTH="1691" HEIGHT="215">
+            <Shape><Polygon POINTS="1082 6304 1072 6148 1664 6132 1670 6132 1670 6132 1675 6132 1675 6132 1675 6132 1680 6132 1680 6132 1691 6143 1756 6191 2058 6191 2268 6186 2365 6137 2381 6132 2381 6132 2386 6132 2386 6132 2392 6132 2753 6137 2763 6283 2758 6304 2564 6347 2564 6347 2559 6347 1077 6326" /></Shape>
+	    <String CONTENT="Ecole Umbrienne 1387/1455" HPOS="1072" VPOS="6132" WIDTH="1691" HEIGHT="215" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4173" VPOS="6243" WIDTH="602" HEIGHT="214" ID="eSc_textblock_3d08922b" TAGREFS="BT285">
+          <Shape><Polygon POINTS="4173 6243 4173 6457 4775 6457 4775 6243" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_2bd3c357" TAGREFS="LT103" BASELINE="4245 6369 4687 6369" HPOS="4240" VPOS="6256" WIDTH="447" HEIGHT="140">
+            <Shape><Polygon POINTS="4245 6369 4240 6261 4681 6256 4687 6369 4687 6396 4245 6396" /></Shape>
+	    <String CONTENT="10. III. 48" HPOS="4240" VPOS="6256" WIDTH="447" HEIGHT="140" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

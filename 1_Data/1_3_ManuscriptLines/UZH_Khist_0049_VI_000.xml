@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0049_VI_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6603"
+          HEIGHT="7788"
+          PHYSICAL_IMG_NR="523"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6603"
+                  HEIGHT="7788">
+        
+        <TextBlock HPOS="2819"
+                   VPOS="672"
+                   WIDTH="3134"
+                   HEIGHT="465"
+                   ID="eSc_textblock_e7f7deba"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="2819 672 5901 752 5953 1005 2948 1137 2841 812"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_756907c5"
+                    TAGREFS="LT100"
+                    BASELINE="2973 960 4291 947 4402 954 5875 928" 
+                    HPOS="2967"
+                    VPOS="739"
+                    WIDTH="2902"
+                    HEIGHT="318">
+            <Shape><Polygon POINTS="5817 746 5758 746 5648 772 5473 746 5427 746 5362 746 5297 746 5265 772 5122 746 5096 746 5090 746 5051 752 4817 791 4655 765 4505 739 4499 739 4492 739 4414 772 4343 804 4187 804 4155 778 4122 752 4116 752 4109 752 4103 752 4096 752 4090 752 4044 785 4025 798 3921 785 3609 752 3603 752 3596 752 3415 804 3408 804 3402 804 3058 759 3051 759 3045 759 3038 759 3006 778 2967 954 2967 1057 3447 1044 3454 1044 3460 1044 3460 1038 3499 1005 3661 1005 3733 1051 3739 1057 3746 1057 3752 1057 3759 1057 4051 1051 4057 1051 4077 1044 4161 999 4213 1038 4220 1038 4226 1038 4233 1038 4239 1038 4363 992 4473 1031 4492 1038 4499 1038 4505 1038 4557 1031 4830 986 5057 1018 5187 1038 5194 1038 5200 1038 5246 1018 5297 992 5434 1012 5577 1031 5583 1031 5869 999 5869 921 5849 746 5817 746"/></Shape>
+	    <String CONTENT="GALLERIA BORGHESE"
+                    HPOS="2967"
+                    VPOS="739"
+                    WIDTH="2902"
+                    HEIGHT="318"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4739"
+                   VPOS="7035"
+                   WIDTH="799"
+                   HEIGHT="331"
+                   ID="eSc_textblock_3b272465"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5512 7113 5538 7314 4791 7366 4739 7087 4869 7035"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_664d814b"
+                    TAGREFS="LT101"
+                    BASELINE="4785 7255 5182 7297 5462 7275" 
+                    HPOS="4772"
+                    VPOS="7093"
+                    WIDTH="688"
+                    HEIGHT="247">
+            <Shape><Polygon POINTS="4778 7249 4772 7288 4908 7327 4914 7327 4921 7327 4927 7327 4973 7307 4979 7301 4986 7307 5031 7340 5038 7340 5044 7340 5051 7340 5453 7333 5460 7268 5453 7113 4778 7093 4778 7249"/></Shape>
+	    <String CONTENT="49. III. 1"
+                    HPOS="4772"
+                    VPOS="7093"
+                    WIDTH="688"
+                    HEIGHT="247"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0240_1_V_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6600"
+          HEIGHT="7802"
+          PHYSICAL_IMG_NR="307"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6600"
+                  HEIGHT="7802">
+        
+        <TextBlock HPOS="4473"
+                   VPOS="1404"
+                   WIDTH="1216"
+                   HEIGHT="748"
+                   ID="eSc_textblock_14ab953e"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="4993 1404 5689 1430 5689 2152 4473 2126 4525 1872 4889 1813 4889 1534 4993 1404"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_42d8faf1"
+                    TAGREFS="LT100"
+                    BASELINE="4961 1586 5641 1594" 
+                    HPOS="4948"
+                    VPOS="1404"
+                    WIDTH="689"
+                    HEIGHT="227">
+            <Shape><Polygon POINTS="4954 1579 4954 1404 5631 1443 5637 1592 5631 1612 4948 1631"/></Shape>
+	    <String CONTENT="MÜNCHEN"
+                    HPOS="4948"
+                    VPOS="1404"
+                    WIDTH="689"
+                    HEIGHT="227"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a3c4fd8d"
+                    TAGREFS="LT100"
+                    BASELINE="4480 2081 5618 2065" 
+                    HPOS="4447"
+                    VPOS="1852"
+                    WIDTH="1164"
+                    HEIGHT="345">
+            <Shape><Polygon POINTS="4473 2080 4447 1943 4551 1872 4558 1872 4558 1872 4558 1872 4564 1872 4564 1872 4564 1872 4571 1872 4571 1872 4577 1872 4577 1872 4727 1930 4954 1872 4961 1872 4961 1872 4967 1872 4967 1872 4967 1872 4974 1872 4974 1872 4974 1872 5065 1924 5123 1865 5123 1859 5123 1859 5130 1859 5130 1859 5130 1859 5136 1859 5136 1859 5136 1859 5143 1859 5143 1859 5149 1859 5149 1859 5149 1859 5156 1859 5156 1859 5221 1911 5332 1852 5332 1852 5332 1852 5338 1852 5338 1852 5345 1852 5540 1852 5540 1852 5540 1852 5546 1852 5546 1852 5546 1852 5553 1852 5553 1852 5611 1898 5611 2061 5605 2171 5293 2119 5136 2165 5130 2165 5130 2165 5130 2165 5123 2165 5123 2165 5123 2165 4993 2139 4902 2171 4857 2191 4857 2191 4850 2191 4850 2191 4850 2197 4740 2197 4733 2191 4733 2191 4727 2191 4727 2191 4727 2191 4720 2191 4701 2171 4636 2132 4480 2171"/></Shape>
+	    <String CONTENT="Alte Pinakothek"
+                    HPOS="4447"
+                    VPOS="1852"
+                    WIDTH="1164"
+                    HEIGHT="345"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5175"
+                   VPOS="7489"
+                   WIDTH="826"
+                   HEIGHT="306"
+                   ID="eSc_textblock_a070dc28"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5175 7489 5871 7489 6001 7717 5975 7795 5175 7795 5175 7489"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_755233eb"
+                    TAGREFS="LT101"
+                    BASELINE="5205 7672 5680 7671 5865 7699" 
+                    HPOS="5188"
+                    VPOS="7496"
+                    WIDTH="670"
+                    HEIGHT="208">
+            <Shape><Polygon POINTS="5201 7671 5188 7522 5683 7496 5689 7496 5689 7496 5689 7496 5696 7496 5696 7496 5709 7502 5774 7528 5845 7496 5858 7697 5845 7704 5188 7691"/></Shape>
+	    <String CONTENT="240. 1. V. 1-5"
+                    HPOS="5188"
+                    VPOS="7496"
+                    WIDTH="670"
+                    HEIGHT="208"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0042_III_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6599"
+          HEIGHT="7783"
+          PHYSICAL_IMG_NR="419"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6599"
+                  HEIGHT="7783">
+        
+        <TextBlock HPOS="3108"
+                   VPOS="674"
+                   WIDTH="3075"
+                   HEIGHT="383"
+                   ID="eSc_textblock_82764f06"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="3108 674 6131 700 6183 1005 3134 1057 3108 674"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1c133b9d"
+                    TAGREFS="LT100"
+                    BASELINE="3147 979 6092 953" 
+                    HPOS="3140"
+                    VPOS="693"
+                    WIDTH="2952"
+                    HEIGHT="383">
+            <Shape><Polygon POINTS="6060 693 6047 693 5963 771 5833 706 5826 706 5573 700 5567 700 5560 700 5554 700 5554 706 5502 745 5450 706 5444 706 5437 706 5431 706 5236 732 5139 700 5132 700 5126 700 5119 700 5113 700 5035 752 4963 700 4963 693 4957 693 4950 693 4717 693 4710 693 4704 693 4697 693 4697 700 4691 700 4593 784 4107 719 4100 719 4094 719 3854 797 3614 797 3568 752 3568 745 3562 745 3555 745 3549 745 3542 745 3536 745 3471 784 3309 706 3302 706 3296 706 3289 706 3140 706 3147 979 3153 1076 3302 1018 3413 1070 3419 1070 3426 1076 3633 1076 3633 1070 3640 1070 3646 1070 3653 1063 3705 1018 3828 1057 3834 1057 3841 1057 3860 1057 4100 1011 4250 1044 4340 1063 4347 1063 4353 1063 4399 1037 4457 1005 4645 1005 4697 1031 4736 1057 4743 1057 4749 1057 4756 1057 4762 1057 4814 1031 4853 1005 5139 1005 5171 1018 5242 1057 5249 1057 5255 1057 5262 1057 5437 1011 5482 998 5521 1005 5677 1050 5684 1050 5690 1057 6015 1057 6015 1050 6021 1050 6027 1050 6092 992 6092 953 6060 693 6060 693"/></Shape>
+	    <String CONTENT="JAN VAN BLOEMEN"
+                    HPOS="3140"
+                    VPOS="693"
+                    WIDTH="2952"
+                    HEIGHT="383"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4736"
+                   VPOS="7030"
+                   WIDTH="1032"
+                   HEIGHT="279"
+                   ID="eSc_textblock_727aad14"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5152 7030 5664 7056 5768 7283 4736 7309 4762 7082 5152 7030"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_04d5805c"
+                    TAGREFS="LT101"
+                    BASELINE="4782 7251 5671 7264" 
+                    HPOS="4775"
+                    VPOS="7082"
+                    WIDTH="896"
+                    HEIGHT="240">
+            <Shape><Polygon POINTS="4782 7251 4775 7283 4847 7316 4853 7316 4860 7316 5223 7303 5534 7290 5651 7322 5671 7264 5651 7082 5567 7121 5444 7089 5424 7082 5418 7082 5411 7082 5405 7082 5398 7082 5398 7089 5353 7134 5275 7089 5268 7089 5262 7089 5255 7089 5249 7089 5242 7089 5113 7127 4782 7101 4782 7251"/></Shape>
+	    <String CONTENT="42. III. 1-6"
+                    HPOS="4775"
+                    VPOS="7082"
+                    WIDTH="896"
+                    HEIGHT="240"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

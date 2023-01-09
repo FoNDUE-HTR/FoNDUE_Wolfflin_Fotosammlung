@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0240_1_XIV_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6599"
+          HEIGHT="7804"
+          PHYSICAL_IMG_NR="315"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6599"
+                  HEIGHT="7804">
+        
+        <TextBlock HPOS="4549"
+                   VPOS="1352"
+                   WIDTH="1347"
+                   HEIGHT="228"
+                   ID="eSc_textblock_68b081ae"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="4575 1352 5818 1378 5896 1580 4549 1580 4575 1352"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_89035450"
+                    TAGREFS="LT100"
+                    BASELINE="4577 1517 5794 1549" 
+                    HPOS="4568"
+                    VPOS="1346"
+                    WIDTH="1224"
+                    HEIGHT="214">
+            <Shape><Polygon POINTS="4575 1515 4568 1372 4998 1346 5004 1346 5004 1346 5004 1346 5011 1346 5011 1346 5017 1346 5017 1346 5063 1385 5069 1385 5089 1385 5251 1359 5251 1359 5258 1359 5258 1359 5264 1359 5388 1391 5401 1391 5408 1391 5531 1359 5538 1359 5538 1359 5544 1359 5544 1359 5544 1359 5792 1404 5792 1547 5779 1560 4568 1534"/></Shape>
+	    <String CONTENT="RAMON DE MUR"
+                    HPOS="4568"
+                    VPOS="1346"
+                    WIDTH="1224"
+                    HEIGHT="214"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5408"
+                   VPOS="7543"
+                   WIDTH="930"
+                   HEIGHT="254"
+                   ID="eSc_textblock_b31bad44"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5408 7543 6260 7569 6338 7797 5408 7797 5408 7543"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ca34266b"
+                    TAGREFS="LT101"
+                    BASELINE="5440 7715 6235 7756" 
+                    HPOS="5427"
+                    VPOS="7556"
+                    WIDTH="807"
+                    HEIGHT="208">
+            <Shape><Polygon POINTS="5434 7712 5427 7582 5564 7556 5564 7556 5570 7556 5570 7556 5570 7556 5577 7556 5577 7556 5577 7556 5583 7556 5583 7556 5583 7563 5590 7563 5609 7589 5609 7589 5642 7589 5954 7576 5961 7576 5961 7576 5967 7576 5967 7576 5967 7576 5974 7576 5974 7576 5974 7582 5980 7582 6000 7608 6065 7582 6065 7582 6071 7582 6071 7582 6078 7582 6078 7582 6078 7582 6234 7621 6234 7751 6221 7764 5427 7732"/></Shape>
+	    <String CONTENT="240. 1. XIV. 1-2"
+                    HPOS="5427"
+                    VPOS="7556"
+                    WIDTH="807"
+                    HEIGHT="208"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

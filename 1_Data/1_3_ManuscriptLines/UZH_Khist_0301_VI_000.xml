@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0301_VI_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6600"
+          HEIGHT="7796"
+          PHYSICAL_IMG_NR="184"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6600"
+                  HEIGHT="7796">
+        
+        <TextBlock HPOS="5019"
+                   VPOS="1351"
+                   WIDTH="1060"
+                   HEIGHT="227"
+                   ID="eSc_textblock_4e9c6722"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="5045 1351 6001 1377 6053 1474 5975 1500 6079 1578 5019 1578 5045 1351"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_c09b8ac4"
+                    TAGREFS="LT100"
+                    BASELINE="5054 1511 6003 1507" 
+                    HPOS="5045"
+                    VPOS="1351"
+                    WIDTH="956"
+                    HEIGHT="182">
+            <Shape><Polygon POINTS="5052 1507 5045 1351 5975 1377 6001 1500 6001 1520 5052 1533"/></Shape>
+	    <String CONTENT="HEINE RATH"
+                    HPOS="5045"
+                    VPOS="1351"
+                    WIDTH="956"
+                    HEIGHT="182"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5566"
+                   VPOS="7484"
+                   WIDTH="565"
+                   HEIGHT="305"
+                   ID="eSc_textblock_f920177b"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5566 7484 6105 7510 6131 7789 5566 7789 5566 7484"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_958b1ab4"
+                    TAGREFS="LT101"
+                    BASELINE="5596 7646 6046 7646" 
+                    HPOS="5592"
+                    VPOS="7529"
+                    WIDTH="448"
+                    HEIGHT="137">
+            <Shape><Polygon POINTS="5592 7640 5592 7529 6040 7529 6040 7640 6040 7666 5592 7666"/></Shape>
+	    <String CONTENT="301. VI. 1"
+                    HPOS="5592"
+                    VPOS="7529"
+                    WIDTH="448"
+                    HEIGHT="137"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

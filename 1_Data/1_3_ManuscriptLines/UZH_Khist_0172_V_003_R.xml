@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0172_V_003_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7359" HEIGHT="5435" PHYSICAL_IMG_NR="390" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="7359" HEIGHT="5435">
+        
+        <TextBlock HPOS="779" VPOS="4546" WIDTH="5955" HEIGHT="583" ID="eSc_textblock_be954f81" TAGREFS="BT297">
+          <Shape><Polygon POINTS="779 4546 6723 4546 6734 4821 4885 4821 4885 5129 2665 5098 2665 4904 795 4904" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="2414" VPOS="5060" WIDTH="4273" HEIGHT="378" ID="eSc_textblock_6c715f3b" TAGREFS="BT297">
+          <Shape><Polygon POINTS="6687 5060 6687 5438 2414 5426 2414 5060" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_726bc91a" TAGREFS="LT103" BASELINE="2578 5276 5573 5271 6498 5240" HPOS="2569" VPOS="5122" WIDTH="3929" HEIGHT="195">
+            <Shape><Polygon POINTS="2578 5276 2569 5140 2746 5172 2872 5136 2881 5136 2886 5136 2891 5136 2895 5136 2904 5136 2995 5172 3298 5172 3557 5136 3593 5131 3597 5131 3602 5131 3611 5136 3697 5172 4032 5172 4078 5136 4082 5136 4087 5136 4109 5131 4245 5131 4250 5131 4254 5131 4259 5131 4322 5172 4626 5172 4821 5167 4875 5131 4880 5127 4884 5127 4889 5127 4893 5127 4925 5131 5125 5163 5401 5127 5428 5127 5433 5127 5446 5127 5550 5149 5732 5131 5736 5131 5741 5131 5745 5131 5782 5158 5859 5127 5872 5122 5877 5122 5881 5122 5922 5127 6085 5149 6189 5127 6212 5122 6217 5122 6488 5127 6498 5240 6493 5281 5763 5281 5754 5281 5691 5308 5686 5308 5682 5308 5215 5285 5188 5285 5161 5285 4612 5312 4608 5312 4603 5312 4513 5290 4168 5312 4164 5312 3452 5294 3443 5294 3439 5294 3321 5317 3316 5317 3312 5317 3307 5317 3276 5294 3271 5294 3258 5294 2818 5317 2814 5317 2573 5294" /></Shape>
+	    <String CONTENT="Beispiele aus der &quot;Icones&quot;, Bildern zum AT, von 1529/30. Holzschnitt" HPOS="2569" VPOS="5122" WIDTH="3929" HEIGHT="195" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="982" VPOS="476" WIDTH="5657" HEIGHT="4166" ID="eSc_textblock_0840c934" TAGREFS="BT284">
+          <Shape><Polygon POINTS="1053 476 982 4642 6639 4582 6639 488" /></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

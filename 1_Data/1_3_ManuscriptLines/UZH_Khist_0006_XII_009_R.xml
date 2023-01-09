@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0006_XII_009_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7656" HEIGHT="5686" PHYSICAL_IMG_NR="54" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="7656" HEIGHT="5686">
+        
+        <TextBlock HPOS="873" VPOS="406" WIDTH="5871" HEIGHT="4760" ID="eSc_textblock_a4c11bb0" TAGREFS="BT284">
+          <Shape><Polygon POINTS="873 406 878 5129 6706 5166 6744 406" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="82" VPOS="4831" WIDTH="232" HEIGHT="536" ID="eSc_textblock_97836a41" TAGREFS="BT285">
+          <Shape><Polygon POINTS="95 4831 82 5367 300 5314 314 4838" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_9f7a3940" TAGREFS="LT103" BASELINE="148 4849 137 5316" HPOS="113" VPOS="4856" WIDTH="152" HEIGHT="460">
+            <Shape><Polygon POINTS="132 4861 237 4856 265 4975 265 4979 232 5131 232 5141 265 5178 265 5183 265 5188 265 5193 265 5197 227 5316 132 5311 113 5311 113 4861" /></Shape>
+	    <String CONTENT="6. VIII. 16" HPOS="113" VPOS="4856" WIDTH="152" HEIGHT="460" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="816" VPOS="5083" WIDTH="4904" HEIGHT="238" ID="eSc_textblock_bb2f1d5d" TAGREFS="BT297">
+          <Shape><Polygon POINTS="5720 5321 5720 5083 816 5083 816 5321" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_806f7369" TAGREFS="LT103" BASELINE="895 5254 2152 5235 5641 5264" HPOS="891" VPOS="5112" WIDTH="4750" HEIGHT="199">
+            <Shape><Polygon POINTS="895 5254 891 5112 5641 5155 5641 5264 5631 5302 5029 5287 4944 5302 4887 5311 4882 5311 4830 5302 4740 5283 4228 5302 3991 5306 3986 5306 3854 5297 3555 5278 3508 5297 3498 5302 3493 5302 3493 5306 3071 5306 3067 5302 3019 5297 2853 5273 2436 5292 2351 5297 2346 5297 2318 5292 2175 5269 895 5287" /></Shape>
+	    <String CONTENT="Amiens, Kathedrale : €Apostel Südportal : Apostel des Tūrsturzes" HPOS="891" VPOS="5112" WIDTH="4750" HEIGHT="199" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

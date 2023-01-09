@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0042_1_V_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6597"
+          HEIGHT="7784"
+          PHYSICAL_IMG_NR="398"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6597"
+                  HEIGHT="7784">
+        
+        <TextBlock HPOS="3314"
+                   VPOS="700"
+                   WIDTH="1959"
+                   HEIGHT="331"
+                   ID="eSc_textblock_48c49095"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="3314 700 5143 700 5247 726 5273 927 5221 1005 3314 1031 3314 700"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_4a44a6d5"
+                    TAGREFS="LT100"
+                    BASELINE="3321 940 4093 921 4261 927 5220 916" 
+                    HPOS="3314"
+                    VPOS="707"
+                    WIDTH="1901"
+                    HEIGHT="337">
+            <Shape><Polygon POINTS="3314 934 3314 1044 3632 1044 3632 1037 3639 1037 3645 1037 3645 1031 3652 1031 3677 1005 3840 1024 3930 1031 3937 1031 3943 1031 3969 1018 4021 992 4080 1011 4112 1024 4119 1024 4125 1024 4132 1024 4190 1011 4313 979 4521 998 4780 1024 4787 1024 4793 1024 4878 985 4916 972 5208 972 5215 914 5202 726 4696 713 4689 713 4683 713 4676 713 4676 720 4657 739 4631 720 4631 713 4625 713 4618 713 4365 707 4359 707 4352 707 4346 707 4346 713 4300 758 4274 791 3995 791 3982 771 3937 732 3937 726 3930 726 3924 726 3917 726 3626 765 3437 720 3431 720 3424 720 3418 720 3412 720 3353 758 3314 934"/></Shape>
+	    <String CONTENT="HANS BODEN"
+                    HPOS="3314"
+                    VPOS="707"
+                    WIDTH="1901"
+                    HEIGHT="337"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4709"
+                   VPOS="7005"
+                   WIDTH="824"
+                   HEIGHT="279"
+                   ID="eSc_textblock_680830e5"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="4735 7005 5481 7031 5533 7258 4813 7284 4709 7232 4735 7005"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d42f00c8"
+                    TAGREFS="LT101"
+                    BASELINE="4767 7199 5096 7184 5502 7206" 
+                    HPOS="4754"
+                    VPOS="7025"
+                    WIDTH="746"
+                    HEIGHT="233">
+            <Shape><Polygon POINTS="5474 7057 5403 7025 5396 7025 5390 7025 5228 7057 5195 7063 5169 7057 5085 7025 5079 7025 5072 7025 5066 7025 5001 7051 4981 7057 4761 7044 4761 7193 4754 7213 4858 7252 4865 7252 4871 7252 4878 7252 4955 7226 5007 7206 5487 7258 5500 7200 5500 7167 5474 7057"/></Shape>
+	    <String CONTENT="42. V. 1-4"
+                    HPOS="4754"
+                    VPOS="7025"
+                    WIDTH="746"
+                    HEIGHT="233"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

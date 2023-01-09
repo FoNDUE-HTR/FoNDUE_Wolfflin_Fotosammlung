@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_4_IX_003_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4773" HEIGHT="6273" PHYSICAL_IMG_NR="531" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="4773" HEIGHT="6273">
+        
+        <TextBlock HPOS="36" VPOS="25" WIDTH="4733" HEIGHT="6231" ID="eSc_textblock_9e0f01e5" TAGREFS="BT284">
+          <Shape><Polygon POINTS="36 59 36 6256 4769 6256 4710 25" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_0366b306" TAGREFS="LT104" BASELINE="3537 6215 4417 6220" HPOS="3528" VPOS="6074" WIDTH="884" HEIGHT="157">
+            <Shape><Polygon POINTS="3528 6225 4401 6231 4412 6215 4412 6121 4187 6121 4177 6110 4145 6079 4145 6074 4140 6074 4135 6074 4129 6074 3800 6084 3795 6084 3790 6084 3784 6095 3753 6116 3534 6084 3534 6210" /></Shape>
+	    <String CONTENT="Rip. Int. - Anderson" HPOS="3528" VPOS="6074" WIDTH="884" HEIGHT="157" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

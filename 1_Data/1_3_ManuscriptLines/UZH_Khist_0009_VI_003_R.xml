@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0009_VI_003_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7792" HEIGHT="5700" PHYSICAL_IMG_NR="196" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="7792" HEIGHT="5700">
+        
+        <TextBlock HPOS="967" VPOS="4650" WIDTH="5698" HEIGHT="673" ID="eSc_textblock_eb12b2c6" TAGREFS="BT297">
+          <Shape><Polygon POINTS="967 4650 967 5323 6665 5323 6665 4650" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_3f0a2adb" TAGREFS="LT103" BASELINE="988 4878 6483 4878" HPOS="983" VPOS="4715" WIDTH="5497" HEIGHT="220">
+            <Shape><Polygon POINTS="983 4873 983 4726 1273 4726 1282 4726 1458 4769 1819 4769 1886 4731 1895 4726 1900 4726 1905 4726 1943 4731 2133 4769 2513 4769 2598 4735 2632 4726 2636 4726 2641 4726 2698 4735 2822 4769 3102 4769 3202 4740 3268 4726 3273 4726 3278 4726 3340 4740 3425 4764 3515 4745 3596 4726 3601 4726 3905 4726 3910 4726 3953 4745 3986 4764 4081 4750 4209 4726 4214 4726 4508 4750 4513 4750 4580 4726 4584 4726 4589 4726 4965 4726 5088 4754 5131 4769 5482 4769 5506 4759 5615 4726 5620 4726 5625 4726 5630 4726 5739 4759 5753 4769 5902 4731 6092 4715 6228 4726 6233 4726 6382 4730 6480 4769 6480 4873 6480 4902 5615 4930 5611 4930 5411 4911 5368 4906 5345 4911 5264 4930 5259 4930 5254 4930 5250 4930 5197 4911 5155 4897 4608 4897 4546 4916 4523 4921 4518 4921 4513 4921 4447 4916 4290 4897 4181 4916 4095 4930 4090 4930 4014 4916 3900 4897 3572 4921 3520 4921 3515 4921 3496 4921 3382 4897 3259 4921 3226 4925 3221 4925 3154 4921 2869 4897 2565 4925 2484 4930 2484 4935 1615 4935 1610 4930 1591 4930 1396 4902 983 4930" /></Shape>
+	    <String CONTENT="Andrea da Firenze. Ausschnittaus &quot;Triumph des hl. Thomas d. Aquin&quot; . In" HPOS="983" VPOS="4715" WIDTH="5497" HEIGHT="220" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d4eef6ee" TAGREFS="LT103" BASELINE="2577 5128 6644 5142" HPOS="2570" VPOS="4968" WIDTH="4072" HEIGHT="209">
+            <Shape><Polygon POINTS="2575 5125 2575 4968 2964 5020 3088 5020 3145 4978 3150 4978 3154 4978 3159 4978 3321 5001 3368 4978 3382 4973 3387 4973 3392 4973 3568 4973 3572 4973 3596 4982 3677 5016 3729 4982 3743 4973 3748 4973 3753 4973 3758 4973 3891 4973 3896 4973 3929 4987 4000 5016 4076 4987 4081 4987 4086 4987 4090 4987 4095 4987 4105 4987 4200 5016 4247 4992 4276 4978 4280 4978 4285 4978 4570 4978 4575 4978 4622 4997 4684 5020 4789 5001 4898 4978 4903 4978 5117 5006 5283 5025 5378 5006 5425 5001 5430 5001 5435 5001 5473 5011 5535 5025 5563 5011 5611 4987 5615 4987 5620 4987 5625 4987 5691 5011 5710 5020 5729 5016 5820 4982 5824 4982 5829 4982 5834 4982 5939 5016 5967 5030 6285 5030 6300 5020 6414 4982 6418 4982 6423 4982 6428 4982 6433 4982 6490 5025 6494 5030 6637 5030 6642 5139 6632 5177 2570 5168" /></Shape>
+	    <String CONTENT="S. Maria Novella (Florenz), Cappellone degli Spagnuoli." HPOS="2570" VPOS="4968" WIDTH="4072" HEIGHT="209" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="56" VPOS="4919" WIDTH="239" HEIGHT="550" ID="eSc_textblock_c2b1844b" TAGREFS="BT285">
+          <Shape><Polygon POINTS="56 4919 56 5469 295 5469 295 4919" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_9fb46976" TAGREFS="LT103" BASELINE="81 4933 67 5416" HPOS="42" VPOS="4921" WIDTH="171" HEIGHT="494">
+            <Shape><Polygon POINTS="80 4930 213 4930 209 5415 66 5415 42 5405 57 4921" /></Shape>
+	    <String CONTENT="9. IV. 13" HPOS="42" VPOS="4921" WIDTH="171" HEIGHT="494" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="965" VPOS="461" WIDTH="5996" HEIGHT="4246" ID="eSc_textblock_1796ecc4" TAGREFS="BT284">
+          <Shape><Polygon POINTS="6961 537 6951 4612 6741 4688 5867 4707 2543 4655 1364 4617 1007 4593 965 461" /></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

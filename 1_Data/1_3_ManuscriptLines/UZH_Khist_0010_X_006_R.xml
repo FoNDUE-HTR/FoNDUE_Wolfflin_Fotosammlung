@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_X_006_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7178" HEIGHT="6034" PHYSICAL_IMG_NR="270" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="7178" HEIGHT="6034">
+        
+        <TextBlock HPOS="570" VPOS="551" WIDTH="6007" HEIGHT="4827" ID="eSc_textblock_400a5ce2" TAGREFS="BT284">
+          <Shape><Polygon POINTS="623 551 570 5378 6577 5378 6577 559" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="33" VPOS="5378" WIDTH="261" HEIGHT="621" ID="eSc_textblock_4f309500" TAGREFS="BT285">
+          <Shape><Polygon POINTS="64 5393 33 5969 240 5999 294 5378" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_3846c8d7" TAGREFS="LT103" BASELINE="94 5426 88 5933" HPOS="60" VPOS="5420" WIDTH="171" HEIGHT="508">
+            <Shape><Polygon POINTS="90 5425 211 5420 231 5827 231 5832 231 5832 231 5832 231 5837 201 5928 85 5928 70 5923 60 5420" /></Shape>
+	    <String CONTENT="10. III. 36" HPOS="60" VPOS="5420" WIDTH="171" HEIGHT="508" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1475" VPOS="5516" WIDTH="3775" HEIGHT="284" ID="eSc_textblock_6203174d" TAGREFS="BT297">
+          <Shape><Polygon POINTS="1475 5516 1475 5800 5250 5800 5250 5516" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_3c303829" TAGREFS="LT103" BASELINE="1541 5708 3126 5668 5153 5644" HPOS="1534" VPOS="5506" WIDTH="3616" HEIGHT="226">
+            <Shape><Polygon POINTS="1539 5707 1534 5561 1695 5586 1730 5556 1730 5556 1730 5556 1735 5556 1735 5556 1735 5556 1740 5556 1740 5556 1745 5556 1745 5556 1775 5556 2007 5581 2077 5556 2102 5546 2102 5546 2107 5546 2107 5546 2112 5546 2112 5546 2112 5546 2157 5556 2268 5576 2530 5551 2691 5536 2691 5536 2696 5536 2696 5536 2766 5546 2862 5566 2892 5546 2907 5536 2912 5536 2912 5536 2912 5536 2917 5536 2917 5536 2922 5536 2922 5536 2927 5536 2972 5546 3033 5561 3103 5546 3174 5531 3174 5531 3174 5531 3179 5531 3179 5531 3179 5531 3184 5531 3184 5531 3184 5531 3189 5531 3204 5546 3234 5561 3375 5541 3561 5521 3561 5521 3566 5521 3566 5521 3571 5521 3571 5521 3571 5521 3611 5541 3631 5551 3918 5551 3933 5541 3958 5521 3963 5521 3963 5521 3963 5521 3968 5521 3968 5521 3973 5521 4436 5536 4552 5536 4567 5531 4657 5506 4662 5506 4662 5506 4662 5506 4667 5506 4667 5506 4672 5506 4672 5506 4738 5531 4738 5531 5135 5531 5150 5641 5145 5656 4728 5692 4723 5692 4723 5692 4723 5692 4718 5692 4647 5671 4341 5697 4341 5697 4335 5697 4335 5697 4330 5697 4330 5697 4330 5697 4325 5697 4325 5697 4300 5676 4295 5671 4265 5676 4124 5702 4124 5702 4119 5702 3737 5687 3692 5687 3671 5687 3526 5712 3526 5712 3521 5712 3521 5712 3521 5712 3410 5692 3375 5687 3365 5692 3345 5712 3345 5712 3340 5712 3340 5712 3340 5712 3334 5712 3334 5712 3329 5712 3329 5712 3194 5697 3133 5692 3098 5697 3028 5717 3023 5717 3023 5717 3023 5717 3018 5717 2836 5702 2726 5697 2711 5707 2691 5722 2691 5722 2686 5722 2686 5722 2686 5722 2681 5722 2681 5722 2676 5722 2676 5722 2545 5712 2449 5702 2409 5712 2349 5732 2344 5732 2344 5732 2339 5732 1534 5727" /></Shape>
+	    <String CONTENT="Linkes Aussenbild der Predella vom Altar der Linaioli" HPOS="1534" VPOS="5506" WIDTH="3616" HEIGHT="226" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

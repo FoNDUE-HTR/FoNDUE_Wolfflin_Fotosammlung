@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_VIII_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7644" HEIGHT="5760" PHYSICAL_IMG_NR="261" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="7644" HEIGHT="5760">
+        
+        <TextBlock HPOS="916" VPOS="584" WIDTH="5910" HEIGHT="4508" ID="eSc_textblock_f6c70ae9" TAGREFS="BT284">
+          <Shape><Polygon POINTS="916 584 916 5092 6813 5092 6826 584" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_fe2ab975" TAGREFS="LT103" BASELINE="1952 4640 6063 4564" HPOS="1935" VPOS="4430" WIDTH="4124" HEIGHT="269">
+            <Shape><Polygon POINTS="1949 4636 1935 4507 2256 4492 2261 4492 2338 4502 2515 4521 2568 4497 2592 4488 2597 4488 2861 4483 2866 4483 2871 4483 2895 4492 2919 4507 2952 4492 2991 4478 2996 4478 3000 4478 3072 4492 3135 4507 3154 4492 3173 4473 3178 4473 3183 4473 3188 4473 3341 4473 3452 4488 3577 4507 3634 4488 3697 4464 3701 4464 3706 4464 3966 4468 3970 4468 3975 4468 3994 4483 4018 4497 4273 4478 4393 4473 4398 4473 4402 4473 4422 4478 4465 4492 4537 4478 4628 4459 4633 4459 4767 4473 4844 4483 4868 4473 4926 4449 4931 4449 4935 4449 5152 4468 5238 4478 5257 4468 5334 4435 5339 4435 5344 4435 5348 4435 5425 4454 5497 4430 5502 4430 5507 4430 6049 4464 6059 4560 6054 4636 5829 4603 5598 4641 5540 4651 5536 4651 5483 4646 5286 4612 5104 4646 5027 4660 4599 4665 4595 4665 4590 4665 4566 4651 4513 4627 4369 4656 4258 4675 4254 4675 4134 4656 4004 4636 3721 4660 3385 4689 3380 4689 3202 4665 3116 4656 2559 4660 2535 4670 2487 4689 2482 4689 2477 4689 2391 4675 2367 4670 2362 4675 2328 4699 2323 4699 2319 4699 2314 4699 2309 4699 2227 4675 2203 4670 1949 4675" /></Shape>
+	    <String CONTENT="Teil der Predella (?) zur &quot;krönung der Jungfrau&quot; (Uffizien" HPOS="1935" VPOS="4430" WIDTH="4124" HEIGHT="269" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="65" VPOS="5027" WIDTH="257" HEIGHT="642" ID="eSc_textblock_794e790e" TAGREFS="BT285">
+          <Shape><Polygon POINTS="65 5027 65 5669 322 5669 322 5027" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_1cb2428a" BASELINE="115 5159 102 5631" HPOS="62" VPOS="5145" WIDTH="211" HEIGHT="485">
+            <Shape><Polygon POINTS="110 5155 273 5155 244 5630 100 5630 62 5620 76 5145" /></Shape>
+	    <String CONTENT="10. III. 20" HPOS="62" VPOS="5145" WIDTH="211" HEIGHT="485" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

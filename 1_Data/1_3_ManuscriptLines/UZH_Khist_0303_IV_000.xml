@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0303_IV_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6583"
+          HEIGHT="7799"
+          PHYSICAL_IMG_NR="229"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6583"
+                  HEIGHT="7799">
+        
+        <TextBlock HPOS="2399"
+                   VPOS="519"
+                   WIDTH="2876"
+                   HEIGHT="1086"
+                   ID="eSc_textblock_fb59d6a4"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="5275 571 5249 747 5099 747 5041 935 5073 1065 5249 1065 5249 1605 2497 1579 2497 1013 2399 597 4605 519"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1fd3f016"
+                    TAGREFS="LT100"
+                    BASELINE="2526 1013 4986 994" 
+                    HPOS="2504"
+                    VPOS="514"
+                    WIDTH="2717"
+                    HEIGHT="558">
+            <Shape><Polygon POINTS="2523 1007 2510 701 2579 618 2733 540 3024 539 3031 539 3037 539 3044 539 3050 539 3350 662 3480 558 3486 558 3493 558 3499 558 3506 558 3629 604 3955 532 3961 532 3968 532 3974 532 3974 539 4020 578 4169 539 4176 539 4182 539 4189 539 4195 539 4273 604 4345 539 4345 532 4351 532 4358 532 4364 532 4371 532 4462 578 4598 526 4605 526 4612 526 4618 526 4625 526 4625 532 4716 623 4774 682 4736 541 4794 540 4847 514 4904 535 4952 542 4987 563 5050 563 5099 570 5197 542 5221 582 4982 987 4976 1020 4820 1059 4813 1059 4807 1059 4716 1026 4703 1020 4358 1020 4345 1026 4306 1059 4299 1059 4293 1059 4286 1059 4098 1033 4059 1065 4052 1065 4046 1065 3337 1072 3330 1072 2914 1033 2569 1072 2562 1072 2556 1072 2549 1072 2504 1033"/></Shape>
+	    <String CONTENT="REMBRANDT"
+                    HPOS="2504"
+                    VPOS="514"
+                    WIDTH="2717"
+                    HEIGHT="558"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cbfc4774"
+                    TAGREFS="LT100"
+                    BASELINE="2504 1514 4800 1507" 
+                    HPOS="2484"
+                    VPOS="1059"
+                    WIDTH="2310"
+                    HEIGHT="552">
+            <Shape><Polygon POINTS="2497 1507 2484 1065 2621 1059 2627 1059 2627 1059 2627 1059 2634 1059 2634 1059 2641 1059 2641 1065 2849 1182 3037 1163 3122 1091 3122 1091 3128 1091 3128 1091 3128 1091 3135 1091 3135 1091 3141 1091 3141 1091 3141 1091 3148 1091 3148 1091 3148 1091 3154 1091 3154 1091 3265 1189 3363 1189 3467 1091 3467 1085 3467 1085 3473 1085 3473 1085 3480 1085 3480 1085 3480 1085 3486 1085 3486 1085 3493 1085 3493 1085 3597 1124 3649 1065 3655 1065 3655 1059 3655 1059 3662 1059 3662 1059 3662 1059 3668 1059 3668 1059 3668 1059 3675 1059 3675 1059 3681 1059 3681 1059 3681 1059 3688 1059 3688 1059 3694 1065 3785 1137 3870 1065 3870 1065 3870 1065 3870 1065 3876 1065 3876 1065 3876 1065 3883 1065 3883 1065 3974 1059 3981 1059 3981 1059 3981 1059 3987 1059 3987 1059 3987 1059 3994 1059 3994 1059 3994 1065 4000 1065 4046 1117 4137 1078 4137 1078 4143 1078 4143 1078 4143 1078 4150 1078 4150 1078 4156 1078 4156 1078 4156 1078 4163 1078 4163 1078 4163 1085 4267 1189 4514 1189 4631 1065 4638 1065 4638 1059 4638 1059 4644 1059 4644 1059 4644 1059 4651 1059 4651 1059 4657 1059 4657 1059 4781 1072 4794 1501 4794 1566 4540 1605 4540 1605 4533 1605 4533 1605 4533 1605 4527 1605 4527 1605 4527 1605 4520 1605 4520 1605 4520 1598 4488 1566 4462 1546 4306 1566 4137 1592 4137 1592 4130 1592 4130 1592 4130 1592 4124 1592 4046 1566 3981 1546 3961 1566 3928 1592 3928 1598 3928 1598 3922 1598 3922 1598 3915 1598 3915 1598 3915 1598 3909 1598 3909 1598 3902 1598 3902 1598 3902 1598 3896 1598 3896 1598 3896 1592 3870 1572 3811 1605 3805 1605 3805 1605 3798 1605 3798 1605 3798 1611 3493 1611 3486 1605 3486 1605 3480 1605 3480 1605 3382 1566 3317 1546 2849 1546 2738 1566 2575 1598 2575 1598 2575 1598 2569 1598 2569 1598 2562 1598 2562 1598 2484 1566"/></Shape>
+	    <String CONTENT="(Selbstbildnis)"
+                    HPOS="2484"
+                    VPOS="1059"
+                    WIDTH="2310"
+                    HEIGHT="552"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5006"
+                   VPOS="7348"
+                   WIDTH="955"
+                   HEIGHT="332"
+                   ID="eSc_textblock_ba193ab7"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5875 7348 5961 7546 5795 7636 5026 7680 5006 7412 5438 7383"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_aa9583da"
+                    TAGREFS="LT101"
+                    BASELINE="5072 7593 5905 7537" 
+                    HPOS="5047"
+                    VPOS="7363"
+                    WIDTH="852"
+                    HEIGHT="254">
+            <Shape><Polygon POINTS="5067 7591 5047 7454 5873 7363 5899 7532 5893 7558 5067 7617"/></Shape>
+	    <String CONTENT="303. IV. 1-37"
+                    HPOS="5047"
+                    VPOS="7363"
+                    WIDTH="852"
+                    HEIGHT="254"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

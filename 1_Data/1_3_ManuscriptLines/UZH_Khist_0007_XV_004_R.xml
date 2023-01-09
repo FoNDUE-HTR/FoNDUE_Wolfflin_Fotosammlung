@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_XV_004_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6248" HEIGHT="7681" PHYSICAL_IMG_NR="135" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6248" HEIGHT="7681">
+        
+        <TextBlock HPOS="878" VPOS="6616" WIDTH="2085" HEIGHT="740" ID="eSc_textblock_bf0f7eb0" TAGREFS="BT297">
+          <Shape><Polygon POINTS="2912 7092 2963 7316 933 7356 878 6616 2963 6708 2912 6932 1965 7015 2330 7117" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_8634bbac" TAGREFS="LT103" BASELINE="953 6855 2931 6868" HPOS="941" VPOS="6644" WIDTH="1997" HEIGHT="300">
+            <Shape><Polygon POINTS="953 6855 953 6644 1113 6650 1120 6650 1126 6650 1222 6727 1414 6727 1549 6656 1555 6656 1562 6656 1568 6656 1696 6720 1760 6656 1766 6656 1766 6650 1773 6650 1779 6650 1786 6650 1792 6650 1798 6650 1805 6656 1869 6701 1920 6663 1926 6663 1933 6663 1939 6663 1946 6663 2195 6733 2483 6733 2579 6669 2599 6656 2605 6656 2611 6656 2618 6656 2931 6682 2931 6868 2938 6887 2842 6944 2835 6944 2829 6944 2823 6944 2816 6944 2701 6912 2631 6944 2624 6944 2618 6944 2611 6944 2605 6944 2605 6938 2554 6893 2317 6893 2304 6900 2259 6938 2253 6938 2246 6938 2240 6938 1990 6906 1856 6887 1613 6887 1587 6912 1555 6938 1549 6938 1542 6938 1536 6938 941 6919" /></Shape>
+	    <String CONTENT="Leonardo da Vinci : Pferd" HPOS="941" VPOS="6644" WIDTH="1997" HEIGHT="300" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ef9b46f7" TAGREFS="LT103" BASELINE="960 7085 1894 7066" HPOS="953" VPOS="6906" WIDTH="941" HEIGHT="230">
+            <Shape><Polygon POINTS="960 7085 953 6925 1254 6964 1440 6938 1683 6906 1690 6906 1696 6906 1888 6957 1894 7066 1894 7092 960 7136" /></Shape>
+	    <String CONTENT="Bronze 23 cm" HPOS="953" VPOS="6906" WIDTH="941" HEIGHT="230" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4dd1dd4c" TAGREFS="LT103" BASELINE="973 7277 2919 7303" HPOS="966" VPOS="7098" WIDTH="1953" HEIGHT="269">
+            <Shape><Polygon POINTS="973 7277 966 7143 1350 7098 1357 7098 1363 7098 1369 7098 1414 7136 1472 7175 1658 7175 1741 7130 1798 7104 1805 7104 1811 7104 1818 7104 1824 7104 1856 7130 1914 7168 2195 7124 2298 7111 2304 7111 2310 7111 2317 7111 2317 7117 2330 7124 2387 7181 2695 7181 2906 7117 2919 7303 2912 7328 2650 7367 2643 7367 2451 7328 2426 7328 2387 7328 2042 7360 2035 7360 1875 7328 1830 7322 1786 7328 1613 7354 1606 7354 1600 7354 1594 7354 1562 7328 1549 7322 966 7322" /></Shape>
+	    <String CONTENT="London : Pierre Jeannerat" HPOS="966" VPOS="7098" WIDTH="1953" HEIGHT="269" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4043" VPOS="6675" WIDTH="1763" HEIGHT="410" ID="eSc_textblock_f0568ad9" TAGREFS="BT297">
+          <Shape><Polygon POINTS="4062 6973 4043 6675 5755 6708 5806 6906 4839 6957 4634 7085 4455 7060 4423 6932" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_9dab6bb7" TAGREFS="LT103" BASELINE="4109 6874 5793 6861" HPOS="4097" VPOS="6663" WIDTH="1696" HEIGHT="262">
+            <Shape><Polygon POINTS="4109 6874 4097 6676 4346 6708 4461 6676 4474 6669 4481 6669 4487 6669 4519 6676 4673 6701 4922 6676 5025 6663 5031 6663 5332 6663 5338 6663 5345 6663 5351 6676 5396 6701 5774 6676 5793 6861 5793 6912 4109 6925" /></Shape>
+	    <String CONTENT="Foto: Rijksmus. Amsterdam" HPOS="4097" VPOS="6663" WIDTH="1696" HEIGHT="262" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e35bb91c" TAGREFS="LT103" BASELINE="4468 7028 4718 7040" HPOS="4461" VPOS="6887" WIDTH="257" HEIGHT="205">
+            <Shape><Polygon POINTS="4468 7028 4468 6887 4718 6900 4718 7040 4711 7079 4461 7092" /></Shape>
+	    <String CONTENT="1961" HPOS="4461" VPOS="6887" WIDTH="257" HEIGHT="205" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5368" VPOS="7377" WIDTH="721" HEIGHT="282" ID="eSc_textblock_9f459413" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5375 7637 5368 7377 6049 7390 6089 7659" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_f848cf74" TAGREFS="LT103" BASELINE="5422 7572 6017 7552" HPOS="5402" VPOS="7367" WIDTH="615" HEIGHT="243">
+            <Shape><Polygon POINTS="5422 7572 5402 7405 5998 7367 6017 7552 6017 7584 5422 7610" /></Shape>
+	    <String CONTENT="7. VIII. 14" HPOS="5402" VPOS="7367" WIDTH="615" HEIGHT="243" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="383" VPOS="694" WIDTH="5523" HEIGHT="4054" ID="eSc_textblock_b0b0b598" TAGREFS="BT284">
+          <Shape><Polygon POINTS="416 708 383 4735 5906 4748 5879 694" /></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

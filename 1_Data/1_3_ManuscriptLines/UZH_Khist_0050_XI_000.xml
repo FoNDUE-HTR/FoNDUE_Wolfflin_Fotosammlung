@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0050_XI_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6604"
+          HEIGHT="7788"
+          PHYSICAL_IMG_NR="554"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6604"
+                  HEIGHT="7788">
+        
+        <TextBlock HPOS="2253"
+                   VPOS="700"
+                   WIDTH="2766"
+                   HEIGHT="1465"
+                   ID="eSc_textblock_b0460a85"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="3292 2148 3259 1836 2954 1810 2688 1628 2331 1680 2253 1239 2305 726 3344 700 5019 726 4941 1220 4972 1563 4245 1563 4245 2165"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_7ddd95fb"
+                    TAGREFS="LT100"
+                    BASELINE="2363 947 3266 960 3441 954 4909 979" 
+                    HPOS="2350"
+                    VPOS="733"
+                    WIDTH="2552"
+                    HEIGHT="305">
+            <Shape><Polygon POINTS="2357 941 2350 992 3993 992 4116 1025 4155 1031 4162 1031 4168 1031 4279 1025 4558 1005 4590 1031 4597 1038 4603 1038 4610 1038 4616 1038 4662 1031 4831 1005 4876 1038 4902 973 4902 791 4870 778 4863 778 4857 778 4850 778 4844 778 4844 785 4824 798 4792 830 4753 798 4746 791 4746 785 4740 785 4733 785 4727 785 4720 785 4714 785 4701 798 4655 830 4590 798 4545 772 4539 772 4532 772 4526 772 4448 798 4376 817 4350 791 4324 772 4324 765 4318 765 4311 765 4305 765 4298 765 4188 791 4155 798 4064 791 3564 752 3558 752 3552 752 3545 752 3500 791 3454 817 3019 817 2980 785 2974 778 2967 778 2961 778 2954 778 2948 778 2928 785 2902 804 2876 785 2863 772 2857 772 2850 772 2844 772 2746 785 2623 804 2590 785 2513 733 2506 733 2500 733 2493 733 2487 733 2357 778 2357 941"/></Shape>
+	    <String CONTENT="SANDRO BOTTICELLI"
+                    HPOS="2350"
+                    VPOS="733"
+                    WIDTH="2552"
+                    HEIGHT="305"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d54a223c"
+                    TAGREFS="LT100"
+                    BASELINE="2357 1447 4610 1473" 
+                    HPOS="2350"
+                    VPOS="1246"
+                    WIDTH="2260"
+                    HEIGHT="318">
+            <Shape><Polygon POINTS="2357 1447 2350 1518 3337 1512 3441 1544 3474 1557 3480 1557 3487 1557 3493 1557 3500 1557 3513 1544 3545 1525 3824 1551 3896 1557 3902 1557 3948 1557 4207 1525 4298 1557 4311 1564 4318 1564 4324 1564 4331 1564 4344 1564 4480 1525 4590 1564 4610 1473 4597 1304 4344 1323 4318 1298 4285 1272 4285 1265 4279 1265 4272 1265 4266 1265 4259 1265 4155 1291 4039 1259 4032 1259 4026 1259 4019 1259 4013 1259 3974 1291 3941 1317 3629 1317 3597 1285 3571 1265 3571 1259 3564 1259 3558 1259 3552 1259 3545 1259 3500 1285 3480 1259 3474 1259 3474 1252 3467 1252 3461 1252 3207 1252 3201 1252 3194 1252 3188 1252 3188 1259 3162 1278 3129 1317 2928 1317 2876 1278 2837 1246 2831 1246 2824 1246 2818 1246 2811 1246 2720 1272 2629 1304 2564 1272 2506 1246 2500 1246 2493 1246 2357 1265 2357 1447"/></Shape>
+	    <String CONTENT="Maria / Marienleben"
+                    HPOS="2350"
+                    VPOS="1246"
+                    WIDTH="2260"
+                    HEIGHT="318"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_29bfcea4"
+                    TAGREFS="LT100"
+                    BASELINE="3363 1966 4237 2003" 
+                    HPOS="3350"
+                    VPOS="1746"
+                    WIDTH="883"
+                    HEIGHT="428">
+            <Shape><Polygon POINTS="3350 2083 3402 2135 3402 2141 3409 2141 3415 2141 3422 2141 3428 2141 3552 2102 3714 2154 3720 2154 3727 2154 3733 2154 3740 2154 3779 2122 3818 2089 3935 2089 4013 2089 4071 2154 4090 2167 4090 2174 4097 2174 4103 2174 4110 2174 4220 2167 4233 1998 4227 1856 4058 1797 4052 1797 4045 1797 4039 1797 4032 1797 4032 1804 3993 1836 3980 1843 3749 1865 3671 1746 3571 1771 3564 1771 3558 1771 3363 1765 3357 1959"/></Shape>
+	    <String CONTENT="Krönung"
+                    HPOS="3350"
+                    VPOS="1746"
+                    WIDTH="883"
+                    HEIGHT="428"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4688"
+                   VPOS="7061"
+                   WIDTH="1032"
+                   HEIGHT="279"
+                   ID="eSc_textblock_e25a8433"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5668 7087 5720 7288 4766 7340 4688 7288 4766 7061"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ab3b208a"
+                    TAGREFS="LT101"
+                    BASELINE="4753 7242 5690 7284" 
+                    HPOS="4740"
+                    VPOS="7074"
+                    WIDTH="948"
+                    HEIGHT="240">
+            <Shape><Polygon POINTS="5649 7275 5610 7139 5565 7106 5558 7106 5552 7106 5545 7106 5305 7132 5227 7139 5175 7119 5103 7093 5097 7093 5090 7093 5084 7093 5078 7093 5058 7106 5013 7132 4935 7093 4883 7074 4876 7074 4870 7074 4772 7074 4753 7087 4746 7236 4740 7294 5675 7314 5688 7281 5681 7275 5649 7275"/></Shape>
+	    <String CONTENT="50. X. 1-11"
+                    HPOS="4740"
+                    VPOS="7074"
+                    WIDTH="948"
+                    HEIGHT="240"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

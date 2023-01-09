@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_XVIII_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5871" HEIGHT="7829" PHYSICAL_IMG_NR="151" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5871" HEIGHT="7829">
+        
+        <TextBlock HPOS="567" VPOS="995" WIDTH="4769" HEIGHT="6041" ID="eSc_textblock_6c148868" TAGREFS="BT284">
+          <Shape><Polygon POINTS="567 995 575 7036 5336 7036 5336 1003" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_e05ea5e5" TAGREFS="LT103" BASELINE="5276 5245 5287 3920" HPOS="5133" VPOS="3894" WIDTH="267" HEIGHT="1344">
+            <Shape><Polygon POINTS="5270 5238 5133 5219 5165 3894 5283 3914 5361 3907 5400 4253 5400 4253 5400 4260 5400 4260 5400 4266 5400 4266 5400 4266 5400 4273 5400 4273 5361 4318 5394 4847 5394 4853 5394 4853 5394 4853 5394 4860 5394 4860 5394 4867 5394 4867 5361 4906 5394 4964 5394 4964 5394 4964 5394 4971 5394 4971 5394 4971 5394 4977 5394 4977 5342 5238" /></Shape>
+	    <String CONTENT="I Vecchioni dell' Apocalisse" HPOS="5133" VPOS="3894" WIDTH="267" HEIGHT="1344" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c66260a6" TAGREFS="LT103" BASELINE="5294 3307 5309 2218" HPOS="5178" VPOS="2192" WIDTH="209" HEIGHT="1109">
+            <Shape><Polygon POINTS="5289 3301 5178 3281 5204 2192 5302 2211 5387 2211 5374 3301" /></Shape>
+	    <String CONTENT="Cattedrale di Anagni" HPOS="5178" VPOS="2192" WIDTH="209" HEIGHT="1109" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5079" VPOS="7398" WIDTH="515" HEIGHT="219" ID="eSc_textblock_5469e4b8" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5557 7463 5594 7611 5093 7617 5079 7398" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_f1d2f740" BASELINE="5119 7554 5583 7528" HPOS="5106" VPOS="7424" WIDTH="477" HEIGHT="241">
+            <Shape><Polygon POINTS="5119 7554 5106 7424 5570 7431 5583 7528 5583 7600 5119 7665" /></Shape>
+	    <String CONTENT="7. IX. 22" HPOS="5106" VPOS="7424" WIDTH="477" HEIGHT="241" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

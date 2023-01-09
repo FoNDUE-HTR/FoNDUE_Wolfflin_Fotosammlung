@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0302_1_V_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6599"
+          HEIGHT="7798"
+          PHYSICAL_IMG_NR="195"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6599"
+                  HEIGHT="7798">
+        
+        <TextBlock HPOS="4290"
+                   VPOS="1377"
+                   WIDTH="1762"
+                   HEIGHT="280"
+                   ID="eSc_textblock_40d3181e"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="4342 1377 5974 1429 6052 1631 4290 1657 4342 1377"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e89e2fe1"
+                    TAGREFS="LT100"
+                    BASELINE="4355 1585 5963 1609" 
+                    HPOS="4342"
+                    VPOS="1390"
+                    WIDTH="1619"
+                    HEIGHT="234">
+            <Shape><Polygon POINTS="4349 1579 4349 1390 5955 1449 5961 1605 5955 1624 4342 1624"/></Shape>
+	    <String CONTENT="JAN VAN RAVENSTEYN"
+                    HPOS="4342"
+                    VPOS="1390"
+                    WIDTH="1619"
+                    HEIGHT="234"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5643"
+                   VPOS="7538"
+                   WIDTH="773"
+                   HEIGHT="253"
+                   ID="eSc_textblock_9ec6b467"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5643 7538 6312 7564 6416 7765 5643 7791 5643 7538"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1967cebd"
+                    TAGREFS="LT101"
+                    BASELINE="5668 7700 6323 7742" 
+                    HPOS="5649"
+                    VPOS="7551"
+                    WIDTH="670"
+                    HEIGHT="201">
+            <Shape><Polygon POINTS="5662 7694 5649 7577 5747 7551 5753 7551 5753 7551 5760 7551 5760 7551 5760 7551 5766 7551 5766 7551 5766 7551 5773 7551 5773 7551 5773 7557 5805 7583 5935 7564 5935 7564 5942 7564 5942 7564 6319 7622 6319 7739 6306 7752 5656 7713"/></Shape>
+	    <String CONTENT="302. 1. V. 1-2"
+                    HPOS="5649"
+                    VPOS="7551"
+                    WIDTH="670"
+                    HEIGHT="201"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

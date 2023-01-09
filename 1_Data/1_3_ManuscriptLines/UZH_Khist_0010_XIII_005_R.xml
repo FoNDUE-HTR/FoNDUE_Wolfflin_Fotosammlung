@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_XIII_005_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5380" HEIGHT="6956" PHYSICAL_IMG_NR="281" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5380" HEIGHT="6956">
+        
+        <TextBlock HPOS="290" VPOS="427" WIDTH="4756" HEIGHT="5532" ID="eSc_textblock_9fc9c15c" TAGREFS="BT284">
+          <Shape><Polygon POINTS="290 427 290 5959 5011 5959 5046 436" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="2895" VPOS="5980" WIDTH="1638" HEIGHT="443" ID="eSc_textblock_3f9f826f" TAGREFS="BT297">
+          <Shape><Polygon POINTS="2895 5980 2895 6423 4533 6423 4533 5980" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_6dc35dee" TAGREFS="LT103" BASELINE="2979 6121 4232 6132" HPOS="2974" VPOS="5982" WIDTH="1263" HEIGHT="197">
+            <Shape><Polygon POINTS="2979 6121 2974 5999 3119 5982 3119 5982 3124 5982 3124 5982 3130 5982 3130 5982 3188 6005 3252 6022 3304 6005 3379 5982 3385 5982 3385 5982 3385 5982 3391 5982 3391 5982 3397 5982 3397 5982 3397 5982 3403 5982 3403 5982 3403 5987 3426 6011 3443 6028 3536 6028 3553 6011 3594 5982 3594 5982 3600 5982 3600 5982 3600 5982 3605 5982 3605 5982 3611 5982 3611 5982 3611 5982 3617 5982 3617 5982 3704 6016 3733 6028 3768 6016 3872 5987 3878 5987 3878 5987 3884 5987 3884 5987 3884 5987 3890 5987 4000 6028 4011 6028 4017 6028 4069 5987 4075 5987 4075 5987 4075 5987 4081 5987 4081 5987 4087 5987 4087 5987 4087 5987 4092 5987 4237 6034 4232 6132 4226 6173 2974 6179" /></Shape>
+	    <String CONTENT="Ecole Ecole Umbro florentine" HPOS="2974" VPOS="5982" WIDTH="1263" HEIGHT="197" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3729e725" TAGREFS="LT103" BASELINE="3727 6254 4394 6266" HPOS="3727" VPOS="6150" WIDTH="667" HEIGHT="226">
+            <Shape><Polygon POINTS="3727 6254 3727 6150 4394 6150 4394 6266 4382 6376 4058 6312 3942 6312 3907 6341 3878 6364 3878 6370 3878 6370 3872 6370 3872 6370 3872 6370 3866 6370 3866 6370 3861 6370 3861 6370 3861 6370 3855 6370 3855 6370 3855 6370 3849 6370 3803 6335 3768 6312 3727 6329" /></Shape>
+	    <String CONTENT="1387- 1455" HPOS="3727" VPOS="6150" WIDTH="667" HEIGHT="226" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4479" VPOS="6657" WIDTH="654" HEIGHT="303" ID="eSc_textblock_346b60c8" TAGREFS="BT285">
+          <Shape><Polygon POINTS="4479 6657 4479 6960 5133 6960 5133 6657" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_2b0e83b2" TAGREFS="LT103" BASELINE="4568 6857 5037 6857" HPOS="4568" VPOS="6724" WIDTH="469" HEIGHT="168">
+            <Shape><Polygon POINTS="4568 6857 4568 6724 5037 6747 5037 6857 5037 6892 4568 6892" /></Shape>
+	    <String CONTENT="10. III. 47." HPOS="4568" VPOS="6724" WIDTH="469" HEIGHT="168" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

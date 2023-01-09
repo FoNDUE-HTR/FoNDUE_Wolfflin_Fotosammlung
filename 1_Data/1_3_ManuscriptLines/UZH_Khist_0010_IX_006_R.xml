@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_IX_006_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5930" HEIGHT="7648" PHYSICAL_IMG_NR="245" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5930" HEIGHT="7648">
+        
+        <TextBlock HPOS="521" VPOS="559" WIDTH="4806" HEIGHT="6170" ID="eSc_textblock_7e59110f" TAGREFS="BT284">
+          <Shape><Polygon POINTS="605 559 521 6729 5296 6697 5327 559" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_10648df5" TAGREFS="LT103" BASELINE="3527 5807 5238 5792" HPOS="3513" VPOS="5653" WIDTH="1721" HEIGHT="223">
+            <Shape><Polygon POINTS="3526 5806 3513 5653 5222 5665 5234 5786 5222 5837 4948 5818 4839 5837 4724 5863 4724 5863 4724 5863 4718 5863 4718 5863 4584 5837 4482 5825 4297 5837 3927 5876 3927 5876 3921 5876 3921 5876 3915 5876 3915 5876 3915 5876 3908 5876 3908 5876 3870 5837 3851 5831 3526 5837" /></Shape>
+	    <String CONTENT="Musizierender Engel vom" HPOS="3513" VPOS="5653" WIDTH="1721" HEIGHT="223" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f4d9b281" TAGREFS="LT103" BASELINE="3536 6021 4784 6011" HPOS="3526" VPOS="5876" WIDTH="1256" HEIGHT="185">
+            <Shape><Polygon POINTS="3532 6016 3526 5876 4769 5908 4782 6010 4775 6048 3532 6061" /></Shape>
+	    <String CONTENT="Rahmen des Altars" HPOS="3526" VPOS="5876" WIDTH="1256" HEIGHT="185" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0f2e7c4d" TAGREFS="LT103" BASELINE="3546 6231 4370 6236" HPOS="3532" VPOS="6073" WIDTH="835" HEIGHT="198">
+            <Shape><Polygon POINTS="3545 6226 3551 6073 3640 6112 4361 6112 4367 6233 4355 6271 3532 6258" /></Shape>
+	    <String CONTENT="der Linaioli." HPOS="3532" VPOS="6073" WIDTH="835" HEIGHT="198" />
+          </TextLine>
+
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="5161" VPOS="7369" WIDTH="566" HEIGHT="207" ID="eSc_textblock_6736c9b5" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5161 7369 5161 7576 5727 7576 5727 7369" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_9184892f" TAGREFS="LT103" BASELINE="5211 7500 5693 7504" HPOS="5203" VPOS="7310" WIDTH="484" HEIGHT="325">
+            <Shape><Polygon POINTS="5209 7495 5209 7310 5687 7342 5687 7501 5681 7616 5203 7635" /></Shape>
+	    <String CONTENT="10. III. 29" HPOS="5203" VPOS="7310" WIDTH="484" HEIGHT="325" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

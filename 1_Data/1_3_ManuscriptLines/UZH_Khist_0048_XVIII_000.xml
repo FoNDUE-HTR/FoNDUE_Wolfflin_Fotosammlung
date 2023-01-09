@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0048_XVIII_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6594"
+          HEIGHT="7812"
+          PHYSICAL_IMG_NR="510"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6594"
+                  HEIGHT="7812">
+        
+        <TextBlock HPOS="2741"
+                   VPOS="680"
+                   WIDTH="2394"
+                   HEIGHT="481"
+                   ID="eSc_textblock_817300d2"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="2748 680 2741 1161 5135 1161 5135 680"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_7ff69485"
+                    TAGREFS="LT100"
+                    BASELINE="2828 989 3981 1002 4241 996 5113 992" 
+                    HPOS="2821"
+                    VPOS="761"
+                    WIDTH="2287"
+                    HEIGHT="384">
+            <Shape><Polygon POINTS="2827 983 2821 1126 2984 1100 3016 1126 3029 1139 3036 1139 3042 1139 3049 1145 3707 1145 3707 1139 3714 1139 3818 1087 3948 1015 4176 1022 4235 1061 4274 1093 4280 1093 4287 1093 4293 1093 4417 1080 4424 1080 4430 1080 4430 1074 4456 1054 4489 1022 5101 1022 5108 989 5095 787 4495 820 4450 781 4450 774 4443 774 4437 774 4287 774 4280 774 4274 774 4267 774 4267 781 4183 865 4059 865 3916 859 3870 813 3870 807 3863 807 3857 807 3850 807 3642 846 3577 800 3570 800 3564 800 3557 800 3551 800 3544 800 3479 852 3394 813 3388 813 3381 813 3134 846 3016 768 3010 761 3003 761 2997 761 2990 761 2827 761 2827 983"/></Shape>
+	    <String CONTENT="FRANÇOIS BONVIN"
+                    HPOS="2821"
+                    VPOS="761"
+                    WIDTH="2287"
+                    HEIGHT="384"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4743"
+                   VPOS="7056"
+                   WIDTH="775"
+                   HEIGHT="306"
+                   ID="eSc_textblock_a31ab325"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5466 7082 5518 7310 4769 7362 4743 7108 4925 7056"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_c0834c3c"
+                    TAGREFS="LT101"
+                    BASELINE="4782 7265 5434 7252" 
+                    HPOS="4776"
+                    VPOS="7056"
+                    WIDTH="658"
+                    HEIGHT="248">
+            <Shape><Polygon POINTS="5101 7063 5069 7056 4991 7102 4965 7108 4776 7108 4782 7265 4782 7304 5434 7297 5434 7252 5414 7089 5238 7102 5212 7089 5140 7063 5101 7063"/></Shape>
+	    <String CONTENT="48. IX. 1"
+                    HPOS="4776"
+                    VPOS="7056"
+                    WIDTH="658"
+                    HEIGHT="248"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

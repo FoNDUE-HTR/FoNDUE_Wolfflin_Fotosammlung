@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0040_1_V_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6600"
+          HEIGHT="7794"
+          PHYSICAL_IMG_NR="336"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6600"
+                  HEIGHT="7794">
+        
+        <TextBlock HPOS="4131"
+                   VPOS="805"
+                   WIDTH="1111"
+                   HEIGHT="279"
+                   ID="eSc_textblock_d0ab250f"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="4131 805 5190 831 5242 1058 4131 1084 4131 805"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f374cedd"
+                    TAGREFS="LT100"
+                    BASELINE="4150 1013 5193 1013" 
+                    HPOS="4144"
+                    VPOS="805"
+                    WIDTH="1046"
+                    HEIGHT="338">
+            <Shape><Polygon POINTS="5183 850 5144 831 4144 805 4144 1006 4144 1097 4553 1058 4599 1084 4677 1136 4683 1136 4690 1136 4696 1143 4911 1143 4911 1136 4917 1136 4924 1136 4924 1130 4982 1071 5001 1058 5183 1065 5190 1006 5190 876 5183 850"/></Shape>
+	    <String CONTENT="BEVERS"
+                    HPOS="4144"
+                    VPOS="805"
+                    WIDTH="1046"
+                    HEIGHT="338"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4599"
+                   VPOS="6988"
+                   WIDTH="1240"
+                   HEIGHT="331"
+                   ID="eSc_textblock_97711a9c"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5040 6988 5710 7040 5839 7241 5736 7319 4599 7267 4651 7014 5040 6988"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1d3b165c"
+                    TAGREFS="LT101"
+                    BASELINE="4677 7209 5216 7265 5759 7244" 
+                    HPOS="4664"
+                    VPOS="7040"
+                    WIDTH="1091"
+                    HEIGHT="234">
+            <Shape><Polygon POINTS="5729 7092 4670 7040 4670 7202 4664 7274 5749 7274 5755 7241 5749 7118 5729 7092"/></Shape>
+	    <String CONTENT="40. 1. VI. 1-4"
+                    HPOS="4664"
+                    VPOS="7040"
+                    WIDTH="1091"
+                    HEIGHT="234"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

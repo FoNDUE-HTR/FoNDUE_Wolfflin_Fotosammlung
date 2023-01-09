@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0041_VI_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6595"
+          HEIGHT="7783"
+          PHYSICAL_IMG_NR="367"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6595"
+                  HEIGHT="7783">
+        
+        <TextBlock HPOS="2232"
+                   VPOS="674"
+                   WIDTH="3369"
+                   HEIGHT="953"
+                   ID="eSc_textblock_466586cc"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="2232 674 5212 700 5523 752 5601 1031 4751 1135 4822 1498 4641 1627 2258 1627 2232 674"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f211ffb5"
+                    TAGREFS="LT100"
+                    BASELINE="2284 933 3466 927 4413 959 4621 966 5566 1001" 
+                    HPOS="2271"
+                    VPOS="687"
+                    WIDTH="3291"
+                    HEIGHT="415">
+            <Shape><Polygon POINTS="5523 804 5316 771 5309 771 5303 771 5296 771 5257 797 5251 797 5225 765 5218 765 5218 758 5212 758 5205 758 5199 758 5192 758 5186 758 5128 791 5063 739 5056 739 5050 739 5043 739 5037 739 5030 739 4972 778 4868 726 4861 726 4855 726 4615 778 4530 791 4368 791 4349 765 4297 726 4297 719 4290 719 4284 719 4277 719 4271 719 4193 765 4167 778 4154 758 4115 726 4115 719 4108 719 4102 719 3953 719 3946 719 3940 719 3933 719 3933 726 3901 752 3894 758 3881 752 3849 726 3849 719 3842 719 3836 719 3829 719 3823 719 3758 745 3563 706 3557 706 3550 706 3544 706 3544 713 3511 739 3479 771 3375 771 3342 732 3316 713 3316 706 3310 706 3303 706 3297 706 3174 726 3141 732 3128 726 3096 693 3089 693 3083 693 3076 693 3070 693 3011 719 2953 752 2888 719 2823 687 2817 687 2810 687 2700 713 2531 752 2278 700 2278 927 2271 972 2343 998 2349 998 2356 998 2362 998 2421 972 2473 953 2492 979 2505 985 2505 992 2512 992 2518 992 2525 998 2525 992 2531 992 2538 992 2538 985 2551 979 2564 959 2602 979 2726 1050 2732 1050 2739 1050 2843 1037 2849 1037 2856 1037 2908 992 2959 953 3102 992 3109 992 3115 992 3122 992 3128 992 3154 966 3213 1005 3213 1011 3219 1011 3226 1011 3232 1011 3258 1011 3505 959 3914 985 3946 1018 3946 1024 3953 1024 3959 1024 3966 1024 3972 1024 4089 972 4258 1050 4284 1063 4290 1063 4297 1063 4303 1063 4310 1063 4323 1057 4452 979 4582 1031 4589 1031 4595 1031 4602 1031 4699 1005 4777 1076 4796 1089 4803 1089 4809 1089 5549 1102 5562 998 5549 895 5523 804"/></Shape>
+	    <String CONTENT="VITTORIO MARIA BIGARI"
+                    HPOS="2271"
+                    VPOS="687"
+                    WIDTH="3291"
+                    HEIGHT="415"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c65f3d9c"
+                    TAGREFS="LT100"
+                    BASELINE="2278 1452 4496 1465" 
+                    HPOS="2278"
+                    VPOS="1258"
+                    WIDTH="2187"
+                    HEIGHT="350">
+            <Shape><Polygon POINTS="2278 1589 2492 1530 2830 1576 2966 1595 2972 1595 3096 1569 3362 1517 3433 1563 3492 1602 3498 1602 3505 1602 3511 1608 3725 1608 3725 1602 3732 1602 3738 1602 3810 1556 3862 1524 4147 1524 4180 1543 4232 1595 4238 1595 4245 1595 4251 1595 4258 1595 4459 1537 4465 1465 4465 1310 4323 1264 4316 1264 4310 1264 3712 1310 3686 1310 3680 1310 3615 1264 3609 1264 3602 1264 3596 1264 3589 1264 3472 1297 3239 1258 3037 1258 3031 1258 3024 1258 3018 1258 3018 1264 2979 1303 2875 1258 2869 1258 2862 1258 2856 1258 2849 1258 2778 1303 2641 1271 2635 1271 2628 1271 2473 1303 2466 1303 2460 1303 2408 1258 2401 1258 2395 1258 2388 1258 2382 1258 2278 1297 2278 1452"/></Shape>
+	    <String CONTENT="Architekturgemälde"
+                    HPOS="2278"
+                    VPOS="1258"
+                    WIDTH="2187"
+                    HEIGHT="350"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4751"
+                   VPOS="7030"
+                   WIDTH="1136"
+                   HEIGHT="279"
+                   ID="eSc_textblock_b058733f"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="4751 7030 5809 7056 5887 7257 4751 7309 4751 7030"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_10d5e9ba"
+                    TAGREFS="LT101"
+                    BASELINE="4758 7218 5818 7223" 
+                    HPOS="4745"
+                    VPOS="7050"
+                    WIDTH="1071"
+                    HEIGHT="233">
+            <Shape><Polygon POINTS="5692 7050 5686 7050 5485 7095 5439 7056 5433 7056 5426 7056 5420 7056 5212 7082 5095 7050 5089 7050 5082 7050 5076 7050 4978 7095 4920 7050 4913 7050 4907 7050 4900 7050 4894 7050 4790 7082 4751 7212 4745 7257 4783 7283 4790 7283 4796 7283 4803 7283 5809 7244 5816 7218 5816 7101 5699 7050 5692 7050"/></Shape>
+	    <String CONTENT="41. III. 48-52"
+                    HPOS="4745"
+                    VPOS="7050"
+                    WIDTH="1071"
+                    HEIGHT="233"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

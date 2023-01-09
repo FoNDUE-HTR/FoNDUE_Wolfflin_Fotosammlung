@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0006_VI_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6008" HEIGHT="7702" PHYSICAL_IMG_NR="28" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6008" HEIGHT="7702">
+        
+        <TextBlock HPOS="616" VPOS="6521" WIDTH="4795" HEIGHT="362" ID="eSc_textblock_4a3d44fd" TAGREFS="BT297">
+          <Shape><Polygon POINTS="5385 6771 2481 6883 616 6822 641 6598 4955 6521 5282 6546 5411 6623" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_8033b67c" TAGREFS="LT103" BASELINE="635 6790 3767 6771 5301 6732" HPOS="616" VPOS="6495" WIDTH="4685" HEIGHT="379">
+            <Shape><Polygon POINTS="635 6790 616 6540 731 6533 738 6533 744 6533 751 6533 751 6540 853 6610 1335 6610 1508 6540 1553 6527 1559 6527 1566 6527 1803 6546 1989 6559 2009 6546 2041 6521 2047 6521 2054 6521 2060 6521 2066 6521 2175 6546 2349 6598 2715 6598 2766 6553 2805 6521 2811 6521 2817 6521 2824 6521 2830 6521 2837 6521 2875 6553 2882 6553 2894 6553 3209 6508 3215 6508 3222 6508 3344 6553 3414 6585 3485 6559 3498 6553 3504 6553 3511 6553 3620 6559 3960 6578 3998 6559 4056 6533 4063 6533 4069 6533 4075 6533 4178 6559 4217 6572 4242 6559 4377 6501 4384 6501 4692 6495 4698 6495 4948 6495 4955 6495 5077 6559 5289 6572 5301 6732 5295 6777 4807 6784 4801 6790 4698 6835 4692 6835 4685 6835 4679 6835 4570 6797 4550 6790 4506 6797 4223 6841 4217 6841 3491 6822 3029 6854 3023 6854 2901 6829 2830 6809 2798 6829 2766 6848 2760 6848 2753 6848 2747 6848 2740 6848 2676 6829 2612 6809 2561 6835 2496 6861 2490 6861 2484 6861 2214 6841 1944 6816 1880 6848 1835 6867 1829 6867 1822 6867 1726 6848 1611 6822 1303 6854 1129 6874 1123 6874 1116 6874 1084 6861 1007 6829 738 6829 641 6867" /></Shape>
+	    <String CONTENT="Christoph Amberger. Porträt. Wien, kunsthist. Mus" HPOS="616" VPOS="6495" WIDTH="4685" HEIGHT="379" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5308" VPOS="7408" WIDTH="577" HEIGHT="247" ID="eSc_textblock_5bab628d" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5867 7433 5885 7646 5329 7655 5308 7408" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_2897f55a" TAGREFS="LT103" BASELINE="5383 7586 5829 7592" HPOS="5366" VPOS="7445" WIDTH="462" HEIGHT="186">
+            <Shape><Polygon POINTS="5378 7580 5378 7445 5821 7451 5828 7586 5815 7631 5366 7618" /></Shape>
+	    <String CONTENT="6. III. 17" HPOS="5366" VPOS="7445" WIDTH="462" HEIGHT="186" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="712" VPOS="820" WIDTH="4604" HEIGHT="5561" ID="eSc_textblock_eaa9b68f" TAGREFS="BT284">
+          <Shape><Polygon POINTS="712 820 712 6381 5316 6381 5316 820" /></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

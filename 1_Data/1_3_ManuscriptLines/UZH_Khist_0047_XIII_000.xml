@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0047_XIII_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6595"
+          HEIGHT="7810"
+          PHYSICAL_IMG_NR="489"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6595"
+                  HEIGHT="7810">
+        
+        <TextBlock HPOS="2805"
+                   VPOS="754"
+                   WIDTH="3060"
+                   HEIGHT="437"
+                   ID="eSc_textblock_2cb0a124"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="2805 754 5813 807 5865 1034 3040 1086 2858 1191 2805 754"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_932a434f"
+                    TAGREFS="LT100"
+                    BASELINE="2847 1008 4368 1008 4459 1008 5866 996" 
+                    HPOS="2838"
+                    VPOS="781"
+                    WIDTH="3027"
+                    HEIGHT="312">
+            <Shape><Polygon POINTS="5833 969 5781 839 5650 800 5637 800 5572 800 5559 800 5442 852 5429 859 5416 852 5371 813 5364 813 5358 813 4973 807 4967 807 4960 807 4954 807 4915 839 4837 787 4791 787 4726 787 4661 781 4609 826 4570 865 4264 865 4088 813 3990 787 3984 787 3977 787 3971 787 3964 787 3938 807 3854 865 3756 865 3593 800 3574 794 3567 794 3561 794 3554 794 3548 794 3548 800 3496 833 3287 800 3281 800 3274 800 3268 800 3209 839 2838 781 2845 1002 2845 1067 4303 1093 4309 1093 4316 1093 4407 1054 4433 1047 4440 1054 4479 1086 4479 1093 4485 1093 4492 1093 4498 1093 4706 1054 4720 1054 4726 1054 4843 1093 4850 1093 4856 1093 4863 1093 4999 1054 5019 1047 5859 1047 5865 995 5859 865 5833 852 5833 969"/></Shape>
+	    <String CONTENT="BONINO DA CAMPIONE"
+                    HPOS="2838"
+                    VPOS="781"
+                    WIDTH="3027"
+                    HEIGHT="312"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4674"
+                   VPOS="7107"
+                   WIDTH="1191"
+                   HEIGHT="332"
+                   ID="eSc_textblock_24e75265"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="4726 7107 5709 7133 5865 7211 5865 7360 4804 7439 4674 7334 4726 7107"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_9a49d1da"
+                    TAGREFS="LT101"
+                    BASELINE="4746 7321 5755 7334" 
+                    HPOS="4739"
+                    VPOS="7126"
+                    WIDTH="1016"
+                    HEIGHT="247">
+            <Shape><Polygon POINTS="5729 7146 5605 7185 5507 7139 5501 7139 5494 7139 5488 7139 5481 7139 5481 7146 5410 7211 5305 7211 5175 7165 5169 7165 5162 7165 4993 7198 4934 7146 4934 7139 4928 7139 4921 7139 4746 7126 4746 7321 4739 7360 5742 7373 5755 7334 5735 7146 5729 7146"/></Shape>
+	    <String CONTENT="47. VI. 1-4"
+                    HPOS="4739"
+                    VPOS="7126"
+                    WIDTH="1016"
+                    HEIGHT="247"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

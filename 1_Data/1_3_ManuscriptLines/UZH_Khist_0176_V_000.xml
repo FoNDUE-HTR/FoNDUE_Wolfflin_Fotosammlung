@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0176_V_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6599"
+          HEIGHT="7790"
+          PHYSICAL_IMG_NR="177"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6599"
+                  HEIGHT="7790">
+        
+        <TextBlock HPOS="2727"
+                   VPOS="856"
+                   WIDTH="2020"
+                   HEIGHT="721"
+                   ID="eSc_textblock_5270efb3"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="3526 856 3663 1246 4643 1246 4747 1324 4747 1577 2727 1577 2831 856"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_92422480"
+                    TAGREFS="LT100"
+                    BASELINE="2867 1051 3455 1051" 
+                    HPOS="2864"
+                    VPOS="889"
+                    WIDTH="584"
+                    HEIGHT="214">
+            <Shape><Polygon POINTS="2864 1045 2864 889 3448 889 3448 1045 3448 1097 2864 1103"/></Shape>
+	    <String CONTENT="IVREA"
+                    HPOS="2864"
+                    VPOS="889"
+                    WIDTH="584"
+                    HEIGHT="214"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3ab0676e"
+                    TAGREFS="LT100"
+                    BASELINE="2825 1512 4634 1512" 
+                    HPOS="2818"
+                    VPOS="1298"
+                    WIDTH="1812"
+                    HEIGHT="357">
+            <Shape><Polygon POINTS="2818 1506 2825 1298 3020 1350 3052 1324 3052 1317 3052 1317 3059 1317 3059 1317 3059 1317 3065 1317 3065 1317 3065 1317 3072 1317 3072 1317 3286 1350 3344 1304 3344 1304 3351 1304 3351 1304 3357 1304 3357 1304 3357 1304 3364 1304 3364 1304 3364 1304 3370 1304 3370 1304 3468 1350 3585 1298 3585 1298 3585 1298 3591 1298 3591 1298 3591 1298 3598 1298 3598 1298 3604 1298 3604 1298 3604 1298 3604 1298 3611 1298 3611 1298 3669 1350 3955 1350 4020 1298 4020 1298 4020 1298 4026 1298 4026 1298 4026 1298 4033 1298 4033 1298 4039 1298 4039 1298 4039 1298 4065 1298 4319 1350 4371 1304 4371 1298 4371 1298 4371 1298 4377 1298 4377 1298 4377 1298 4384 1298 4384 1298 4390 1298 4630 1304 4630 1506 4630 1655 4390 1655 4384 1648 4384 1648 4384 1648 4377 1648 4377 1648 4377 1648 4371 1648 4260 1570 3851 1570 3780 1616 3773 1616 3773 1616 3773 1616 3767 1616 3767 1616 3760 1616 3760 1616 3312 1577 3202 1648 3195 1648 3195 1648 3195 1648 3195 1648 3189 1648 3189 1648 3182 1648 3182 1648 3176 1648 2935 1616 2825 1648"/></Shape>
+	    <String CONTENT="Kirche S. Bernardino (5)"
+                    HPOS="2818"
+                    VPOS="1298"
+                    WIDTH="1812"
+                    HEIGHT="357"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3123"
+                   VPOS="7483"
+                   WIDTH="1531"
+                   HEIGHT="307"
+                   ID="eSc_textblock_a73a4400"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="3131 7508 3123 7790 4654 7790 4605 7483"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_36684f17"
+                    TAGREFS="LT101"
+                    BASELINE="3197 7747 4530 7730" 
+                    HPOS="3182"
+                    VPOS="7361"
+                    WIDTH="1345"
+                    HEIGHT="441">
+            <Shape><Polygon POINTS="3195 7744 3182 7381 3364 7381 3364 7381 3364 7381 3370 7381 3370 7381 3370 7381 3377 7381 3377 7381 3377 7387 3429 7439 3578 7381 3578 7381 3585 7381 3585 7381 3585 7381 3591 7381 3591 7381 3598 7381 3598 7381 3598 7381 3604 7381 3734 7465 4013 7465 4319 7445 4501 7361 4527 7725 4527 7796 3195 7802"/></Shape>
+	    <String CONTENT="176. I. 61-77"
+                    HPOS="3182"
+                    VPOS="7361"
+                    WIDTH="1345"
+                    HEIGHT="441"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

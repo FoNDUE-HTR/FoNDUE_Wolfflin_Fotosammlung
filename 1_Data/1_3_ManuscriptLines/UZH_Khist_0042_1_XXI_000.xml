@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0042_1_XXI_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6601"
+          HEIGHT="7786"
+          PHYSICAL_IMG_NR="413"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6601"
+                  HEIGHT="7786">
+        
+        <TextBlock HPOS="2969"
+                   VPOS="674"
+                   WIDTH="1659"
+                   HEIGHT="471"
+                   ID="eSc_textblock_e3eca654"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="2969 674 2969 1145 4628 1145 4628 674"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_881fa73a"
+                    TAGREFS="LT100"
+                    BASELINE="3115 973 3782 986 4063 973 4504 953" 
+                    HPOS="3102"
+                    VPOS="752"
+                    WIDTH="1396"
+                    HEIGHT="338">
+            <Shape><Polygon POINTS="3109 1090 3595 1031 4485 1070 4498 947 4485 798 4121 752 4115 752 4108 752 4102 752 4102 759 4076 778 4011 849 3745 849 3667 778 3660 778 3654 778 3647 778 3641 778 3459 836 3271 752 3264 752 3258 752 3102 752 3109 966"/></Shape>
+	    <String CONTENT="HANS BOL"
+                    HPOS="3102"
+                    VPOS="752"
+                    WIDTH="1396"
+                    HEIGHT="338"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4712"
+                   VPOS="7059"
+                   WIDTH="1291"
+                   HEIGHT="253"
+                   ID="eSc_textblock_e2708e9e"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5900 7059 6003 7260 4712 7312 4712 7059"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_58f2fc81"
+                    TAGREFS="LT101"
+                    BASELINE="4731 7221 5919 7234" 
+                    HPOS="4725"
+                    VPOS="7065"
+                    WIDTH="1194"
+                    HEIGHT="221">
+            <Shape><Polygon POINTS="5906 7091 5887 7072 5854 7065 5575 7098 5530 7098 5523 7091 5497 7072 5497 7065 5491 7065 5484 7065 4731 7065 4731 7221 4725 7273 5906 7286 5919 7234 5919 7117 5906 7091"/></Shape>
+	    <String CONTENT="42. 1. XIV. 1-2"
+                    HPOS="4725"
+                    VPOS="7065"
+                    WIDTH="1194"
+                    HEIGHT="221"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

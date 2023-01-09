@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_I_008_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6265" HEIGHT="7681" PHYSICAL_IMG_NR="66" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6265" HEIGHT="7681">
+        
+        <TextBlock HPOS="1422" VPOS="1848" WIDTH="3502" HEIGHT="4406" ID="eSc_textblock_33afc710" TAGREFS="BT284">
+          <Shape><Polygon POINTS="1422 1915 1509 6254 4924 6187 4810 1848" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="115" VPOS="6931" WIDTH="4703" HEIGHT="384" ID="eSc_textblock_0ccd6bc5" TAGREFS="BT297">
+          <Shape><Polygon POINTS="115 6995 1909 6931 4773 6956 4818 7169 1992 7239 166 7315" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_b01718fa" TAGREFS="LT103" BASELINE="198 7181 4746 7104" HPOS="185" VPOS="6925" WIDTH="4561" HEIGHT="352">
+            <Shape><Polygon POINTS="198 7181 185 6989 499 7028 550 6996 557 6996 563 6996 570 6996 1082 7015 1140 6976 1146 6976 1153 6976 1159 6976 1165 6976 1556 7008 1627 6970 1627 6964 1633 6964 1639 6964 1646 6964 1819 6964 2530 6983 2728 6951 2805 6944 2812 6944 2818 6944 2825 6944 2831 6951 2889 6989 3158 6989 3427 6944 3536 6932 3958 6925 3965 6925 3971 6925 4003 6938 4061 6964 4189 6938 4247 6925 4253 6925 4259 6925 4285 6932 4349 6957 4727 6932 4746 7104 4746 7136 4580 7188 4573 7188 4567 7188 4240 7156 4176 7149 4151 7156 4035 7200 4029 7200 4022 7200 3657 7175 3497 7162 3465 7181 3414 7207 3407 7207 3401 7207 3395 7207 3318 7181 3247 7162 2792 7200 2600 7213 2594 7213 2587 7213 2562 7207 2485 7181 2274 7213 2088 7245 2081 7245 1908 7226 1614 7194 1434 7239 1428 7239 1422 7239 1415 7239 1287 7200 1223 7252 1210 7258 1204 7258 1197 7258 1191 7258 1185 7258 1153 7252 973 7200 762 7264 749 7264 743 7264 198 7277" /></Shape>
+	    <String CONTENT="Amiet, Cuno (1868-1961). Selbstbildnis 1925 (?). Verbrannt" HPOS="185" VPOS="6925" WIDTH="4561" HEIGHT="352" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5646" VPOS="7449" WIDTH="503" HEIGHT="229" ID="eSc_textblock_78c502a4" TAGREFS="BT285">
+          <Shape><Polygon POINTS="6131 7456 6149 7678 5673 7678 5646 7449" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_71496c3e" TAGREFS="LT103" BASELINE="5733 7591 6118 7615" HPOS="5714" VPOS="7444" WIDTH="403" HEIGHT="185">
+            <Shape><Polygon POINTS="5726 7584 5726 7444 6117 7456 6117 7610 6104 7629 5714 7623" /></Shape>
+	    <String CONTENT="7. I. 8" HPOS="5714" VPOS="7444" WIDTH="403" HEIGHT="185" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

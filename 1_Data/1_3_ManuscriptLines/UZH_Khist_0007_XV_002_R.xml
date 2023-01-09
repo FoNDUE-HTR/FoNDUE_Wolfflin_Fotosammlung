@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_XV_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6246" HEIGHT="7676" PHYSICAL_IMG_NR="133" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6246" HEIGHT="7676">
+        
+        <TextBlock HPOS="1027" VPOS="7167" WIDTH="2755" HEIGHT="479" ID="eSc_textblock_23a842ca" TAGREFS="BT297">
+          <Shape><Polygon POINTS="1027 7167 3366 7189 3404 7317 3756 7343 3782 7464 2963 7615 1118 7646" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_fc0d1bb1" TAGREFS="LT103" BASELINE="1132 7324 3353 7304" HPOS="1119" VPOS="7138" WIDTH="2234" HEIGHT="224">
+            <Shape><Polygon POINTS="1132 7324 1119 7151 1465 7189 1619 7157 1625 7157 1631 7157 1759 7189 2355 7189 2393 7164 2419 7145 2425 7145 2431 7145 2438 7145 2547 7164 2611 7177 2623 7164 2655 7138 2662 7138 2668 7138 2675 7138 3340 7177 3353 7304 3346 7330 1132 7362" /></Shape>
+	    <String CONTENT="Paris, um 1400 : Flügelaltärchen (Rückseite)" HPOS="1119" VPOS="7138" WIDTH="2234" HEIGHT="224" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_194784e2" TAGREFS="LT103" BASELINE="1145 7439 3756 7439" HPOS="1145" VPOS="7292" WIDTH="2617" HEIGHT="217">
+            <Shape><Polygon POINTS="1145 7439 1145 7336 1580 7336 1689 7292 1695 7292 1702 7292 1900 7330 1977 7298 1983 7298 1990 7298 2591 7330 2905 7292 2911 7292 2918 7292 3052 7330 3135 7292 3142 7292 3148 7292 3154 7292 3257 7324 3295 7292 3302 7292 3308 7292 3314 7292 3602 7292 3609 7292 3762 7336 3756 7439 3756 7471 3500 7509 3494 7509 3340 7477 3321 7477 3289 7484 3142 7509 3135 7509 2515 7490 1964 7477 1804 7503 1747 7509 1740 7509 1683 7503 1452 7477 1145 7509" /></Shape>
+	    <String CONTENT="Gold emailliert, Höhe 12,7 cm, Breite geöffnet : 12, 7cm" HPOS="1145" VPOS="7292" WIDTH="2617" HEIGHT="217" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_04a0d89f" TAGREFS="LT103" BASELINE="1145 7567 3007 7554" HPOS="1126" VPOS="7426" WIDTH="1881" HEIGHT="218">
+            <Shape><Polygon POINTS="1145 7567 1126 7464 1241 7426 1247 7426 1254 7426 2995 7432 3007 7554 2995 7612 2073 7599 2009 7631 1996 7637 1990 7637 1983 7637 1977 7637 1958 7631 1881 7605 1849 7631 1849 7637 1843 7637 1836 7637 1145 7644" /></Shape>
+	    <String CONTENT="Amsterdam, Rijksmuseum 17045" HPOS="1126" VPOS="7426" WIDTH="1881" HEIGHT="218" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4344" VPOS="7468" WIDTH="581" HEIGHT="195" ID="eSc_textblock_e9ef9996" TAGREFS="BT285">
+          <Shape><Polygon POINTS="4882 7496 4925 7661 4344 7663 4344 7468" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_49deddce" TAGREFS="LT103" BASELINE="4386 7590 4882 7592" HPOS="4383" VPOS="7464" WIDTH="493" HEIGHT="180">
+            <Shape><Polygon POINTS="4383 7586 4383 7464 4876 7471 4876 7586 4876 7644 4383 7644" /></Shape>
+	    <String CONTENT="7. VIII. 12" HPOS="4383" VPOS="7464" WIDTH="493" HEIGHT="180" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5235" VPOS="7233" WIDTH="994" HEIGHT="440" ID="eSc_textblock_a97e589b" TAGREFS="BT297">
+          <Shape><Polygon POINTS="5255 7233 6207 7259 6229 7665 5235 7673 5248 7512 5235 7480 5248 7411" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_4c366782" TAGREFS="LT103" BASELINE="5882 7491 6209 7491" HPOS="5881" VPOS="7362" WIDTH="326" HEIGHT="173">
+            <Shape><Polygon POINTS="5881 7490 5881 7362 6207 7368 6207 7490 6207 7528 5881 7535" /></Shape>
+	    <String CONTENT="N. 466" HPOS="5881" VPOS="7362" WIDTH="326" HEIGHT="173" />
+          </TextLine>
+
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="1570" VPOS="1023" WIDTH="3227" HEIGHT="4323" ID="eSc_textblock_38638060" TAGREFS="BT284">
+          <Shape><Polygon POINTS="1604 1023 1570 5346 4769 5340 4797 1029" /></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

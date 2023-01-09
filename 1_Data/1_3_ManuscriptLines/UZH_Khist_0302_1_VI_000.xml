@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0302_1_VI_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6598"
+          HEIGHT="7792"
+          PHYSICAL_IMG_NR="196"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6598"
+                  HEIGHT="7792">
+        
+        <TextBlock HPOS="4571"
+                   VPOS="1350"
+                   WIDTH="1449"
+                   HEIGHT="253"
+                   ID="eSc_textblock_c72b593e"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="4623 1350 5916 1376 6020 1577 4571 1603 4623 1350"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_9acfb7b3"
+                    TAGREFS="LT100"
+                    BASELINE="4613 1536 5896 1519" 
+                    HPOS="4578"
+                    VPOS="1344"
+                    WIDTH="1318"
+                    HEIGHT="337">
+            <Shape><Polygon POINTS="4610 1532 4578 1409 4610 1363 4610 1363 4617 1363 4617 1357 4617 1357 4623 1357 4623 1357 4623 1357 4630 1357 4630 1357 4636 1357 4636 1357 4948 1396 5110 1350 5117 1350 5117 1350 5117 1350 5123 1350 5123 1350 5357 1389 5442 1344 5442 1344 5442 1344 5448 1344 5448 1344 5455 1344 5455 1344 5877 1389 5890 1512 5896 1603 5721 1668 5714 1668 5714 1668 5714 1668 5403 1675 5396 1675 5396 1675 5390 1675 5390 1675 5390 1675 5325 1642 5286 1623 5117 1623 4610 1681"/></Shape>
+	    <String CONTENT="AUGUSTE RAVIER"
+                    HPOS="4578"
+                    VPOS="1344"
+                    WIDTH="1318"
+                    HEIGHT="337"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5636"
+                   VPOS="7506"
+                   WIDTH="669"
+                   HEIGHT="279"
+                   ID="eSc_textblock_391c18db"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5636 7506 6227 7532 6305 7759 5636 7785 5636 7506"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_8a98a7b6"
+                    TAGREFS="LT101"
+                    BASELINE="5674 7675 6180 7712" 
+                    HPOS="5656"
+                    VPOS="7525"
+                    WIDTH="526"
+                    HEIGHT="202">
+            <Shape><Polygon POINTS="5669 7668 5669 7525 5857 7558 5909 7551 6013 7532 6013 7532 6020 7532 6020 7532 6020 7532 6026 7532 6182 7584 6175 7707 6162 7727 5656 7707"/></Shape>
+	    <String CONTENT="302. 1. VI. 1"
+                    HPOS="5656"
+                    VPOS="7525"
+                    WIDTH="526"
+                    HEIGHT="202"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

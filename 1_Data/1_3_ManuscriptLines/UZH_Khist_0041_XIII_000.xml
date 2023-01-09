@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0041_XIII_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6602"
+          HEIGHT="7785"
+          PHYSICAL_IMG_NR="373"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6602"
+                  HEIGHT="7785">
+        
+        <TextBlock HPOS="3135"
+                   VPOS="726"
+                   WIDTH="2220"
+                   HEIGHT="305"
+                   ID="eSc_textblock_ed274333"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="3135 726 5329 778 5355 1031 3135 1031 3135 726"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_cf5af33b"
+                    TAGREFS="LT100"
+                    BASELINE="3161 934 5311 987" 
+                    HPOS="3148"
+                    VPOS="726"
+                    WIDTH="2162"
+                    HEIGHT="331">
+            <Shape><Polygon POINTS="4972 765 4907 765 4888 765 4836 778 4797 765 4777 765 4712 759 4660 759 4622 778 4602 784 4576 778 4518 759 4518 759 4453 752 4388 752 4349 772 4303 797 4115 797 4024 765 3933 739 3869 739 3817 739 3745 759 3589 733 3583 733 3576 733 3570 733 3531 759 3505 772 3453 759 3356 726 3349 726 3284 726 3219 726 3154 746 3154 927 3148 1005 3323 992 3427 1012 3479 1025 3486 1025 3492 1025 3498 1025 3505 1012 3544 979 3713 979 3849 1012 3894 1025 3901 1025 3907 1025 3972 1012 4109 986 4219 986 4252 1012 4284 1044 4290 1044 4297 1044 4303 1044 4531 1025 4576 1057 4583 1057 4589 1057 4596 1057 4875 1012 4901 1012 4920 1012 5199 1057 5206 1057 5212 1057 5303 1012 5310 986 5303 791 5102 791 5076 784 5031 765 4972 765"/></Shape>
+	    <String CONTENT="BISHOPS CLEEVE"
+                    HPOS="3148"
+                    VPOS="726"
+                    WIDTH="2162"
+                    HEIGHT="331"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4764"
+                   VPOS="7032"
+                   WIDTH="669"
+                   HEIGHT="253"
+                   ID="eSc_textblock_52aab69d"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="4764 7032 5381 7058 5433 7233 4790 7285 4764 7032"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1f42207d"
+                    TAGREFS="LT101"
+                    BASELINE="4790 7201 5028 7208 5381 7219" 
+                    HPOS="4777"
+                    VPOS="7045"
+                    WIDTH="598"
+                    HEIGHT="240">
+            <Shape><Polygon POINTS="5368 7064 5303 7051 5238 7051 5219 7045 4784 7058 4784 7194 4777 7246 4855 7278 4862 7278 4868 7285 5368 7285 5375 7214 5368 7064 5368 7064"/></Shape>
+	    <String CONTENT="41. X. 1"
+                    HPOS="4777"
+                    VPOS="7045"
+                    WIDTH="598"
+                    HEIGHT="240"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

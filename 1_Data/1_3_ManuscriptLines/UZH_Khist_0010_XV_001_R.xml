@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_XV_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7685" HEIGHT="5945" PHYSICAL_IMG_NR="287" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="7685" HEIGHT="5945">
+        
+        <TextBlock HPOS="687" VPOS="455" WIDTH="6226" HEIGHT="4946" ID="eSc_textblock_27f51f44" TAGREFS="BT284">
+          <Shape><Polygon POINTS="6913 504 6909 5294 6594 5345 745 5401 687 476 788 455 872 515" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_42571e57" TAGREFS="LT103" BASELINE="847 733 1932 703" HPOS="837" VPOS="554" WIDTH="1095" HEIGHT="218">
+            <Shape><Polygon POINTS="847 733 837 569 1040 589 1070 574 1080 564 1085 564 1085 564 1085 564 1090 564 1090 564 1095 564 1095 564 1095 564 1099 564 1099 564 1124 574 1184 599 1208 574 1213 569 1213 569 1213 569 1218 569 1218 569 1223 569 1223 569 1223 569 1228 569 1228 569 1228 569 1268 579 1303 584 1332 579 1417 554 1422 554 1422 554 1427 554 1427 554 1427 554 1431 554 1431 554 1431 554 1436 554 1436 554 1436 559 1461 579 1486 604 1917 594 1932 703 1927 723 1694 757 1694 757 1689 757 1689 757 1689 757 1684 757 1684 757 1684 757 1640 733 1635 733 1387 733 1352 743 1164 772 1164 772 1159 772 842 753" /></Shape>
+	    <String CONTENT="Triptychon des" HPOS="837" VPOS="554" WIDTH="1095" HEIGHT="218" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_877e3cab" TAGREFS="LT103" BASELINE="832 926 1996 916" HPOS="817" VPOS="777" WIDTH="1179" HEIGHT="194">
+            <Shape><Polygon POINTS="832 926 817 797 1119 782 1124 782 1124 782 1124 782 1129 782 1129 782 1129 782 1134 782 1134 782 1149 797 1159 807 1189 797 1223 787 1228 787 1228 787 1228 787 1233 787 1233 787 1303 797 1377 812 1427 802 1506 777 1511 777 1511 777 1516 777 1516 777 1516 777 1521 777 1590 802 1615 807 1640 802 1729 777 1734 777 1734 777 1739 777 1739 777 1739 777 1744 777 1744 777 1749 777 1788 802 1803 807 1981 807 1996 916 1996 951 832 971" /></Shape>
+	    <String CONTENT="hl. Petrus Maryr." HPOS="817" VPOS="777" WIDTH="1179" HEIGHT="194" />
+          </TextLine>
+
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="107" VPOS="5201" WIDTH="241" HEIGHT="557" ID="eSc_textblock_beba03a2" TAGREFS="BT285">
+          <Shape><Polygon POINTS="107 5201 107 5758 348 5758 348 5201" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_62b32319" TAGREFS="LT103" BASELINE="169 5234 177 5707" HPOS="118" VPOS="5216" WIDTH="184" HEIGHT="486">
+            <Shape><Polygon POINTS="168 5231 297 5216 302 5692 173 5702 118 5692 133 5226" /></Shape>
+	    <String CONTENT="10. III. 53" HPOS="118" VPOS="5216" WIDTH="184" HEIGHT="486" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

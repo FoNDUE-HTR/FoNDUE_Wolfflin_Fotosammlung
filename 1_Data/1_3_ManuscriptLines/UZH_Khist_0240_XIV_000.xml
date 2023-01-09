@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0240_XIV_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6602"
+          HEIGHT="7806"
+          PHYSICAL_IMG_NR="330"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6602"
+                  HEIGHT="7806">
+        
+        <TextBlock HPOS="4889"
+                   VPOS="1353"
+                   WIDTH="1270"
+                   HEIGHT="227"
+                   ID="eSc_textblock_deff01fa"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="4915 1353 6133 1379 6159 1580 4889 1580 4915 1353"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_df7a6bbd"
+                    TAGREFS="LT100"
+                    BASELINE="4974 1522 5613 1521 6076 1539" 
+                    HPOS="4961"
+                    VPOS="1346"
+                    WIDTH="1113"
+                    HEIGHT="280">
+            <Shape><Polygon POINTS="4967 1515 4967 1346 6068 1379 6074 1535 6068 1574 5846 1626 5846 1626 5846 1626 5840 1626 5840 1626 5840 1626 5690 1587 5618 1574 5586 1593 5547 1619 5540 1619 5540 1619 5540 1619 5534 1619 5534 1619 5527 1619 5527 1619 5527 1619 5423 1600 5286 1574 4961 1613"/></Shape>
+	    <String CONTENT="EDVARD MUNCH"
+                    HPOS="4961"
+                    VPOS="1346"
+                    WIDTH="1113"
+                    HEIGHT="280"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5332"
+                   VPOS="7545"
+                   WIDTH="957"
+                   HEIGHT="254"
+                   ID="eSc_textblock_e106e2a4"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5332 7545 6211 7571 6289 7799 5332 7799 5332 7545"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_c0d7439b"
+                    TAGREFS="LT101"
+                    BASELINE="5385 7720 6150 7738" 
+                    HPOS="5377"
+                    VPOS="7539"
+                    WIDTH="769"
+                    HEIGHT="208">
+            <Shape><Polygon POINTS="5384 7714 5384 7539 6139 7584 6146 7734 6133 7747 5377 7734"/></Shape>
+	    <String CONTENT="240. XIV. 1-26"
+                    HPOS="5377"
+                    VPOS="7539"
+                    WIDTH="769"
+                    HEIGHT="208"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

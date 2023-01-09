@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_VIII_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6611"
+          HEIGHT="7798"
+          PHYSICAL_IMG_NR="61"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6611"
+                  HEIGHT="7798">
+        
+        <TextBlock HPOS="3016"
+                   VPOS="709"
+                   WIDTH="3298"
+                   HEIGHT="1512"
+                   ID="eSc_textblock_89a7e80c"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="3016 709 3016 2221 6314 2221 6296 1744 5319 1677 5279 727"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_b00f79bc"
+                    TAGREFS="LT100"
+                    BASELINE="3128 1027 5175 1011" 
+                    HPOS="3107"
+                    VPOS="760"
+                    WIDTH="2067"
+                    HEIGHT="312">
+            <Shape><Polygon POINTS="3126 1026 3107 792 3373 773 3380 773 3380 773 3380 773 3386 773 3386 773 3438 792 3503 818 3542 792 3555 779 3562 779 3562 779 3562 779 3568 779 3568 779 3568 779 3575 779 3575 779 3581 779 3581 779 3581 779 3588 779 3588 779 3588 786 3601 792 3659 851 3906 851 3971 792 4004 766 4004 766 4010 766 4010 766 4010 766 4017 766 4017 766 4017 766 4023 766 4023 766 4212 799 4381 825 4420 799 4433 786 4439 786 4439 786 4439 786 4446 786 4446 786 4446 786 4719 779 4725 779 4725 779 4732 779 4732 779 4732 779 4738 779 4738 779 4758 799 4771 812 4810 799 4946 760 4953 760 4953 760 4959 760 4959 760 4959 760 5161 805 5174 1007 5167 1039 3126 1072"/></Shape>
+	    <String CONTENT="FRA ANGELICO"
+                    HPOS="3107"
+                    VPOS="760"
+                    WIDTH="2067"
+                    HEIGHT="312"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_31664a7b"
+                    TAGREFS="LT100"
+                    BASELINE="3110 1512 5064 1514" 
+                    HPOS="3094"
+                    VPOS="1260"
+                    WIDTH="1976"
+                    HEIGHT="286">
+            <Shape><Polygon POINTS="3107 1507 3094 1299 3172 1260 3172 1260 3172 1260 3178 1260 3178 1260 3185 1260 3185 1260 3191 1260 3191 1260 3191 1260 3263 1293 4303 1260 4309 1260 4309 1260 4530 1293 4979 1260 4985 1260 4985 1260 4985 1260 4992 1260 4992 1260 4992 1260 5070 1299 5063 1507 5057 1546 3100 1533"/></Shape>
+	    <String CONTENT="ALTARWERKE"
+                    HPOS="3094"
+                    VPOS="1260"
+                    WIDTH="1976"
+                    HEIGHT="286"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6c380fb5"
+                    TAGREFS="LT100"
+                    BASELINE="3125 2001 4985 2001 5375 2007 6110 2033" 
+                    HPOS="3120"
+                    VPOS="1784"
+                    WIDTH="2983"
+                    HEIGHT="347">
+            <Shape><Polygon POINTS="3120 1994 3120 1787 3425 1865 3663 1784 3880 1871 4056 1793 4062 1793 4069 1793 4418 1785 4751 1806 4758 1806 4764 1806 4771 1806 4888 1878 5336 1878 5408 1806 5408 1800 5414 1800 5421 1800 5427 1800 5791 1800 5798 1800 5804 1800 5869 1845 5915 1806 5915 1800 5921 1800 5928 1800 5934 1800 6103 1806 6103 2027 6090 2131 5694 2085 5616 2124 5603 2131 5596 2131 5590 2131 5583 2131 5570 2124 5453 2059 5330 2098 5323 2098 5317 2098 5310 2098 5161 2059 5070 2118 5050 2131 5044 2131 5037 2131 5031 2131 4738 2124 4732 2124 4699 2111 4641 2079 4452 2105 4303 2124 4296 2124 4290 2124 4238 2098 4192 2079 4153 2098 4114 2118 4108 2118 4101 2118 4095 2118 4088 2118 4088 2111 4069 2098 4017 2053 3841 2053 3783 2092 3770 2105 3763 2105 3757 2105 3750 2105 3744 2105 3711 2092 3601 2046 3503 2085 3497 2085 3490 2085 3484 2085 3380 2053 3334 2085 3308 2105 3302 2105 3295 2105 3289 2105 3282 2105 3237 2085 3165 2046 3126 2085"/></Shape>
+	    <String CONTENT="Mariä Krönung (Teil 2/2)"
+                    HPOS="3120"
+                    VPOS="1784"
+                    WIDTH="2983"
+                    HEIGHT="347"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4735"
+                   VPOS="7116"
+                   WIDTH="1021"
+                   HEIGHT="243"
+                   ID="eSc_textblock_03fe6148"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5239 7122 5723 7116 5756 7333 4735 7359 4748 7148"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e36b9b68"
+                    TAGREFS="LT101"
+                    BASELINE="4797 7296 5717 7265" 
+                    HPOS="4764"
+                    VPOS="7109"
+                    WIDTH="949"
+                    HEIGHT="195">
+            <Shape><Polygon POINTS="4790 7291 4764 7167 4816 7128 4823 7128 4829 7128 4836 7128 5219 7141 5323 7109 5330 7109 5336 7109 5700 7135 5713 7258 5713 7284 4790 7304"/></Shape>
+	    <String CONTENT="10. III. 19-23"
+                    HPOS="4764"
+                    VPOS="7109"
+                    WIDTH="949"
+                    HEIGHT="195"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

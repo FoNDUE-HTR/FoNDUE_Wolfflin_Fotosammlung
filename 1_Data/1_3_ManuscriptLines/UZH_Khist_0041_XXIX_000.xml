@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0041_XXIX_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6600"
+          HEIGHT="7798"
+          PHYSICAL_IMG_NR="385"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6600"
+                  HEIGHT="7798">
+        
+        <TextBlock HPOS="2080"
+                   VPOS="753"
+                   WIDTH="3115"
+                   HEIGHT="306"
+                   ID="eSc_textblock_90e98866"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="2106 753 5117 805 5195 1059 2080 1059 2106 753"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_70637e9f"
+                    TAGREFS="LT100"
+                    BASELINE="2100 981 5156 1000" 
+                    HPOS="2087"
+                    VPOS="779"
+                    WIDTH="3062"
+                    HEIGHT="325">
+            <Shape><Polygon POINTS="5097 844 4974 799 4948 799 4883 799 4870 799 4415 838 4343 792 4337 792 4330 792 4181 792 4174 792 4168 792 4161 792 4090 851 3940 851 3933 851 3933 844 3751 786 3745 786 3738 786 3335 844 3316 844 3309 844 3238 786 3231 786 3225 786 3218 786 3212 786 3088 838 2802 792 2796 792 2347 838 2314 838 2308 838 2256 786 2256 779 2249 779 2243 779 2158 779 2152 779 2145 779 2139 779 2139 779 2139 786 2132 786 2093 896 2093 974 2087 1026 2249 1085 2256 1085 2262 1085 2822 1039 2952 1033 2984 1046 3101 1091 3108 1091 3114 1091 3615 1059 3999 1039 4142 1078 4181 1085 4187 1085 4194 1085 4200 1085 4207 1085 4213 1078 4252 1052 4298 1078 4324 1091 4330 1091 4337 1091 4408 1085 4558 1059 4590 1085 4597 1091 4597 1098 4603 1098 4610 1098 4616 1104 5143 1104 5149 994 5136 935 5097 844"/></Shape>
+	    <String CONTENT="GERRIT CLAESZ BLEKER"
+                    HPOS="2087"
+                    VPOS="779"
+                    WIDTH="3062"
+                    HEIGHT="325"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4603"
+                   VPOS="7044"
+                   WIDTH="930"
+                   HEIGHT="279"
+                   ID="eSc_textblock_9b4dc8be"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="4629 7044 5481 7070 5533 7271 4707 7323 4603 7271 4629 7044"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_2132da50"
+                    TAGREFS="LT101"
+                    BASELINE="4646 7227 5465 7245" 
+                    HPOS="4636"
+                    VPOS="7050"
+                    WIDTH="826"
+                    HEIGHT="254">
+            <Shape><Polygon POINTS="4642 7226 4636 7258 4746 7297 4753 7297 4759 7297 4935 7265 4941 7265 4954 7265 5104 7304 5110 7304 5117 7304 5455 7278 5462 7239 5455 7102 5065 7102 5019 7070 5013 7063 5006 7063 5000 7063 4993 7063 4961 7070 4844 7096 4642 7050 4642 7226"/></Shape>
+	    <String CONTENT="41. XXIII. 1"
+                    HPOS="4636"
+                    VPOS="7050"
+                    WIDTH="826"
+                    HEIGHT="254"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

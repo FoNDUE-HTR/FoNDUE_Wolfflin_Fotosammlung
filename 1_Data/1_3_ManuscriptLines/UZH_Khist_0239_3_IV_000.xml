@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_3_IV_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6603"
+          HEIGHT="7806"
+          PHYSICAL_IMG_NR="274"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6603"
+                  HEIGHT="7806">
+        
+        <TextBlock HPOS="4237"
+                   VPOS="1353"
+                   WIDTH="1767"
+                   HEIGHT="774"
+                   ID="eSc_textblock_a32331a4"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="5640 1665 5900 1821 5926 2127 5360 2127 5353 1632 4237 1658 4267 1353 5978 1379 6004 1606"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_b4e506b8"
+                    TAGREFS="LT100"
+                    BASELINE="4292 1522 5958 1502" 
+                    HPOS="4254"
+                    VPOS="1359"
+                    WIDTH="1698"
+                    HEIGHT="228">
+            <Shape><Polygon POINTS="4287 1515 4254 1405 4287 1366 4293 1366 4293 1359 4293 1359 4300 1359 4300 1359 4300 1359 4306 1359 4306 1359 4313 1359 5939 1392 5952 1496 5945 1522 4287 1587"/></Shape>
+	    <String CONTENT="ALESSANDRO MORETTO"
+                    HPOS="4254"
+                    VPOS="1359"
+                    WIDTH="1698"
+                    HEIGHT="228"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_382384a9"
+                    TAGREFS="LT100"
+                    BASELINE="5388 2029 5822 2029" 
+                    HPOS="5379"
+                    VPOS="1847"
+                    WIDTH="443"
+                    HEIGHT="254">
+            <Shape><Polygon POINTS="5386 2023 5392 1847 5490 1899 5549 1866 5588 1847 5588 1847 5588 1847 5594 1847 5594 1847 5594 1847 5601 1847 5601 1847 5607 1847 5822 1905 5815 2023 5815 2055 5633 2101 5633 2101 5633 2101 5627 2101 5627 2101 5379 2055"/></Shape>
+	    <String CONTENT="Heilige"
+                    HPOS="5379"
+                    VPOS="1847"
+                    WIDTH="443"
+                    HEIGHT="254"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5152"
+                   VPOS="7519"
+                   WIDTH="930"
+                   HEIGHT="280"
+                   ID="eSc_textblock_e3894b94"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5978 7545 6082 7773 5178 7799 5152 7545 5334 7519"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_16873d26"
+                    TAGREFS="LT101"
+                    BASELINE="5207 7699 5976 7733" 
+                    HPOS="5197"
+                    VPOS="7539"
+                    WIDTH="774"
+                    HEIGHT="201">
+            <Shape><Polygon POINTS="5204 7695 5204 7539 5971 7597 5971 7727 5958 7740 5197 7714"/></Shape>
+	    <String CONTENT="239. 3. IV. 1-5"
+                    HPOS="5197"
+                    VPOS="7539"
+                    WIDTH="774"
+                    HEIGHT="201"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

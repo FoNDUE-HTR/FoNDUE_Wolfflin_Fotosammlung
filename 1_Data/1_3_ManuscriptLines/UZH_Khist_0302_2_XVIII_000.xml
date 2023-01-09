@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0302_2_XVIII_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6601"
+          HEIGHT="7802"
+          PHYSICAL_IMG_NR="218"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6601"
+                  HEIGHT="7802">
+        
+        <TextBlock HPOS="5046"
+                   VPOS="1326"
+                   WIDTH="696"
+                   HEIGHT="253"
+                   ID="eSc_textblock_3615b373"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="5072 1326 5690 1352 5742 1579 5046 1579 5072 1326"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_b8bf0e31"
+                    TAGREFS="LT100"
+                    BASELINE="5098 1514 5625 1501" 
+                    HPOS="5085"
+                    VPOS="1293"
+                    WIDTH="553"
+                    HEIGHT="325">
+            <Shape><Polygon POINTS="5098 1514 5085 1293 5228 1293 5228 1293 5228 1293 5235 1293 5235 1293 5241 1293 5241 1293 5254 1306 5306 1339 5605 1339 5625 1501 5638 1560 5579 1605 5579 1605 5573 1605 5573 1605 5573 1605 5566 1605 5566 1605 5560 1605 5560 1605 5560 1605 5410 1579 5313 1618 5313 1618 5306 1618 5306 1618 5300 1618 5300 1618 5300 1618 5092 1573"/></Shape>
+	    <String CONTENT="RENGG"
+                    HPOS="5085"
+                    VPOS="1293"
+                    WIDTH="553"
+                    HEIGHT="325"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5228"
+                   VPOS="7515"
+                   WIDTH="1008"
+                   HEIGHT="280"
+                   ID="eSc_textblock_ae6b0ba2"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5254 7515 6106 7541 6236 7769 5228 7795 5254 7515"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d2412602"
+                    TAGREFS="LT101"
+                    BASELINE="5277 7697 6068 7703" 
+                    HPOS="5261"
+                    VPOS="7561"
+                    WIDTH="806"
+                    HEIGHT="162">
+            <Shape><Polygon POINTS="5274 7691 5274 7561 6061 7574 6067 7697 6054 7723 5261 7717"/></Shape>
+	    <String CONTENT="302. 2. XVIII. 1-2"
+                    HPOS="5261"
+                    VPOS="7561"
+                    WIDTH="806"
+                    HEIGHT="162"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

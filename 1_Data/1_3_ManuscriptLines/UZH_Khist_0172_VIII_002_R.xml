@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0172_VIII_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5762" HEIGHT="7147" PHYSICAL_IMG_NR="425" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5762" HEIGHT="7147">
+        
+        <TextBlock HPOS="1249" VPOS="861" WIDTH="436" HEIGHT="5482" ID="eSc_textblock_bd3db541" TAGREFS="BT297">
+          <Shape><Polygon POINTS="1249 861 1249 6343 1685 6343 1685 861" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_6557f44f" TAGREFS="LT103" BASELINE="1463 914 1491 3384 1490 6301" HPOS="1358" VPOS="899" WIDTH="447" HEIGHT="5396">
+            <Shape><Polygon POINTS="1459 911 1799 899 1805 6283 1489 6295 1406 6289 1388 5932 1388 5926 1388 5920 1388 5914 1400 5902 1447 5830 1447 5634 1394 5479 1382 5431 1382 5425 1382 5419 1382 5413 1394 5360 1436 5199 1406 5074 1406 5068 1406 5062 1406 5056 1406 5050 1441 5002 1441 4490 1388 4347 1382 4335 1382 4329 1382 4323 1382 4317 1388 4306 1430 4192 1382 4139 1382 4133 1382 4127 1382 4121 1382 4115 1382 4109 1424 4061 1382 3930 1382 3924 1382 3918 1382 3912 1382 3895 1424 3579 1382 3430 1382 3424 1382 3418 1382 3412 1430 3269 1376 3198 1370 3192 1370 3186 1370 3180 1370 3174 1370 3168 1376 3156 1418 3079 1370 2918 1370 2906 1370 2900 1370 2894 1370 2888 1370 2876 1406 2775 1370 2709 1370 2703 1370 2697 1370 2692 1370 2686 1370 2680 1418 2578 1370 2477 1370 2471 1370 2465 1370 2459 1394 2394 1364 2120 1364 2078 1364 2072 1364 2048 1418 1685 1370 1512 1370 1506 1370 1500 1412 1250 1364 1149 1364 1143 1358 911" /></Shape>
+	    <String CONTENT="Holbein, Hans d. J. (1497 - 1543). Saul  und Samuel. 1530 Basel, off. Kunstslg." HPOS="1358" VPOS="899" WIDTH="447" HEIGHT="5396" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3518" VPOS="6880" WIDTH="958" HEIGHT="269" ID="eSc_textblock_3988dd55" TAGREFS="BT285">
+          <Shape><Polygon POINTS="3518 6880 3518 7149 4476 7149 4476 6880" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_7bbed5f6" TAGREFS="LT103" BASELINE="3551 7057 4456 7081" HPOS="3533" VPOS="6855" WIDTH="918" HEIGHT="292">
+            <Shape><Polygon POINTS="3545 7051 3545 6878 3962 6884 4022 6855 4028 6855 4033 6855 4451 6902 4451 7075 4439 7147 3533 7141" /></Shape>
+	    <String CONTENT="172. VIII. 2" HPOS="3533" VPOS="6855" WIDTH="918" HEIGHT="292" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1713" VPOS="887" WIDTH="2430" HEIGHT="5420" ID="eSc_textblock_82ab0dfc" TAGREFS="BT284">
+          <Shape><Polygon POINTS="4143 887 4143 6298 1741 6307 1713 915" /></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

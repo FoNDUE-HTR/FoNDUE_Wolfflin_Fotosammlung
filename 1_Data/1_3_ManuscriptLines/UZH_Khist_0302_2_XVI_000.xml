@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0302_2_XVI_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6603"
+          HEIGHT="7800"
+          PHYSICAL_IMG_NR="216"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6603"
+                  HEIGHT="7800">
+        
+        <TextBlock HPOS="4163"
+                   VPOS="1378"
+                   WIDTH="1893"
+                   HEIGHT="253"
+                   ID="eSc_textblock_6460e008"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="4189 1378 5978 1378 6056 1404 6056 1631 4163 1631 4189 1378"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_2c314be3"
+                    TAGREFS="LT100"
+                    BASELINE="4215 1560 5978 1560" 
+                    HPOS="4209"
+                    VPOS="1378"
+                    WIDTH="1762"
+                    HEIGHT="338">
+            <Shape><Polygon POINTS="4209 1560 4209 1404 4931 1417 4976 1404 5087 1378 5093 1378 5093 1378 5100 1378 5100 1378 5100 1378 5106 1378 5210 1410 5243 1417 5249 1410 5275 1384 5275 1384 5282 1384 5282 1384 5282 1384 5288 1384 5288 1384 5295 1384 5295 1384 5295 1384 5425 1410 5445 1410 5464 1410 5750 1378 5750 1378 5757 1378 5757 1378 5971 1417 5971 1560 5971 1605 5672 1618 5575 1709 5575 1716 5575 1716 5568 1716 5568 1716 5568 1716 5562 1716 5562 1716 5555 1716 4950 1703 4950 1703 4950 1703 4944 1703 4944 1703 4807 1638 4748 1612 4638 1612 4592 1644 4573 1664 4573 1664 4566 1664 4566 1664 4566 1664 4560 1664 4560 1664 4560 1664 4553 1664 4553 1664 4547 1664 4482 1644 4391 1625 4209 1651"/></Shape>
+	    <String CONTENT="JOHANN CH. REINHART"
+                    HPOS="4209"
+                    VPOS="1378"
+                    WIDTH="1762"
+                    HEIGHT="338"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5308"
+                   VPOS="7488"
+                   WIDTH="930"
+                   HEIGHT="305"
+                   ID="eSc_textblock_a66b8f9c"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5334 7488 6186 7514 6238 7741 5308 7793 5334 7488"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ae1288dd"
+                    TAGREFS="LT101"
+                    BASELINE="5392 7663 6128 7663" 
+                    HPOS="5386"
+                    VPOS="7299"
+                    WIDTH="742"
+                    HEIGHT="403">
+            <Shape><Polygon POINTS="5392 7663 5386 7358 5659 7299 5659 7299 5659 7299 5666 7299 5666 7299 5666 7299 5672 7299 5913 7384 5945 7397 6128 7397 6128 7663 6128 7689 5392 7702"/></Shape>
+	    <String CONTENT="302. 2. XVI. 1-2"
+                    HPOS="5386"
+                    VPOS="7299"
+                    WIDTH="742"
+                    HEIGHT="403"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

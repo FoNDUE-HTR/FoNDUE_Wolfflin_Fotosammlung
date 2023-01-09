@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0172_VII_005_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5747" HEIGHT="7145" PHYSICAL_IMG_NR="420" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5747" HEIGHT="7145">
+        
+        <TextBlock HPOS="998" VPOS="817" WIDTH="3790" HEIGHT="5417" ID="eSc_textblock_1110fe89" TAGREFS="BT284">
+          <Shape><Polygon POINTS="1008 817 998 6234 4788 6182 4788 817" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="1000" VPOS="6272" WIDTH="1603" HEIGHT="299" ID="eSc_textblock_79019752" TAGREFS="BT297">
+          <Shape><Polygon POINTS="1000 6272 1018 6571 2547 6524 2603 6272" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_5c827bb3" TAGREFS="LT103" BASELINE="1075 6476 2538 6403" HPOS="1042" VPOS="6097" WIDTH="1506" HEIGHT="506">
+            <Shape><Polygon POINTS="1071 6472 1042 6132 2507 6097 2537 6400 2548 6460 2465 6537 2465 6543 2465 6543 2459 6543 2459 6543 2453 6543 2453 6543 2453 6543 2447 6543 2447 6543 2441 6543 2441 6543 2441 6543 2435 6543 2334 6478 2328 6472 2197 6466 2173 6490 2167 6490 2167 6495 2167 6495 2161 6495 2161 6495 2161 6495 2155 6495 2155 6495 2155 6495 2149 6495 2096 6495 1834 6484 1780 6519 1691 6585 1691 6585 1685 6585 1685 6585 1679 6585 1679 6585 1679 6585 1250 6603 1244 6603 1244 6603 1066 6567" /></Shape>
+	    <String CONTENT="Basel, öff, kunstslg." HPOS="1042" VPOS="6097" WIDTH="1506" HEIGHT="506" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4001" VPOS="6813" WIDTH="932" HEIGHT="335" ID="eSc_textblock_7020e652" TAGREFS="BT285">
+          <Shape><Polygon POINTS="4048 6813 4001 7148 4933 7148 4933 6841" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_769bc472" TAGREFS="LT103" BASELINE="4087 7048 4843 7020" HPOS="4073" VPOS="6835" WIDTH="768" HEIGHT="298">
+            <Shape><Polygon POINTS="4085 7043 4073 6835 4829 6835 4841 7019 4841 7127 4085 7133" /></Shape>
+	    <String CONTENT="172. VII. 5" HPOS="4073" VPOS="6835" WIDTH="768" HEIGHT="298" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

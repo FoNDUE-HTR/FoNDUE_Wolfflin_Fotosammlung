@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0046_V_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6579"
+          HEIGHT="7799"
+          PHYSICAL_IMG_NR="468"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6579"
+                  HEIGHT="7799">
+        
+        <TextBlock HPOS="1846"
+                   VPOS="727"
+                   WIDTH="4284"
+                   HEIGHT="852"
+                   ID="eSc_textblock_eea08de7"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="1846 727 6078 779 6130 1059 4810 1137 4752 1579 3120 1579 2931 1189 1872 1163 1846 727"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_3a4d4fa3"
+                    TAGREFS="LT100"
+                    BASELINE="1872 1000 6045 968" 
+                    HPOS="1865"
+                    VPOS="760"
+                    WIDTH="4180"
+                    HEIGHT="357">
+            <Shape><Polygon POINTS="5831 773 5779 773 5701 805 5590 773 5584 773 5577 773 5571 773 5499 812 5480 818 5434 812 5207 766 5200 766 4908 812 4823 825 4804 812 4732 760 4726 760 4719 760 4661 760 4596 760 4583 760 4576 760 4570 760 4563 760 4498 812 4479 831 4368 831 4199 812 4043 799 4037 799 4030 799 3978 812 3926 831 3874 812 3725 766 3718 766 3712 766 3491 818 3419 831 3393 818 3354 792 3348 792 3341 792 3335 792 3328 792 3322 792 3322 799 3296 818 3269 844 3133 844 3087 818 3016 779 3009 779 3003 779 2996 779 2990 779 2938 818 2931 825 2925 818 2886 799 2879 799 2873 799 2866 799 2808 818 2736 838 2658 818 2561 792 2554 792 2548 792 2541 792 2535 792 2509 818 2502 818 2457 779 2450 779 2444 779 1917 779 1911 779 1904 779 1898 779 1865 799 1872 1000 1872 1065 2359 1052 2398 1072 2457 1111 2463 1111 2470 1111 2476 1111 2483 1111 2561 1072 2639 1104 2645 1104 2652 1104 2658 1104 2665 1104 2717 1072 2756 1046 2834 1072 2938 1098 2944 1098 2951 1098 3081 1065 3178 1046 3302 1065 3426 1085 3432 1085 3439 1085 3491 1065 3562 1039 3822 1039 3868 1065 3939 1111 3946 1111 3952 1111 4115 1117 4121 1117 4128 1117 4271 1059 4329 1033 4498 1033 4602 1059 4797 1111 4804 1111 4810 1117 5207 1117 5207 1111 5551 1078 5792 1104 5798 1104 5805 1104 5811 1104 5883 1052 5909 1033 6032 1046 6045 968 6032 812 5876 773 5831 773"/></Shape>
+	    <String CONTENT="GIOVANNI ANTONIO BOLTRAFFIO"
+                    HPOS="1865"
+                    VPOS="760"
+                    WIDTH="4180"
+                    HEIGHT="357"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2f6730c1"
+                    TAGREFS="LT100"
+                    BASELINE="3211 1494 4303 1507" 
+                    HPOS="3204"
+                    VPOS="1293"
+                    WIDTH="1099"
+                    HEIGHT="305">
+            <Shape><Polygon POINTS="3211 1494 3204 1546 3666 1540 3738 1572 3777 1592 3783 1592 3790 1598 4121 1598 4121 1592 4128 1592 4134 1592 4134 1585 4186 1553 4284 1592 4303 1507 4303 1364 3211 1293 3211 1494"/></Shape>
+	    <String CONTENT="Bildnisse"
+                    HPOS="3204"
+                    VPOS="1293"
+                    WIDTH="1099"
+                    HEIGHT="305"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4654"
+                   VPOS="7097"
+                   WIDTH="1294"
+                   HEIGHT="331"
+                   ID="eSc_textblock_e594a6e6"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="4706 7097 5896 7175 5948 7376 4758 7428 4654 7350 4706 7097"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_6a268b3d"
+                    TAGREFS="LT101"
+                    BASELINE="4726 7311 5837 7344" 
+                    HPOS="4719"
+                    VPOS="7129"
+                    WIDTH="1118"
+                    HEIGHT="254">
+            <Shape><Polygon POINTS="4719 7337 5824 7383 5837 7344 5837 7175 5688 7168 5681 7168 5675 7168 5668 7168 5616 7207 5428 7155 5421 7155 5415 7155 5408 7155 5402 7155 5395 7155 5395 7162 5343 7207 5239 7207 5090 7162 5083 7162 5077 7162 5070 7162 4953 7194 4732 7129 4726 7311 4719 7337"/></Shape>
+	    <String CONTENT="46. III. 11-22"
+                    HPOS="4719"
+                    VPOS="7129"
+                    WIDTH="1118"
+                    HEIGHT="254"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0302_1_VIII_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6598"
+          HEIGHT="7792"
+          PHYSICAL_IMG_NR="198"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6598"
+                  HEIGHT="7792">
+        
+        <TextBlock HPOS="4545"
+                   VPOS="1324"
+                   WIDTH="1293"
+                   HEIGHT="279"
+                   ID="eSc_textblock_818fd79c"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="4623 1324 5734 1376 5838 1603 4545 1603 4623 1324"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_6e243a93"
+                    TAGREFS="LT100"
+                    BASELINE="4592 1532 5701 1532" 
+                    HPOS="4591"
+                    VPOS="1324"
+                    WIDTH="1104"
+                    HEIGHT="338">
+            <Shape><Polygon POINTS="4591 1525 4591 1324 4766 1363 4883 1331 4909 1324 4916 1324 4916 1324 4916 1324 4922 1324 4922 1324 4929 1324 4929 1324 4954 1331 5045 1363 5221 1337 5351 1324 5351 1324 5357 1324 5695 1357 5695 1525 5688 1584 5494 1584 5468 1603 5416 1642 5416 1642 5409 1642 5409 1642 5409 1642 5403 1642 5403 1642 5396 1642 5396 1642 5396 1642 5390 1642 5390 1642 5390 1642 5383 1642 5351 1616 5227 1649 5221 1649 5221 1649 5214 1649 5214 1649 5214 1649 5208 1649 5208 1649 5201 1649 5201 1649 5169 1623 5110 1584 4980 1584 4903 1636 4883 1655 4883 1655 4877 1655 4877 1655 4877 1655 4870 1655 4870 1655 4870 1662 4591 1662"/></Shape>
+	    <String CONTENT="JOSEF REBELL"
+                    HPOS="4591"
+                    VPOS="1324"
+                    WIDTH="1104"
+                    HEIGHT="338"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5481"
+                   VPOS="7532"
+                   WIDTH="720"
+                   HEIGHT="253"
+                   ID="eSc_textblock_86330093"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5481 7532 6149 7558 6201 7759 5506 7785 5481 7532"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_97835b13"
+                    TAGREFS="LT101"
+                    BASELINE="5518 7688 6076 7701" 
+                    HPOS="5500"
+                    VPOS="7538"
+                    WIDTH="571"
+                    HEIGHT="176">
+            <Shape><Polygon POINTS="5513 7681 5506 7545 6058 7538 6071 7694 6058 7714 5500 7707"/></Shape>
+	    <String CONTENT="302. 1. VIII. 1"
+                    HPOS="5500"
+                    VPOS="7538"
+                    WIDTH="571"
+                    HEIGHT="176"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

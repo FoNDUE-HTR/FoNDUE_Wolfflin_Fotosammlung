@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_X_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5929" HEIGHT="7713" PHYSICAL_IMG_NR="266" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5929" HEIGHT="7713">
+        
+        <TextBlock HPOS="480" VPOS="620" WIDTH="4855" HEIGHT="6177" ID="eSc_textblock_9425af4f" TAGREFS="BT284">
+          <Shape><Polygon POINTS="5052 620 5248 652 5335 6765 480 6797 486 674 3826 642" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_5d725a78" TAGREFS="LT103" BASELINE="607 5747 1490 5747" HPOS="598" VPOS="5566" WIDTH="887" HEIGHT="238">
+            <Shape><Polygon POINTS="604 5746 604 5585 1170 5604 1479 5566 1485 5746 1479 5804 598 5784" /></Shape>
+	    <String CONTENT="Musizierender" HPOS="598" VPOS="5566" WIDTH="887" HEIGHT="238" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_00edee82" TAGREFS="LT103" BASELINE="619 5933 1277 5933" HPOS="617" VPOS="5797" WIDTH="656" HEIGHT="187">
+            <Shape><Polygon POINTS="617 5932 617 5797 1273 5829 1273 5932 1273 5964 617 5984" /></Shape>
+	    <String CONTENT="Engel vom" HPOS="617" VPOS="5797" WIDTH="656" HEIGHT="187" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_34f39662" TAGREFS="LT103" BASELINE="627 6143 1348 6131" HPOS="617" VPOS="6003" WIDTH="726" HEIGHT="173">
+            <Shape><Polygon POINTS="623 6138 617 6003 1331 6003 1343 6125 1343 6151 623 6176" /></Shape>
+	    <String CONTENT="Rahmen des" HPOS="617" VPOS="6003" WIDTH="726" HEIGHT="173" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0ba50c83" TAGREFS="LT103" BASELINE="615 6325 1277 6317" HPOS="598" VPOS="6202" WIDTH="675" HEIGHT="154">
+            <Shape><Polygon POINTS="610 6324 598 6202 1260 6202 1273 6311 1266 6343 610 6356" /></Shape>
+	    <String CONTENT="Altars der" HPOS="598" VPOS="6202" WIDTH="675" HEIGHT="154" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f3462bd2" TAGREFS="LT103" BASELINE="611 6503 1142 6495" HPOS="604" VPOS="6350" WIDTH="534" HEIGHT="206">
+            <Shape><Polygon POINTS="610 6498 604 6350 1125 6376 1138 6491 1131 6543 610 6556" /></Shape>
+	    <String CONTENT="Linaioli." HPOS="604" VPOS="6350" WIDTH="534" HEIGHT="206" />
+          </TextLine>
+
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="5251" VPOS="7372" WIDTH="544" HEIGHT="216" ID="eSc_textblock_ce31a223" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5251 7372 5251 7588 5795 7588 5795 7372" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_763d0bb9" TAGREFS="LT103" BASELINE="5283 7504 5737 7515" HPOS="5266" VPOS="7301" WIDTH="476" HEIGHT="315">
+            <Shape><Polygon POINTS="5279 7500 5273 7327 5562 7301 5568 7301 5575 7301 5742 7353 5736 7513 5723 7616 5266 7590" /></Shape>
+	    <String CONTENT="10. III. 32" HPOS="5266" VPOS="7301" WIDTH="476" HEIGHT="315" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

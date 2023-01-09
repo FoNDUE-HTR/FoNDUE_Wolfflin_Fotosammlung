@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0040_IX_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6604"
+          HEIGHT="7804"
+          PHYSICAL_IMG_NR="353"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6604"
+                  HEIGHT="7804">
+        
+        <TextBlock HPOS="1665"
+                   VPOS="728"
+                   WIDTH="3819"
+                   HEIGHT="826"
+                   ID="eSc_textblock_afd340e3"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="1743 728 5406 806 5484 1476 5406 1554 2524 1554 2361 1164 1717 1164 1665 884 1743 728"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_163bbda3"
+                    TAGREFS="LT100"
+                    BASELINE="1730 995 5432 1006" 
+                    HPOS="1717"
+                    VPOS="767"
+                    WIDTH="3709"
+                    HEIGHT="332">
+            <Shape><Polygon POINTS="5367 825 5289 799 5283 799 5276 799 5270 799 5198 832 5061 799 5055 799 5048 799 5042 799 5035 799 5035 806 5003 832 4730 832 4508 780 4450 780 4417 780 4352 832 4346 838 4183 838 4183 832 4131 786 4131 780 4125 780 4118 780 4112 780 4105 780 4027 819 3903 773 3897 773 3890 773 3884 773 3760 832 3715 793 3715 786 3708 786 3702 786 3695 786 3487 806 3428 767 3422 767 3415 767 3409 767 3402 767 3318 806 3285 773 3285 767 3279 767 3272 767 3058 767 3051 767 3044 767 3038 767 3038 773 2979 825 2700 773 2465 773 2459 773 2452 773 2381 812 2342 773 2342 767 2335 767 2329 767 2322 767 2316 767 2309 767 2264 806 2134 780 2127 780 1932 819 1802 767 1795 767 1789 767 1782 767 1776 767 1724 799 1724 988 1717 1079 1964 1086 1971 1086 1977 1086 1984 1086 1990 1079 2056 1027 2205 1079 2231 1086 2238 1086 2244 1086 2251 1086 2257 1086 2264 1079 2303 1053 2355 1079 2381 1086 2387 1086 2394 1086 2400 1086 2407 1086 2407 1079 2413 1079 2465 1027 2947 1073 3058 1079 3064 1079 3123 1073 3324 1027 3474 1066 3565 1092 3572 1092 3578 1099 3858 1099 3858 1092 3864 1092 3929 1066 4001 1034 4066 1060 4092 1073 4099 1073 4105 1073 4183 1060 4333 1034 4385 1060 4450 1092 4456 1092 4463 1092 4749 1053 4938 1034 5413 1047 5426 1001 5413 936 5367 825"/></Shape>
+	    <String CONTENT="GIOVANNI LORENZO BERNINI"
+                    HPOS="1717"
+                    VPOS="767"
+                    WIDTH="3709"
+                    HEIGHT="332"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_199ce3d1"
+                    TAGREFS="LT100"
+                    BASELINE="2638 1472 5286 1472" 
+                    HPOS="2635"
+                    VPOS="1268"
+                    WIDTH="2648"
+                    HEIGHT="312">
+            <Shape><Polygon POINTS="2635 1469 2635 1521 2765 1573 2771 1573 2778 1580 3064 1580 3064 1573 3071 1573 3077 1573 3136 1534 3175 1508 3227 1534 3233 1534 3240 1534 3246 1534 3350 1502 3396 1541 3428 1567 3428 1573 3435 1573 3441 1573 3448 1580 3559 1580 3559 1573 3565 1573 3572 1573 3611 1541 3669 1502 3903 1502 3942 1534 3949 1534 3955 1534 3962 1534 3968 1534 4092 1502 4151 1547 4151 1554 4157 1554 4164 1554 4170 1554 4177 1554 4313 1502 4580 1502 4788 1567 4814 1573 4821 1573 4827 1580 5283 1580 5283 1469 5283 1339 5055 1339 5042 1333 4918 1274 4912 1274 4905 1274 4899 1274 4892 1274 4834 1307 4795 1274 4795 1268 4788 1268 4782 1268 4482 1268 4476 1268 4469 1268 4365 1313 4313 1333 4294 1307 4255 1274 4255 1268 4248 1268 4242 1268 4164 1268 4157 1268 4151 1268 4144 1268 4144 1274 4105 1307 4079 1333 4027 1300 3994 1287 3988 1287 3981 1287 3975 1287 3936 1300 3871 1326 3845 1300 3825 1281 3825 1274 3819 1274 3812 1274 3806 1274 3799 1274 3741 1294 3702 1307 3643 1294 3545 1268 3539 1268 3532 1268 3526 1268 3519 1268 3519 1274 3500 1287 3454 1333 3370 1287 3350 1274 3344 1274 3337 1274 3331 1274 3324 1274 3311 1281 3233 1339 2914 1339 2635 1268 2635 1469"/></Shape>
+	    <String CONTENT="Rom, S. Pietro in Vaticano"
+                    HPOS="2635"
+                    VPOS="1268"
+                    WIDTH="2648"
+                    HEIGHT="312"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4710"
+                   VPOS="7049"
+                   WIDTH="1009"
+                   HEIGHT="332"
+                   ID="eSc_textblock_a86aa850"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="4762 7049 5667 7101 5719 7303 5641 7381 4788 7355 4710 7277 4762 7049"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_5907c86c"
+                    TAGREFS="LT101"
+                    BASELINE="4766 7251 5642 7300" 
+                    HPOS="4756"
+                    VPOS="7056"
+                    WIDTH="885"
+                    HEIGHT="299">
+            <Shape><Polygon POINTS="4756 7303 5471 7316 5478 7322 5517 7355 5523 7355 5530 7355 5536 7355 5543 7355 5634 7322 5641 7296 5641 7108 4990 7114 4769 7056 4762 7244 4756 7303"/></Shape>
+	    <String CONTENT="40. VIII. 1-9"
+                    HPOS="4756"
+                    VPOS="7056"
+                    WIDTH="885"
+                    HEIGHT="299"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

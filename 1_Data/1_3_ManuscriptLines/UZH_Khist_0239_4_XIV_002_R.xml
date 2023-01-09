@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_4_XIV_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6239" HEIGHT="7678" PHYSICAL_IMG_NR="495" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6239" HEIGHT="7678">
+        
+        <TextBlock HPOS="1336" VPOS="7046" WIDTH="2173" HEIGHT="628" ID="eSc_textblock_8afb6271" TAGREFS="BT297">
+          <Shape><Polygon POINTS="1336 7046 1336 7674 3509 7674 3509 7046" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_ee6523bc" TAGREFS="LT103" BASELINE="1416 7227 2187 7218" HPOS="1414" VPOS="7050" WIDTH="768" HEIGHT="199">
+            <Shape><Polygon POINTS="1919 7050 1855 7050 1810 7050 1554 7089 1414 7050 1414 7223 1414 7249 2175 7242 2182 7217 2156 7050 2060 7089 1945 7050 1919 7050" /></Shape>
+	    <String CONTENT="Jan Mostaert" HPOS="1414" VPOS="7050" WIDTH="768" HEIGHT="199" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a8b0ec97" TAGREFS="LT103" BASELINE="1412 7357 3476 7332" HPOS="1401" VPOS="7172" WIDTH="2073" HEIGHT="237">
+            <Shape><Polygon POINTS="2169 7223 2105 7223 2041 7223 1977 7223 1913 7223 1881 7223 1842 7230 1727 7223 1721 7223 1657 7223 1593 7223 1529 7223 1465 7223 1458 7204 1401 7204 1407 7351 1407 7409 3474 7377 3474 7326 3461 7217 3180 7178 3173 7178 3167 7178 3161 7178 3129 7204 3097 7172 3090 7172 3084 7172 3077 7172 2809 7210 2745 7217 2700 7210 2578 7178 2572 7178 2565 7178 2367 7185 2361 7185 2354 7185 2354 7191 2335 7204 2316 7223 2214 7204 2175 7198 2169 7223" /></Shape>
+	    <String CONTENT="Erlöste Seelen beim Erscheinen" HPOS="1401" VPOS="7172" WIDTH="2073" HEIGHT="237" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9afba1b5" TAGREFS="LT103" BASELINE="1433 7458 2987 7463" HPOS="1420" VPOS="7351" WIDTH="1561" HEIGHT="128">
+            <Shape><Polygon POINTS="1810 7351 1746 7351 1682 7351 1618 7351 1554 7351 1490 7351 1426 7351 1426 7454 1420 7479 2975 7479 2981 7460 2975 7351 1874 7351 1810 7351" /></Shape>
+	    <String CONTENT="Christi in der Vorhölle" HPOS="1420" VPOS="7351" WIDTH="1561" HEIGHT="128" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_23ca5f4d" TAGREFS="LT103" BASELINE="1442 7593 2318 7597" HPOS="1433" VPOS="7460" WIDTH="883" HEIGHT="160">
+            <Shape><Polygon POINTS="2015 7460 1951 7460 1887 7460 1823 7460 1759 7460 1695 7460 1631 7460 1567 7460 1503 7460 1439 7460 1439 7588 1433 7620 2310 7607 2316 7594 2310 7473 2015 7460 2015 7460" /></Shape>
+	    <String CONTENT="Eiche 24 x 16" HPOS="1433" VPOS="7460" WIDTH="883" HEIGHT="160" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3606" VPOS="7037" WIDTH="1731" HEIGHT="637" ID="eSc_textblock_1130b147" TAGREFS="BT297">
+          <Shape><Polygon POINTS="3606 7037 3606 7674 5337 7674 5337 7037" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="5413" VPOS="7425" WIDTH="670" HEIGHT="249" ID="eSc_textblock_a9fd22f7" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5413 7425 5413 7674 6083 7674 6083 7425" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_f816cc82" TAGREFS="LT103" BASELINE="5443 7581 6062 7627" HPOS="5432" VPOS="7441" WIDTH="634" HEIGHT="211">
+            <Shape><Polygon POINTS="5432 7614 6047 7652 6059 7626 6066 7479 5439 7441 5439 7575" /></Shape>
+	    <String CONTENT="239. 4.  XV. 2" HPOS="5432" VPOS="7441" WIDTH="634" HEIGHT="211" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1412" VPOS="503" WIDTH="3640" HEIGHT="5300" ID="eSc_textblock_25948252" TAGREFS="BT284">
+          <Shape><Polygon POINTS="1412 514 1434 5803 4983 5803 5052 503" /></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

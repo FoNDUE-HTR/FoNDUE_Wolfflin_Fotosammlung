@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0041_IX_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6604"
+          HEIGHT="7788"
+          PHYSICAL_IMG_NR="365"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6604"
+                  HEIGHT="7788">
+        
+        <TextBlock HPOS="2616"
+                   VPOS="726"
+                   WIDTH="2663"
+                   HEIGHT="357"
+                   ID="eSc_textblock_a9a2b3e9"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="2616 726 5227 778 5279 1057 2616 1083 2616 726"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_da1c1a40"
+                    TAGREFS="LT100"
+                    BASELINE="2629 986 4781 1002 5235 1026" 
+                    HPOS="2616"
+                    VPOS="746"
+                    WIDTH="2632"
+                    HEIGHT="363">
+            <Shape><Polygon POINTS="5194 798 5071 772 5026 772 5019 772 4967 798 4915 824 4883 798 4863 778 4857 778 4850 778 4844 778 4837 778 4798 791 4772 804 4746 791 4688 765 4681 765 4675 765 4668 765 4662 765 4623 791 4558 837 4311 837 4253 791 4246 791 4240 791 4233 791 4227 791 4220 791 4220 798 4188 824 4129 785 4097 759 4090 759 4084 759 4077 759 4071 759 4064 759 4039 778 4000 811 3948 778 3941 772 3935 772 3928 772 3922 772 3915 772 3889 778 3753 817 3675 772 3668 772 3662 772 3655 772 3649 772 3642 772 3532 824 3363 772 3331 759 3324 759 3318 759 3259 765 3142 785 2993 765 2915 752 2909 752 2902 752 2896 752 2889 759 2837 798 2798 759 2785 752 2785 746 2779 746 2772 746 2766 746 2623 752 2623 979 2616 1051 2811 1083 2818 1083 2824 1083 2831 1083 2863 1057 2883 1038 3415 1038 3532 1064 3681 1096 3688 1096 3694 1096 3701 1096 3753 1064 3805 1038 4026 1038 4071 1070 4110 1103 4116 1103 4123 1103 4129 1103 4136 1103 4201 1070 4253 1044 4539 1044 4597 1077 4629 1090 4636 1090 4642 1090 4714 1077 4785 1057 4805 1077 4837 1103 4837 1109 4844 1109 4850 1109 4857 1109 5227 1077 5233 1025 5248 850 5220 811"/></Shape>
+	    <String CONTENT="BARTOLOMEO BIMBI"
+                    HPOS="2616"
+                    VPOS="746"
+                    WIDTH="2632"
+                    HEIGHT="363"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4714"
+                   VPOS="7061"
+                   WIDTH="980"
+                   HEIGHT="279"
+                   ID="eSc_textblock_dd1c0c25"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="4714 7061 5590 7087 5694 7262 4740 7340 4714 7061"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_9bfc0dbc"
+                    TAGREFS="LT101"
+                    BASELINE="4746 7280 5101 7268 5661 7255" 
+                    HPOS="4733"
+                    VPOS="7080"
+                    WIDTH="922"
+                    HEIGHT="214">
+            <Shape><Polygon POINTS="5642 7197 5584 7100 5545 7080 5539 7080 5532 7080 5526 7080 5422 7119 5415 7119 5402 7119 5162 7087 5155 7087 5149 7087 5142 7087 5097 7119 5090 7126 5065 7119 4941 7093 4935 7093 4733 7119 4740 7275 4740 7294 5649 7275 5655 7249 5642 7203 5642 7197"/></Shape>
+	    <String CONTENT="41. VI. 1-2"
+                    HPOS="4733"
+                    VPOS="7080"
+                    WIDTH="922"
+                    HEIGHT="214"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

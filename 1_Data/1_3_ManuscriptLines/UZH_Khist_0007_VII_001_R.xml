@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_VII_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6248" HEIGHT="7674" PHYSICAL_IMG_NR="103" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6248" HEIGHT="7674">
+        
+        <TextBlock HPOS="215" VPOS="400" WIDTH="5743" HEIGHT="6745" ID="eSc_textblock_5d1b4e63" TAGREFS="BT284">
+          <Shape><Polygon POINTS="215 410 248 7145 5958 7123 5958 400" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_1df81df9" TAGREFS="LT104" BASELINE="505 6925 5205 6951" HPOS="505" VPOS="6765" WIDTH="4700" HEIGHT="307">
+            <Shape><Polygon POINTS="505 6925 505 6765 2839 6765 3178 6791 3287 6797 3427 6797 4009 6772 4016 6772 4022 6772 4137 6804 4156 6804 4252 6804 5020 6778 5026 6778 5205 6817 5205 6951 5205 7008 5103 7060 5096 7060 5090 7060 5084 7060 4968 7008 4962 7008 4860 7072 4853 7072 4847 7072 4841 7072 4508 7034 4239 7072 4233 7072 4227 7072 4035 7008 4016 7008 3734 7008 3734 7015 3664 7066 3657 7066 3651 7066 3645 7066 3344 7021 3159 7066 3152 7066 3146 7066 2462 7034 2148 7060 2142 7060 2135 7060 2020 7015 1963 6989 1681 6989 505 7015" /></Shape>
+	    <String CONTENT="Marguerite Ammann : Reiter (1948) Winterthur. Privatbesitz" HPOS="505" VPOS="6765" WIDTH="4700" HEIGHT="307" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

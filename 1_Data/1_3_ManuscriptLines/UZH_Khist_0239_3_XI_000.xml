@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_3_XI_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6602"
+          HEIGHT="7804"
+          PHYSICAL_IMG_NR="281"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6602"
+                  HEIGHT="7804">
+        
+        <TextBlock HPOS="4781"
+                   VPOS="1326"
+                   WIDTH="1404"
+                   HEIGHT="263"
+                   ID="eSc_textblock_b27c6dd3"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="6029 1352 6185 1528 4781 1589 4839 1326"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e7e52d01"
+                    TAGREFS="LT100"
+                    BASELINE="4847 1504 6075 1499" 
+                    HPOS="4839"
+                    VPOS="1365"
+                    WIDTH="1229"
+                    HEIGHT="156">
+            <Shape><Polygon POINTS="4845 1502 4839 1365 6055 1372 6068 1495 6062 1515 4845 1521"/></Shape>
+	    <String CONTENT="BERTHE MORISOT"
+                    HPOS="4839"
+                    VPOS="1365"
+                    WIDTH="1229"
+                    HEIGHT="156"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5255"
+                   VPOS="7517"
+                   WIDTH="1034"
+                   HEIGHT="280"
+                   ID="eSc_textblock_24032d7b"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="6211 7569 6289 7719 6263 7797 5281 7797 5255 7543 5333 7517"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_31d77527"
+                    TAGREFS="LT101"
+                    BASELINE="5308 7693 5897 7757 6178 7757" 
+                    HPOS="5301"
+                    VPOS="7543"
+                    WIDTH="884"
+                    HEIGHT="228">
+            <Shape><Polygon POINTS="5307 7686 5307 7556 5600 7543 5606 7543 5606 7543 5606 7543 5613 7543 5613 7543 5619 7543 5619 7543 5671 7582 5704 7556 5704 7556 5710 7556 5710 7556 5710 7556 5717 7556 5717 7556 5717 7556 5723 7556 5723 7556 5730 7556 5730 7556 5730 7556 5821 7602 5827 7602 5853 7602 6101 7595 6107 7595 6107 7595 6107 7595 6114 7595 6114 7595 6120 7595 6185 7634 6172 7751 6159 7771 5301 7706"/></Shape>
+	    <String CONTENT="239. 3. XI. 1-11"
+                    HPOS="5301"
+                    VPOS="7543"
+                    WIDTH="884"
+                    HEIGHT="228"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

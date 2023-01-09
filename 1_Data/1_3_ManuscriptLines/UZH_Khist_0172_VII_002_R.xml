@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0172_VII_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4030" HEIGHT="5536" PHYSICAL_IMG_NR="417" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="4030" HEIGHT="5536">
+        
+        <TextBlock HPOS="3997" VPOS="4945" WIDTH="14" HEIGHT="291" ID="eSc_textblock_83d85db3" TAGREFS="BT284">
+          <Shape><Polygon POINTS="4011 4945 4011 5236 3997 5236 3997 4945" /></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4016" VPOS="332" WIDTH="9" HEIGHT="1065" ID="eSc_textblock_89e937d4" TAGREFS="BT284">
+          <Shape><Polygon POINTS="4025 332 4025 1397 4016 1397 4016 332" /></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="0" VPOS="45" WIDTH="4028" HEIGHT="5471" ID="eSc_textblock_630a85c6" TAGREFS="BT284">
+          <Shape><Polygon POINTS="4028 45 4028 5516 0 5516 0 45" /></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

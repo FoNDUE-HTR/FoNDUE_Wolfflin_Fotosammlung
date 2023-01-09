@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0012_XI_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6601"
+          HEIGHT="7805"
+          PHYSICAL_IMG_NR="243"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6601"
+                  HEIGHT="7805">
+        
+        <TextBlock HPOS="3202"
+                   VPOS="780"
+                   WIDTH="2878"
+                   HEIGHT="306"
+                   ID="eSc_textblock_f6c7d566"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="3254 780 6002 806 6080 1060 3202 1086 3254 780"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_db7fece3"
+                    TAGREFS="LT100"
+                    BASELINE="3232 1015 6053 1022" 
+                    HPOS="3215"
+                    VPOS="780"
+                    WIDTH="2832"
+                    HEIGHT="358">
+            <Shape><Polygon POINTS="3228 1014 3228 780 3593 858 3645 819 3652 819 3652 819 3652 819 3658 819 3658 819 3658 819 3665 819 3665 819 3866 845 3918 806 3918 806 3925 806 3925 806 3925 806 3931 806 3931 806 3938 806 3938 806 3938 806 3944 806 3944 806 3944 806 3951 806 4023 858 4394 793 4394 793 4400 793 4400 793 4400 793 4407 793 4595 865 4843 865 4908 800 4908 793 4908 793 4914 793 4914 793 4914 793 4921 793 4921 793 4921 793 4927 793 4927 793 4934 793 4934 793 5032 832 5077 793 5077 787 5077 787 5084 787 5084 787 5090 787 5090 787 5090 787 5097 787 5097 787 5435 832 5474 806 5481 806 5481 806 5481 806 5487 806 5487 806 5494 806 5494 806 5494 806 5500 806 5500 806 5500 806 5507 806 5507 806 5507 813 5559 858 5761 813 5761 813 5761 813 5767 813 5767 813 5767 813 5774 813 5774 813 5780 813 5780 813 5780 813 5819 852 5963 787 6047 1021 6041 1040 5188 1040 5155 1066 5123 1099 5123 1105 5123 1105 5116 1105 5116 1105 5116 1105 5110 1105 5110 1105 5103 1105 5103 1105 5103 1105 5097 1105 4999 1073 4927 1047 4888 1079 4836 1118 4836 1118 4830 1118 4830 1118 4830 1118 4823 1118 4823 1118 4817 1118 4817 1118 4817 1118 4810 1118 4810 1118 4810 1118 4758 1092 4635 1138 4635 1138 4628 1138 4628 1138 4628 1138 4622 1138 4394 1118 4394 1118 4387 1118 4387 1118 4387 1118 4335 1099 4218 1040 4146 1105 4133 1118 4133 1118 4133 1118 4127 1118 4127 1118 4120 1118 4120 1118 4120 1118 4114 1118 4114 1118 4114 1118 4042 1105 3834 1060 3762 1118 3736 1138 3736 1138 3730 1138 3730 1138 3730 1138 3723 1138 3723 1138 3717 1138 3215 1131"/></Shape>
+	    <String CONTENT="BENEDETTO ANTELAMI"
+                    HPOS="3215"
+                    VPOS="780"
+                    WIDTH="2832"
+                    HEIGHT="358"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4732"
+                   VPOS="7128"
+                   WIDTH="1035"
+                   HEIGHT="280"
+                   ID="eSc_textblock_479b41fc"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="4784 7128 5637 7128 5767 7356 4810 7408 4732 7356 4784 7128"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_facfc978"
+                    TAGREFS="LT101"
+                    BASELINE="4805 7325 5682 7317" 
+                    HPOS="4791"
+                    VPOS="7115"
+                    WIDTH="885"
+                    HEIGHT="247">
+            <Shape><Polygon POINTS="4804 7323 4791 7174 5025 7167 5064 7128 5064 7122 5064 7122 5071 7122 5071 7122 5071 7122 5077 7122 5077 7122 5077 7122 5084 7122 5084 7122 5331 7154 5383 7115 5390 7115 5390 7115 5390 7115 5396 7115 5396 7115 5396 7115 5403 7115 5403 7115 5663 7161 5676 7310 5670 7336 4804 7362"/></Shape>
+	    <String CONTENT="12. IX. 1-2"
+                    HPOS="4791"
+                    VPOS="7115"
+                    WIDTH="885"
+                    HEIGHT="247"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

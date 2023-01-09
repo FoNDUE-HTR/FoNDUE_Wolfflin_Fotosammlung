@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0174_XXIII_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6594"
+          HEIGHT="7790"
+          PHYSICAL_IMG_NR="153"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6594"
+                  HEIGHT="7790">
+        
+        <TextBlock HPOS="3092"
+                   VPOS="701"
+                   WIDTH="1708"
+                   HEIGHT="850"
+                   ID="eSc_textblock_349c3d85"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="4774 1402 4774 1551 3092 1525 3092 1220 3326 1187 3092 1084 3118 727 3222 701 4774 804 4800 1110 4489 1142 4573 1350"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e9a282e3"
+                    TAGREFS="LT100"
+                    BASELINE="3238 954 4651 980" 
+                    HPOS="3222"
+                    VPOS="753"
+                    WIDTH="1423"
+                    HEIGHT="266">
+            <Shape><Polygon POINTS="3235 947 3235 753 4645 804 4645 973 4632 1019 3222 973"/></Shape>
+	    <String CONTENT="JAN VAN HUYSUM"
+                    HPOS="3222"
+                    VPOS="753"
+                    WIDTH="1423"
+                    HEIGHT="266"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_51053b74"
+                    TAGREFS="LT100"
+                    BASELINE="3170 1447 4203 1460" 
+                    HPOS="3163"
+                    VPOS="1239"
+                    WIDTH="1040"
+                    HEIGHT="293">
+            <Shape><Polygon POINTS="3170 1447 3170 1239 3300 1239 3300 1239 3300 1239 3306 1239 3306 1239 3313 1239 3326 1252 3430 1311 3527 1311 3599 1272 3657 1239 3657 1239 3657 1239 3664 1239 3664 1239 3664 1239 3670 1239 3670 1239 3677 1239 3677 1239 3800 1285 3845 1311 4203 1324 4203 1460 4196 1486 4021 1486 4021 1486 3982 1519 3982 1525 3982 1525 3975 1525 3975 1525 3975 1525 3969 1525 3969 1525 3969 1532 3787 1532 3780 1525 3780 1525 3774 1525 3774 1525 3774 1525 3696 1486 3677 1480 3163 1486"/></Shape>
+	    <String CONTENT="Ohne Mappe"
+                    HPOS="3163"
+                    VPOS="1239"
+                    WIDTH="1040"
+                    HEIGHT="293"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3736"
+                   VPOS="7486"
+                   WIDTH="1167"
+                   HEIGHT="308"
+                   ID="eSc_textblock_7b15aad3"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="3736 7486 3736 7794 4903 7794 4903 7486"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_2378209c"
+                    TAGREFS="LT101"
+                    BASELINE="3805 7729 4854 7748" 
+                    HPOS="3787"
+                    VPOS="7510"
+                    WIDTH="1072"
+                    HEIGHT="247">
+            <Shape><Polygon POINTS="3800 7725 3787 7543 3845 7510 3845 7510 3845 7510 3852 7510 3852 7510 3852 7510 3858 7510 4645 7556 4658 7556 4658 7556 4761 7523 4768 7523 4768 7523 4768 7523 4774 7523 4774 7523 4781 7523 4781 7523 4781 7523 4859 7562 4852 7744 4839 7757 3787 7744"/></Shape>
+	    <String CONTENT="174. XXIII. 1-3"
+                    HPOS="3787"
+                    VPOS="7510"
+                    WIDTH="1072"
+                    HEIGHT="247"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

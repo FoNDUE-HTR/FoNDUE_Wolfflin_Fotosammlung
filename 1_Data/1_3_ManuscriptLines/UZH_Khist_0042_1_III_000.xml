@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0042_1_III_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6602"
+          HEIGHT="7786"
+          PHYSICAL_IMG_NR="395"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6602"
+                  HEIGHT="7786">
+        
+        <TextBlock HPOS="2382"
+                   VPOS="752"
+                   WIDTH="2947"
+                   HEIGHT="331"
+                   ID="eSc_textblock_dd63a427"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="2382 752 5044 752 5251 778 5329 1031 2408 1083 2382 752"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_2209bf15"
+                    TAGREFS="LT100"
+                    BASELINE="2414 1020 3245 986 3479 999 5314 1013" 
+                    HPOS="2401"
+                    VPOS="752"
+                    WIDTH="2909"
+                    HEIGHT="357">
+            <Shape><Polygon POINTS="5219 779 5166 794 5108 791 5102 791 5095 791 5089 791 5082 791 5076 776 5019 779 5024 843 5018 856 4849 856 4836 843 4745 759 4745 752 4738 752 4732 752 4673 752 4660 752 4654 752 4648 752 4641 752 4641 759 4557 830 4537 849 4472 830 4232 759 4226 759 4219 759 3953 798 3856 752 3849 752 3843 752 3836 752 3830 752 3758 811 3752 811 3745 811 3687 759 3687 752 3680 752 3674 752 3635 752 3589 752 3583 752 3576 752 3570 752 3570 759 3518 804 3460 856 3213 856 3154 791 3115 759 3115 752 3109 752 3103 752 3051 752 2986 752 2947 752 2940 752 2934 752 2927 752 2927 759 2901 785 2869 817 2791 778 2726 752 2719 752 2713 752 2408 765 2408 1018 2401 1109 2655 1109 2655 1103 2661 1103 2668 1103 2668 1096 2700 1070 2999 1103 3005 1103 3012 1103 3018 1103 3018 1096 3083 1038 3206 1031 3395 1031 3602 1103 3609 1103 3615 1103 3622 1103 3791 1031 4265 1103 4271 1103 4589 1031 4764 1103 4771 1103 4777 1103 4784 1103 4790 1103 4914 1031 5005 1031 5147 1103 5154 1103 5160 1109 5303 1109 5310 1012 5297 979 5258 856"/></Shape>
+	    <String CONTENT="HANS BOCK D. Ä."
+                    HPOS="2401"
+                    VPOS="752"
+                    WIDTH="2909"
+                    HEIGHT="357"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4635"
+                   VPOS="7111"
+                   WIDTH="1265"
+                   HEIGHT="279"
+                   ID="eSc_textblock_baeaccd1"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5128 7111 5797 7137 5900 7189 5900 7364 4635 7390 4660 7137 5128 7111"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_9939366b"
+                    TAGREFS="LT101"
+                    BASELINE="4670 7335 5880 7335" 
+                    HPOS="4680"
+                    VPOS="7124"
+                    WIDTH="1215"
+                    HEIGHT="272">
+            <Shape><Polygon POINTS="5771 7130 5693 7163 5550 7137 5543 7137 5537 7137 5530 7137 5530 7143 5478 7189 5394 7189 5342 7130 5336 7130 5336 7124 5329 7124 5323 7124 5160 7124 5154 7124 5147 7124 5141 7124 5141 7130 5134 7137 5082 7182 4686 7143 4686 7312 4680 7338 5121 7390 5128 7390 5368 7351 5388 7351 5680 7351 5680 7357 5719 7390 5719 7396 5725 7396 5732 7396 5738 7396 5745 7396 5751 7396 5803 7357 5895 7288 5790 7137"/></Shape>
+	    <String CONTENT="42. 1. III. 1-3"
+                    HPOS="4680"
+                    VPOS="7124"
+                    WIDTH="1215"
+                    HEIGHT="272"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0040_1_III_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6602"
+          HEIGHT="7801"
+          PHYSICAL_IMG_NR="333"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6602"
+                  HEIGHT="7801">
+        
+        <TextBlock HPOS="2679"
+                   VPOS="780"
+                   WIDTH="2544"
+                   HEIGHT="305"
+                   ID="eSc_textblock_ac2ce5ea"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="2679 780 5092 806 5197 832 5223 1033 2679 1085 2679 780"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d0580264"
+                    TAGREFS="LT100"
+                    BASELINE="2718 1014 3557 1014 3740 1020 5138 988" 
+                    HPOS="2705"
+                    VPOS="793"
+                    WIDTH="2426"
+                    HEIGHT="325">
+            <Shape><Polygon POINTS="4982 799 4943 799 4897 819 4852 845 4826 819 4800 799 4787 799 4728 799 4689 819 4624 851 4598 819 4572 799 4527 799 4475 793 4377 819 4299 838 4032 838 3987 812 3948 793 3941 793 3935 793 3928 793 3883 812 3766 871 3395 871 3291 806 3284 806 3278 806 3271 806 3265 806 3258 806 3187 838 3135 812 3128 812 3122 812 3115 812 3109 812 3109 819 3070 858 3031 825 3031 819 3024 819 3018 819 3011 819 3005 819 2998 819 2966 845 2705 806 2712 1007 2712 1072 2933 1118 2940 1118 2946 1118 3102 1079 3382 1111 3388 1111 3395 1111 3499 1072 3551 1059 3668 1072 3883 1105 3889 1105 4286 1098 4292 1098 4299 1098 4299 1092 4305 1092 4318 1072 4338 1046 4501 1072 4605 1092 4611 1092 4618 1092 4657 1072 4728 1040 5125 1072 5131 981 5118 825 5001 799 4982 799"/></Shape>
+	    <String CONTENT="JOACHIM BEUKELAAR"
+                    HPOS="2705"
+                    VPOS="793"
+                    WIDTH="2426"
+                    HEIGHT="325"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4735"
+                   VPOS="7020"
+                   WIDTH="1138"
+                   HEIGHT="306"
+                   ID="eSc_textblock_ff16ecee"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5177 7020 5821 7072 5873 7274 4735 7326 4735 7072 5177 7020"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e933257f"
+                    TAGREFS="LT101"
+                    BASELINE="4767 7275 5847 7241" 
+                    HPOS="4748"
+                    VPOS="7053"
+                    WIDTH="1092"
+                    HEIGHT="260">
+            <Shape><Polygon POINTS="5795 7092 5723 7066 5717 7066 5710 7066 5704 7066 5593 7098 5574 7105 5567 7098 5502 7059 5496 7059 5489 7059 5483 7059 5476 7059 5470 7059 5411 7098 5405 7105 5398 7098 5353 7059 5353 7053 5346 7053 5340 7053 5333 7053 5158 7092 5027 7124 4748 7092 4761 7274 4761 7287 5112 7313 5118 7313 5840 7254 5840 7235 5834 7183 5795 7092"/></Shape>
+	    <String CONTENT="40. 1. III. 1-5"
+                    HPOS="4748"
+                    VPOS="7053"
+                    WIDTH="1092"
+                    HEIGHT="260"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_V_006_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6076" HEIGHT="7121" PHYSICAL_IMG_NR="252" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6076" HEIGHT="7121">
+        
+        <TextBlock HPOS="606" VPOS="584" WIDTH="4889" HEIGHT="6002" ID="eSc_textblock_1ef0d05b" TAGREFS="BT284">
+          <Shape><Polygon POINTS="606 612 615 6586 5486 6586 5495 584" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="1455" VPOS="6714" WIDTH="2503" HEIGHT="255" ID="eSc_textblock_8057fd17" TAGREFS="BT297">
+          <Shape><Polygon POINTS="1455 6714 1455 6969 3958 6969 3958 6714" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_e1128677" TAGREFS="LT103" BASELINE="1508 6888 3941 6866" HPOS="1496" VPOS="6711" WIDTH="2441" HEIGHT="220">
+            <Shape><Polygon POINTS="1502 6883 1496 6747 2066 6759 2084 6747 2102 6729 2108 6729 2114 6729 2120 6729 2126 6729 2132 6729 2150 6747 2167 6759 2227 6747 2381 6717 2387 6717 2393 6717 2464 6747 2482 6753 2506 6747 2643 6717 2648 6717 2654 6717 2660 6717 2714 6747 2744 6723 2744 6717 2749 6717 2755 6717 2761 6717 2767 6717 2773 6717 2809 6747 2809 6753 3106 6753 3130 6753 3355 6711 3361 6711 3367 6711 3450 6747 3539 6717 3545 6717 3551 6717 3724 6747 3860 6711 3866 6711 3872 6711 3878 6711 3884 6711 3937 6753 3937 6865 3925 6925 3539 6895 3308 6925 3278 6925 3272 6925 3266 6925 3260 6925 3183 6895 3112 6919 3088 6931 3082 6931 3076 6931 1496 6907" /></Shape>
+	    <String CONTENT="Altar der hl. Dreifaltigkeit (Detail)" HPOS="1496" VPOS="6711" WIDTH="2441" HEIGHT="220" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5535" VPOS="6910" WIDTH="494" HEIGHT="162" ID="eSc_textblock_86c73e8e" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5535 6910 5535 7072 6029 7072 6029 6910" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_44b3a412" TAGREFS="LT103" BASELINE="5600 7026 6009 7000" HPOS="5577" VPOS="6883" WIDTH="427" HEIGHT="160">
+            <Shape><Polygon POINTS="5594 7020 5577 6901 5986 6883 6004 6996 6004 7020 5594 7043" /></Shape>
+	    <String CONTENT="10. III.11" HPOS="5577" VPOS="6883" WIDTH="427" HEIGHT="160" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

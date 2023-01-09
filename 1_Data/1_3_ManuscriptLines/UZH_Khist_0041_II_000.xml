@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0041_II_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6592"
+          HEIGHT="7782"
+          PHYSICAL_IMG_NR="362"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6592"
+                  HEIGHT="7782">
+        
+        <TextBlock HPOS="3088"
+                   VPOS="752"
+                   WIDTH="2667"
+                   HEIGHT="330"
+                   ID="eSc_textblock_b97b3163"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="3088 752 5521 778 5755 830 5755 1057 3088 1082 3088 752"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_8086c1cf"
+                    TAGREFS="LT100"
+                    BASELINE="3114 985 5743 1034" 
+                    HPOS="3101"
+                    VPOS="752"
+                    WIDTH="2641"
+                    HEIGHT="363">
+            <Shape><Polygon POINTS="4411 765 4132 804 4016 758 4009 758 4003 758 3996 758 3990 758 3990 765 3938 810 3938 817 3789 817 3789 810 3737 758 3691 758 3685 752 3542 804 3484 758 3477 758 3471 758 3360 752 3302 752 3237 752 3218 752 3107 791 3107 979 3101 1031 3159 1070 3166 1070 3172 1070 3432 1082 3438 1089 3795 1089 3795 1082 3802 1082 3808 1082 3866 1044 3873 1044 4094 1095 4100 1095 4107 1095 4210 1057 4230 1050 4444 1050 4457 1063 4502 1102 4509 1102 4515 1102 4807 1108 4814 1108 4820 1108 4827 1108 4872 1076 4905 1063 5034 1063 5060 1082 5099 1115 5106 1115 5112 1115 5119 1115 5125 1115 5132 1115 5164 1089 5171 1076 5190 1089 5248 1115 5255 1115 5261 1115 5268 1115 5274 1115 5307 1089 5339 1070 5729 1102 5742 1031 5703 843 5385 784 5378 784 4931 830 4924 830 4859 778 4853 778 4846 778 4840 778 4833 778 4827 778 4755 830 4749 830 4671 771 4665 771 4658 771 4418 765 4411 765"/></Shape>
+	    <String CONTENT="GIAN ANDREA BIFFI"
+                    HPOS="3101"
+                    VPOS="752"
+                    WIDTH="2641"
+                    HEIGHT="363"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4775"
+                   VPOS="7055"
+                   WIDTH="564"
+                   HEIGHT="279"
+                   ID="eSc_textblock_97952238"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="4775 7055 5261 7081 5339 7308 4775 7334 4775 7055"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_2674e7d7"
+                    TAGREFS="LT101"
+                    BASELINE="4768 7243 4965 7267 5287 7272" 
+                    HPOS="4755"
+                    VPOS="7062"
+                    WIDTH="526"
+                    HEIGHT="259">
+            <Shape><Polygon POINTS="5242 7114 5210 7101 5203 7101 5197 7101 5190 7101 5132 7127 5047 7068 5028 7068 5002 7062 4807 7107 4762 7237 4755 7263 5268 7321 5281 7269 5281 7178 5242 7114"/></Shape>
+	    <String CONTENT="41. II. 1"
+                    HPOS="4755"
+                    VPOS="7062"
+                    WIDTH="526"
+                    HEIGHT="259"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

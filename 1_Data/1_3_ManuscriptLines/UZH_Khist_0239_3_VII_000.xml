@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_3_VII_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6599"
+          HEIGHT="7799"
+          PHYSICAL_IMG_NR="278"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6599"
+                  HEIGHT="7799">
+        
+        <TextBlock HPOS="4551"
+                   VPOS="1377"
+                   WIDTH="1293"
+                   HEIGHT="228"
+                   ID="eSc_textblock_74459f06"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="4577 1377 5766 1403 5844 1605 4551 1605 4577 1377"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_18af6fa4"
+                    TAGREFS="LT100"
+                    BASELINE="4609 1540 5764 1536" 
+                    HPOS="4596"
+                    VPOS="1371"
+                    WIDTH="1164"
+                    HEIGHT="266">
+            <Shape><Polygon POINTS="4603 1533 4603 1371 5760 1410 5760 1533 5760 1579 5415 1579 5402 1585 5363 1618 5363 1618 5357 1618 5357 1618 5357 1618 5350 1618 5350 1618 5344 1618 5344 1618 5344 1618 5337 1618 5337 1618 5337 1618 5331 1618 5292 1592 5285 1585 5272 1592 5110 1637 5103 1637 5103 1637 5103 1637 5097 1637 4596 1605"/></Shape>
+	    <String CONTENT="MORGEN THALER"
+                    HPOS="4596"
+                    VPOS="1371"
+                    WIDTH="1164"
+                    HEIGHT="266"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5279"
+                   VPOS="7539"
+                   WIDTH="955"
+                   HEIGHT="253"
+                   ID="eSc_textblock_c090c498"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5279 7539 6130 7565 6234 7792 5279 7792 5279 7539"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1234017c"
+                    TAGREFS="LT101"
+                    BASELINE="5312 7717 5728 7734 6112 7716" 
+                    HPOS="5305"
+                    VPOS="7545"
+                    WIDTH="806"
+                    HEIGHT="195">
+            <Shape><Polygon POINTS="5311 7714 5311 7545 5539 7591 5578 7565 5584 7558 5591 7558 5591 7558 5591 7558 5597 7558 5597 7558 5604 7558 5604 7558 6098 7610 6111 7714 6104 7740 5305 7740"/></Shape>
+	    <String CONTENT="239. 3. VII. 1-10"
+                    HPOS="5305"
+                    VPOS="7545"
+                    WIDTH="806"
+                    HEIGHT="195"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

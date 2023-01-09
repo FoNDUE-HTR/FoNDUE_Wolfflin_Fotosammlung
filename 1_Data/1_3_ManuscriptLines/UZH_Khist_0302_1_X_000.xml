@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0302_1_X_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6597"
+          HEIGHT="7799"
+          PHYSICAL_IMG_NR="199"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6597"
+                  HEIGHT="7799">
+        
+        <TextBlock HPOS="4601"
+                   VPOS="1351"
+                   WIDTH="1476"
+                   HEIGHT="254"
+                   ID="eSc_textblock_8266104f"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="4601 1351 6025 1377 6077 1579 4627 1605 4601 1351"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e35bc1ff"
+                    TAGREFS="LT100"
+                    BASELINE="4627 1520 5956 1501" 
+                    HPOS="4614"
+                    VPOS="1377"
+                    WIDTH="1339"
+                    HEIGHT="189">
+            <Shape><Polygon POINTS="4621 1514 4614 1377 5940 1377 5953 1494 5947 1553 4621 1566"/></Shape>
+	    <String CONTENT="CHRISTIAN REDER"
+                    HPOS="4614"
+                    VPOS="1377"
+                    WIDTH="1339"
+                    HEIGHT="189"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5615"
+                   VPOS="7539"
+                   WIDTH="722"
+                   HEIGHT="253"
+                   ID="eSc_textblock_f83e7e3e"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5615 7539 6181 7539 6337 7766 5615 7792 5615 7539"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_923b8c24"
+                    TAGREFS="LT101"
+                    BASELINE="5678 7702 6188 7702" 
+                    HPOS="5674"
+                    VPOS="7571"
+                    WIDTH="513"
+                    HEIGHT="156">
+            <Shape><Polygon POINTS="5674 7701 5674 7571 6187 7597 6187 7701 6187 7727 5674 7727"/></Shape>
+	    <String CONTENT="302. 1. X. 1"
+                    HPOS="5674"
+                    VPOS="7571"
+                    WIDTH="513"
+                    HEIGHT="156"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

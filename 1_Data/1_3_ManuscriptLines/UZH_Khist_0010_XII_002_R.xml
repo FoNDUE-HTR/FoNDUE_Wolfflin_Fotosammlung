@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_XII_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5522" HEIGHT="7428" PHYSICAL_IMG_NR="273" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5522" HEIGHT="7428">
+        
+        <TextBlock HPOS="4948" VPOS="7183" WIDTH="496" HEIGHT="236" ID="eSc_textblock_f2948489" TAGREFS="BT285">
+          <Shape><Polygon POINTS="4948 7183 4948 7419 5444 7419 5444 7183" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_99a56943" TAGREFS="LT103" BASELINE="5001 7328 5410 7328" HPOS="5001" VPOS="7205" WIDTH="409" HEIGHT="154">
+            <Shape><Polygon POINTS="5001 7328 5001 7205 5410 7223 5410 7328 5410 7359 5001 7359" /></Shape>
+	    <String CONTENT="10. III. 39" HPOS="5001" VPOS="7205" WIDTH="409" HEIGHT="154" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="351" VPOS="659" WIDTH="4834" HEIGHT="5667" ID="eSc_textblock_90b1aba5" TAGREFS="BT284">
+          <Shape><Polygon POINTS="5185 659 5144 5465 5129 6326 471 6270 351 6183 420 1015 433 665 594 693" /></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

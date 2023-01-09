@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0172_IX_005_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5479" HEIGHT="7309" PHYSICAL_IMG_NR="376" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5479" HEIGHT="7309">
+        
+        <TextBlock HPOS="553" VPOS="6220" WIDTH="4106" HEIGHT="611" ID="eSc_textblock_41876635" TAGREFS="BT297">
+          <Shape><Polygon POINTS="553 6220 4659 6220 4659 6495 3637 6495 3637 6826 1531 6831 1531 6531 553 6531" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="1495" VPOS="6931" WIDTH="1707" HEIGHT="374" ID="eSc_textblock_942dd2e8" TAGREFS="BT297">
+          <Shape><Polygon POINTS="1495 6931 1495 7305 3202 7305 3202 6931" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_31c11d85" TAGREFS="LT103" BASELINE="1645 7132 3120 7095" HPOS="1627" VPOS="6974" WIDTH="1493" HEIGHT="207">
+            <Shape><Polygon POINTS="1645 7132 1627 6992 3102 6974 3120 7095 3120 7126 2803 7168 2797 7168 2407 7150 2364 7181 2358 7181 2352 7181 2346 7181 2200 7150 1645 7156" /></Shape>
+	    <String CONTENT="Aus der Passions folge." HPOS="1627" VPOS="6974" WIDTH="1493" HEIGHT="207" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="553" VPOS="728" WIDTH="4186" HEIGHT="5607" ID="eSc_textblock_bfe7c4b4" TAGREFS="BT284">
+          <Shape><Polygon POINTS="554 728 553 6335 4730 6335 4739 746" /></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

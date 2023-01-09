@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_IV_004_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7638" HEIGHT="5753" PHYSICAL_IMG_NR="238" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="7638" HEIGHT="5753">
+        
+        <TextBlock HPOS="797" VPOS="470" WIDTH="6032" HEIGHT="4509" ID="eSc_textblock_6be9c8c5" TAGREFS="BT284">
+          <Shape><Polygon POINTS="797 507 809 4979 6817 4979 6829 470" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="42" VPOS="5146" WIDTH="207" HEIGHT="522" ID="eSc_textblock_c0eeaabb" TAGREFS="BT285">
+          <Shape><Polygon POINTS="42 5146 42 5668 249 5668 249 5146" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_2c831521" TAGREFS="LT103" BASELINE="103 5184 72 5623" HPOS="52" VPOS="5172" WIDTH="168" HEIGHT="451">
+            <Shape><Polygon POINTS="100 5182 220 5187 210 5623 71 5618 52 5609 76 5172" /></Shape>
+	    <String CONTENT="10. III. 4" HPOS="52" VPOS="5172" WIDTH="168" HEIGHT="451" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1738" VPOS="5103" WIDTH="3468" HEIGHT="409" ID="eSc_textblock_ae1eea59" TAGREFS="BT297">
+          <Shape><Polygon POINTS="1738 5103 1738 5512 5206 5512 5206 5103" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_1d20a794" TAGREFS="LT103" BASELINE="1895 5326 5081 5312" HPOS="1879" VPOS="5139" WIDTH="3198" HEIGHT="230">
+            <Shape><Polygon POINTS="1893 5321 1879 5172 1985 5144 1989 5144 1994 5144 2138 5168 2162 5172 2191 5168 2359 5144 2363 5144 2550 5148 2555 5148 2560 5148 2560 5153 2579 5168 2584 5177 2804 5177 2819 5168 2857 5144 2862 5144 2867 5144 2872 5144 2876 5144 2967 5168 2996 5172 3054 5168 3255 5144 3260 5144 3682 5163 3768 5168 3778 5163 3826 5139 3830 5139 3835 5139 4195 5139 4200 5139 4204 5139 4243 5163 4252 5168 4267 5163 4329 5144 4334 5144 4339 5144 4435 5163 4463 5168 4473 5163 4502 5139 4507 5139 4511 5139 4516 5139 4521 5139 4612 5163 4641 5168 4665 5163 4741 5139 4746 5139 4751 5139 4756 5139 4813 5163 4833 5168 5063 5163 5077 5311 5072 5345 4233 5359 4228 5359 4171 5355 4017 5335 3893 5355 3864 5359 3859 5359 3835 5355 3730 5335 3557 5359 3538 5359 3533 5359 3528 5359 3524 5359 3480 5335 3111 5364 3054 5364 3049 5364 2996 5364 2613 5340 2478 5364 2474 5364 2167 5340 1893 5369" /></Shape>
+	    <String CONTENT="Mittelbild der Predella von Altar von Cortona" HPOS="1879" VPOS="5139" WIDTH="3198" HEIGHT="230" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

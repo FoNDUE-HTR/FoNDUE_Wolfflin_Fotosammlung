@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0006_XII_004_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7681" HEIGHT="6259" PHYSICAL_IMG_NR="49" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="7681" HEIGHT="6259">
+        
+        <TextBlock HPOS="1596" VPOS="1534" WIDTH="4323" HEIGHT="3116" ID="eSc_textblock_7710db13" TAGREFS="BT284">
+          <Shape><Polygon POINTS="1603 1534 1596 4642 5909 4650 5919 1539 3807 1537" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_7431f15d" TAGREFS="LT104" BASELINE="2372 4617 5212 4619" HPOS="2363" VPOS="4516" WIDTH="2844" HEIGHT="167">
+            <Shape><Polygon POINTS="2369 4616 2363 4532 5202 4516 5207 4616 5202 4683 2363 4678" /></Shape>
+	    <String CONTENT="5394 Amiens Cathedral. Portail de la Mére Dieu F. M. S hhM" HPOS="2363" VPOS="4516" WIDTH="2844" HEIGHT="167" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1596" VPOS="4826" WIDTH="659" HEIGHT="259" ID="eSc_textblock_5801c310" TAGREFS="BT297">
+          <Shape><Polygon POINTS="1596 4826 1596 5085 2255 5085 2255 4826" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_5134afbc" TAGREFS="LT103" BASELINE="1612 5016 2222 4986" HPOS="1591" VPOS="4845" WIDTH="626" HEIGHT="240">
+            <Shape><Polygon POINTS="1607 5012 1591 4871 1675 4861 1680 4861 1685 4861 1711 4871 1774 4902 1909 4876 2087 4845 2092 4845 2097 4845 2212 4887 2217 4981 2212 5043 1915 5038 1607 5085" /></Shape>
+	    <String CONTENT="Amiens." HPOS="1591" VPOS="4845" WIDTH="626" HEIGHT="240" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="32" VPOS="5660" WIDTH="245" HEIGHT="508" ID="eSc_textblock_a97d77d3" TAGREFS="BT285">
+          <Shape><Polygon POINTS="277 5660 277 6168 32 6168 32 5660" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_b2865491" TAGREFS="LT103" BASELINE="103 5698 104 6121" HPOS="73" VPOS="5695" WIDTH="187" HEIGHT="423">
+            <Shape><Polygon POINTS="99 5695 260 5695 240 6118 99 6118 78 6118 73 5695" /></Shape>
+	    <String CONTENT="6. VIII. 11" HPOS="73" VPOS="5695" WIDTH="187" HEIGHT="423" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

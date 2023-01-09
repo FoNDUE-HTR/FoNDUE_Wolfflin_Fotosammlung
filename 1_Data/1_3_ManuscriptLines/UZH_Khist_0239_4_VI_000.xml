@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_4_VI_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6603"
+          HEIGHT="7801"
+          PHYSICAL_IMG_NR="289"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6603"
+                  HEIGHT="7801">
+        
+        <TextBlock HPOS="4527"
+                   VPOS="1326"
+                   WIDTH="1789"
+                   HEIGHT="253"
+                   ID="eSc_textblock_400c5ec0"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="5256 1326 6186 1352 6316 1579 4527 1579 4553 1352 5256 1326"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_90a9dee8"
+                    TAGREFS="LT100"
+                    BASELINE="4550 1537 5733 1505 6247 1515" 
+                    HPOS="4521"
+                    VPOS="1332"
+                    WIDTH="1724"
+                    HEIGHT="390">
+            <Shape><Polygon POINTS="4547 1534 4521 1404 4579 1352 4579 1345 4579 1345 4586 1345 4586 1345 4592 1345 4592 1345 4592 1345 4599 1345 5165 1378 5197 1339 5204 1339 5204 1332 5204 1332 5210 1332 5210 1332 5210 1332 5217 1332 5217 1332 5223 1332 6206 1365 6245 1514 6238 1696 5919 1664 5919 1664 5913 1664 5913 1664 5913 1664 5906 1664 5906 1664 5828 1605 5633 1605 5549 1670 5516 1696 5516 1696 5510 1696 5510 1696 5510 1696 5503 1696 5503 1696 5497 1696 5497 1696 5497 1696 5327 1664 5301 1696 5295 1696 5295 1703 5295 1703 5288 1703 5288 1703 5282 1703 5282 1703 5282 1703 4846 1722 4840 1722 4840 1722 4840 1722 4833 1722 4833 1722 4833 1722 4670 1631 4651 1625 4547 1625"/></Shape>
+	    <String CONTENT="GIOVANNI MARIA MOSCA"
+                    HPOS="4521"
+                    VPOS="1332"
+                    WIDTH="1724"
+                    HEIGHT="390"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5360"
+                   VPOS="7540"
+                   WIDTH="774"
+                   HEIGHT="254"
+                   ID="eSc_textblock_77f31a10"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5360 7540 6082 7566 6134 7768 5360 7794 5360 7540"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_5b34f839"
+                    TAGREFS="LT101"
+                    BASELINE="5414 7738 5709 7720 5997 7724" 
+                    HPOS="5406"
+                    VPOS="7579"
+                    WIDTH="585"
+                    HEIGHT="176">
+            <Shape><Polygon POINTS="5412 7735 5406 7579 5984 7579 5991 7722 5984 7735 5412 7755"/></Shape>
+	    <String CONTENT="239. 4. VI. 1"
+                    HPOS="5406"
+                    VPOS="7579"
+                    WIDTH="585"
+                    HEIGHT="176"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

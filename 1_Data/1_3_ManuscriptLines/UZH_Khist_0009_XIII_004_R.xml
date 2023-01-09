@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0009_XIII_004_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6239" HEIGHT="7796" PHYSICAL_IMG_NR="217" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6239" HEIGHT="7796">
+        
+        <TextBlock HPOS="809" VPOS="846" WIDTH="4628" HEIGHT="5962" ID="eSc_textblock_eeef2aae" TAGREFS="BT284">
+          <Shape><Polygon POINTS="875 846 809 6808 5324 6808 5437 893" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="5598" VPOS="7525" WIDTH="559" HEIGHT="226" ID="eSc_textblock_28ec9df6" TAGREFS="BT285">
+          <Shape><Polygon POINTS="5598 7525 5598 7751 6157 7751 6157 7525" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_c1f13439" TAGREFS="LT103" BASELINE="5652 7707 6105 7711" HPOS="5647" VPOS="7529" WIDTH="455" HEIGHT="202">
+            <Shape><Polygon POINTS="5647 7705 5647 7529 6102 7536 6102 7705 6102 7731 5647 7731" /></Shape>
+	    <String CONTENT="9. VIII. 4" HPOS="5647" VPOS="7529" WIDTH="455" HEIGHT="202" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

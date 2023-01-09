@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0175_IX_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6601"
+          HEIGHT="7789"
+          PHYSICAL_IMG_NR="158"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6601"
+                  HEIGHT="7789">
+        
+        <TextBlock HPOS="2728"
+                   VPOS="804"
+                   WIDTH="1891"
+                   HEIGHT="737"
+                   ID="eSc_textblock_98122b72"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="2728 1525 2728 1298 2858 1213 2754 1161 2754 804 4593 830 4619 1083 3612 1109 3411 1187 3311 1187 3311 1541"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_b376bb98"
+                    TAGREFS="LT100"
+                    BASELINE="2852 1019 4489 1006" 
+                    HPOS="2839"
+                    VPOS="811"
+                    WIDTH="1728"
+                    HEIGHT="292">
+            <Shape><Polygon POINTS="2852 1019 2839 817 3638 843 3748 811 3755 811 3761 811 3768 811 4567 818 4489 1006 4476 1058 4336 1051 4314 1064 4281 1090 4275 1090 4268 1090 4262 1090 4158 1070 4034 1045 3761 1077 3755 1077 3534 1051 3443 1090 3423 1096 3417 1096 3410 1096 3404 1096 3384 1090 3306 1064 3099 1096 3092 1096 3086 1096 3079 1096 3073 1096 3073 1090 3027 1051 2858 1103"/></Shape>
+	    <String CONTENT="KASPAR ISENMANN"
+                    HPOS="2839"
+                    VPOS="811"
+                    WIDTH="1728"
+                    HEIGHT="292"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cccbd5f6"
+                    TAGREFS="LT100"
+                    BASELINE="2784 1450 3066 1479" 
+                    HPOS="2767"
+                    VPOS="1265"
+                    WIDTH="299"
+                    HEIGHT="318">
+            <Shape><Polygon POINTS="2780 1447 2780 1265 3066 1278 3060 1473 3053 1551 2767 1583"/></Shape>
+	    <String CONTENT="NT"
+                    HPOS="2767"
+                    VPOS="1265"
+                    WIDTH="299"
+                    HEIGHT="318"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3375"
+                   VPOS="7515"
+                   WIDTH="1082"
+                   HEIGHT="278"
+                   ID="eSc_textblock_4cdfa7f2"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="3375 7515 3375 7793 4457 7793 4457 7515"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_86281f52"
+                    TAGREFS="LT101"
+                    BASELINE="3456 7691 3631 7698 3696 7698 4361 7691" 
+                    HPOS="3443"
+                    VPOS="7451"
+                    WIDTH="916"
+                    HEIGHT="266">
+            <Shape><Polygon POINTS="3449 7685 3443 7451 4346 7483 4359 7685 4353 7711 3449 7717"/></Shape>
+	    <String CONTENT="175. IX. 1-4"
+                    HPOS="3443"
+                    VPOS="7451"
+                    WIDTH="916"
+                    HEIGHT="266"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

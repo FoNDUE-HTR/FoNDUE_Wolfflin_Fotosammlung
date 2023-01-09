@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_XIII_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6966" HEIGHT="5388" PHYSICAL_IMG_NR="277" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6966" HEIGHT="5388">
+        
+        <TextBlock HPOS="360" VPOS="401" WIDTH="6261" HEIGHT="4304" ID="eSc_textblock_5c0a4fc9" TAGREFS="BT284">
+          <Shape><Polygon POINTS="404 401 360 4698 6621 4705 6621 401" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="44" VPOS="4786" WIDTH="201" HEIGHT="492" ID="eSc_textblock_3afa8067" TAGREFS="BT285">
+          <Shape><Polygon POINTS="44 4786 44 5278 245 5278 245 5048 245 4786" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_3d0b841e" TAGREFS="LT103" BASELINE="104 4834 90 5266" HPOS="58" VPOS="4822" WIDTH="215" HEIGHT="444">
+            <Shape><Polygon POINTS="103 4831 273 4835 211 5266 89 5262 58 5253 67 4822" /></Shape>
+	    <String CONTENT="10. III. 43" HPOS="58" VPOS="4822" WIDTH="215" HEIGHT="444" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4589" VPOS="4748" WIDTH="1385" HEIGHT="439" ID="eSc_textblock_0698fbce" TAGREFS="BT297">
+          <Shape><Polygon POINTS="4589 4748 4589 5187 5974 5187 5974 4748" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_81b52802" TAGREFS="LT103" BASELINE="4657 4876 5906 4885" HPOS="4648" VPOS="4754" WIDTH="1258" HEIGHT="167">
+            <Shape><Polygon POINTS="4657 4876 4652 4772 4792 4754 4792 4754 4796 4754 4796 4754 4796 4754 4895 4777 4926 4781 4953 4777 5025 4759 5030 4759 5030 4759 5034 4759 5034 4759 5039 4759 5115 4781 5156 4790 5182 4781 5250 4754 5250 4754 5254 4754 5254 4754 5254 4754 5259 4754 5259 4754 5263 4754 5263 4754 5349 4786 5376 4795 5389 4786 5416 4763 5416 4763 5420 4763 5420 4763 5425 4763 5425 4763 5425 4763 5537 4759 5542 4759 5542 4759 5542 4759 5546 4759 5546 4759 5551 4759 5551 4759 5551 4763 5582 4790 5591 4799 5703 4799 5712 4795 5775 4759 5775 4759 5775 4759 5780 4759 5780 4759 5780 4759 5784 4759 5784 4759 5789 4759 5789 4759 5789 4759 5793 4759 5793 4759 5793 4763 5829 4795 5829 4799 5906 4799 5906 4885 5897 4921 4648 4894" /></Shape>
+	    <String CONTENT="Ecole Umbro-florentin" HPOS="4648" VPOS="4754" WIDTH="1258" HEIGHT="167" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_49d6880c" TAGREFS="LT103" BASELINE="4877 5042 5524 5042" HPOS="4873" VPOS="4903" WIDTH="651" HEIGHT="202">
+            <Shape><Polygon POINTS="4877 5042 4877 4943 5223 4943 5241 4934 5317 4903 5317 4903 5322 4903 5322 4903 5326 4903 5326 4903 5524 4930 5524 5042 5524 5073 5380 5096 5380 5096 5376 5096 5376 5096 5376 5096 5371 5096 5371 5096 5371 5096 5367 5096 5367 5096 5367 5091 5353 5082 5344 5069 5147 5069 5093 5091 5066 5105 5066 5105 5066 5105 5061 5105 5061 5105 5057 5105 4873 5100" /></Shape>
+	    <String CONTENT="1387-1455" HPOS="4873" VPOS="4903" WIDTH="651" HEIGHT="202" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

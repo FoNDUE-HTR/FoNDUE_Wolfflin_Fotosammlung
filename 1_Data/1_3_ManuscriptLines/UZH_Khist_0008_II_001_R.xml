@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0008_II_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="3592" HEIGHT="5067" PHYSICAL_IMG_NR="167" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3592" HEIGHT="5067">
+        
+        <TextBlock HPOS="721" VPOS="3633" WIDTH="2026" HEIGHT="657" ID="eSc_textblock_129b8fa3" TAGREFS="BT297">
+          <Shape><Polygon POINTS="721 3637 721 4290 2747 4290 2747 3633" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_01ad057b" TAGREFS="LT103" BASELINE="798 3874 2598 3779" HPOS="773" VPOS="3542" WIDTH="1821" HEIGHT="376">
+            <Shape><Polygon POINTS="794 3872 773 3597 1538 3546 1542 3546 1542 3546 1542 3546 1546 3546 1546 3546 1546 3546 1593 3572 1610 3572 2058 3572 2577 3542 2594 3774 2586 3825 2451 3791 2358 3829 2358 3829 2353 3829 2353 3829 2353 3829 2349 3829 2349 3829 2349 3829 2345 3829 2345 3829 2286 3804 2189 3842 2189 3842 2184 3842 2184 3842 2180 3842 2180 3842 2180 3842 2058 3817 2015 3850 2015 3855 2015 3855 2011 3855 2011 3855 2011 3855 2007 3855 2007 3855 2007 3855 1888 3863 1884 3863 1884 3863 1876 3863 1698 3838 1352 3846 1293 3884 1288 3884 1288 3884 1284 3884 1284 3884 1284 3884 1280 3884 1280 3884 1132 3863 1043 3905 1035 3910 1035 3910 1035 3910 1031 3910 1031 3910 1026 3910 1026 3910 1022 3910 1022 3910 1014 3910 925 3876 798 3918" /></Shape>
+	    <String CONTENT="3221 Mudelfingen" HPOS="773" VPOS="3542" WIDTH="1821" HEIGHT="376" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e7b0c936" TAGREFS="LT103" BASELINE="1427 4187 1624 4225 1931 4174" HPOS="1415" VPOS="3998" WIDTH="512" HEIGHT="283">
+            <Shape><Polygon POINTS="1424 4184 1415 4007 1901 3998 1927 4171 1927 4214 1715 4235 1639 4273 1635 4273 1491 4281 1487 4281 1483 4281 1479 4281 1415 4243" /></Shape>
+	    <String CONTENT="1773" HPOS="1415" VPOS="3998" WIDTH="512" HEIGHT="283" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="152" VPOS="4425" WIDTH="2476" HEIGHT="249" ID="eSc_textblock_efb07a8d" TAGREFS="BT297">
+          <Shape><Polygon POINTS="1504 4425 2594 4442 2628 4589 152 4674 185 4492" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_d82d4aba" TAGREFS="LT103" BASELINE="156 4640 1834 4572 2590 4577" HPOS="143" VPOS="4416" WIDTH="2447" HEIGHT="317">
+            <Shape><Polygon POINTS="156 4640 143 4475 287 4480 291 4480 295 4480 295 4484 325 4509 405 4509 452 4467 456 4463 460 4463 464 4463 726 4458 731 4458 735 4458 747 4463 802 4492 845 4463 849 4463 853 4463 857 4463 862 4463 866 4463 900 4488 1102 4488 1145 4458 1162 4446 1166 4446 1170 4446 1174 4446 1179 4446 1204 4458 1242 4471 1301 4454 1369 4437 1373 4437 1377 4437 1381 4437 1424 4454 1474 4471 1597 4471 1664 4450 1766 4420 1770 4420 1774 4420 1779 4420 1783 4420 1817 4446 1829 4458 1888 4446 2028 4416 2032 4416 2036 4416 2041 4416 2074 4442 2104 4420 2108 4420 2112 4420 2117 4420 2121 4420 2176 4442 2180 4442 2582 4437 2590 4577 2577 4644 2421 4589 2235 4653 2231 4653 2227 4653 2222 4653 2218 4653 2146 4598 2019 4598 1943 4636 1939 4636 1935 4636 1812 4610 1652 4657 1648 4657 1643 4657 1639 4657 1555 4627 1487 4653 1483 4653 1479 4653 1474 4653 1402 4623 1284 4623 1233 4678 1233 4682 1229 4682 1225 4682 1221 4682 1217 4682 1212 4682 1132 4632 1073 4632 1009 4699 1001 4708 1001 4712 997 4712 938 4729 933 4729 933 4733 156 4733" /></Shape>
+	    <String CONTENT="Andelfingen Pfarrkirche : Taufstein" HPOS="143" VPOS="4416" WIDTH="2447" HEIGHT="317" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3021" VPOS="4847" WIDTH="396" HEIGHT="162" ID="eSc_textblock_35e7485a" TAGREFS="BT285">
+          <Shape><Polygon POINTS="3417 5009 3033 4990 3021 4927 3055 4847 3415 4847" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_c907723f" TAGREFS="LT103" BASELINE="3050 4948 3355 4984" HPOS="3038" VPOS="4830" WIDTH="317" HEIGHT="182">
+            <Shape><Polygon POINTS="3046 4944 3055 4830 3355 4864 3351 4982 3342 5012 3038 4974" /></Shape>
+	    <String CONTENT="8. II. 1" HPOS="3038" VPOS="4830" WIDTH="317" HEIGHT="182" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="798" VPOS="883" WIDTH="2030" HEIGHT="2721" ID="eSc_textblock_567850a7" TAGREFS="BT284">
+          <Shape><Polygon POINTS="798 883 798 3604 2828 3604 2828 883" /></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

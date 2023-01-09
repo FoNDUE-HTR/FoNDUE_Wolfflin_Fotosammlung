@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0040_V_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6604"
+          HEIGHT="7800"
+          PHYSICAL_IMG_NR="354"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6604"
+                  HEIGHT="7800">
+        
+        <TextBlock HPOS="1378"
+                   VPOS="754"
+                   WIDTH="3919"
+                   HEIGHT="825"
+                   ID="eSc_textblock_6e4a874c"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="1378 754 4829 780 4959 832 4959 1215 5193 1300 5297 1501 2002 1579 1898 1527 1950 1404 1846 1345 1839 1189 1430 1163 1378 754"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_c665a0ad"
+                    TAGREFS="LT100"
+                    BASELINE="1419 1013 3165 975 4927 1014" 
+                    HPOS="1410"
+                    VPOS="780"
+                    WIDTH="3517"
+                    HEIGHT="299">
+            <Shape><Polygon POINTS="4855 799 4829 793 4686 825 4621 780 4615 780 4608 780 4602 780 4595 780 4446 825 4400 786 4394 786 4387 786 4381 786 4179 819 3900 780 3893 780 3887 780 3880 780 3880 786 3802 851 3802 858 3705 858 3705 851 3633 786 3633 780 3627 780 3620 780 3614 780 3282 812 3230 780 3224 780 3217 780 3211 780 3204 780 3029 825 2827 799 2821 799 2814 799 2808 799 2762 838 2671 780 2665 780 2658 780 2652 780 2645 780 2639 780 2639 786 2574 851 2567 851 2535 851 2210 819 2203 819 1729 845 1690 812 1690 806 1683 806 1677 806 1670 806 1664 806 1657 806 1599 851 1449 851 1417 988 1417 1007 1410 1072 2275 1072 2275 1066 2281 1066 2294 1059 2405 1027 2619 1027 2671 1059 2684 1072 2691 1072 2697 1072 2704 1079 2918 1079 2918 1072 2925 1072 2931 1072 2931 1066 2944 1059 2970 1033 3133 1059 3263 1072 3269 1072 3276 1072 3282 1072 3302 1053 3341 1027 3828 1027 3874 1053 3900 1072 3906 1072 3913 1072 3919 1072 4920 1040 4927 1014 4927 845 4868 806 4855 799"/></Shape>
+	    <String CONTENT="GIOVANNI LORENZO BERNINI"
+                    HPOS="1410"
+                    VPOS="780"
+                    WIDTH="3517"
+                    HEIGHT="299"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8c6cd2de"
+                    TAGREFS="LT100"
+                    BASELINE="2047 1488 5203 1475" 
+                    HPOS="2034"
+                    VPOS="1261"
+                    WIDTH="3166"
+                    HEIGHT="312">
+            <Shape><Polygon POINTS="2041 1482 2041 1547 2275 1534 2411 1560 2509 1573 2515 1573 2522 1573 2561 1560 2639 1527 2710 1560 2743 1573 2749 1573 2756 1573 2762 1573 2801 1560 2892 1521 3094 1553 3100 1553 3568 1521 3724 1560 3731 1560 3737 1560 3744 1560 3750 1560 3757 1560 3822 1514 4062 1514 4160 1560 4173 1566 4179 1566 4186 1573 4381 1573 4381 1566 4387 1566 4394 1566 4394 1560 4439 1514 4576 1514 4641 1560 4641 1566 4647 1566 4654 1566 4660 1573 4771 1573 4771 1566 4777 1566 4784 1566 4784 1560 4849 1521 4907 1560 4907 1566 4914 1566 4920 1566 4927 1566 5200 1560 5200 1469 5187 1332 5083 1306 5076 1306 5070 1306 5024 1326 4979 1345 4933 1326 4901 1313 4894 1313 4888 1313 4881 1313 4875 1313 4862 1326 4842 1339 4823 1326 4745 1261 4738 1261 4732 1261 4426 1261 4420 1261 4413 1261 4407 1261 4342 1313 4296 1352 4114 1352 4036 1306 3945 1261 3939 1261 3932 1261 3926 1261 3919 1261 3867 1293 3718 1261 3711 1261 3705 1261 3698 1261 3698 1267 3653 1300 3594 1358 3458 1358 3341 1293 3289 1267 3282 1267 2996 1267 2990 1267 2983 1267 2977 1267 2977 1274 2957 1287 2899 1345 2788 1287 2756 1267 2749 1267 2743 1267 2736 1267 2730 1267 2710 1280 2606 1358 2346 1358 2242 1352 2164 1274 2158 1274 2158 1267 2151 1267 2145 1267 2138 1267 2034 1267 2041 1482"/></Shape>
+	    <String CONTENT="Rom, S. Maria della Vittoria"
+                    HPOS="2034"
+                    VPOS="1261"
+                    WIDTH="3166"
+                    HEIGHT="312"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4732"
+                   VPOS="7072"
+                   WIDTH="1007"
+                   HEIGHT="253"
+                   ID="eSc_textblock_c79ec8b4"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="4784 7072 5635 7072 5739 7247 4836 7325 4732 7247 4784 7072"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_4a97be88"
+                    TAGREFS="LT101"
+                    BASELINE="4810 7234 5172 7236 5678 7238" 
+                    HPOS="4803"
+                    VPOS="7091"
+                    WIDTH="858"
+                    HEIGHT="189">
+            <Shape><Polygon POINTS="5603 7091 4810 7091 4810 7228 4803 7280 5655 7273 5661 7234 5655 7124"/></Shape>
+	    <String CONTENT="40. IV. 1-4"
+                    HPOS="4803"
+                    VPOS="7091"
+                    WIDTH="858"
+                    HEIGHT="189"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0009_V_003_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5565" HEIGHT="7532" PHYSICAL_IMG_NR="192" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5565" HEIGHT="7532">
+        
+        <TextBlock HPOS="4458" VPOS="190" WIDTH="663" HEIGHT="274" ID="eSc_textblock_af527561" TAGREFS="BT297">
+          <Shape><Polygon POINTS="4458 464 4486 190 5097 190 5121 448" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="437" VPOS="6301" WIDTH="1380" HEIGHT="179" ID="eSc_textblock_cc4091cf" TAGREFS="BT297">
+          <Shape><Polygon POINTS="1817 6480 1813 6301 453 6301 437 6479" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="1809" VPOS="6277" WIDTH="2059" HEIGHT="549" ID="eSc_textblock_e40107a5" TAGREFS="BT297">
+          <Shape><Polygon POINTS="3868 6826 3868 6277 1809 6277 1809 6826" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_a24741f9" TAGREFS="LT103" BASELINE="1854 6424 3519 6419" HPOS="1846" VPOS="6326" WIDTH="1677" HEIGHT="157">
+            <Shape><Polygon POINTS="1852 6421 1846 6326 3504 6326 3517 6414 3523 6439 3410 6483 3410 6483 3404 6483 3404 6483 3404 6483 3398 6483 2926 6452 2908 6452 2901 6452 2769 6483 2763 6483 2763 6483 2757 6483 2757 6483 2757 6483 2751 6483 2751 6483 2688 6452 2675 6452 1852 6464" /></Shape>
+	    <String CONTENT=": Allegorie der Kirche (Del.).$" HPOS="1846" VPOS="6326" WIDTH="1677" HEIGHT="157" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6d0152fd" TAGREFS="LT103" BASELINE="1930 6585 3545 6606" HPOS="1921" VPOS="6446" WIDTH="1621" HEIGHT="194">
+            <Shape><Polygon POINTS="1928 6584 1934 6446 2079 6490 2411 6490 2437 6458 2443 6458 2443 6452 2443 6452 2449 6452 2449 6452 2449 6452 2455 6452 2455 6452 2455 6452 2462 6452 2462 6452 2468 6452 2518 6464 2625 6490 2788 6471 2939 6458 2939 6458 2945 6458 2945 6458 2952 6458 2952 6458 2952 6458 2996 6483 3033 6502 3536 6502 3542 6603 3536 6628 1921 6640" /></Shape>
+	    <String CONTENT="Florenz, Sta. Maria Novella" HPOS="1921" VPOS="6446" WIDTH="1621" HEIGHT="194" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_506266a0" TAGREFS="LT103" BASELINE="2465 6764 3800 6781" HPOS="2449" VPOS="6628" WIDTH="1351" HEIGHT="226">
+            <Shape><Polygon POINTS="2462 6759 2462 6653 3065 6665 3090 6665 3253 6628 3253 6628 3253 6628 3259 6628 3259 6628 3573 6665 3699 6634 3705 6634 3705 6634 3712 6634 3712 6634 3712 6634 3718 6634 3718 6634 3718 6634 3800 6678 3793 6778 3787 6816 3542 6816 3542 6816 3460 6854 3460 6854 3460 6854 3454 6854 3454 6854 3448 6854 3448 6854 3448 6854 3247 6816 3190 6810 3165 6816 3102 6847 3102 6847 3096 6847 3096 6847 3096 6847 3090 6847 3090 6847 3090 6847 2958 6822 2876 6803 2801 6822 2732 6841 2725 6841 2725 6841 2725 6841 2719 6841 2449 6822" /></Shape>
+	    <String CONTENT="Capella degli Spagnoli" HPOS="2449" VPOS="6628" WIDTH="1351" HEIGHT="226" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2152" VPOS="7224" WIDTH="878" HEIGHT="211" ID="eSc_textblock_a10b12b1" TAGREFS="BT297">
+          <Shape><Polygon POINTS="2152 7224 2157 7435 3030 7426 3030 7234" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="4853" VPOS="7248" WIDTH="476" HEIGHT="225" ID="eSc_textblock_9b9ce034" TAGREFS="BT285">
+          <Shape><Polygon POINTS="4853 7248 4853 7473 5329 7473 5329 7248" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_b4a6ba62" TAGREFS="LT103" BASELINE="4896 7422 5274 7422" HPOS="4892" VPOS="7193" WIDTH="377" HEIGHT="257">
+            <Shape><Polygon POINTS="4892 7419 4892 7193 5269 7249 5269 7419 5269 7444 4892 7450" /></Shape>
+	    <String CONTENT="9. IV. 9" HPOS="4892" VPOS="7193" WIDTH="377" HEIGHT="257" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="477" VPOS="928" WIDTH="4276" HEIGHT="5410" ID="eSc_textblock_e2c9b584" TAGREFS="BT284">
+          <Shape><Polygon POINTS="4660 979 4660 5416 4753 6295 2725 6338 1092 6307 500 6325 477 1280 502 979 653 928" /></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

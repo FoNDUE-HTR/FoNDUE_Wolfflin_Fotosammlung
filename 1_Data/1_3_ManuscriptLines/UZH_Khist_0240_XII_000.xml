@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0240_XII_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6600"
+          HEIGHT="7804"
+          PHYSICAL_IMG_NR="328"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6600"
+                  HEIGHT="7804">
+        
+        <TextBlock HPOS="4601"
+                   VPOS="1326"
+                   WIDTH="1374"
+                   HEIGHT="254"
+                   ID="eSc_textblock_51ae95ab"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="4627 1326 5871 1352 5975 1580 4601 1580 4627 1326"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_280313de"
+                    TAGREFS="LT100"
+                    BASELINE="4624 1527 5919 1538" 
+                    HPOS="4608"
+                    VPOS="1320"
+                    WIDTH="1308"
+                    HEIGHT="279">
+            <Shape><Polygon POINTS="4621 1521 4621 1320 4972 1372 5122 1339 5213 1326 5213 1326 5213 1326 5220 1326 5897 1385 5916 1534 5910 1554 5610 1599 5610 1599 5604 1599 5604 1599 5337 1560 5265 1554 5246 1560 5200 1593 5194 1593 5194 1593 5187 1593 5187 1593 5187 1593 5181 1593 4608 1567"/></Shape>
+	    <String CONTENT="HANS MULTSCHER"
+                    HPOS="4608"
+                    VPOS="1320"
+                    WIDTH="1308"
+                    HEIGHT="279"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5122"
+                   VPOS="7491"
+                   WIDTH="905"
+                   HEIGHT="306"
+                   ID="eSc_textblock_3116d146"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5174 7491 5923 7517 6027 7771 5122 7797 5174 7491"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_fa8f62e4"
+                    TAGREFS="LT101"
+                    BASELINE="5174 7702 5919 7713" 
+                    HPOS="5155"
+                    VPOS="7524"
+                    WIDTH="761"
+                    HEIGHT="201">
+            <Shape><Polygon POINTS="5168 7699 5161 7556 5532 7524 5539 7524 5539 7524 5910 7569 5916 7712 5903 7725 5155 7719"/></Shape>
+	    <String CONTENT="240. XII. 1-29"
+                    HPOS="5155"
+                    VPOS="7524"
+                    WIDTH="761"
+                    HEIGHT="201"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

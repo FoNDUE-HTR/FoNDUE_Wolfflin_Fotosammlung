@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0040_X_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6599"
+          HEIGHT="7790"
+          PHYSICAL_IMG_NR="358"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6599"
+                  HEIGHT="7790">
+        
+        <TextBlock HPOS="1558"
+                   VPOS="701"
+                   WIDTH="3553"
+                   HEIGHT="928"
+                   ID="eSc_textblock_0caa1044"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="5007 1168 5111 1473 4955 1629 2883 1577 2877 1058 2695 1239 2461 1058 1584 1084 1558 701 5007 727 5111 934"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_2da690e9"
+                    TAGREFS="LT100"
+                    BASELINE="1589 944 2695 947 2877 954 5048 957" 
+                    HPOS="1578"
+                    VPOS="727"
+                    WIDTH="3468"
+                    HEIGHT="292">
+            <Shape><Polygon POINTS="5020 785 5014 779 4916 753 4910 753 4903 753 4897 753 4890 753 4851 791 4734 733 4728 733 4721 733 4520 779 4384 733 4377 733 4104 733 4098 733 4091 733 3968 791 3910 740 3910 733 3903 733 3897 733 3617 733 3611 733 3604 733 3598 733 3598 740 3559 772 3247 746 3241 746 3039 785 2974 733 2968 733 2961 733 2955 733 2948 733 2942 733 2942 740 2883 791 2883 798 2604 798 2604 791 2552 753 2546 753 2539 753 2533 753 1909 785 1656 727 1649 727 1643 727 1636 727 1636 733 1584 779 1584 941 1578 986 3884 1019 3890 1019 3897 1019 3916 1012 3968 986 4390 986 4676 1019 4715 1019 4721 1019 4741 1019 4929 986 5027 1019 5046 954 5046 824 5020 785"/></Shape>
+	    <String CONTENT="GIOVANNI LORENZO BERNINI"
+                    HPOS="1578"
+                    VPOS="727"
+                    WIDTH="3468"
+                    HEIGHT="292"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1f35bfcf"
+                    TAGREFS="LT100"
+                    BASELINE="2903 1428 4708 1457" 
+                    HPOS="2890"
+                    VPOS="1200"
+                    WIDTH="1812"
+                    HEIGHT="383">
+            <Shape><Polygon POINTS="2896 1421 2890 1473 3039 1519 3046 1519 3052 1519 3059 1519 3130 1486 3604 1486 3624 1499 3721 1564 3728 1564 3734 1564 3741 1570 3987 1570 3987 1564 3994 1564 4117 1519 4228 1570 4234 1570 4241 1570 4247 1570 4371 1538 4416 1577 4423 1577 4429 1577 4436 1583 4618 1583 4618 1577 4624 1577 4695 1538 4702 1454 4689 1246 4643 1272 4624 1246 4605 1233 4605 1226 4598 1226 4592 1226 4449 1226 4442 1226 4436 1226 4429 1226 4403 1246 4345 1291 4286 1246 4254 1226 4247 1226 4241 1226 4234 1226 4228 1226 4221 1226 4195 1246 4137 1291 3994 1291 3910 1252 3832 1213 3825 1213 3819 1213 3812 1213 3708 1252 3630 1278 3565 1252 3500 1220 3494 1220 3487 1220 3299 1252 3221 1265 3195 1252 3111 1200 3104 1200 3098 1200 2968 1200 2961 1200 2955 1200 2948 1200 2896 1233 2896 1421"/></Shape>
+	    <String CONTENT="Castel Grandolfo"
+                    HPOS="2890"
+                    VPOS="1200"
+                    WIDTH="1812"
+                    HEIGHT="383"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4702"
+                   VPOS="6985"
+                   WIDTH="955"
+                   HEIGHT="279"
+                   ID="eSc_textblock_24d9d29c"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="5579 7011 5657 7212 4806 7264 4702 7186 4754 6985"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_78234f48"
+                    TAGREFS="LT101"
+                    BASELINE="4750 7179 5588 7173" 
+                    HPOS="4741"
+                    VPOS="6998"
+                    WIDTH="844"
+                    HEIGHT="201">
+            <Shape><Polygon POINTS="5520 7011 5455 7011 5429 7036 5345 7004 5325 7004 5293 7004 5254 7030 5241 7036 5228 7030 5157 6998 5150 6998 5144 6998 5137 6998 5053 7023 4988 7036 4741 7011 4747 7173 4747 7192 5579 7199 5585 7166 5579 7056 5520 7011"/></Shape>
+	    <String CONTENT="40. IX. 1-2"
+                    HPOS="4741"
+                    VPOS="6998"
+                    WIDTH="844"
+                    HEIGHT="201"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

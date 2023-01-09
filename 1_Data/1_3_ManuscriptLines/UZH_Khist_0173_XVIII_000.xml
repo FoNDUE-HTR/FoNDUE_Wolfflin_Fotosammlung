@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0173_XVIII_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6603"
+          HEIGHT="7807"
+          PHYSICAL_IMG_NR="111"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6603"
+                  HEIGHT="7807">
+        
+        <TextBlock HPOS="2552"
+                   VPOS="780"
+                   WIDTH="2852"
+                   HEIGHT="800"
+                   ID="eSc_textblock_84c81514"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="5378 1060 3203 1112 3177 1197 3431 1275 3815 1249 3868 1528 2552 1580 2552 1249 2832 1249 2865 1190 2552 1112 2552 780 5300 780 5404 956"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_04d22887"
+                    TAGREFS="LT100"
+                    BASELINE="2620 988 3316 995 5259 975" 
+                    HPOS="2611"
+                    VPOS="787"
+                    WIDTH="2644"
+                    HEIGHT="312">
+            <Shape><Polygon POINTS="2617 982 2611 819 3373 852 3412 806 3425 800 3425 800 3425 793 3425 793 3431 793 3431 793 3438 793 3438 793 3438 793 3444 793 3685 800 3815 813 3815 813 3822 813 3822 813 3822 813 3828 813 3828 813 3828 819 3861 845 4245 800 4245 800 4252 800 4252 800 4258 800 4421 839 4623 793 4655 787 4655 787 4655 787 4662 787 4662 787 4662 787 4668 787 4668 787 4675 787 4675 787 4675 793 4747 845 4864 845 5235 787 5255 969 5248 1021 4265 1092 4258 1092 4258 1092 3985 1060 3815 1040 3783 1066 3750 1092 3750 1092 3744 1092 3744 1092 3744 1092 3737 1092 3737 1092 3737 1092 3731 1092 3731 1092 3724 1092 3724 1092 3724 1092 3718 1092 3718 1092 3692 1066 3646 1040 3535 1040 3392 1040 3353 1079 3334 1092 3334 1099 3334 1099 3327 1099 3327 1099 3321 1099 3321 1099 3321 1099 3314 1099 3314 1099 3308 1099 3236 1079 3099 1047 2891 1092 2845 1099 2845 1099 2845 1099 2839 1099 2839 1099 2832 1099 2832 1099 2832 1099 2819 1092 2721 1047 2624 1099"/></Shape>
+	    <String CONTENT="FRIEDR. HOSEMANN 1807-1875"
+                    HPOS="2611"
+                    VPOS="787"
+                    WIDTH="2644"
+                    HEIGHT="312"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8399ce7f"
+                    TAGREFS="LT100"
+                    BASELINE="2576 1444 3693 1470" 
+                    HPOS="2546"
+                    VPOS="1262"
+                    WIDTH="1146"
+                    HEIGHT="331">
+            <Shape><Polygon POINTS="2572 1437 2559 1307 2715 1262 2721 1262 2721 1262 2728 1262 2728 1262 2728 1262 2734 1262 2734 1262 2734 1262 2741 1262 2741 1262 2741 1268 2780 1307 2930 1314 2988 1314 2995 1314 3112 1268 3112 1268 3119 1268 3119 1268 3125 1268 3125 1268 3125 1268 3132 1268 3281 1320 3281 1320 3288 1320 3360 1294 3360 1294 3366 1294 3366 1294 3373 1294 3373 1294 3685 1333 3692 1463 3685 1528 3464 1528 3457 1528 3392 1587 3392 1593 3392 1593 3386 1593 3386 1593 3386 1593 3379 1593 3379 1593 3373 1593 3373 1593 3373 1593 3366 1593 3203 1548 3028 1593 3021 1593 3021 1593 3014 1593 3014 1593 3008 1593 2839 1554 2624 1587 2624 1587 2617 1587 2617 1587 2617 1587 2611 1587 2611 1587 2611 1587 2604 1587 2546 1548"/></Shape>
+	    <String CONTENT="Ohne Mappe"
+                    HPOS="2546"
+                    VPOS="1262"
+                    WIDTH="1146"
+                    HEIGHT="331"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4223"
+                   VPOS="7506"
+                   WIDTH="1112"
+                   HEIGHT="299"
+                   ID="eSc_textblock_5a225de1"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="4223 7770 4273 7506 5300 7506 5335 7805"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_499c8987"
+                    TAGREFS="LT101"
+                    BASELINE="4283 7730 5275 7735" 
+                    HPOS="4271"
+                    VPOS="7553"
+                    WIDTH="1010"
+                    HEIGHT="201">
+            <Shape><Polygon POINTS="4278 7728 4271 7592 4655 7553 4655 7553 4662 7553 4662 7553 4890 7585 5183 7553 5183 7553 5189 7553 5189 7553 5189 7553 5196 7553 5196 7553 5281 7592 5274 7728 5274 7754 4278 7754"/></Shape>
+	    <String CONTENT="173. XVIII. 1-3"
+                    HPOS="4271"
+                    VPOS="7553"
+                    WIDTH="1010"
+                    HEIGHT="201"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

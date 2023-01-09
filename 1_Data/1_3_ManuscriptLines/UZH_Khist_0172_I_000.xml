@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0172_I_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6600"
+          HEIGHT="7806"
+          PHYSICAL_IMG_NR="84"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6600"
+                  HEIGHT="7806">
+        
+        <TextBlock HPOS="2915"
+                   VPOS="754"
+                   WIDTH="1654"
+                   HEIGHT="826"
+                   ID="eSc_textblock_8a29715b"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="4569 1301 4569 1580 2942 1580 2915 1248 3020 1216 2915 1138 2968 754 4569 780 4569 1060 4256 1118 4289 1248"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e9cdde4d"
+                    TAGREFS="LT100"
+                    BASELINE="3026 982 4426 969" 
+                    HPOS="3007"
+                    VPOS="767"
+                    WIDTH="1419"
+                    HEIGHT="267">
+            <Shape><Polygon POINTS="3026 982 3007 806 4406 767 4426 969 4426 1001 3026 1034"/></Shape>
+	    <String CONTENT="HANS HOLBEIN D. J."
+                    HPOS="3007"
+                    VPOS="767"
+                    WIDTH="1419"
+                    HEIGHT="267"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5d58dcda"
+                    TAGREFS="LT100"
+                    BASELINE="2990 1451 3970 1463" 
+                    HPOS="2974"
+                    VPOS="1274"
+                    WIDTH="989"
+                    HEIGHT="261">
+            <Shape><Polygon POINTS="2987 1450 2974 1307 3072 1274 3078 1274 3078 1274 3078 1274 3085 1274 3085 1274 3085 1274 3091 1274 3091 1274 3098 1274 3156 1314 3202 1340 3358 1340 3378 1320 3417 1281 3417 1274 3417 1274 3423 1274 3423 1274 3423 1274 3430 1274 3430 1274 3436 1274 3560 1274 3560 1274 3560 1274 3566 1274 3566 1274 3566 1274 3573 1274 3573 1274 3638 1327 3644 1333 3671 1327 3794 1301 3794 1301 3794 1301 3801 1301 3801 1301 3801 1301 3957 1340 3963 1457 3957 1483 3625 1535 3625 1535 3618 1535 3618 1535 3618 1535 3612 1535 3612 1535 3501 1489 3150 1522 3143 1522 3143 1522 3143 1522 2974 1483"/></Shape>
+	    <String CONTENT="Ohne Mappe"
+                    HPOS="2974"
+                    VPOS="1274"
+                    WIDTH="989"
+                    HEIGHT="261"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3785"
+                   VPOS="7509"
+                   WIDTH="1140"
+                   HEIGHT="238"
+                   ID="eSc_textblock_5965e63a"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="3785 7509 3785 7747 4925 7747 4925 7509"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_8a4ac7a5"
+                    TAGREFS="LT101"
+                    BASELINE="3853 7708 4839 7691" 
+                    HPOS="3827"
+                    VPOS="7402"
+                    WIDTH="1009"
+                    HEIGHT="332">
+            <Shape><Polygon POINTS="3846 7701 3827 7409 4159 7402 4165 7402 4172 7402 4178 7402 4211 7422 4269 7461 4328 7428 4341 7422 4347 7422 4354 7422 4823 7454 4836 7688 4829 7714 3846 7734"/></Shape>
+	    <String CONTENT="172. I. 1-10"
+                    HPOS="3827"
+                    VPOS="7402"
+                    WIDTH="1009"
+                    HEIGHT="332"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

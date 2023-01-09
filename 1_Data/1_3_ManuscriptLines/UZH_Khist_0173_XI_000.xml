@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0173_XI_000.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6597"
+          HEIGHT="7804"
+          PHYSICAL_IMG_NR="103"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6597"
+                  HEIGHT="7804">
+        
+        <TextBlock HPOS="2758"
+                   VPOS="780"
+                   WIDTH="1705"
+                   HEIGHT="748"
+                   ID="eSc_textblock_783ccd55"
+                   TAGREFS="BT282">
+          <Shape><Polygon POINTS="4437 1060 3324 1112 3350 1222 3552 1274 3526 1528 2940 1528 2758 1476 2758 1248 2914 1164 2758 1034 2784 780 4411 806 4463 955"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d56ae79e"
+                    TAGREFS="LT100"
+                    BASELINE="2849 995 4349 978" 
+                    HPOS="2836"
+                    VPOS="799"
+                    WIDTH="1509"
+                    HEIGHT="248">
+            <Shape><Polygon POINTS="2843 988 2836 799 4332 819 4345 975 4339 1027 2843 1047"/></Shape>
+	    <String CONTENT="PIETER DE HOOCH"
+                    HPOS="2836"
+                    VPOS="799"
+                    WIDTH="1509"
+                    HEIGHT="248"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_88b7585a"
+                    TAGREFS="LT100"
+                    BASELINE="2797 1466 3429 1446" 
+                    HPOS="2778"
+                    VPOS="1261"
+                    WIDTH="650"
+                    HEIGHT="273">
+            <Shape><Polygon POINTS="2791 1463 2778 1261 3415 1287 3428 1443 3428 1515 2791 1534"/></Shape>
+	    <String CONTENT="Interieur"
+                    HPOS="2778"
+                    VPOS="1261"
+                    WIDTH="650"
+                    HEIGHT="273"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4198"
+                   VPOS="7518"
+                   WIDTH="979"
+                   HEIGHT="262"
+                   ID="eSc_textblock_986160c5"
+                   TAGREFS="BT283">
+          <Shape><Polygon POINTS="4198 7518 4198 7780 5177 7780 5177 7518"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_c265d0d6"
+                    TAGREFS="LT101"
+                    BASELINE="4282 7706 5151 7716" 
+                    HPOS="4267"
+                    VPOS="7459"
+                    WIDTH="879"
+                    HEIGHT="266">
+            <Shape><Polygon POINTS="4280 7699 4280 7459 4768 7517 5139 7485 5146 7712 5133 7725 4267 7719"/></Shape>
+	    <String CONTENT="173. XI. 1-9"
+                    HPOS="4267"
+                    VPOS="7459"
+                    WIDTH="879"
+                    HEIGHT="266"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

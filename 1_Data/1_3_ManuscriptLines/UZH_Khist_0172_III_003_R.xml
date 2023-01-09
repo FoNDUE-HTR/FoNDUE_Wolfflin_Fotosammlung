@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0172_III_003_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration" /><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" /><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone" /><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone" />
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print" /><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" /><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print" />
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7245" HEIGHT="5912" PHYSICAL_IMG_NR="361" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="7245" HEIGHT="5912">
+        
+        <TextBlock HPOS="1009" VPOS="1021" WIDTH="5212" HEIGHT="3942" ID="eSc_textblock_de607864" TAGREFS="BT284">
+          <Shape><Polygon POINTS="1009 1021 1032 4963 6221 4917 6221 1029" /></Shape>
+          
+          
+          </TextBlock>
+        
+        <TextBlock HPOS="916" VPOS="4886" WIDTH="5088" HEIGHT="542" ID="eSc_textblock_d8022b50" TAGREFS="BT297">
+          <Shape><Polygon POINTS="6004 4886 6000 5165 2867 5165 2867 5428 924 5428 916 4940" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_8973e8a6" TAGREFS="LT103" BASELINE="1073 5108 2114 5108 2829 5089 5874 5044" HPOS="1059" VPOS="4803" WIDTH="4810" HEIGHT="374">
+            <Shape><Polygon POINTS="1069 5104 1059 4857 5855 4803 5869 5039 5869 5079 5564 5123 5564 5123 5559 5123 5559 5123 5559 5123 5386 5089 5372 5089 5362 5089 5273 5128 5273 5128 5268 5128 5268 5128 5268 5128 5263 5128 4913 5099 4874 5099 4854 5099 4751 5128 4746 5128 4746 5128 4741 5128 4741 5128 4741 5128 4736 5128 4736 5128 4677 5104 4657 5099 4534 5108 4218 5133 4213 5133 4213 5133 4041 5118 3947 5108 3928 5118 3878 5143 3878 5143 3878 5143 3873 5143 3873 5143 3873 5143 3868 5143 3597 5123 3538 5123 3528 5128 3474 5153 3474 5153 3474 5153 3469 5153 3469 5153 3469 5153 2883 5158 2878 5158 2878 5158 2878 5158 2873 5158 2824 5143 2779 5128 2681 5143 2612 5153 2612 5153 2607 5153 2607 5153 2607 5153 2602 5153 2577 5148 2523 5128 2464 5148 2405 5168 2400 5168 2400 5168 2400 5168 2395 5168 2395 5168 2296 5153 2267 5148 2183 5153 1936 5173 1931 5173 1931 5173 1931 5173 1927 5173 1877 5158 1798 5138 1729 5163 1685 5177 1685 5177 1680 5177 1680 5177 1675 5177 1675 5177 1557 5168 1389 5148 1069 5173" /></Shape>
+	    <String CONTENT="Holbein, Hans d. J. (1497 - 1543). Vorstudie zum Familienbilde des Sir Thomas" HPOS="1059" VPOS="4803" WIDTH="4810" HEIGHT="374" />
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c1131cdc" TAGREFS="LT103" BASELINE="1119 5318 1498 5301 1562 5296 2119 5286 2188 5286 2764 5266" HPOS="1108" VPOS="5108" WIDTH="1652" HEIGHT="262">
+            <Shape><Polygon POINTS="1118 5315 1108 5153 1375 5177 1473 5148 1493 5143 1498 5143 1498 5143 1498 5143 1503 5143 1503 5143 1552 5148 1734 5173 1912 5148 2060 5123 2060 5123 2065 5123 2065 5123 2070 5123 2070 5123 2070 5123 2114 5143 2143 5158 2193 5143 2252 5128 2257 5128 2257 5128 2262 5128 2262 5128 2267 5128 2331 5143 2370 5153 2380 5143 2415 5113 2415 5113 2419 5113 2419 5113 2419 5113 2424 5113 2424 5113 2424 5113 2538 5108 2543 5108 2543 5108 2750 5143 2760 5261 2755 5330 2602 5301 2395 5340 2341 5345 2341 5345 2336 5345 2336 5345 2336 5345 2331 5345 2331 5345 2331 5345 2316 5340 2257 5306 2208 5340 2198 5350 2193 5350 2193 5350 2193 5350 2188 5350 2188 5350 2188 5350 1991 5355 1986 5355 1986 5355 1981 5355 1981 5355 1981 5355 1976 5355 1961 5345 1946 5330 1927 5345 1907 5360 1902 5360 1902 5360 1902 5360 1897 5360 1897 5360 1892 5360 1892 5360 1892 5360 1887 5360 1843 5345 1759 5320 1665 5350 1596 5370 1591 5370 1591 5370 1591 5370 1587 5370 1587 5370 1582 5370 1582 5370 1582 5370 1577 5370 1577 5370 1552 5350 1522 5330 1118 5355" /></Shape>
+	    <String CONTENT="More. Basel, öff. Kunstslg" HPOS="1108" VPOS="5108" WIDTH="1652" HEIGHT="262" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="6878" VPOS="1192" WIDTH="294" HEIGHT="935" ID="eSc_textblock_d2f6c88f" TAGREFS="BT285">
+          <Shape><Polygon POINTS="6878 1192 6878 2127 7172 2127 7172 1192" /></Shape>
+          
+          
+          <TextLine ID="eSc_line_492b484f" TAGREFS="LT103" BASELINE="7090 2044 7096 1848 7116 1264" HPOS="6885" VPOS="1251" WIDTH="276" HEIGHT="788">
+            <Shape><Polygon POINTS="7087 2039 6909 2029 6885 1251 7111 1261 7161 1261 7151 2039" /></Shape>
+	    <String CONTENT="172. III. 3" HPOS="6885" VPOS="1251" WIDTH="276" HEIGHT="788" />
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2464" VPOS="5892" WIDTH="2415" HEIGHT="15" ID="eSc_textblock_967fdcee" TAGREFS="BT284">
+          <Shape><Polygon POINTS="4879 5892 4879 5907 2464 5907 2464 5892" /></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5002" VPOS="5892" WIDTH="725" HEIGHT="15" ID="eSc_textblock_9efc8653" TAGREFS="BT284">
+          <Shape><Polygon POINTS="5002 5892 5727 5892 5727 5907 5002 5907" /></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="6323" VPOS="5892" WIDTH="724" HEIGHT="15" ID="eSc_textblock_652256aa" TAGREFS="BT284">
+          <Shape><Polygon POINTS="6323 5907 6323 5892 7047 5892 7047 5907" /></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
