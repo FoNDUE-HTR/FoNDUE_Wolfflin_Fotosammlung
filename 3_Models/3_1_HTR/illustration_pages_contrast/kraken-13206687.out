@@ -1,0 +1,109 @@
+KETOS training
+WARNING:root:scikit-learn version 1.0.2 is not supported. Minimum required version: 0.17. Maximum required version: 0.19.2. Disabling scikit-learn conversion API.
+WARNING:root:Torch version 1.10.0+cu102 has not been tested with coremltools. You may run into unexpected errors. Torch 1.9.1 is the most recent version that has been tested.
+Building training set
+[75.5242] Text line " " is empty after transformations 
+[128.7478] Line polygon outside of image bounds 
+[133.1570] Line polygon outside of image bounds 
+[156.4257] Line polygon outside of image bounds 
+[162.6677] Line polygon outside of image bounds 
+[177.7852] Text line " " is empty after transformations 
+[248.3433] Line polygon outside of image bounds 
+[257.3776] Line polygon outside of image bounds 
+[279.0272] Text line " " is empty after transformations 
+[279.0276] Text line " " is empty after transformations 
+[279.0277] Text line " " is empty after transformations 
+[279.0279] Text line " " is empty after transformations 
+[300.8699] Line polygon outside of image bounds 
+[306.9473] Line polygon outside of image bounds 
+[371.1490] Text line " " is empty after transformations 
+[389.7598] Line polygon outside of image bounds 
+[425.2724] Line polygon outside of image bounds 
+[541.1584] Line polygon outside of image bounds 
+[607.6706] Line polygon outside of image bounds 
+[608.4111] Line polygon outside of image bounds 
+[629.1866] Line polygon outside of image bounds 
+[694.8420] Text line " " is empty after transformations 
+[769.2549] Text line " " is empty after transformations 
+[769.9637] Line polygon outside of image bounds 
+[783.2632] Text line " " is empty after transformations 
+[803.6993] Line polygon outside of image bounds 
+[882.7143] Line polygon outside of image bounds 
+[913.4868] Line polygon outside of image bounds 
+[924.9773] Line polygon outside of image bounds 
+[927.9727] Line polygon outside of image bounds 
+[935.8689] Line polygon outside of image bounds 
+[1011.1474] Text line " " is empty after transformations 
+[1053.7955] Text line " " is empty after transformations 
+[1089.1675] Line polygon outside of image bounds 
+Building validation set
+[1162.0732] Line polygon outside of image bounds 
+[1195.5324] Line polygon outside of image bounds 
+[1263.5653] Line polygon outside of image bounds 
+[1293.7292] Text line " " is empty after transformations 
+[1293.7296] alphabet mismatch: chars in training set only: {'è', 'À', 'É', '«', 'ô', 'ª', '·', '—', 'ê', 'ū', 'x', ';', '$', '›', '»', 'Ò', 'j', '&', '€', '‹', 'ò', 'Ö', 'ó', '„', 'é', 'ß'} (not included in accuracy test during training) 
+[1293.7297] alphabet mismatch: chars in validation set only: {'â', 'ç'} (not trained) 
+Initializing model ✓
+stage 1/∞
+Accuracy report (1) 0.0361 3685 3552
+stage 2/∞
+Accuracy report (2) 0.0404 3685 3536
+stage 3/∞
+Accuracy report (3) 0.0274 3685 3584
+stage 4/∞
+Accuracy report (4) 0.1455 3685 3149
+stage 5/∞
+Accuracy report (5) 0.1813 3685 3017
+stage 6/∞
+Accuracy report (6) 0.2244 3685 2858
+stage 7/∞
+Accuracy report (7) 0.2412 3685 2796
+stage 8/∞
+Accuracy report (8) 0.2643 3685 2711
+stage 9/∞
+Accuracy report (9) 0.3113 3685 2538
+stage 10/∞
+Accuracy report (10) 0.3110 3685 2539
+stage 11/∞
+Accuracy report (11) 0.3354 3685 2449
+stage 12/∞
+Accuracy report (12) 0.3528 3685 2385
+stage 13/∞
+Accuracy report (13) 0.3620 3685 2351
+stage 14/∞
+Accuracy report (14) 0.3642 3685 2343
+stage 15/∞
+Accuracy report (15) 0.3995 3685 2213
+stage 16/∞
+Accuracy report (16) 0.4195 3685 2139
+stage 17/∞
+Accuracy report (17) 0.4361 3685 2078
+stage 18/∞
+Accuracy report (18) 0.4299 3685 2101
+stage 19/∞
+Accuracy report (19) 0.4206 3685 2135
+stage 20/∞
+Accuracy report (20) 0.4402 3685 2063
+stage 21/∞
+Accuracy report (21) 0.4564 3685 2003
+stage 22/∞
+Accuracy report (22) 0.4670 3685 1964
+stage 23/∞
+Accuracy report (23) 0.4847 3685 1899
+stage 24/∞
+Accuracy report (24) 0.4849 3685 1898
+stage 25/∞
+Accuracy report (25) 0.4836 3685 1903
+stage 26/∞
+Accuracy report (26) 0.4972 3685 1853
+stage 27/∞
+Accuracy report (27) 0.4841 3685 1901
+stage 28/∞
+Accuracy report (28) 0.5091 3685 1809
+stage 29/∞
+Accuracy report (29) 0.4985 3685 1848
+stage 30/∞
+Accuracy report (30) 0.5153 3685 1786
+stage 31/∞
+Accuracy report (31) 0.5129 3685 1795
+Moving best model AllLines_26.mlmodel (0.49715059995651245) to AllLines_best.mlmodel

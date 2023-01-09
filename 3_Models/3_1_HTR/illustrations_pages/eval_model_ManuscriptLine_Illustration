@@ -1,0 +1,67 @@
+Loading model Models/illustrations_pages/illustrations_pages_best.mlmodel	✓
+Evaluating Models/illustrations_pages/illustrations_pages_best.mlmodel
+Evaluating
+=== report  ===
+
+496	Characters
+71	Errors
+85.69%	Accuracy
+
+46	Insertions
+8	Deletions
+17	Substitutions
+
+Count	Missed	%Right
+152	13	91.45%	Common
+344	50	85.47%	Latin
+
+Errors	Correct-Generated
+4	{ a } - {  }
+4	{ n } - {  }
+3	{ I } - {  }
+3	{ m } - {  }
+3	{ e } - {  }
+3	{ u } - {  }
+3	{ p } - {  }
+3	{  } - { n }
+2	{ s } - {  }
+2	{  } - { 2 }
+2	{ t } - {  }
+2	{ i } - {  }
+2	{ r } - {  }
+2	{ 2 } - {  }
+1	{ 1 } - { 7 }
+1	{ 2 } - { 9 }
+1	{ D } - { F }
+1	{ o } - { SPACE }
+1	{ 1 } - {  }
+1	{ k } - {  }
+1	{ y } - {  }
+1	{ 1 } - { 4 }
+1	{ 7 } - { 3 }
+1	{ e } - { i }
+1	{ f } - { n }
+1	{ H } - {  }
+1	{ c } - {  }
+1	{ h } - {  }
+1	{ m } - { e }
+1	{ d } - { A }
+1	{ . } - { V }
+1	{ SPACE } - {  }
+1	{  } - { S }
+1	{  } - { . }
+1	{ v } - {  }
+1	{ l } - { i }
+1	{ o } - {  }
+1	{ 2 } - { 5 }
+1	{ ö } - {  }
+1	{ g } - {  }
+1	{ ä } - {  }
+1	{ r } - { e }
+1	{ 7 } - { 1 }
+1	{  } - { i }
+1	{ 0 } - {  }
+1	{ I } - { V }
+1	{ 3 } - { 9 }
+
+Average accuracy: 85.69%, (stddev: 0.00)
