@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_4_III_003_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6030"
+          HEIGHT="4570"
+          PHYSICAL_IMG_NR="540"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6030"
+                  HEIGHT="4570">
+        
+        <TextBlock HPOS="20"
+                   VPOS="18"
+                   WIDTH="5988"
+                   HEIGHT="4540"
+                   ID="eSc_textblock_7d14010f"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="20 30 20 4558 6008 4528 6008 18"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_cec8fed7"
+                    TAGREFS="LT102"
+                    BASELINE="882 4528 5157 4492" 
+                    HPOS="876"
+                    VPOS="4398"
+                    WIDTH="4277"
+                    HEIGHT="168">
+            <Shape><Polygon POINTS="879 4566 2837 4520 3374 4531 3538 4531 3542 4531 5150 4501 5153 4490 5142 4417 4380 4421 4361 4421 4186 4398 4182 4398 4022 4421 3999 4425 3980 4421 3877 4402 3873 4402 3713 4425 3672 4429 3607 4425 3352 4406 3348 4406 2723 4413 2719 4413 2658 4432 2635 4436 2616 4432 2567 4413 2563 4413 2559 4413 2430 4432 2418 4432 2411 4432 2312 4413 2308 4413 2304 4413 2232 4432 2205 4440 2152 4432 2018 4417 2015 4417 2011 4417 1954 4436 1935 4440 1912 4436 1832 4417 1828 4417 1824 4417 1771 4436 1748 4444 1683 4436 1550 4421 1546 4421 876 4440 879 4524"/></Shape>
+	    <String CONTENT="12619 - BERGAMO - La Vergine col Bambino fra quattro Santi - Moroni - Accad. Carrara Anderson, Roma"
+                    HPOS="876"
+                    VPOS="4398"
+                    WIDTH="4277"
+                    HEIGHT="168"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

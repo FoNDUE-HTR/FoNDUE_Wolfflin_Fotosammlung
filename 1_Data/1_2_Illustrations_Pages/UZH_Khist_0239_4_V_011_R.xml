@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_4_V_011_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4847"
+          HEIGHT="6254"
+          PHYSICAL_IMG_NR="518"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4847"
+                  HEIGHT="6254">
+        
+        <TextBlock HPOS="403"
+                   VPOS="5985"
+                   WIDTH="3435"
+                   HEIGHT="166"
+                   ID="eSc_textblock_6015b4a9"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="3838 6151 3769 5985 430 5985 403 6144"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_fd1e2c64"
+                    TAGREFS="LT102"
+                    BASELINE="513 6089 3734 6082" 
+                    HPOS="505"
+                    VPOS="5988"
+                    WIDTH="3226"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="3372 5988 3319 5988 3267 5988 3215 5988 3163 5988 3111 5988 3059 5988 3007 5988 2955 5988 2902 5988 2850 5988 2798 5988 2746 5988 2694 5988 2642 5988 2590 5988 2538 5988 2486 5988 2433 5988 2381 5988 2329 5988 2277 5988 2225 5988 2173 5988 2121 5988 2110 5993 2105 5998 505 5998 510 6087 510 6113 3726 6108 3731 6076 3721 5993 3413 5988 3372 5988"/></Shape>
+	    <String CONTENT="12618 BERGAMO Ritratto di bambina - Moroni - Accad. Carrara - Anderson, Roma"
+                    HPOS="505"
+                    VPOS="5988"
+                    WIDTH="3226"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="161"
+                   VPOS="117"
+                   WIDTH="4569"
+                   HEIGHT="5875"
+                   ID="eSc_textblock_53cdea11"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="161 151 182 5992 4730 5992 4730 117"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

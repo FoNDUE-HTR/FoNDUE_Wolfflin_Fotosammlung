@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_4_III_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4841"
+          HEIGHT="6253"
+          PHYSICAL_IMG_NR="542"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4841"
+                  HEIGHT="6253">
+        
+        <TextBlock HPOS="13"
+                   VPOS="22"
+                   WIDTH="4814"
+                   HEIGHT="6225"
+                   ID="eSc_textblock_b156024f"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="44 22 13 6247 4827 6241 4827 37"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_8538b56d"
+                    TAGREFS="LT102"
+                    BASELINE="856 6236 4184 6232" 
+                    HPOS="849"
+                    VPOS="6138"
+                    WIDTH="3330"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="854 6232 854 6247 901 6247 953 6247 1005 6247 1057 6247 1109 6247 1162 6247 1214 6247 1266 6247 1318 6247 1370 6247 1422 6247 1474 6247 1526 6247 1578 6247 1631 6247 1683 6247 1735 6247 1787 6247 1839 6247 1891 6247 1943 6247 1995 6247 2047 6247 2100 6247 2152 6247 2204 6247 2256 6247 2308 6247 2360 6247 2412 6247 2464 6247 2516 6247 2569 6247 2621 6247 2673 6247 2725 6247 2777 6247 2829 6247 2881 6247 2933 6247 2985 6247 3038 6247 3090 6247 3142 6247 3194 6247 3246 6247 3298 6247 3350 6247 3402 6247 3454 6247 3506 6247 3559 6247 3611 6247 3663 6247 3715 6247 3767 6247 3819 6247 3871 6247 3923 6247 3975 6247 4028 6247 4080 6247 4132 6247 4173 6247 4179 6226 4168 6138 849 6138 854 6232"/></Shape>
+	    <String CONTENT="12464 - VERONA - La Vergine col Bambino - Morone - Museo civico - Anderson, Roma"
+                    HPOS="849"
+                    VPOS="6138"
+                    WIDTH="3330"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

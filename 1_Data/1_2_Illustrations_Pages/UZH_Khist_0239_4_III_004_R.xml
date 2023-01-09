@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_4_III_004_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4842"
+          HEIGHT="6334"
+          PHYSICAL_IMG_NR="539"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4842"
+                  HEIGHT="6334">
+        
+        <TextBlock HPOS="45"
+                   VPOS="30"
+                   WIDTH="4765"
+                   HEIGHT="6301"
+                   ID="eSc_textblock_bbe05290"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="45 41 45 6331 4810 6331 4810 30"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_6da4cacc"
+                    TAGREFS="LT102"
+                    BASELINE="274 6300 3140 6310" 
+                    HPOS="264"
+                    VPOS="6207"
+                    WIDTH="2872"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="269 6297 264 6323 1689 6328 1742 6328 1795 6328 1848 6328 1900 6328 1953 6328 2006 6328 2059 6328 2112 6328 2164 6328 2217 6328 2270 6328 2323 6328 2376 6328 2428 6328 2481 6328 2534 6328 2587 6328 2640 6328 2692 6328 2745 6328 2798 6328 2851 6328 2904 6328 2956 6328 3009 6328 3062 6328 3115 6328 3125 6328 3136 6307 3131 6217 269 6207 269 6297"/></Shape>
+	    <String CONTENT="12387 - VERONA - La Vergine col Bambino - Moroni - S. M. in Organo"
+                    HPOS="264"
+                    VPOS="6207"
+                    WIDTH="2872"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a2de8302"
+                    TAGREFS="LT102"
+                    BASELINE="3183 6310 4783 6315" 
+                    HPOS="3173"
+                    VPOS="6202"
+                    WIDTH="1605"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="3173 6328 3226 6328 3279 6328 3331 6328 3384 6328 3437 6328 3490 6328 3543 6328 3595 6328 3648 6328 3701 6328 3754 6328 3807 6328 3859 6328 3912 6328 3965 6328 4018 6328 4071 6328 4123 6328 4176 6328 4229 6328 4282 6328 4335 6328 4387 6328 4440 6328 4493 6328 4546 6328 4599 6328 4651 6328 4704 6328 4757 6328 4768 6328 4778 6312 4778 6217 3178 6202 3178 6307"/></Shape>
+	    <String CONTENT="Riproduzione interdetta - Anderson -"
+                    HPOS="3173"
+                    VPOS="6202"
+                    WIDTH="1605"
+                    HEIGHT="126"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

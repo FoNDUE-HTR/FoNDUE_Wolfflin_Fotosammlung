@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_3_VI_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5811"
+          HEIGHT="7850"
+          PHYSICAL_IMG_NR="458"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="5811"
+                  HEIGHT="7850">
+        
+        <TextBlock HPOS="452"
+                   VPOS="745"
+                   WIDTH="4933"
+                   HEIGHT="6182"
+                   ID="eSc_textblock_daf80880"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="497 745 5359 811 5385 6875 1361 6927 471 6924 452 835"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f26e6f07"
+                    TAGREFS="LT102"
+                    BASELINE="2624 6722 3213 6725" 
+                    HPOS="2611"
+                    VPOS="6613"
+                    WIDTH="595"
+                    HEIGHT="223">
+            <Shape><Polygon POINTS="2617 6718 2611 6816 2997 6836 3003 6836 3199 6790 3206 6724 3206 6626 2617 6613 2617 6718"/></Shape>
+	    <String CONTENT="BTR "
+                    HPOS="2611"
+                    VPOS="6613"
+                    WIDTH="595"
+                    HEIGHT="223"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_15d2ea31"
+                    TAGREFS="LT102"
+                    BASELINE="4375 6717 4866 6719" 
+                    HPOS="4364"
+                    VPOS="6620"
+                    WIDTH="498"
+                    HEIGHT="157">
+            <Shape><Polygon POINTS="4371 6711 4364 6777 4430 6777 4495 6777 4561 6777 4626 6777 4691 6777 4757 6777 4822 6777 4855 6777 4862 6718 4862 6626 4371 6620 4371 6711"/></Shape>
+	    <String CONTENT="BR"
+                    HPOS="4364"
+                    VPOS="6620"
+                    WIDTH="498"
+                    HEIGHT="157"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_95c48297"
+                    TAGREFS="LT102"
+                    BASELINE="561 6739 1679 6728" 
+                    HPOS="549"
+                    VPOS="6620"
+                    WIDTH="1126"
+                    HEIGHT="144">
+            <Shape><Polygon POINTS="556 6737 556 6751 1668 6764 1675 6724 1655 6620 549 6626 556 6737"/></Shape>
+	    <String CONTENT="CHRISTOPTHPH MIELEMERE TRCIE"
+                    HPOS="549"
+                    VPOS="6620"
+                    WIDTH="1126"
+                    HEIGHT="144"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_09b80bab"
+                    TAGREFS="LT102"
+                    BASELINE="775 6800 1448 6789" 
+                    HPOS="765"
+                    VPOS="6731"
+                    WIDTH="681"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="1420 6731 1354 6731 1289 6731 1223 6731 1158 6731 1092 6737 1027 6737 961 6737 896 6737 831 6737 765 6737 772 6796 772 6842 1439 6836 1446 6783 1433 6731 1420 6731"/></Shape>
+	    <String CONTENT="PEcLioL."
+                    HPOS="765"
+                    VPOS="6731"
+                    WIDTH="681"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0923eabb"
+                    TAGREFS="LT102"
+                    BASELINE="3933 6794 5296 6786" 
+                    HPOS="3926"
+                    VPOS="6639"
+                    WIDTH="1368"
+                    HEIGHT="203">
+            <Shape><Polygon POINTS="4842 6724 4777 6724 4711 6724 4646 6724 4580 6724 4515 6724 4449 6724 4443 6659 3926 6646 3932 6790 3932 6842 5294 6816 5294 6783 5274 6639 4842 6672 4842 6724"/></Shape>
+	    <String CONTENT="CHRISTOPHARER ARSTEHR AMBTERGER,"
+                    HPOS="3926"
+                    VPOS="6639"
+                    WIDTH="1368"
+                    HEIGHT="203"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5049"
+                   VPOS="7580"
+                   WIDTH="630"
+                   HEIGHT="273"
+                   ID="eSc_textblock_ec624a6d"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="5049 7580 5049 7853 5679 7853 5679 7580"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_70bbe1c4"
+                    TAGREFS="LT103"
+                    BASELINE="5087 7785 5634 7776" 
+                    HPOS="5078"
+                    VPOS="7614"
+                    WIDTH="549"
+                    HEIGHT="190">
+            <Shape><Polygon POINTS="5084 7784 5084 7804 5621 7797 5627 7771 5614 7627 5078 7614 5084 7784"/></Shape>
+	    <String CONTENT="1I. 4"
+                    HPOS="5078"
+                    VPOS="7614"
+                    WIDTH="549"
+                    HEIGHT="190"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

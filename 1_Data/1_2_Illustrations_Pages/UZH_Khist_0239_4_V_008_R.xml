@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_4_V_008_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="3608"
+          HEIGHT="6563"
+          PHYSICAL_IMG_NR="521"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3608"
+                  HEIGHT="6563">
+        
+        <TextBlock HPOS="125"
+                   VPOS="108"
+                   WIDTH="3410"
+                   HEIGHT="6354"
+                   ID="eSc_textblock_58d8e6ad"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="125 108 157 6462 3535 6462 3489 155"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_882b943f"
+                    TAGREFS="LT102"
+                    BASELINE="204 6337 1299 6337" 
+                    HPOS="197"
+                    VPOS="6256"
+                    WIDTH="1109"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="1292 6355 1297 6333 1306 6261 727 6257 613 6266 503 6262 403 6257 316 6256 217 6260 202 6327 197 6366"/></Shape>
+	    <String CONTENT="COLLECTION HANFSTAENGL LONDON"
+                    HPOS="197"
+                    VPOS="6256"
+                    WIDTH="1109"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3ca7d474"
+                    TAGREFS="LT102"
+                    BASELINE="1524 6344 2124 6339" 
+                    HPOS="1522"
+                    VPOS="6260"
+                    WIDTH="596"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="1522 6380 2109 6369 2118 6338 2118 6260 1539 6265 1522 6338"/></Shape>
+	    <String CONTENT="PRINTED IN MUNICH."
+                    HPOS="1522"
+                    VPOS="6260"
+                    WIDTH="596"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d3d4a60e"
+                    TAGREFS="LT102"
+                    BASELINE="2750 6349 3161 6357" 
+                    HPOS="2742"
+                    VPOS="6242"
+                    WIDTH="421"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="2742 6360 3148 6366 3159 6355 3163 6242 2757 6251 2748 6344"/></Shape>
+	    <String CONTENT="54. MORONI."
+                    HPOS="2742"
+                    VPOS="6242"
+                    WIDTH="421"
+                    HEIGHT="124"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_06941f44"
+                    TAGREFS="LT102"
+                    BASELINE="404 6411 1068 6411" 
+                    HPOS="399"
+                    VPOS="6349"
+                    WIDTH="668"
+                    HEIGHT="159">
+            <Shape><Polygon POINTS="1056 6349 1001 6349 947 6349 892 6349 837 6349 782 6349 728 6349 673 6349 618 6349 563 6349 509 6349 454 6349 399 6349 399 6409 399 6508 1067 6508 1067 6409 1067 6349 1056 6349"/></Shape>
+	    <String CONTENT="NATIONAL GALLERY"
+                    HPOS="399"
+                    VPOS="6349"
+                    WIDTH="668"
+                    HEIGHT="159"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_86e15b5d"
+                    TAGREFS="LT102"
+                    BASELINE="2389 6415 3487 6415" 
+                    HPOS="2374"
+                    VPOS="6322"
+                    WIDTH="1108"
+                    HEIGHT="175">
+            <Shape><Polygon POINTS="3098 6355 3044 6355 2989 6355 2934 6349 2879 6349 2825 6349 2770 6349 2764 6333 2688 6333 2631 6329 2553 6341 2468 6341 2374 6332 2387 6409 2387 6491 3476 6497 3482 6409 3482 6327 3429 6342 3409 6346 3352 6355 3306 6342 3252 6322 3224 6333 3153 6333 3153 6355"/></Shape>
+	    <String CONTENT="PORTRAIT OF AN ITALIAN NOBLEMAN"
+                    HPOS="2374"
+                    VPOS="6322"
+                    WIDTH="1108"
+                    HEIGHT="175"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

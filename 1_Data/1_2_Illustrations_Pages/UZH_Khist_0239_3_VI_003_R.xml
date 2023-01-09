@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_3_VI_003_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5223"
+          HEIGHT="6433"
+          PHYSICAL_IMG_NR="459"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="5223"
+                  HEIGHT="6433">
+        
+        <TextBlock HPOS="85"
+                   VPOS="102"
+                   WIDTH="5019"
+                   HEIGHT="6304"
+                   ID="eSc_textblock_6183f494"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="5104 102 5072 6298 4965 6363 1501 6406 278 6384 88 6373 85 214 150 150"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_a992de5e"
+                    TAGREFS="LT105"
+                    BASELINE="305 6123 1423 6117" 
+                    HPOS="294"
+                    VPOS="6030"
+                    WIDTH="1127"
+                    HEIGHT="145">
+            <Shape><Polygon POINTS="300 6122 300 6175 648 6148 916 6159 1313 6170 1319 6170 1324 6170 1421 6138 1421 6116 1410 6036 294 6030 300 6122"/></Shape>
+	    <String CONTENT="CSTITHER, KIESERMAEAER AogS."
+                    HPOS="294"
+                    VPOS="6030"
+                    WIDTH="1127"
+                    HEIGHT="145"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8aff8c10"
+                    TAGREFS="LT105"
+                    BASELINE="516 6200 1160 6187" 
+                    HPOS="509"
+                    VPOS="6122"
+                    WIDTH="649"
+                    HEIGHT="155">
+            <Shape><Polygon POINTS="1099 6122 1045 6122 992 6122 938 6122 884 6122 831 6122 777 6122 723 6122 670 6122 616 6122 563 6122 509 6122 514 6197 514 6240 804 6277 809 6277 954 6250 1072 6272 1077 6272 1083 6272 1158 6229 1158 6186 1142 6122 1099 6122"/></Shape>
+	    <String CONTENT="ReKrahno"
+                    HPOS="509"
+                    VPOS="6122"
+                    WIDTH="649"
+                    HEIGHT="155"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e56b9d57"
+                    TAGREFS="LT105"
+                    BASELINE="2337 6123 2903 6123" 
+                    HPOS="2332"
+                    VPOS="6030"
+                    WIDTH="569"
+                    HEIGHT="167">
+            <Shape><Polygon POINTS="2332 6122 2332 6164 2493 6191 2498 6191 2563 6181 2675 6159 2895 6197 2901 6122 2895 6030 2332 6030 2332 6122"/></Shape>
+	    <String CONTENT="PINE NM KYLS"
+                    HPOS="2332"
+                    VPOS="6030"
+                    WIDTH="569"
+                    HEIGHT="167"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bbaf471a"
+                    TAGREFS="LT105"
+                    BASELINE="4061 6110 4517 6110" 
+                    HPOS="4059"
+                    VPOS="6030"
+                    WIDTH="456"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="4059 6105 4059 6138 4515 6138 4515 6105 4515 6030 4059 6030 4059 6105"/></Shape>
+	    <String CONTENT="F. ARCSMA AMNNS."
+                    HPOS="4059"
+                    VPOS="6030"
+                    WIDTH="456"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7a955af2"
+                    TAGREFS="LT105"
+                    BASELINE="3604 6194 4942 6174" 
+                    HPOS="3598"
+                    VPOS="6047"
+                    WIDTH="1340"
+                    HEIGHT="316">
+            <Shape><Polygon POINTS="4509 6111 4456 6111 4402 6111 4348 6111 4295 6111 4241 6111 4188 6111 4134 6111 4080 6111 4075 6079 3598 6063 3603 6191 3603 6363 4938 6347 4938 6170 4928 6079 4702 6047 4697 6047 4504 6057 4509 6111"/></Shape>
+	    <String CONTENT="ASER MRES KRIGAM"
+                    HPOS="3598"
+                    VPOS="6047"
+                    WIDTH="1340"
+                    HEIGHT="316"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

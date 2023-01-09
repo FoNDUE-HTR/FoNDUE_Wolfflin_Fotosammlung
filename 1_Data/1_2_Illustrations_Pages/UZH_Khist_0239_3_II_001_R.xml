@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_3_II_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5991"
+          HEIGHT="4666"
+          PHYSICAL_IMG_NR="433"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="5991"
+                  HEIGHT="4666">
+        
+        <TextBlock HPOS="8"
+                   VPOS="12"
+                   WIDTH="5975"
+                   HEIGHT="4617"
+                   ID="eSc_textblock_089d6e85"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="8 12 8 4629 5983 4629 5983 4341 5983 12"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_14a3b29e"
+                    TAGREFS="LT102"
+                    BASELINE="1103 4578 4926 4584" 
+                    HPOS="1100"
+                    VPOS="4498"
+                    WIDTH="3825"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="1100 4576 1100 4603 4921 4596 4925 4580 4925 4502 1100 4498 1100 4576"/></Shape>
+	    <String CONTENT="(Ed.ne Alinari) P.e 2.a N.° 1068. VRENZIA - Chiesa di S. Giocanoi Le. La Circo di Goio co dli Apaoli. (Bpeaio da Miaonlico.)"
+                    HPOS="1100"
+                    VPOS="4498"
+                    WIDTH="3825"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="0"
+                   VPOS="2690"
+                   WIDTH="3"
+                   HEIGHT="4"
+                   ID="eSc_textblock_667a3288"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="3 2694 0 2694 0 2690 3 2690"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="0"
+                   VPOS="3281"
+                   WIDTH="3"
+                   HEIGHT="4"
+                   ID="eSc_textblock_34e20d58"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="3 3285 0 3285 0 3281 3 3281"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="0"
+                   VPOS="3763"
+                   WIDTH="3"
+                   HEIGHT="4"
+                   ID="eSc_textblock_c5be1424"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="3 3767 0 3767 0 3763 3 3763"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

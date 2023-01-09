@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_4_XIV_005_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5857"
+          HEIGHT="7372"
+          PHYSICAL_IMG_NR="492"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="5857"
+                  HEIGHT="7372">
+        
+        <TextBlock HPOS="321"
+                   VPOS="208"
+                   WIDTH="5238"
+                   HEIGHT="6961"
+                   ID="eSc_textblock_77965034"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="321 268 321 7169 5559 7119 5559 208"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_b852e202"
+                    TAGREFS="LT102"
+                    BASELINE="2297 6918 3625 6901" 
+                    HPOS="2286"
+                    VPOS="6776"
+                    WIDTH="1333"
+                    HEIGHT="184">
+            <Shape><Polygon POINTS="2292 6917 2292 6960 3613 6948 3619 6898 3607 6782 2286 6776 2292 6917"/></Shape>
+	    <String CONTENT="Toli Pin 14I1. i. cntolaole."
+                    HPOS="2286"
+                    VPOS="6776"
+                    WIDTH="1333"
+                    HEIGHT="184"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_55635ab9"
+                    TAGREFS="LT102"
+                    BASELINE="4958 7011 5526 7022" 
+                    HPOS="4947"
+                    VPOS="6831"
+                    WIDTH="578"
+                    HEIGHT="233">
+            <Shape><Polygon POINTS="4953 7009 4947 7027 5512 7064 5525 7021 5525 6831 4953 6831 4953 7009"/></Shape>
+	    <String CONTENT="1. III. 9"
+                    HPOS="4947"
+                    VPOS="6831"
+                    WIDTH="578"
+                    HEIGHT="233"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7430332f"
+                    TAGREFS="LT102"
+                    BASELINE="357 7082 734 7076" 
+                    HPOS="350"
+                    VPOS="6880"
+                    WIDTH="381"
+                    HEIGHT="258">
+            <Shape><Polygon POINTS="356 7077 356 7138 731 7113 731 7070 712 6880 350 6886 356 7077"/></Shape>
+	    <String CONTENT="N° 807"
+                    HPOS="350"
+                    VPOS="6880"
+                    WIDTH="381"
+                    HEIGHT="258"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_040a1315"
+                    TAGREFS="LT102"
+                    BASELINE="1581 7065 4204 7011" 
+                    HPOS="1573"
+                    VPOS="6843"
+                    WIDTH="2630"
+                    HEIGHT="240">
+            <Shape><Polygon POINTS="3601 6905 3540 6905 3478 6905 3417 6905 3355 6905 3294 6905 3232 6905 3171 6911 3109 6911 3048 6911 2986 6911 2925 6911 2900 6911 2648 6923 2329 6917 2310 6917 2304 6892 2267 6849 2261 6849 2261 6843 2255 6843 2249 6843 2243 6843 1573 6849 1579 7064 1579 7083 4197 7040 4203 7009 4185 6849 3595 6874 3601 6905"/></Shape>
+	    <String CONTENT="MUSEE D&#39;ANVERS. – Deipara Virgo par J. Mostaert"
+                    HPOS="1573"
+                    VPOS="6843"
+                    WIDTH="2630"
+                    HEIGHT="240"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4750"
+                   VPOS="7115"
+                   WIDTH="886"
+                   HEIGHT="246"
+                   ID="eSc_textblock_ba12bad1"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="5636 7142 5636 7361 4750 7361 4750 7115"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_5b7a53f2"
+                    TAGREFS="LT103"
+                    BASELINE="4860 7246 5570 7306" 
+                    HPOS="4842"
+                    VPOS="7089"
+                    WIDTH="732"
+                    HEIGHT="276">
+            <Shape><Polygon POINTS="4842 7359 5015 7365 5027 7365 5088 7365 5150 7365 5211 7365 5273 7365 5334 7365 5396 7365 5457 7365 5518 7365 5549 7365 5568 7304 5574 7120 4867 7089 4855 7242"/></Shape>
+	    <String CONTENT="239. 4. XV. 5"
+                    HPOS="4842"
+                    VPOS="7089"
+                    WIDTH="732"
+                    HEIGHT="276"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

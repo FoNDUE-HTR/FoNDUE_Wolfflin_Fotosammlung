@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_4_V_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4606"
+          HEIGHT="6231"
+          PHYSICAL_IMG_NR="528"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4606"
+                  HEIGHT="6231">
+        
+        <TextBlock HPOS="33"
+                   VPOS="37"
+                   WIDTH="4571"
+                   HEIGHT="6188"
+                   ID="eSc_textblock_89f6c24b"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="33 37 33 6225 4604 6225 4604 37"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ee3732c4"
+                    TAGREFS="LT102"
+                    BASELINE="42 6181 1536 6199 4591 6207" 
+                    HPOS="41"
+                    VPOS="6085"
+                    WIDTH="4549"
+                    HEIGHT="140">
+            <Shape><Polygon POINTS="41 6225 88 6225 140 6225 192 6225 244 6225 295 6225 347 6225 399 6225 451 6225 503 6225 555 6225 607 6225 659 6225 711 6225 763 6225 815 6225 867 6225 919 6225 971 6225 1022 6225 1074 6225 1126 6225 1178 6225 1230 6225 1282 6225 1334 6225 1386 6225 1438 6225 1490 6225 1542 6225 1594 6225 1646 6225 1698 6225 1749 6225 1801 6225 1853 6225 1905 6225 1957 6225 2009 6225 2061 6225 2113 6225 2165 6225 2217 6225 2269 6225 2321 6225 2373 6225 2425 6225 2476 6225 2528 6225 2580 6225 2632 6225 2684 6225 2736 6225 2788 6225 2840 6225 2892 6225 2944 6225 2996 6225 3048 6225 3100 6225 3152 6225 3203 6225 3255 6225 3307 6225 3359 6225 3411 6225 3463 6225 3515 6225 3567 6225 3619 6225 3671 6225 3723 6225 3775 6225 3827 6225 3879 6225 3930 6225 3982 6225 4034 6225 4086 6225 4138 6225 4190 6225 4242 6225 4294 6225 4346 6225 4398 6225 4450 6225 4502 6225 4554 6225 4585 6225 4590 6205 4585 6127 41 6085 41 6179"/></Shape>
+	    <String CONTENT="30115 - BERGAMO - Ritratto di cavaliere in rosa - G. B. Moroni - Coll. Conte Moroni - (Stab. D. Anderson 1930)."
+                    HPOS="41"
+                    VPOS="6085"
+                    WIDTH="4549"
+                    HEIGHT="140"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

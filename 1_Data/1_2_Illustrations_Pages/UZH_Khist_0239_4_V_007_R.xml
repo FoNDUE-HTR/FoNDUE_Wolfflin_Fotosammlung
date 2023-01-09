@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0239_4_V_007_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5285"
+          HEIGHT="6519"
+          PHYSICAL_IMG_NR="522"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="5285"
+                  HEIGHT="6519">
+        
+        <TextBlock HPOS="114"
+                   VPOS="110"
+                   WIDTH="5022"
+                   HEIGHT="6281"
+                   ID="eSc_textblock_f68b5638"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="161 110 114 6391 5136 6391 5136 142"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_fb0e4ed7"
+                    TAGREFS="LT102"
+                    BASELINE="234 6207 1305 6203" 
+                    HPOS="228"
+                    VPOS="6118"
+                    WIDTH="1076"
+                    HEIGHT="145">
+            <Shape><Polygon POINTS="233 6263 396 6263 396 6258 402 6258 407 6258 451 6225 1294 6241 1304 6198 1259 6118 1102 6119 1034 6119 962 6130 678 6134 575 6151 452 6131 336 6127 228 6144 233 6203"/></Shape>
+	    <String CONTENT="CHRISTOPHABOERER"
+                    HPOS="228"
+                    VPOS="6118"
+                    WIDTH="1076"
+                    HEIGHT="145"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_89c9c7cb"
+                    TAGREFS="LT102"
+                    BASELINE="2396 6207 2913 6210" 
+                    HPOS="2386"
+                    VPOS="6118"
+                    WIDTH="532"
+                    HEIGHT="134">
+            <Shape><Polygon POINTS="2386 6231 2898 6252 2908 6209 2918 6128 2416 6118 2392 6203"/></Shape>
+	    <String CONTENT="PRINTED IN MUNICH"
+                    HPOS="2386"
+                    VPOS="6118"
+                    WIDTH="532"
+                    HEIGHT="134"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_55c68fd3"
+                    TAGREFS="LT102"
+                    BASELINE="4412 6223 4845 6219" 
+                    HPOS="4409"
+                    VPOS="6115"
+                    WIDTH="435"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="4409 6241 4839 6236 4844 6214 4823 6147 4418 6115 4409 6220"/></Shape>
+	    <String CONTENT="52. G. MORONI"
+                    HPOS="4409"
+                    VPOS="6115"
+                    WIDTH="435"
+                    HEIGHT="126"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_853bcb48"
+                    TAGREFS="LT102"
+                    BASELINE="438 6265 1079 6271" 
+                    HPOS="434"
+                    VPOS="6203"
+                    WIDTH="642"
+                    HEIGHT="145">
+            <Shape><Polygon POINTS="978 6203 924 6203 869 6203 815 6203 761 6203 706 6203 652 6203 598 6203 543 6203 489 6203 434 6203 434 6263 435 6348 1059 6342 1076 6269 1071 6203 1033 6203"/></Shape>
+	    <String CONTENT="NATIONAL GALLERY"
+                    HPOS="434"
+                    VPOS="6203"
+                    WIDTH="642"
+                    HEIGHT="145"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e5e2f00a"
+                    TAGREFS="LT102"
+                    BASELINE="4253 6278 5043 6278" 
+                    HPOS="4251"
+                    VPOS="6203"
+                    WIDTH="789"
+                    HEIGHT="144">
+            <Shape><Polygon POINTS="4741 6220 4686 6220 4632 6220 4578 6220 4523 6220 4469 6220 4415 6220 4409 6214 4267 6208 4251 6274 4261 6347 5030 6323 5040 6274 5040 6231 4967 6207 4951 6250 4903 6231 4840 6207 4795 6203 4795 6220"/></Shape>
+	    <String CONTENT="PORTRAIT OF A LAWYER"
+                    HPOS="4251"
+                    VPOS="6203"
+                    WIDTH="789"
+                    HEIGHT="144"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
