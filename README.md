@@ -74,6 +74,11 @@ The segmentation of the corpus was carried out using the SegmOnto controlled voc
 - MarginTextZone : for all text zones that are not in GraphicZone:illustration (purple);
 - NumberingZone : for the numbering (orange).
 
+<p class="float" align="center">
+    <img src="6_Images_Readme/SegmOnto_UZH_Khist_0006_V_000.png" width="325"/>
+  <img src="6_Images_Readme/SegmOnto_UZH_Khist_0239_4_VI_003_R.png" width="360"/>
+  </p>
+  
 Concerning the lines, we have distinguished the manuscript lines from the typographic lines thanks to different sub-types; furthermore, to be able to differentiate the information contained in the headings from the rest, we have distinguished two types of lines (Heading und Default):
 
 - DefaultLine:manuscript;
@@ -100,7 +105,16 @@ Following the previous experiments, the YALTAi model was trained with the entire
 - Average Accuracy 52.6 %
 - Average Recall 36.5 %
 
-To better compare the effectiveness of the models, we tried them both on the same corpus of images they had never encountered.
+To better compare the effectiveness of the models, we tried them both on the same corpus of images they had never encountered : 
+
+<p class="float" align="center">
+
+|               | Khist_0175_I_000                          | Khist_0175_I_014_R                            |
+|:-----------:  |:-----------------------------------------:    |:-----------------------------------------:    |
+|  **KRAKEN**   |<img src="6_Images_Readme/Kraken_Seg_UZH_Khist_0175_I_000.png" width="360"/>|<img src="6_Images_Readme/Kraken_Seg_UZH_Khist_0175_I_014_R.png" width="360"/><img />                    |
+| **YALTAi**    |<img src="6_Images_Readme/Yaltai_UZH_Khist_0175_I_000.png" width="360"/> |<img src="6_Images_Readme/Yaltai_UZH_Khist_0175_I_014_R.png" width="360"/>|
+
+  </p>
 
 The segmentation model made with Yaltai is more accurate and makes very few errors compared to the one made with Kraken. The segmentation model made with Kraken almost systematically forgets the NumberingZone and tends to add unwanted zones, which is not the case with the model made with the Yaltai tool. 
 
@@ -112,5 +126,4 @@ The segmentation model made with Yaltai is more accurate and makes very few erro
 - Gabay, S., Camps, J. -B., Pinche, A. & Carboni, N. _A Controlled Vocabulary to Describe the Layout of Pages_, version 0.9. In : Paris/Genève, 2021. https://github.com/SegmOnto
 - Gabay, S., Kuenzli, P., Flacone, J-L., Charpilloz, C. _FoNDUE: Documentation, University of Geneva_, 2022. https://github.com/fonDUE-HTR/Documentation.
 - Kiessling, B. "Kraken - a Universal Text Recognizer for the Humanities", _Digital Humanities Conference 2019_ DataverseNL, V2. In : Utrecht, The Netherlands, 2019. https://doi.org/10.34894/Z9G2EX, DataverseNL, V2
-			Version used : 4. 2. 0, 2022. https://pypi.org/project/kraken/4.2.0/ 
------			
+            Version used : 4. 2. 0, 2022. https://pypi.org/project/kraken/4.2.0/ 

@@ -1,0 +1,147 @@
+
+Dû à un changement dans la variable MODULEPATH, les modules suivants ont été rechargés :
+  1) FFTW/3.3.8     2) OpenMPI/4.0.5     3) ScaLAPACK/2.1.0
+
+Les modules suivants ont été rechargés avec un changement de version :
+  1) CUDA/11.1.1 => CUDA/11.5.1     2) UCX/1.9.0-CUDA-11.1.1 => UCX/1.9.0
+
+
+Dû à un changement dans la variable MODULEPATH, les modules suivants ont été rechargés :
+  1) FFTW/3.3.8     2) OpenMPI/4.0.5     3) ScaLAPACK/2.1.0
+
+Les modules suivants ont été rechargés avec un changement de version :
+  1) CUDA/11.5.1 => CUDA/11.1.1     2) UCX/1.9.0 => UCX/1.9.0-CUDA-11.1.1
+
+KETOS training
+WARNING:root:scikit-learn version 1.0.2 is not supported. Minimum required version: 0.17. Maximum required version: 0.19.2. Disabling scikit-learn conversion API.
+WARNING:root:Torch version 1.10.0+cu102 has not been tested with coremltools. You may run into unexpected errors. Torch 1.9.1 is the most recent version that has been tested.
+Building training set
+[280.9001] Text line " " is empty after transformations 
+[410.3097] Text line " " is empty after transformations 
+[443.6523] Text line " " is empty after transformations 
+[641.6812] Line polygon outside of image bounds 
+[735.0084] Text line " " is empty after transformations 
+[750.7605] Line polygon outside of image bounds 
+[807.9038] Text line " " is empty after transformations 
+[836.6481] Line polygon outside of image bounds 
+[840.0127] Line polygon outside of image bounds 
+[860.2367] Text line " " is empty after transformations 
+[930.3213] Line polygon outside of image bounds 
+[976.0552] Line polygon outside of image bounds 
+[997.1024] Line polygon outside of image bounds 
+[1075.3875] Line polygon outside of image bounds 
+[1076.0183] Line polygon outside of image bounds 
+[1098.5833] Line polygon outside of image bounds 
+[1128.0822] Line polygon outside of image bounds 
+[1144.9586] Text line " " is empty after transformations 
+[1207.2854] Text line " " is empty after transformations 
+[1235.2879] Line polygon outside of image bounds 
+[1259.3387] Line polygon outside of image bounds 
+[1322.5048] Line polygon outside of image bounds 
+[1427.0393] Text line " " is empty after transformations 
+[1444.8502] Text line " " is empty after transformations 
+[1444.8507] Text line " " is empty after transformations 
+[1444.8509] Text line " " is empty after transformations 
+[1444.8511] Text line " " is empty after transformations 
+[1453.6525] Line polygon outside of image bounds 
+[1467.3432] Line polygon outside of image bounds 
+[1507.9816] Line polygon outside of image bounds 
+[1543.0978] Line polygon outside of image bounds 
+[1561.7272] Text line " " is empty after transformations 
+[1562.5168] Line polygon outside of image bounds 
+[1616.4921] Text line " " is empty after transformations 
+[1617.1159] Line polygon outside of image bounds 
+Building validation set
+[1803.3052] alphabet mismatch: chars in training set only: {'Ä', 'J', 'w', 'O', 'ō', 'ó', '"', '°', 'ū', 'y', '?', '€', 'Y', 'é', 'T', '·', '/', 'Q'} (not included in accuracy test during training) 
+Initializing model ✓
+stage 1/∞
+Accuracy report (1) 0.1406 633 544
+stage 2/∞
+Accuracy report (2) 0.1122 633 562
+stage 3/∞
+Accuracy report (3) 0.1880 633 514
+stage 4/∞
+Accuracy report (4) 0.2227 633 492
+stage 5/∞
+Accuracy report (5) 0.2512 633 474
+stage 6/∞
+Accuracy report (6) 0.2638 633 466
+stage 7/∞
+Accuracy report (7) 0.3017 633 442
+stage 8/∞
+Accuracy report (8) 0.3128 633 435
+stage 9/∞
+Accuracy report (9) 0.3175 633 432
+stage 10/∞
+Accuracy report (10) 0.3412 633 417
+stage 11/∞
+Accuracy report (11) 0.3491 633 412
+stage 12/∞
+Accuracy report (12) 0.3855 633 389
+stage 13/∞
+Accuracy report (13) 0.3902 633 386
+stage 14/∞
+Accuracy report (14) 0.4360 633 357
+stage 15/∞
+Accuracy report (15) 0.4897 633 323
+stage 16/∞
+Accuracy report (16) 0.5166 633 306
+stage 17/∞
+Accuracy report (17) 0.5292 633 298
+stage 18/∞
+Accuracy report (18) 0.5529 633 283
+stage 19/∞
+Accuracy report (19) 0.5703 633 272
+stage 20/∞
+Accuracy report (20) 0.6114 633 246
+stage 21/∞
+Accuracy report (21) 0.5987 633 254
+stage 22/∞
+Accuracy report (22) 0.6098 633 247
+stage 23/∞
+Accuracy report (23) 0.6335 633 232
+stage 24/∞
+Accuracy report (24) 0.6303 633 234
+stage 25/∞
+Accuracy report (25) 0.6983 633 191
+stage 26/∞
+Accuracy report (26) 0.6667 633 211
+stage 27/∞
+Accuracy report (27) 0.7125 633 182
+stage 28/∞
+Accuracy report (28) 0.7093 633 184
+stage 29/∞
+Accuracy report (29) 0.7188 633 178
+stage 30/∞
+Accuracy report (30) 0.7267 633 173
+stage 31/∞
+Accuracy report (31) 0.7314 633 170
+stage 32/∞
+Accuracy report (32) 0.7630 633 150
+stage 33/∞
+Accuracy report (33) 0.7393 633 165
+stage 34/∞
+Accuracy report (34) 0.7599 633 152
+stage 35/∞
+Accuracy report (35) 0.7283 633 172
+stage 36/∞
+Accuracy report (36) 0.7662 633 148
+stage 37/∞
+Accuracy report (37) 0.7867 633 135
+stage 38/∞
+Accuracy report (38) 0.7741 633 143
+stage 39/∞
+Accuracy report (39) 0.7867 633 135
+stage 40/∞
+Accuracy report (40) 0.8088 633 121
+stage 41/∞
+Accuracy report (41) 0.7804 633 139
+stage 42/∞
+Accuracy report (42) 0.7867 633 135
+stage 43/∞
+Accuracy report (43) 0.8120 633 119
+stage 44/∞
+Accuracy report (44) 0.7962 633 129
+stage 45/∞
+Accuracy report (45) 0.8073 633 122
+Moving best model output_name_40.mlmodel (0.8088467717170715) to output_name_best.mlmodel

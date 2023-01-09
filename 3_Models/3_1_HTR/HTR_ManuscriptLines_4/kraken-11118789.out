@@ -1,0 +1,684 @@
+
+Les modules suivants ont été rechargés avec un changement de version :
+  1) CUDA/11.5.1 => CUDA/11.1.1
+
+KETOS training
+WARNING:root:scikit-learn version 1.0.2 is not supported. Minimum required version: 0.17. Maximum required version: 0.19.2. Disabling scikit-learn conversion API.
+WARNING:root:Torch version 1.10.0+cu102 has not been tested with coremltools. You may run into unexpected errors. Torch 1.9.1 is the most recent version that has been tested.
+Building training set
+[69.9504] Text line " " is empty after transformations 
+[69.9509] Text line " " is empty after transformations 
+[69.9510] Text line " " is empty after transformations 
+[69.9511] Text line " " is empty after transformations 
+[69.9513] Text line " " is empty after transformations 
+[69.9514] Text line " " is empty after transformations 
+[69.9515] Text line " " is empty after transformations 
+[72.8195] Text line " " is empty after transformations 
+[72.8198] Text line " " is empty after transformations 
+[72.8199] Text line " " is empty after transformations 
+[72.8201] Text line " " is empty after transformations 
+[72.8203] Text line " " is empty after transformations 
+[72.8204] Text line " " is empty after transformations 
+[76.0973] Text line " " is empty after transformations 
+[76.0977] Text line " " is empty after transformations 
+[95.2638] Line polygon outside of image bounds 
+[98.5967] Text line " " is empty after transformations 
+[98.5971] Text line " " is empty after transformations 
+[104.8021] Text line " " is empty after transformations 
+[104.8024] Text line " " is empty after transformations 
+[104.8026] Text line " " is empty after transformations 
+[104.8028] Text line " " is empty after transformations 
+[104.8029] Text line " " is empty after transformations 
+[108.9748] Text line " " is empty after transformations 
+[108.9752] Text line " " is empty after transformations 
+[108.9753] Text line " " is empty after transformations 
+[108.9756] Text line " " is empty after transformations 
+[108.9757] Text line " " is empty after transformations 
+[115.3473] Text line " " is empty after transformations 
+[115.3476] Text line " " is empty after transformations 
+[115.3479] Text line " " is empty after transformations 
+[115.3480] Text line " " is empty after transformations 
+[118.0738] Text line " " is empty after transformations 
+[118.0741] Text line " " is empty after transformations 
+[121.5713] Text line " " is empty after transformations 
+[121.5717] Text line " " is empty after transformations 
+[121.5718] Text line " " is empty after transformations 
+[121.5719] Text line " " is empty after transformations 
+[127.4470] Text line " " is empty after transformations 
+[127.4473] Text line " " is empty after transformations 
+[127.4475] Text line " " is empty after transformations 
+[127.4477] Text line " " is empty after transformations 
+[130.2748] Text line " " is empty after transformations 
+[130.2751] Text line " " is empty after transformations 
+[136.3755] Text line " " is empty after transformations 
+[136.3758] Text line " " is empty after transformations 
+[136.3760] Text line " " is empty after transformations 
+[136.3761] Text line " " is empty after transformations 
+[141.1259] Text line " " is empty after transformations 
+[141.1262] Text line " " is empty after transformations 
+[141.1263] Text line " " is empty after transformations 
+[141.1265] Text line " " is empty after transformations 
+[141.1266] Text line " " is empty after transformations 
+[141.1268] Text line " " is empty after transformations 
+[141.1269] Text line " " is empty after transformations 
+[141.1270] Text line " " is empty after transformations 
+[141.1271] Text line " " is empty after transformations 
+[141.1272] Text line " " is empty after transformations 
+[141.1273] Text line " " is empty after transformations 
+[144.0379] Text line " " is empty after transformations 
+[144.0383] Text line " " is empty after transformations 
+[144.0384] Text line " " is empty after transformations 
+[144.0386] Text line " " is empty after transformations 
+[156.4026] Text line " " is empty after transformations 
+[156.4030] Text line " " is empty after transformations 
+[159.5589] Line polygon outside of image bounds 
+[159.5630] Text line " " is empty after transformations 
+[159.5632] Text line " " is empty after transformations 
+[159.5633] Text line " " is empty after transformations 
+[159.5634] Text line " " is empty after transformations 
+[159.5636] Text line " " is empty after transformations 
+[159.5638] Text line " " is empty after transformations 
+[159.5639] Text line " " is empty after transformations 
+[159.5640] Text line " " is empty after transformations 
+[159.5641] Text line " " is empty after transformations 
+[159.5642] Text line " " is empty after transformations 
+[165.4363] Text line " " is empty after transformations 
+[165.4367] Text line " " is empty after transformations 
+[165.4369] Text line " " is empty after transformations 
+[165.4371] Text line " " is empty after transformations 
+[178.7039] Text line " " is empty after transformations 
+[178.7043] Text line " " is empty after transformations 
+[178.7045] Text line " " is empty after transformations 
+[182.1574] Text line " " is empty after transformations 
+[182.1577] Text line " " is empty after transformations 
+[182.1579] Text line " " is empty after transformations 
+[182.1580] Text line " " is empty after transformations 
+[182.1581] Text line " " is empty after transformations 
+[185.7598] Line polygon outside of image bounds 
+[193.1433] Text line " " is empty after transformations 
+[193.1437] Text line " " is empty after transformations 
+[193.1438] Text line " " is empty after transformations 
+[193.1440] Text line " " is empty after transformations 
+[193.1441] Text line " " is empty after transformations 
+[193.1442] Text line " " is empty after transformations 
+[210.0300] Text line " " is empty after transformations 
+[210.0303] Text line " " is empty after transformations 
+[210.0305] Text line " " is empty after transformations 
+[210.0307] Text line " " is empty after transformations 
+[210.0308] Text line " " is empty after transformations 
+[210.0309] Text line " " is empty after transformations 
+[210.0310] Text line " " is empty after transformations 
+[210.0311] Text line " " is empty after transformations 
+[210.0312] Text line " " is empty after transformations 
+[210.0313] Text line " " is empty after transformations 
+[210.0314] Text line " " is empty after transformations 
+[210.0316] Text line " " is empty after transformations 
+[210.0317] Text line " " is empty after transformations 
+[210.0318] Text line " " is empty after transformations 
+[210.0319] Text line " " is empty after transformations 
+[210.0320] Text line " " is empty after transformations 
+[210.0321] Text line " " is empty after transformations 
+[213.3094] Line polygon outside of image bounds 
+[217.8107] Text line " " is empty after transformations 
+[217.8110] Text line " " is empty after transformations 
+[232.1690] Text line " " is empty after transformations 
+[232.1693] Text line " " is empty after transformations 
+[232.1695] Text line " " is empty after transformations 
+[232.1697] Text line " " is empty after transformations 
+[232.1698] Text line " " is empty after transformations 
+[232.1699] Text line " " is empty after transformations 
+[232.1700] Text line " " is empty after transformations 
+[241.5171] Text line " " is empty after transformations 
+[241.5175] Text line " " is empty after transformations 
+[241.5176] Text line " " is empty after transformations 
+[246.1459] Text line " " is empty after transformations 
+[246.1462] Text line " " is empty after transformations 
+[246.1464] Text line " " is empty after transformations 
+[246.1466] Text line " " is empty after transformations 
+[246.1467] Text line " " is empty after transformations 
+[246.1468] Text line " " is empty after transformations 
+[246.1469] Text line " " is empty after transformations 
+[246.1471] Text line " " is empty after transformations 
+[269.8070] Text line " " is empty after transformations 
+[269.8074] Text line " " is empty after transformations 
+[276.2818] Text line " " is empty after transformations 
+[276.2822] Text line " " is empty after transformations 
+[279.6031] Text line " " is empty after transformations 
+[279.6034] Text line " " is empty after transformations 
+[279.6036] Text line " " is empty after transformations 
+[279.6037] Text line " " is empty after transformations 
+[279.6039] Text line " " is empty after transformations 
+[279.6040] Text line " " is empty after transformations 
+[279.6041] Text line " " is empty after transformations 
+[279.6042] Text line " " is empty after transformations 
+[279.6043] Text line " " is empty after transformations 
+[279.6045] Text line " " is empty after transformations 
+[279.6046] Text line " " is empty after transformations 
+[279.6047] Text line " " is empty after transformations 
+[279.6048] Text line " " is empty after transformations 
+[279.6049] Text line " " is empty after transformations 
+[279.6050] Text line " " is empty after transformations 
+[279.6051] Text line " " is empty after transformations 
+[282.2380] Text line " " is empty after transformations 
+[282.2383] Text line " " is empty after transformations 
+[282.2384] Text line " " is empty after transformations 
+[282.2387] Text line " " is empty after transformations 
+[282.2388] Text line " " is empty after transformations 
+[282.2389] Text line " " is empty after transformations 
+[282.2390] Text line " " is empty after transformations 
+[282.2391] Text line " " is empty after transformations 
+[282.2392] Text line " " is empty after transformations 
+[282.2394] Text line " " is empty after transformations 
+[306.9365] Text line " " is empty after transformations 
+[306.9368] Text line " " is empty after transformations 
+[306.9369] Text line " " is empty after transformations 
+[306.9371] Text line " " is empty after transformations 
+[306.9372] Text line " " is empty after transformations 
+[306.9373] Text line " " is empty after transformations 
+[306.9374] Text line " " is empty after transformations 
+[306.9375] Text line " " is empty after transformations 
+[306.9376] Text line " " is empty after transformations 
+[310.5362] Text line " " is empty after transformations 
+[310.5365] Text line " " is empty after transformations 
+[310.5366] Text line " " is empty after transformations 
+[310.5368] Text line " " is empty after transformations 
+[317.0488] Text line " " is empty after transformations 
+[317.0492] Text line " " is empty after transformations 
+[317.0493] Text line " " is empty after transformations 
+[317.0495] Text line " " is empty after transformations 
+[317.0496] Text line " " is empty after transformations 
+[317.0497] Text line " " is empty after transformations 
+[339.5024] Text line " " is empty after transformations 
+[339.5027] Text line " " is empty after transformations 
+[339.5028] Text line " " is empty after transformations 
+[339.5030] Text line " " is empty after transformations 
+[339.5032] Text line " " is empty after transformations 
+[339.5032] Text line " " is empty after transformations 
+[339.5034] Text line " " is empty after transformations 
+[339.5035] Text line " " is empty after transformations 
+[339.5036] Text line " " is empty after transformations 
+[339.5037] Text line " " is empty after transformations 
+[339.5039] Text line " " is empty after transformations 
+[387.5841] Text line " " is empty after transformations 
+[387.5845] Text line " " is empty after transformations 
+[387.5847] Text line " " is empty after transformations 
+[387.5849] Text line " " is empty after transformations 
+[394.8339] Text line " " is empty after transformations 
+[394.8342] Text line " " is empty after transformations 
+[394.8343] Text line " " is empty after transformations 
+[394.8345] Text line " " is empty after transformations 
+[394.8346] Text line " " is empty after transformations 
+[398.9053] Text line " " is empty after transformations 
+[398.9057] Text line " " is empty after transformations 
+[398.9059] Text line " " is empty after transformations 
+[398.9060] Text line " " is empty after transformations 
+[404.2769] Text line " " is empty after transformations 
+[404.2773] Text line " " is empty after transformations 
+[441.9416] Text line " " is empty after transformations 
+[441.9419] Text line " " is empty after transformations 
+[441.9420] Text line " " is empty after transformations 
+[441.9422] Text line " " is empty after transformations 
+[441.9423] Text line " " is empty after transformations 
+[451.3418] Text line " " is empty after transformations 
+[451.3421] Text line " " is empty after transformations 
+[456.7135] Text line " " is empty after transformations 
+[456.7138] Text line " " is empty after transformations 
+[456.7140] Text line " " is empty after transformations 
+[456.7141] Text line " " is empty after transformations 
+[470.7368] Text line " " is empty after transformations 
+[470.7372] Text line " " is empty after transformations 
+[470.7373] Text line " " is empty after transformations 
+[470.7376] Text line " " is empty after transformations 
+[470.7377] Text line " " is empty after transformations 
+[470.7378] Text line " " is empty after transformations 
+[473.7551] Text line " " is empty after transformations 
+[473.7554] Text line " " is empty after transformations 
+[473.7556] Text line " " is empty after transformations 
+[473.7557] Text line " " is empty after transformations 
+[473.7558] Text line " " is empty after transformations 
+[473.7560] Text line " " is empty after transformations 
+[473.7561] Text line " " is empty after transformations 
+[479.7416] Text line " " is empty after transformations 
+[479.7419] Text line " " is empty after transformations 
+[479.7421] Text line " " is empty after transformations 
+[479.7422] Text line " " is empty after transformations 
+[479.7424] Text line " " is empty after transformations 
+[479.7425] Text line " " is empty after transformations 
+[479.7426] Text line " " is empty after transformations 
+[479.7427] Text line " " is empty after transformations 
+[479.7428] Text line " " is empty after transformations 
+[479.7429] Text line " " is empty after transformations 
+[482.5880] Text line " " is empty after transformations 
+[482.5883] Text line " " is empty after transformations 
+[482.5884] Text line " " is empty after transformations 
+[482.5886] Text line " " is empty after transformations 
+[505.0109] Text line " " is empty after transformations 
+[505.0112] Text line " " is empty after transformations 
+[505.0113] Text line " " is empty after transformations 
+[512.2016] Text line " " is empty after transformations 
+[512.2019] Text line " " is empty after transformations 
+[512.2020] Text line " " is empty after transformations 
+[512.2022] Text line " " is empty after transformations 
+[512.2023] Text line " " is empty after transformations 
+[515.8455] Text line " " is empty after transformations 
+[515.8458] Text line " " is empty after transformations 
+[515.8460] Text line " " is empty after transformations 
+[515.8461] Text line " " is empty after transformations 
+[515.8463] Text line " " is empty after transformations 
+[515.8464] Text line " " is empty after transformations 
+[515.8465] Text line " " is empty after transformations 
+[515.8466] Text line " " is empty after transformations 
+[515.8467] Text line " " is empty after transformations 
+[521.3427] Text line " " is empty after transformations 
+[521.3430] Text line " " is empty after transformations 
+[521.3432] Text line " " is empty after transformations 
+[521.3433] Text line " " is empty after transformations 
+[524.1663] Text line " " is empty after transformations 
+[524.1666] Text line " " is empty after transformations 
+[527.3403] Text line " " is empty after transformations 
+[527.3406] Text line " " is empty after transformations 
+[527.3408] Text line " " is empty after transformations 
+[527.3410] Text line " " is empty after transformations 
+[539.2421] Text line " " is empty after transformations 
+[539.2424] Text line " " is empty after transformations 
+[539.2426] Text line " " is empty after transformations 
+[539.2428] Text line " " is empty after transformations 
+[539.2429] Text line " " is empty after transformations 
+[539.2430] Text line " " is empty after transformations 
+[539.2431] Text line " " is empty after transformations 
+[539.2432] Text line " " is empty after transformations 
+[539.2433] Text line " " is empty after transformations 
+[539.2434] Text line " " is empty after transformations 
+[539.2435] Text line " " is empty after transformations 
+[539.2436] Text line " " is empty after transformations 
+[539.2437] Text line " " is empty after transformations 
+[539.2439] Text line " " is empty after transformations 
+[539.2440] Text line " " is empty after transformations 
+[539.2441] Text line " " is empty after transformations 
+[542.9140] Text line " " is empty after transformations 
+[542.9143] Text line " " is empty after transformations 
+[542.9144] Text line " " is empty after transformations 
+[542.9146] Text line " " is empty after transformations 
+[542.9148] Text line " " is empty after transformations 
+[566.0548] Text line " " is empty after transformations 
+[566.0551] Text line " " is empty after transformations 
+[566.0553] Text line " " is empty after transformations 
+[566.0554] Text line " " is empty after transformations 
+[570.8617] Text line " " is empty after transformations 
+[570.8621] Text line " " is empty after transformations 
+[570.8622] Text line " " is empty after transformations 
+[570.8623] Text line " " is empty after transformations 
+[574.1844] Line polygon outside of image bounds 
+[574.1884] Text line " " is empty after transformations 
+[574.1886] Text line " " is empty after transformations 
+[574.1887] Text line " " is empty after transformations 
+[574.1889] Text line " " is empty after transformations 
+[574.1890] Text line " " is empty after transformations 
+[588.3438] Text line " " is empty after transformations 
+[588.3441] Text line " " is empty after transformations 
+[588.3443] Text line " " is empty after transformations 
+[588.3444] Text line " " is empty after transformations 
+[590.4046] Text line " " is empty after transformations 
+[590.4049] Text line " " is empty after transformations 
+[590.4051] Text line " " is empty after transformations 
+[590.4052] Text line " " is empty after transformations 
+[594.2297] Text line " " is empty after transformations 
+[594.2300] Text line " " is empty after transformations 
+[594.2302] Text line " " is empty after transformations 
+[597.4329] Text line " " is empty after transformations 
+[597.4332] Text line " " is empty after transformations 
+[597.4334] Text line " " is empty after transformations 
+[597.4336] Text line " " is empty after transformations 
+[599.1219] Text line " " is empty after transformations 
+[599.1222] Text line " " is empty after transformations 
+[599.1223] Text line " " is empty after transformations 
+[640.4451] Text line " " is empty after transformations 
+[640.4454] Text line " " is empty after transformations 
+[640.4455] Text line " " is empty after transformations 
+[640.4457] Text line " " is empty after transformations 
+[640.4459] Text line " " is empty after transformations 
+[640.4460] Text line " " is empty after transformations 
+[640.4461] Text line " " is empty after transformations 
+[640.4462] Text line " " is empty after transformations 
+[640.4463] Text line " " is empty after transformations 
+[640.4465] Text line " " is empty after transformations 
+[640.4466] Text line " " is empty after transformations 
+[640.4467] Text line " " is empty after transformations 
+[661.0707] Line polygon outside of image bounds 
+[699.0597] Text line " " is empty after transformations 
+[699.0600] Text line " " is empty after transformations 
+[699.0602] Text line " " is empty after transformations 
+[699.0603] Text line " " is empty after transformations 
+[702.5749] Text line " " is empty after transformations 
+[702.5752] Text line " " is empty after transformations 
+[702.5754] Text line " " is empty after transformations 
+[702.5755] Text line " " is empty after transformations 
+[702.5756] Text line " " is empty after transformations 
+[702.5757] Text line " " is empty after transformations 
+[702.5758] Text line " " is empty after transformations 
+[702.5759] Text line " " is empty after transformations 
+[702.5761] Text line " " is empty after transformations 
+[707.0990] Text line " " is empty after transformations 
+[707.0993] Text line " " is empty after transformations 
+[707.0994] Text line " " is empty after transformations 
+[707.0996] Text line " " is empty after transformations 
+[710.8514] Text line " " is empty after transformations 
+[710.8517] Text line " " is empty after transformations 
+[710.8518] Text line " " is empty after transformations 
+[710.8519] Text line " " is empty after transformations 
+[710.8521] Text line " " is empty after transformations 
+[710.8522] Text line " " is empty after transformations 
+[710.8523] Text line " " is empty after transformations 
+[710.8525] Text line " " is empty after transformations 
+[710.8526] Text line " " is empty after transformations 
+[710.8527] Text line " " is empty after transformations 
+[710.8528] Text line " " is empty after transformations 
+[710.8529] Text line " " is empty after transformations 
+[710.8530] Text line " " is empty after transformations 
+[710.8531] Text line " " is empty after transformations 
+[710.8532] Text line " " is empty after transformations 
+[710.8533] Text line " " is empty after transformations 
+[710.8534] Text line " " is empty after transformations 
+[735.4224] Text line " " is empty after transformations 
+[735.4227] Text line " " is empty after transformations 
+[735.4229] Text line " " is empty after transformations 
+[735.4231] Text line " " is empty after transformations 
+[735.4232] Text line " " is empty after transformations 
+[735.4233] Text line " " is empty after transformations 
+[735.4235] Text line " " is empty after transformations 
+[735.4236] Text line " " is empty after transformations 
+[735.4237] Text line " " is empty after transformations 
+[735.4239] Text line " " is empty after transformations 
+[738.5849] Text line " " is empty after transformations 
+[738.5852] Text line " " is empty after transformations 
+[738.5854] Text line " " is empty after transformations 
+[738.5855] Text line " " is empty after transformations 
+[738.5857] Text line " " is empty after transformations 
+[745.3559] Text line " " is empty after transformations 
+[745.3562] Text line " " is empty after transformations 
+[745.3564] Text line " " is empty after transformations 
+[745.3565] Text line " " is empty after transformations 
+[745.3567] Text line " " is empty after transformations 
+[745.3568] Text line " " is empty after transformations 
+[745.3569] Text line " " is empty after transformations 
+[748.2910] Text line " " is empty after transformations 
+[748.2913] Text line " " is empty after transformations 
+[748.2914] Text line " " is empty after transformations 
+[748.2916] Text line " " is empty after transformations 
+[748.2917] Text line " " is empty after transformations 
+[748.2918] Text line " " is empty after transformations 
+[748.2919] Text line " " is empty after transformations 
+[748.2920] Text line " " is empty after transformations 
+[754.1378] Line polygon outside of image bounds 
+[754.1421] Text line " " is empty after transformations 
+[754.1423] Text line " " is empty after transformations 
+[757.8224] Text line " " is empty after transformations 
+[757.8228] Text line " " is empty after transformations 
+[757.8229] Text line " " is empty after transformations 
+[757.8230] Text line " " is empty after transformations 
+[757.8232] Text line " " is empty after transformations 
+[757.8233] Text line " " is empty after transformations 
+[757.8234] Text line " " is empty after transformations 
+[760.8458] Text line " " is empty after transformations 
+[760.8461] Text line " " is empty after transformations 
+[760.8462] Text line " " is empty after transformations 
+[760.8464] Text line " " is empty after transformations 
+[760.8465] Text line " " is empty after transformations 
+[763.4128] Text line " " is empty after transformations 
+[763.4131] Text line " " is empty after transformations 
+[763.4132] Text line " " is empty after transformations 
+[763.4134] Text line " " is empty after transformations 
+[770.1461] Text line " " is empty after transformations 
+[770.1464] Text line " " is empty after transformations 
+[770.1465] Text line " " is empty after transformations 
+[770.1466] Text line " " is empty after transformations 
+[772.9658] Text line " " is empty after transformations 
+[772.9661] Text line " " is empty after transformations 
+[772.9663] Text line " " is empty after transformations 
+[772.9664] Text line " " is empty after transformations 
+[772.9666] Text line " " is empty after transformations 
+[772.9667] Text line " " is empty after transformations 
+[774.6502] Text line " " is empty after transformations 
+[774.6505] Text line " " is empty after transformations 
+[774.6507] Text line " " is empty after transformations 
+[774.6508] Text line " " is empty after transformations 
+[774.6509] Text line " " is empty after transformations 
+[774.6510] Text line " " is empty after transformations 
+[778.0413] Text line " " is empty after transformations 
+[778.0416] Text line " " is empty after transformations 
+[778.0418] Text line " " is empty after transformations 
+[778.0419] Text line " " is empty after transformations 
+[783.3747] Text line " " is empty after transformations 
+[783.3751] Text line " " is empty after transformations 
+[783.3752] Text line " " is empty after transformations 
+[783.3754] Text line " " is empty after transformations 
+[783.3755] Text line " " is empty after transformations 
+[783.3756] Text line " " is empty after transformations 
+[783.3757] Text line " " is empty after transformations 
+[783.3758] Text line " " is empty after transformations 
+[783.3759] Text line " " is empty after transformations 
+[783.3761] Text line " " is empty after transformations 
+[793.4806] Text line " " is empty after transformations 
+[793.4810] Text line " " is empty after transformations 
+[793.4811] Text line " " is empty after transformations 
+[793.4813] Text line " " is empty after transformations 
+[793.4814] Text line " " is empty after transformations 
+[793.4816] Text line " " is empty after transformations 
+[799.7371] Text line " " is empty after transformations 
+[799.7374] Text line " " is empty after transformations 
+[804.6123] Text line " " is empty after transformations 
+[804.6126] Text line " " is empty after transformations 
+[804.6128] Text line " " is empty after transformations 
+[804.6130] Text line " " is empty after transformations 
+[804.6131] Text line " " is empty after transformations 
+[804.6132] Text line " " is empty after transformations 
+[804.6134] Text line " " is empty after transformations 
+[804.6135] Text line " " is empty after transformations 
+[804.6137] Text line " " is empty after transformations 
+[809.1486] Text line " " is empty after transformations 
+[809.1489] Text line " " is empty after transformations 
+[818.7366] Text line " " is empty after transformations 
+[818.7369] Text line " " is empty after transformations 
+[818.7370] Text line " " is empty after transformations 
+[818.7372] Text line " " is empty after transformations 
+[822.4618] Text line " " is empty after transformations 
+[822.4622] Text line " " is empty after transformations 
+[825.9360] Text line " " is empty after transformations 
+[825.9364] Text line " " is empty after transformations 
+[825.9365] Text line " " is empty after transformations 
+[825.9366] Text line " " is empty after transformations 
+[825.9368] Text line " " is empty after transformations 
+[833.6409] Text line " " is empty after transformations 
+[833.6412] Text line " " is empty after transformations 
+[833.6413] Text line " " is empty after transformations 
+[833.6415] Text line " " is empty after transformations 
+[833.6416] Text line " " is empty after transformations 
+[833.6417] Text line " " is empty after transformations 
+[833.6418] Text line " " is empty after transformations 
+[833.6419] Text line " " is empty after transformations 
+[833.6421] Text line " " is empty after transformations 
+[833.6422] Text line " " is empty after transformations 
+[833.6423] Text line " " is empty after transformations 
+[833.6424] Text line " " is empty after transformations 
+[833.6425] Text line " " is empty after transformations 
+[833.6426] Text line " " is empty after transformations 
+[833.6428] Text line " " is empty after transformations 
+[833.6429] Text line " " is empty after transformations 
+[833.6430] Text line " " is empty after transformations 
+[833.6431] Text line " " is empty after transformations 
+[833.6432] Text line " " is empty after transformations 
+[838.7445] Text line " " is empty after transformations 
+[838.7448] Text line " " is empty after transformations 
+[871.6716] Text line " " is empty after transformations 
+[871.6720] Text line " " is empty after transformations 
+[876.9987] Text line " " is empty after transformations 
+[876.9990] Text line " " is empty after transformations 
+[876.9992] Text line " " is empty after transformations 
+[876.9993] Text line " " is empty after transformations 
+[876.9995] Text line " " is empty after transformations 
+[876.9996] Text line " " is empty after transformations 
+[876.9997] Text line " " is empty after transformations 
+[876.9998] Text line " " is empty after transformations 
+[876.9999] Text line " " is empty after transformations 
+[877.0000] Text line " " is empty after transformations 
+[877.0001] Text line " " is empty after transformations 
+[883.8777] Text line " " is empty after transformations 
+[883.8780] Text line " " is empty after transformations 
+[883.8782] Text line " " is empty after transformations 
+[883.8783] Text line " " is empty after transformations 
+[888.5144] Text line " " is empty after transformations 
+[888.5147] Text line " " is empty after transformations 
+[888.5149] Text line " " is empty after transformations 
+[888.5150] Text line " " is empty after transformations 
+[894.3746] Text line " " is empty after transformations 
+[894.3749] Text line " " is empty after transformations 
+[907.7841] Text line " " is empty after transformations 
+[907.7845] Text line " " is empty after transformations 
+[907.7846] Text line " " is empty after transformations 
+[907.7848] Text line " " is empty after transformations 
+[907.7849] Text line " " is empty after transformations 
+[907.7850] Text line " " is empty after transformations 
+[907.7851] Text line " " is empty after transformations 
+[907.7853] Text line " " is empty after transformations 
+[907.7854] Text line " " is empty after transformations 
+[907.7855] Text line " " is empty after transformations 
+[909.9693] Text line " " is empty after transformations 
+[909.9697] Text line " " is empty after transformations 
+[909.9699] Text line " " is empty after transformations 
+[909.9700] Text line " " is empty after transformations 
+[913.2710] Text line " " is empty after transformations 
+[913.2713] Text line " " is empty after transformations 
+[913.2715] Text line " " is empty after transformations 
+[913.2717] Text line " " is empty after transformations 
+[913.2718] Text line " " is empty after transformations 
+[913.2719] Text line " " is empty after transformations 
+[913.2719] Text line " " is empty after transformations 
+[913.2721] Text line " " is empty after transformations 
+[913.2722] Text line " " is empty after transformations 
+[913.2723] Text line " " is empty after transformations 
+[913.2724] Text line " " is empty after transformations 
+[913.2725] Text line " " is empty after transformations 
+[920.4332] Text line " " is empty after transformations 
+[920.4335] Text line " " is empty after transformations 
+[920.4337] Text line " " is empty after transformations 
+[920.4338] Text line " " is empty after transformations 
+[925.1507] Text line " " is empty after transformations 
+[925.1511] Text line " " is empty after transformations 
+[925.1512] Text line " " is empty after transformations 
+[925.1513] Text line " " is empty after transformations 
+[934.6561] Text line " " is empty after transformations 
+[934.6564] Text line " " is empty after transformations 
+[934.6566] Text line " " is empty after transformations 
+[934.6567] Text line " " is empty after transformations 
+[941.5293] Text line " " is empty after transformations 
+[941.5297] Text line " " is empty after transformations 
+[941.5299] Text line " " is empty after transformations 
+[943.9678] Text line " " is empty after transformations 
+[943.9681] Text line " " is empty after transformations 
+[943.9683] Text line " " is empty after transformations 
+[943.9685] Text line " " is empty after transformations 
+[943.9686] Text line " " is empty after transformations 
+[943.9687] Text line " " is empty after transformations 
+[947.3942] Text line " " is empty after transformations 
+[947.3945] Text line " " is empty after transformations 
+Building validation set
+[947.3950] Text line " " is empty after transformations 
+[947.3952] Text line " " is empty after transformations 
+[947.3953] Text line " " is empty after transformations 
+[947.3954] Text line " " is empty after transformations 
+[947.3955] Text line " " is empty after transformations 
+[947.3956] Text line " " is empty after transformations 
+[947.3957] Text line " " is empty after transformations 
+[947.3959] Text line " " is empty after transformations 
+[947.3960] Text line " " is empty after transformations 
+[947.3961] Text line " " is empty after transformations 
+[947.3962] Text line " " is empty after transformations 
+[947.3963] Text line " " is empty after transformations 
+[947.3964] Text line " " is empty after transformations 
+[947.3965] Text line " " is empty after transformations 
+[947.3967] Text line " " is empty after transformations 
+[947.3968] Text line " " is empty after transformations 
+[947.3969] Text line " " is empty after transformations 
+[947.3970] Text line " " is empty after transformations 
+[947.3971] Text line " " is empty after transformations 
+[947.3972] Text line " " is empty after transformations 
+[947.3973] Text line " " is empty after transformations 
+[947.3974] Text line " " is empty after transformations 
+[947.3975] Text line " " is empty after transformations 
+[947.3976] Text line " " is empty after transformations 
+[947.3977] Text line " " is empty after transformations 
+[978.2148] alphabet mismatch: chars in training set only: {'w', 'f', 'Ü', 't', 'v', 'ä', 'Z', 'W', 'g', 'ö', '/', ',', 'j', '9', 'y', 'k'} (not included in accuracy test during training) 
+Initializing model ✓
+stage 1/∞
+Accuracy report (1) 0.0690 406 378
+stage 2/∞
+Accuracy report (2) 0.1970 406 326
+stage 3/∞
+Accuracy report (3) 0.2931 406 287
+stage 4/∞
+Accuracy report (4) 0.3916 406 247
+stage 5/∞
+Accuracy report (5) 0.4163 406 237
+stage 6/∞
+Accuracy report (6) 0.5148 406 197
+stage 7/∞
+Accuracy report (7) 0.5837 406 169
+stage 8/∞
+Accuracy report (8) 0.6330 406 149
+stage 9/∞
+Accuracy report (9) 0.6749 406 132
+stage 10/∞
+Accuracy report (10) 0.6897 406 126
+stage 11/∞
+Accuracy report (11) 0.7365 406 107
+stage 12/∞
+Accuracy report (12) 0.7537 406 100
+stage 13/∞
+Accuracy report (13) 0.7660 406 95
+stage 14/∞
+Accuracy report (14) 0.7808 406 89
+stage 15/∞
+Accuracy report (15) 0.8300 406 69
+stage 16/∞
+Accuracy report (16) 0.8276 406 70
+stage 17/∞
+Accuracy report (17) 0.8251 406 71
+stage 18/∞
+Accuracy report (18) 0.8473 406 62
+stage 19/∞
+Accuracy report (19) 0.8768 406 50
+stage 20/∞
+Accuracy report (20) 0.8916 406 44
+stage 21/∞
+Accuracy report (21) 0.8867 406 46
+stage 22/∞
+Accuracy report (22) 0.8966 406 42
+stage 23/∞
+Accuracy report (23) 0.9212 406 32
+stage 24/∞
+Accuracy report (24) 0.8768 406 50
+stage 25/∞
+Accuracy report (25) 0.9261 406 30
+stage 26/∞
+Accuracy report (26) 0.9286 406 29
+stage 27/∞
+Accuracy report (27) 0.9212 406 32
+stage 28/∞
+Accuracy report (28) 0.9458 406 22
+stage 29/∞
+Accuracy report (29) 0.9507 406 20
+stage 30/∞
+Accuracy report (30) 0.9384 406 25
+stage 31/∞
+Accuracy report (31) 0.9704 406 12
+stage 32/∞
+Accuracy report (32) 0.9532 406 19
+stage 33/∞
+Accuracy report (33) 0.9483 406 21
+stage 34/∞
+Accuracy report (34) 0.9655 406 14
+stage 35/∞
+Accuracy report (35) 0.9483 406 21
+stage 36/∞
+Accuracy report (36) 0.9483 406 21
+Moving best model output_name_31.mlmodel (0.9704433679580688) to output_name_best.mlmodel

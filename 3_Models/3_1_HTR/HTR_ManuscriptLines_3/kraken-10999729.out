@@ -1,0 +1,213 @@
+KETOS training
+WARNING:root:scikit-learn version 1.1.0 is not supported. Minimum required version: 0.17. Maximum required version: 0.19.2. Disabling scikit-learn conversion API.
+WARNING:root:Torch version 1.10.0+cu102 has not been tested with coremltools. You may run into unexpected errors. Torch 1.9.1 is the most recent version that has been tested.
+Loading existing model from /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Models/HTR_ManuscriptLines_2/output_name_20.mlmodel ✓Building training set
+Building validation set
+[201.1456] alphabet mismatch: chars in training set only: {')', 'V', '(', '^', 'œ', 'U', 'ù', 'R', '6', 'ô', '$', 'û', '&', 'L'} (not included in accuracy test during training) 
+[201.1460] alphabet mismatch: chars in validation set only: {'?', '[', '+', '3', ']', '4'} (not trained) 
+[201.1468] Non-encodable sequence épubl... encountered. Advancing one code point. 
+[201.1470] Non-encodable sequence <> de... encountered. Advancing one code point. 
+[201.1471] Non-encodable sequence > dem... encountered. Advancing one code point. 
+[201.1473] Non-encodable sequence à l'A... encountered. Advancing one code point. 
+[201.1475] Non-encodable sequence ée Na... encountered. Advancing one code point. 
+[201.1495] Non-encodable sequence é ne ... encountered. Advancing one code point. 
+[201.1499] Non-encodable sequence à vou... encountered. Advancing one code point. 
+[201.1503] Non-encodable sequence xte. ... encountered. Advancing one code point. 
+[201.1508] Non-encodable sequence <> au... encountered. Advancing one code point. 
+[201.1509] Non-encodable sequence > au ... encountered. Advancing one code point. 
+[201.1513] Non-encodable sequence ère d... encountered. Advancing one code point. 
+[201.1520] Non-encodable sequence être ... encountered. Advancing one code point. 
+[201.1522] Non-encodable sequence à l'a... encountered. Advancing one code point. 
+[201.1527] Non-encodable sequence és... encountered. Advancing one code point. 
+[201.1529] Non-encodable sequence énéro... encountered. Advancing one code point. 
+[201.1531] Non-encodable sequence érosi... encountered. Advancing one code point. 
+[201.1533] Non-encodable sequence é hum... encountered. Advancing one code point. 
+[201.1535] Non-encodable sequence <>... encountered. Advancing one code point. 
+[201.1536] Non-encodable sequence >... encountered. Advancing one code point. 
+[201.1538] Non-encodable sequence été s... encountered. Advancing one code point. 
+[201.1540] Non-encodable sequence é sou... encountered. Advancing one code point. 
+[201.1550] Non-encodable sequence épass... encountered. Advancing one code point. 
+[201.1558] Non-encodable sequence <> to... encountered. Advancing one code point. 
+[201.1559] Non-encodable sequence > tou... encountered. Advancing one code point. 
+[201.1565] Non-encodable sequence és. S... encountered. Advancing one code point. 
+[201.1583] Non-encodable sequence à des... encountered. Advancing one code point. 
+[201.1587] Non-encodable sequence égiés... encountered. Advancing one code point. 
+[201.1589] Non-encodable sequence és de... encountered. Advancing one code point. 
+[201.1596] Non-encodable sequence éclai... encountered. Advancing one code point. 
+[201.1600] Non-encodable sequence <> mo... encountered. Advancing one code point. 
+[201.1602] Non-encodable sequence > mon... encountered. Advancing one code point. 
+[201.1606] Non-encodable sequence énêbr... encountered. Advancing one code point. 
+[201.1607] Non-encodable sequence êbres... encountered. Advancing one code point. 
+[201.1609] Non-encodable sequence à l'h... encountered. Advancing one code point. 
+[201.1612] Non-encodable sequence és in... encountered. Advancing one code point. 
+[201.1620] Non-encodable sequence énére... encountered. Advancing one code point. 
+[201.1622] Non-encodable sequence éreus... encountered. Advancing one code point. 
+[201.1627] Non-encodable sequence ême q... encountered. Advancing one code point. 
+[201.1638] Non-encodable sequence ée Na... encountered. Advancing one code point. 
+[201.1642] Non-encodable sequence ^ere ... encountered. Advancing one code point. 
+[201.1645] Non-encodable sequence écrit... encountered. Advancing one code point. 
+[201.1651] Non-encodable sequence à cot... encountered. Advancing one code point. 
+[201.1652] Non-encodable sequence é de ... encountered. Advancing one code point. 
+[201.1659] Non-encodable sequence ^ere ... encountered. Advancing one code point. 
+[201.1664] Non-encodable sequence ême à... encountered. Advancing one code point. 
+[201.1666] Non-encodable sequence à cet... encountered. Advancing one code point. 
+[201.1669] Non-encodable sequence <> me... encountered. Advancing one code point. 
+[201.1670] Non-encodable sequence > mes... encountered. Advancing one code point. 
+[201.1676] Non-encodable sequence <> <>... encountered. Advancing one code point. 
+[201.1678] Non-encodable sequence > <> ... encountered. Advancing one code point. 
+[201.1679] Non-encodable sequence <> Pl... encountered. Advancing one code point. 
+[201.1680] Non-encodable sequence > Plu... encountered. Advancing one code point. 
+[201.1686] Non-encodable sequence ères ... encountered. Advancing one code point. 
+[201.1688] Non-encodable sequence ées ;... encountered. Advancing one code point. 
+[201.1690] Non-encodable sequence ; <> ... encountered. Advancing one code point. 
+[201.1691] Non-encodable sequence <> <>... encountered. Advancing one code point. 
+[201.1692] Non-encodable sequence > <> ... encountered. Advancing one code point. 
+[201.1694] Non-encodable sequence <> le... encountered. Advancing one code point. 
+[201.1695] Non-encodable sequence > le ... encountered. Advancing one code point. 
+[201.1700] Non-encodable sequence é dan... encountered. Advancing one code point. 
+[201.1703] Non-encodable sequence étoir... encountered. Advancing one code point. 
+[201.1705] Non-encodable sequence ù se ... encountered. Advancing one code point. 
+[201.1722] Non-encodable sequence é. De... encountered. Advancing one code point. 
+[201.1724] Non-encodable sequence âce à... encountered. Advancing one code point. 
+[201.1725] Non-encodable sequence à vou... encountered. Advancing one code point. 
+[201.1727] Non-encodable sequence <>... encountered. Advancing one code point. 
+[201.1729] Non-encodable sequence >... encountered. Advancing one code point. 
+[201.1730] Non-encodable sequence <> Ju... encountered. Advancing one code point. 
+[201.1731] Non-encodable sequence > Jus... encountered. Advancing one code point. 
+[201.1734] Non-encodable sequence <>... encountered. Advancing one code point. 
+[201.1735] Non-encodable sequence >... encountered. Advancing one code point. 
+[201.1736] Non-encodable sequence <> <>... encountered. Advancing one code point. 
+[201.1737] Non-encodable sequence > <> ... encountered. Advancing one code point. 
+[201.1738] Non-encodable sequence <> <>... encountered. Advancing one code point. 
+[201.1739] Non-encodable sequence > <>... encountered. Advancing one code point. 
+[201.1741] Non-encodable sequence <>... encountered. Advancing one code point. 
+[201.1742] Non-encodable sequence >... encountered. Advancing one code point. 
+[201.1745] Non-encodable sequence çaise... encountered. Advancing one code point. 
+[201.1750] Non-encodable sequence <> <>... encountered. Advancing one code point. 
+[201.1751] Non-encodable sequence > <>.... encountered. Advancing one code point. 
+[201.1752] Non-encodable sequence <>. D... encountered. Advancing one code point. 
+[201.1753] Non-encodable sequence >. De... encountered. Advancing one code point. 
+[201.1756] Non-encodable sequence âce à... encountered. Advancing one code point. 
+[201.1757] Non-encodable sequence à vou... encountered. Advancing one code point. 
+[201.1764] Non-encodable sequence <>... encountered. Advancing one code point. 
+[201.1765] Non-encodable sequence >... encountered. Advancing one code point. 
+[201.1766] Non-encodable sequence à l'a... encountered. Advancing one code point. 
+[201.1770] Non-encodable sequence xecut... encountered. Advancing one code point. 
+[201.1774] Non-encodable sequence <>... encountered. Advancing one code point. 
+[201.1775] Non-encodable sequence >... encountered. Advancing one code point. 
+[201.1781] Non-encodable sequence âce à... encountered. Advancing one code point. 
+[201.1783] Non-encodable sequence à vou... encountered. Advancing one code point. 
+[201.1794] Non-encodable sequence à sa ... encountered. Advancing one code point. 
+[201.1797] Non-encodable sequence ée. A... encountered. Advancing one code point. 
+[201.1814] Non-encodable sequence ère,... encountered. Advancing one code point. 
+[201.1819] Non-encodable sequence çais,... encountered. Advancing one code point. 
+[201.1831] Non-encodable sequence é che... encountered. Advancing one code point. 
+[201.1837] Non-encodable sequence éline... encountered. Advancing one code point. 
+[201.1840] Non-encodable sequence à fai... encountered. Advancing one code point. 
+[201.1850] Non-encodable sequence çu un... encountered. Advancing one code point. 
+[201.1859] Non-encodable sequence à pro... encountered. Advancing one code point. 
+[201.1863] Non-encodable sequence x que... encountered. Advancing one code point. 
+[201.1873] Non-encodable sequence x que... encountered. Advancing one code point. 
+[201.1880] Non-encodable sequence ée. V... encountered. Advancing one code point. 
+[201.1883] Non-encodable sequence écrir... encountered. Advancing one code point. 
+[201.1887] Non-encodable sequence é l'h... encountered. Advancing one code point. 
+[201.1902] Non-encodable sequence ée su... encountered. Advancing one code point. 
+[201.1903] Non-encodable sequence état ... encountered. Advancing one code point. 
+[201.1907] Non-encodable sequence é d'A... encountered. Advancing one code point. 
+[201.1909] Non-encodable sequence & de... encountered. Advancing one code point. 
+[201.1911] Non-encodable sequence ère p... encountered. Advancing one code point. 
+[201.1915] Non-encodable sequence ère q... encountered. Advancing one code point. 
+[201.1926] Non-encodable sequence ^de C... encountered. Advancing one code point. 
+[201.1935] Non-encodable sequence été p... encountered. Advancing one code point. 
+[201.1936] Non-encodable sequence é pei... encountered. Advancing one code point. 
+[201.1938] Non-encodable sequence ée... encountered. Advancing one code point. 
+[201.1946] Non-encodable sequence ûre q... encountered. Advancing one code point. 
+[201.1950] Non-encodable sequence été b... encountered. Advancing one code point. 
+[201.1952] Non-encodable sequence é bie... encountered. Advancing one code point. 
+[201.1956] Non-encodable sequence était... encountered. Advancing one code point. 
+[201.1965] Non-encodable sequence écept... encountered. Advancing one code point. 
+[201.1968] Non-encodable sequence à... encountered. Advancing one code point. 
+[201.1970] Non-encodable sequence écemb... encountered. Advancing one code point. 
+[201.1978] Non-encodable sequence é à l... encountered. Advancing one code point. 
+[201.1979] Non-encodable sequence à la ... encountered. Advancing one code point. 
+[201.1983] Non-encodable sequence éal... encountered. Advancing one code point. 
+[201.1985] Non-encodable sequence à S^t... encountered. Advancing one code point. 
+[201.1986] Non-encodable sequence ^t Ro... encountered. Advancing one code point. 
+[201.1989] Non-encodable sequence édit ... encountered. Advancing one code point. 
+[201.1992] Non-encodable sequence à mon... encountered. Advancing one code point. 
+[201.1996] Non-encodable sequence été... encountered. Advancing one code point. 
+[201.1997] Non-encodable sequence é... encountered. Advancing one code point. 
+[201.1999] Non-encodable sequence é par... encountered. Advancing one code point. 
+[201.2010] Non-encodable sequence était... encountered. Advancing one code point. 
+[201.2012] Non-encodable sequence à ma ... encountered. Advancing one code point. 
+[201.2019] Non-encodable sequence ^er f... encountered. Advancing one code point. 
+[201.2021] Non-encodable sequence évrie... encountered. Advancing one code point. 
+[201.2030] Non-encodable sequence ée si... encountered. Advancing one code point. 
+[201.2036] Non-encodable sequence état ... encountered. Advancing one code point. 
+[201.2039] Non-encodable sequence ôt po... encountered. Advancing one code point. 
+[201.2043] Non-encodable sequence à la ... encountered. Advancing one code point. 
+[201.2049] Non-encodable sequence étant... encountered. Advancing one code point. 
+[201.2052] Non-encodable sequence és de... encountered. Advancing one code point. 
+[201.2057] Non-encodable sequence ^er m... encountered. Advancing one code point. 
+[201.2064] Non-encodable sequence à la ... encountered. Advancing one code point. 
+[201.2068] Non-encodable sequence éal.... encountered. Advancing one code point. 
+[201.2071] Non-encodable sequence çu de... encountered. Advancing one code point. 
+[201.2073] Non-encodable sequence èreme... encountered. Advancing one code point. 
+[201.2082] Non-encodable sequence ^de G... encountered. Advancing one code point. 
+[201.2084] Non-encodable sequence & des... encountered. Advancing one code point. 
+[201.2089] Non-encodable sequence état ... encountered. Advancing one code point. 
+[201.2093] Non-encodable sequence éparé... encountered. Advancing one code point. 
+[201.2095] Non-encodable sequence és... encountered. Advancing one code point. 
+[201.2100] Non-encodable sequence épart... encountered. Advancing one code point. 
+[201.2103] Non-encodable sequence xes, ... encountered. Advancing one code point. 
+[201.2106] Non-encodable sequence évide... encountered. Advancing one code point. 
+[201.2113] Non-encodable sequence à une... encountered. Advancing one code point. 
+[201.2115] Non-encodable sequence éduct... encountered. Advancing one code point. 
+[201.2120] Non-encodable sequence xes q... encountered. Advancing one code point. 
+[201.2126] Non-encodable sequence éduir... encountered. Advancing one code point. 
+[201.2131] Non-encodable sequence à Ali... encountered. Advancing one code point. 
+[201.2135] Non-encodable sequence é-... encountered. Advancing one code point. 
+[201.2142] Non-encodable sequence établ... encountered. Advancing one code point. 
+[201.2145] Non-encodable sequence à peu... encountered. Advancing one code point. 
+[201.2147] Non-encodable sequence ès le... encountered. Advancing one code point. 
+[201.2153] Non-encodable sequence à dir... encountered. Advancing one code point. 
+[201.2156] Non-encodable sequence érive... encountered. Advancing one code point. 
+[201.2169] Non-encodable sequence ère q... encountered. Advancing one code point. 
+[201.2175] Non-encodable sequence éteme... encountered. Advancing one code point. 
+[201.2178] Non-encodable sequence établ... encountered. Advancing one code point. 
+[201.2196] Non-encodable sequence à fai... encountered. Advancing one code point. 
+[201.2212] Non-encodable sequence été à... encountered. Advancing one code point. 
+[201.2213] Non-encodable sequence é à... encountered. Advancing one code point. 
+[201.2214] Non-encodable sequence à... encountered. Advancing one code point. 
+[201.2217] Non-encodable sequence ù je ... encountered. Advancing one code point. 
+[201.2222] Non-encodable sequence ôle d... encountered. Advancing one code point. 
+[201.2225] Non-encodable sequence ère.... encountered. Advancing one code point. 
+[201.2229] Non-encodable sequence à... encountered. Advancing one code point. 
+[201.2234] Non-encodable sequence à Flo... encountered. Advancing one code point. 
+[201.2240] Non-encodable sequence és,... encountered. Advancing one code point. 
+[201.2242] Non-encodable sequence œur d... encountered. Advancing one code point. 
+[201.2244] Non-encodable sequence évoué... encountered. Advancing one code point. 
+[201.2246] Non-encodable sequence ée,... encountered. Advancing one code point. 
+stage 1/∞
+Accuracy report (1) 0.1447 1997 1708
+stage 2/∞
+Accuracy report (2) 0.1527 1997 1692
+stage 3/∞
+Accuracy report (3) 0.1612 1997 1675
+stage 4/∞
+Accuracy report (4) 0.1883 1997 1621
+stage 5/∞
+Accuracy report (5) 0.1883 1997 1621
+stage 6/∞
+Accuracy report (6) 0.2409 1997 1516
+stage 7/∞
+Accuracy report (7) 0.2454 1997 1507
+stage 8/∞
+Accuracy report (8) 0.2218 1997 1554
+stage 9/∞
+Accuracy report (9) 0.2339 1997 1530
+stage 10/∞
+Accuracy report (10) 0.2519 1997 1494
+stage 11/∞
+Accuracy report (11) 0.2323 1997 1533
+Moving best model model_6.mlmodel (0.24086129665374756) to model_best.mlmodel

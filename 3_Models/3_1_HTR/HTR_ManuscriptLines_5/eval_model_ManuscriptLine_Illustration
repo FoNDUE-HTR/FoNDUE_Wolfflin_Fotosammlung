@@ -1,0 +1,80 @@
+Loading model Models/HTR_ManuscriptLines_5/output_name_best.mlmodel	✓
+Evaluating Models/HTR_ManuscriptLines_5/output_name_best.mlmodel
+Evaluating
+=== report  ===
+
+467	Characters
+92	Errors
+80.30%	Accuracy
+
+55	Insertions
+3	Deletions
+34	Substitutions
+
+Count	Missed	%Right
+152	19	87.50%	Common
+315	70	77.78%	Latin
+
+Errors	Correct-Generated
+6	{ u } - {  }
+6	{ a } - {  }
+5	{ r } - {  }
+4	{ e } - {  }
+3	{ 1 } - { 0 }
+3	{ i } - {  }
+3	{ n } - {  }
+2	{ s } - {  }
+2	{ p } - {  }
+2	{ a } - { e }
+2	{ c } - {  }
+2	{ h } - {  }
+2	{ . } - {  }
+2	{ SPACE } - {  }
+2	{ i } - { s }
+2	{ l } - {  }
+1	{ 2 } - { 9 }
+1	{ g } - {  }
+1	{ m } - {  }
+1	{ 3 } - { 2 }
+1	{ m } - { s }
+1	{ k } - {  }
+1	{ y } - {  }
+1	{ t } - {  }
+1	{ 7 } - { 3 }
+1	{ R } - { F }
+1	{ i } - { r }
+1	{ f } - {  }
+1	{ i } - { a }
+1	{ e } - { a }
+1	{ m } - { . }
+1	{ H } - { A }
+1	{ A } - { K }
+1	{ n } - { a }
+1	{ d } - { r }
+1	{ u } - { h }
+1	{ s } - { e }
+1	{ t } - { z }
+1	{ m } - { t }
+1	{ o } - {  }
+1	{ d } - { S }
+1	{ z } - {  }
+1	{ , } - { . }
+1	{  } - { p }
+1	{ 2 } - { 3 }
+1	{ F } - { P }
+1	{  } - { r }
+1	{ : } - {  }
+1	{ M } - { N }
+1	{ ä } - {  }
+1	{ v } - {  }
+1	{ 2 } - { 1 }
+1	{ 3 } - { 0 }
+1	{ 7 } - { 1 }
+1	{ 1 } - { 7 }
+1	{ 0 } - {  }
+1	{ I } - { X }
+1	{ I } - {  }
+1	{ 3 } - {  }
+1	{  } - { 9 }
+
+Average accuracy: 80.30%, (stddev: 0.00)
