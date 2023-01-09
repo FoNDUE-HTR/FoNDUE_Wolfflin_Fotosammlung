@@ -4,3 +4,6 @@
 [submodule "1_Data/CREMMA-MSS-20"]
 	path = 1_Data/1_6_CremmaMs_20
 	url = https://github.com/HTR-United/CREMMA-MSS-20
+[submodule "1_Data/lectaurep-repertoires"]
+	path = 1_Data/1_7_Lectaurep-repertoires
+	url = https://github.com/HTR-United/lectaurep-repertoires
