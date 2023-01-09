@@ -1,0 +1,55 @@
+KETOS training
+WARNING:root:scikit-learn version 1.1.0 is not supported. Minimum required version: 0.17. Maximum required version: 0.19.2. Disabling scikit-learn conversion API.
+WARNING:root:Torch version 1.10.0+cu102 has not been tested with coremltools. You may run into unexpected errors. Torch 1.9.1 is the most recent version that has been tested.
+Building training set
+[735.3416] Line polygon outside of image bounds 
+[838.6916] Line polygon outside of image bounds 
+[839.4062] Line polygon outside of image bounds 
+[859.0233] Line polygon outside of image bounds 
+[871.9570] Line polygon outside of image bounds 
+[1004.2140] Line polygon outside of image bounds 
+[1104.0505] Line polygon outside of image bounds 
+[1356.2654] Line polygon outside of image bounds 
+[1431.2887] Text line " " is empty after transformations 
+[1481.0393] Line polygon outside of image bounds 
+[1508.3693] Line polygon outside of image bounds 
+[1508.3702] Text line " " is empty after transformations 
+[1680.5939] Text line " " is empty after transformations 
+[1684.0551] Line polygon outside of image bounds 
+[1745.4859] Line polygon outside of image bounds 
+[2038.3490] Text line " " is empty after transformations 
+[2038.3494] Text line " " is empty after transformations 
+[2038.3495] Text line " " is empty after transformations 
+[2038.3496] Text line " " is empty after transformations 
+[2070.9587] Text line " " is empty after transformations 
+[2331.6868] Text line " " is empty after transformations 
+[2494.4742] Line polygon outside of image bounds 
+Building validation set
+[2753.7063] Text line " " is empty after transformations 
+[2773.8002] alphabet mismatch: chars in training set only: {'ū', '^', '–', '$', '[', '€', 'Ä', 'w', 'ö', '+', 'Z', 'ō', '&', 'ó', 'Ü', ']', '"', '°', '?', '·', 'ô', 'û', 'Q', 'œ'} (not included in accuracy test during training) 
+Initializing model ✓
+stage 1/∞
+Accuracy report (1) 0.0070 3420 3396
+stage 2/∞
+Accuracy report (2) 0.0529 3420 3239
+stage 3/∞
+Accuracy report (3) 0.0684 3420 3186
+stage 4/∞
+Accuracy report (4) 0.0971 3420 3088
+stage 5/∞
+Accuracy report (5) 0.1620 3420 2866
+stage 6/∞
+Accuracy report (6) 0.1980 3420 2743
+stage 7/∞
+Accuracy report (7) 0.2202 3420 2667
+stage 8/∞
+Accuracy report (8) 0.1953 3420 2752
+stage 9/∞
+Accuracy report (9) 0.2187 3420 2672
+stage 10/∞
+Accuracy report (10) 0.2272 3420 2643
+stage 11/∞
+Accuracy report (11) 0.2079 3420 2709
+stage 12/∞
+Accuracy report (12) 0.2421 3420 2592
+Moving best model model_7.mlmodel (0.22017544507980347) to model_best.mlmodel

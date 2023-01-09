@@ -1,0 +1,97 @@
+KETOS training
+WARNING:root:scikit-learn version 1.0.2 is not supported. Minimum required version: 0.17. Maximum required version: 0.19.2. Disabling scikit-learn conversion API.
+WARNING:root:Torch version 1.10.0+cu102 has not been tested with coremltools. You may run into unexpected errors. Torch 1.9.1 is the most recent version that has been tested.
+[43.6225] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/illustrations_pages_bin/UZH_Khist_0239_4_XV_002_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/illustrations_pages_bin/UZH_Khist_0239_4_XV_002_R.xml 
+[43.7270] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/illustrations_pages_bin/UZH_Khist_0239_4_V_011_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/illustrations_pages_bin/UZH_Khist_0239_4_V_011_R.xml 
+[43.9206] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/illustrations_pages_bin/UZH_Khist_0239_4_II_002_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/illustrations_pages_bin/UZH_Khist_0239_4_II_002_R.xml 
+[43.9265] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/illustrations_pages_bin/UZH_Khist_0239_4_IX_004_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/illustrations_pages_bin/UZH_Khist_0239_4_IX_004_R.xml 
+[44.7616] Could not open file /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/illustrations_pages_bin/UZH_Khist_0239_4_XII_001_R.jpg in /home/users/j/jacsont/Kunsthistorisches-UZH_Archivdatenbank/HTR/Data/illustrations_pages_bin/UZH_Khist_0239_4_XII_001_R.xml 
+Building training set
+[44.8884] Text line " " is empty after transformations 
+[70.6624] Text line " " is empty after transformations 
+[86.6333] Line polygon outside of image bounds 
+[90.9860] Line polygon outside of image bounds 
+[98.4784] Line polygon outside of image bounds 
+[120.0251] Text line " " is empty after transformations 
+[120.0255] Text line " " is empty after transformations 
+[120.0257] Text line " " is empty after transformations 
+[120.0258] Text line " " is empty after transformations 
+[135.8153] Line polygon outside of image bounds 
+[181.1797] Text line " " is empty after transformations 
+[188.6271] Line polygon outside of image bounds 
+[194.6917] Line polygon outside of image bounds 
+[233.3553] Text line " " is empty after transformations 
+[234.0254] Line polygon outside of image bounds 
+[249.0510] Line polygon outside of image bounds 
+[249.4294] Line polygon outside of image bounds 
+[271.2799] Text line " " is empty after transformations 
+[275.0384] Line polygon outside of image bounds 
+[282.6296] Text line " " is empty after transformations 
+[284.0107] Line polygon outside of image bounds 
+[287.7238] Line polygon outside of image bounds 
+[289.7223] Line polygon outside of image bounds 
+[291.4999] Line polygon outside of image bounds 
+[296.6112] Line polygon outside of image bounds 
+[302.9645] Text line " " is empty after transformations 
+[320.2826] Text line " " is empty after transformations 
+[331.5138] Line polygon outside of image bounds 
+[350.3052] Line polygon outside of image bounds 
+[353.3547] Text line " " is empty after transformations 
+[385.1198] Line polygon outside of image bounds 
+[391.1429] Line polygon outside of image bounds 
+[435.6231] Line polygon outside of image bounds 
+[438.8106] Line polygon outside of image bounds 
+Building validation set
+[501.9918] Line polygon outside of image bounds 
+[537.6285] Line polygon outside of image bounds 
+[538.0202] Line polygon outside of image bounds 
+[547.7494] Line polygon outside of image bounds 
+[550.7554] alphabet mismatch: chars in training set only: {'ū', 'ê', 'ß', 'À', '⟦', 'â', 'ò', '⟧', '$', 'Ö', 'ó', 'q', 'ô', '«', 'ç', 'Æ', '‹', '—', '€', 'è', 'Q', '›', '„', 'É', 'Ò', 'Y', 'x', '»', '·'} (not included in accuracy test during training) 
+Initializing model ✓
+stage 1/∞
+Accuracy report (1) 0.0000 4009 4009
+stage 2/∞
+Accuracy report (2) 0.0142 4009 3952
+stage 3/∞
+Accuracy report (3) 0.0357 4009 3866
+stage 4/∞
+Accuracy report (4) 0.1055 4009 3586
+stage 5/∞
+Accuracy report (5) 0.1327 4009 3477
+stage 6/∞
+Accuracy report (6) 0.1377 4009 3457
+stage 7/∞
+Accuracy report (7) 0.1828 4009 3276
+stage 8/∞
+Accuracy report (8) 0.2387 4009 3052
+stage 9/∞
+Accuracy report (9) 0.1951 4009 3227
+stage 10/∞
+Accuracy report (10) 0.2227 4009 3116
+stage 11/∞
+Accuracy report (11) 0.2617 4009 2960
+stage 12/∞
+Accuracy report (12) 0.2816 4009 2880
+stage 13/∞
+Accuracy report (13) 0.2901 4009 2846
+stage 14/∞
+Accuracy report (14) 0.2986 4009 2812
+stage 15/∞
+Accuracy report (15) 0.3223 4009 2717
+stage 16/∞
+Accuracy report (16) 0.3163 4009 2741
+stage 17/∞
+Accuracy report (17) 0.3215 4009 2720
+stage 18/∞
+Accuracy report (18) 0.3634 4009 2552
+stage 19/∞
+Accuracy report (19) 0.3674 4009 2536
+stage 20/∞
+Accuracy report (20) 0.3669 4009 2538
+stage 21/∞
+Accuracy report (21) 0.3502 4009 2605
+stage 22/∞
+Accuracy report (22) 0.3774 4009 2496
+stage 23/∞
+Accuracy report (23) 0.3909 4009 2442
+Moving best model AllLines_18.mlmodel (0.36343228816986084) to AllLines_best.mlmodel

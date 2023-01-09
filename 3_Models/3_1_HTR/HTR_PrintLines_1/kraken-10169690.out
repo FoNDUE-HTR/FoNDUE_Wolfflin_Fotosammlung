@@ -1,0 +1,42 @@
+Requirement already satisfied: albumentations in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (1.1.0)
+Requirement already satisfied: qudida>=0.0.4 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from albumentations) (0.0.4)
+Requirement already satisfied: scipy in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from albumentations) (1.7.3)
+Requirement already satisfied: scikit-image>=0.16.1 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from albumentations) (0.19.0)
+Requirement already satisfied: PyYAML in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from albumentations) (6.0)
+Requirement already satisfied: numpy>=1.11.1 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from albumentations) (1.21.4)
+Requirement already satisfied: opencv-python-headless>=4.1.1 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from albumentations) (4.5.5.64)
+Requirement already satisfied: scikit-learn>=0.19.1 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from qudida>=0.0.4->albumentations) (1.1.0)
+Requirement already satisfied: typing-extensions in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from qudida>=0.0.4->albumentations) (4.0.1)
+Requirement already satisfied: PyWavelets>=1.1.1 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (1.2.0)
+Requirement already satisfied: packaging>=20.0 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (21.3)
+Requirement already satisfied: pillow!=7.1.0,!=7.1.1,!=8.3.0,>=6.1.0 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (8.4.0)
+Requirement already satisfied: networkx>=2.2 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (2.6.3)
+Requirement already satisfied: imageio>=2.4.1 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (2.13.3)
+Requirement already satisfied: tifffile>=2019.7.26 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from scikit-image>=0.16.1->albumentations) (2021.11.2)
+Requirement already satisfied: threadpoolctl>=2.0.0 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from scikit-learn>=0.19.1->qudida>=0.0.4->albumentations) (3.1.0)
+Requirement already satisfied: joblib>=1.0.0 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from scikit-learn>=0.19.1->qudida>=0.0.4->albumentations) (1.1.0)
+Requirement already satisfied: pyparsing!=3.0.5,>=2.0.2 in /home/users/j/jacsont/Topenv/lib/python3.8/site-packages (from packaging>=20.0->scikit-image>=0.16.1->albumentations) (3.0.6)
+WARNING: You are using pip version 20.2.1; however, version 22.1.2 is available.
+You should consider upgrading via the '/home/users/j/jacsont/Topenv/bin/python3 -m pip install --upgrade pip' command.
+KETOS training
+WARNING:root:scikit-learn version 1.1.0 is not supported. Minimum required version: 0.17. Maximum required version: 0.19.2. Disabling scikit-learn conversion API.
+WARNING:root:Torch version 1.10.0+cu102 has not been tested with coremltools. You may run into unexpected errors. Torch 1.9.1 is the most recent version that has been tested.
+Building training set
+Building validation set
+[235.6814] Line polygon outside of image bounds 
+[243.7317] alphabet mismatch: chars in training set only: {'é', '«', ':', 'k', 'Y', 'É', 'à', '–', 'j', 'ü', 'ß', '»', 'x', '8', 'X', ';', 'v', 'ô', '?', 'f', 'ç', 'h', 'ê', 'À', '/', 'y', 'â', 'è', 'w', 'q', '&'} (not included in accuracy test during training) 
+[243.7320] alphabet mismatch: chars in validation set only: {'Æ', 'Ö'} (not trained) 
+Initializing model ✓
+stage 1/∞
+Accuracy report (1) 0.0000 648 648
+stage 2/∞
+Accuracy report (2) 0.0000 648 648
+stage 3/∞
+Accuracy report (3) 0.0000 648 648
+stage 4/∞
+Accuracy report (4) 0.0000 648 648
+stage 5/∞
+Accuracy report (5) 0.0000 648 648
+stage 6/∞
+Accuracy report (6) 0.0031 648 646
+Moving best model output_name_1.mlmodel (0.0) to output_name_best.mlmodel

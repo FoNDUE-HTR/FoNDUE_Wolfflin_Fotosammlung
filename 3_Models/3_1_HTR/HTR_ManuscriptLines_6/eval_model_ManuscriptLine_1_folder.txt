@@ -1,0 +1,41 @@
+Loading model Models/HTR_ManuscriptLines_6/HTR_ManuscriptLines_6_best.mlmodel	✓
+Evaluating Models/HTR_ManuscriptLines_6/HTR_ManuscriptLines_6_best.mlmodel
+Evaluating
+=== report  ===
+
+478	Characters
+29	Errors
+93.93%	Accuracy
+
+17	Insertions
+4	Deletions
+8	Substitutions
+
+Count	Missed	%Right
+156	3	98.08%	Common
+322	22	93.17%	Latin
+
+Errors	Correct-Generated
+4	{  } - { I }
+3	{ I } - {  }
+3	{ i } - {  }
+2	{ n } - {  }
+1	{ D } - { B }
+1	{ L } - { E }
+1	{ O } - {  }
+1	{ e } - { a }
+1	{ r } - {  }
+1	{ s } - {  }
+1	{ 6 } - { 5 }
+1	{ u } - {  }
+1	{ L } - {  }
+1	{ 4 } - { 1 }
+1	{ B } - {  }
+1	{ V } - {  }
+1	{ V } - { I }
+1	{ N } - {  }
+1	{ p } - {  }
+1	{ t } - { h }
+1	{ 3 } - { 0 }
+
+Average accuracy: 93.93%, (stddev: 0.00)

@@ -1,0 +1,146 @@
+
+Les modules suivants ont été rechargés avec un changement de version :
+  1) CUDA/11.5.1 => CUDA/11.1.1
+
+KETOS training
+WARNING:root:scikit-learn version 1.0.2 is not supported. Minimum required version: 0.17. Maximum required version: 0.19.2. Disabling scikit-learn conversion API.
+WARNING:root:Torch version 1.10.0+cu102 has not been tested with coremltools. You may run into unexpected errors. Torch 1.9.1 is the most recent version that has been tested.
+Building training set
+[162.7459] Line polygon outside of image bounds 
+[163.4521] Line polygon outside of image bounds 
+[299.7425] Text line " " is empty after transformations 
+[300.4404] Line polygon outside of image bounds 
+[306.3426] Line polygon outside of image bounds 
+[597.7335] Line polygon outside of image bounds 
+[598.4500] Line polygon outside of image bounds 
+[688.7295] Line polygon outside of image bounds 
+[795.1512] Line polygon outside of image bounds 
+[842.2457] Line polygon outside of image bounds 
+[877.3820] Line polygon outside of image bounds 
+[1006.3193] Line polygon outside of image bounds 
+[1032.6937] Line polygon outside of image bounds 
+[1070.0778] Text line " " is empty after transformations 
+[1085.4084] Text line " " is empty after transformations 
+[1130.0948] Line polygon outside of image bounds 
+[1159.0440] Text line " " is empty after transformations 
+[1236.0747] Line polygon outside of image bounds 
+[1244.9592] Line polygon outside of image bounds 
+[1481.3400] Line polygon outside of image bounds 
+[1488.3344] Line polygon outside of image bounds 
+[1602.8012] Text line " " is empty after transformations 
+[1602.8016] Text line " " is empty after transformations 
+[1602.8018] Text line " " is empty after transformations 
+[1602.8019] Text line " " is empty after transformations 
+[1717.2610] Line polygon outside of image bounds 
+[1729.0668] Line polygon outside of image bounds 
+[1792.9482] Line polygon outside of image bounds 
+[1801.6404] Text line " " is empty after transformations 
+[1948.7990] Text line " " is empty after transformations 
+[1952.0888] Line polygon outside of image bounds 
+[2020.6428] Line polygon outside of image bounds 
+[2070.8896] Text line " " is empty after transformations 
+[2370.6649] Text line " " is empty after transformations 
+[2419.9578] Line polygon outside of image bounds 
+Building validation set
+[2474.1439] Text line " " is empty after transformations 
+[2474.1442] Text line " " is empty after transformations 
+[2474.1444] Text line " " is empty after transformations 
+[2474.1446] Text line " " is empty after transformations 
+[2477.2763] Text line " " is empty after transformations 
+[2477.9416] Line polygon outside of image bounds 
+[2528.1589] Line polygon outside of image bounds 
+[2539.0101] alphabet mismatch: chars in training set only: {'ū', '–', 'ō', 'é', "'", 'y', 'Ü', 'j', 'ü', '·', '€', 'ó', '$', '?', '°', 'Z', 'Q'} (not included in accuracy test during training) 
+Initializing model ✓
+stage 1/∞
+Accuracy report (1) 0.0296 1116 1083
+stage 2/∞
+Accuracy report (2) 0.0968 1116 1008
+stage 3/∞
+Accuracy report (3) 0.1962 1116 897
+stage 4/∞
+Accuracy report (4) 0.2410 1116 847
+stage 5/∞
+Accuracy report (5) 0.2849 1116 798
+stage 6/∞
+Accuracy report (6) 0.3342 1116 743
+stage 7/∞
+Accuracy report (7) 0.3665 1116 707
+stage 8/∞
+Accuracy report (8) 0.3907 1116 680
+stage 9/∞
+Accuracy report (9) 0.4247 1116 642
+stage 10/∞
+Accuracy report (10) 0.4830 1116 577
+stage 11/∞
+Accuracy report (11) 0.4848 1116 575
+stage 12/∞
+Accuracy report (12) 0.5188 1116 537
+stage 13/∞
+Accuracy report (13) 0.5305 1116 524
+stage 14/∞
+Accuracy report (14) 0.5797 1116 469
+stage 15/∞
+Accuracy report (15) 0.5995 1116 447
+stage 16/∞
+Accuracy report (16) 0.5887 1116 459
+stage 17/∞
+Accuracy report (17) 0.6452 1116 396
+stage 18/∞
+Accuracy report (18) 0.6505 1116 390
+stage 19/∞
+Accuracy report (19) 0.6756 1116 362
+stage 20/∞
+Accuracy report (20) 0.6864 1116 350
+stage 21/∞
+Accuracy report (21) 0.7079 1116 326
+stage 22/∞
+Accuracy report (22) 0.7177 1116 315
+stage 23/∞
+Accuracy report (23) 0.7357 1116 295
+stage 24/∞
+Accuracy report (24) 0.7455 1116 284
+stage 25/∞
+Accuracy report (25) 0.7428 1116 287
+stage 26/∞
+Accuracy report (26) 0.7384 1116 292
+stage 27/∞
+Accuracy report (27) 0.7590 1116 269
+stage 28/∞
+Accuracy report (28) 0.7527 1116 276
+stage 29/∞
+Accuracy report (29) 0.7751 1116 251
+stage 30/∞
+Accuracy report (30) 0.7894 1116 235
+stage 31/∞
+Accuracy report (31) 0.7814 1116 244
+stage 32/∞
+Accuracy report (32) 0.8056 1116 217
+stage 33/∞
+Accuracy report (33) 0.8056 1116 217
+stage 34/∞
+Accuracy report (34) 0.8091 1116 213
+stage 35/∞
+Accuracy report (35) 0.8109 1116 211
+stage 36/∞
+Accuracy report (36) 0.8082 1116 214
+stage 37/∞
+Accuracy report (37) 0.8208 1116 200
+stage 38/∞
+Accuracy report (38) 0.8217 1116 199
+stage 39/∞
+Accuracy report (39) 0.8181 1116 203
+stage 40/∞
+Accuracy report (40) 0.8306 1116 189
+stage 41/∞
+Accuracy report (41) 0.8432 1116 175
+stage 42/∞
+Accuracy report (42) 0.8262 1116 194
+stage 43/∞
+Accuracy report (43) 0.8271 1116 193
+stage 44/∞
+Accuracy report (44) 0.8486 1116 169
+stage 45/∞
+Accuracy report (45) 0.8414 1116 177
+stage 46/∞
+Accuracy report (46) 0.8396 1116 179
+Moving best model HTR_ManuscriptLines_6_41.mlmodel (0.8431899547576904) to HTR_ManuscriptLines_6_best.mlmodel
