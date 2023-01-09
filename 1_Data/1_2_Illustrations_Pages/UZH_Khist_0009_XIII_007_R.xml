@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0009_XIII_007_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6234"
+          HEIGHT="7778"
+          PHYSICAL_IMG_NR="220"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6234"
+                  HEIGHT="7778">
+        
+        <TextBlock HPOS="762"
+                   VPOS="792"
+                   WIDTH="4637"
+                   HEIGHT="5944"
+                   ID="eSc_textblock_9eea5c89"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="762 792 762 6736 5399 6736 5399 792"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d206cd75"
+                    TAGREFS="LT105"
+                    BASELINE="1023 6678 5243 6702" 
+                    HPOS="1011"
+                    VPOS="6565"
+                    WIDTH="4230"
+                    HEIGHT="150">
+            <Shape><Polygon POINTS="1018 6676 1018 6565 5235 6585 5241 6695 5228 6715 1011 6708"/></Shape>
+	    <String CONTENT="( Ed.ni Brogi ) 14335. NAPOLI - Chiesa dei SS. Severino e Sosio - La Vergine col Figlio e Santi; Andrea da Salerno."
+                    HPOS="1011"
+                    VPOS="6565"
+                    WIDTH="4230"
+                    HEIGHT="150"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5612"
+                   VPOS="7529"
+                   WIDTH="527"
+                   HEIGHT="227"
+                   ID="eSc_textblock_789bc158"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="5612 7529 5612 7756 6139 7756 6132 7529"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_88f3cef3"
+                    TAGREFS="LT103"
+                    BASELINE="5686 7716 6139 7702" 
+                    HPOS="5663"
+                    VPOS="7440"
+                    WIDTH="473"
+                    HEIGHT="292">
+            <Shape><Polygon POINTS="5682 7713 5663 7473 6117 7440 6136 7700 6130 7719 5682 7732"/></Shape>
+	    <String CONTENT="9. VIII. 7"
+                    HPOS="5663"
+                    VPOS="7440"
+                    WIDTH="473"
+                    HEIGHT="292"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

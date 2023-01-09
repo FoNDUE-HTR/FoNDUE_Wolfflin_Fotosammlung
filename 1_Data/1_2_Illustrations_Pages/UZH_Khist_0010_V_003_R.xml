@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_V_003_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7145"
+          HEIGHT="6079"
+          PHYSICAL_IMG_NR="249"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="7145"
+                  HEIGHT="6079">
+        
+        <TextBlock HPOS="605"
+                   VPOS="649"
+                   WIDTH="5996"
+                   HEIGHT="4841"
+                   ID="eSc_textblock_db673531"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="605 649 636 5490 6601 5414 6601 649"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_3c205244"
+                    TAGREFS="LT102"
+                    BASELINE="1541 5430 5600 5385" 
+                    HPOS="1525"
+                    VPOS="5055"
+                    WIDTH="4074"
+                    HEIGHT="441">
+            <Shape><Polygon POINTS="1540 5425 1525 5065 2589 5055 2594 5055 2594 5055 2599 5055 2599 5055 2599 5055 2721 5116 2751 5131 2792 5121 2837 5111 2842 5111 2842 5111 2847 5111 2847 5111 2847 5111 2852 5111 2852 5111 2858 5111 2858 5111 2873 5126 3030 5238 3293 5217 3298 5217 3298 5217 3298 5217 3303 5217 3303 5217 3303 5217 3374 5253 3770 5217 3770 5217 3775 5217 3775 5217 3780 5217 3780 5217 3861 5248 3967 5222 3972 5222 3972 5222 3977 5222 3977 5222 3977 5222 3982 5222 3982 5222 3982 5222 3988 5222 4028 5248 4327 5222 4327 5222 4332 5222 4332 5222 4337 5222 4474 5258 4773 5227 4773 5227 4778 5227 4778 5227 4783 5227 4783 5227 4854 5253 5584 5253 5599 5384 5599 5450 1540 5496"/></Shape>
+	    <String CONTENT="(Ed.ni Brogi) 17487. FIRENZE. Galleria Antica e Moderna. Storia dei Santi Cosimo e Damiano ; Beato Angelico."
+                    HPOS="1525"
+                    VPOS="5055"
+                    WIDTH="4074"
+                    HEIGHT="441"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="73"
+                   VPOS="5486"
+                   WIDTH="140"
+                   HEIGHT="360"
+                   ID="eSc_textblock_4cee8705"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="213 5486 213 5846 73 5846 73 5486"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ce739006"
+                    TAGREFS="LT103"
+                    BASELINE="95 5506 92 5799" 
+                    HPOS="50"
+                    VPOS="5496"
+                    WIDTH="172"
+                    HEIGHT="299">
+            <Shape><Polygon POINTS="91 5501 222 5501 212 5795 91 5795 50 5790 60 5496"/></Shape>
+	    <String CONTENT="10. III. 8"
+                    HPOS="50"
+                    VPOS="5496"
+                    WIDTH="172"
+                    HEIGHT="299"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2148"
+                   VPOS="5559"
+                   WIDTH="2620"
+                   HEIGHT="241"
+                   ID="eSc_textblock_7da07df3"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="2148 5579 2148 5800 4764 5800 4768 5559"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_536bdca5"
+                    TAGREFS="LT103"
+                    BASELINE="2184 5727 4724 5695" 
+                    HPOS="2153"
+                    VPOS="5557"
+                    WIDTH="2569"
+                    HEIGHT="218">
+            <Shape><Polygon POINTS="2178 5724 2153 5628 2189 5587 2194 5587 2194 5582 2194 5582 2199 5582 2199 5582 2204 5582 2204 5582 2204 5582 2209 5582 2209 5582 2442 5612 2736 5587 2741 5587 2741 5587 2741 5587 2842 5607 2878 5577 2878 5577 2883 5577 2883 5577 2883 5577 2888 5577 2888 5577 2888 5577 2893 5577 2893 5577 3030 5597 3055 5577 3055 5572 3055 5572 3060 5572 3060 5572 3060 5572 3065 5572 3065 5572 3070 5572 3070 5572 3070 5572 3238 5607 3374 5607 3445 5567 3445 5567 3445 5567 3450 5567 3450 5567 3455 5567 3455 5567 3704 5597 3704 5597 3704 5597 3800 5567 3805 5567 3805 5567 3805 5567 3810 5567 3810 5567 3810 5567 3922 5592 3952 5567 3952 5562 3952 5562 3957 5562 3957 5562 3957 5562 3962 5562 3962 5562 3962 5562 3967 5562 3967 5562 3972 5562 4094 5592 4099 5592 4099 5592 4134 5562 4134 5562 4140 5562 4140 5562 4145 5562 4145 5562 4145 5562 4150 5562 4150 5562 4155 5562 4261 5587 4281 5592 4342 5587 4626 5557 4626 5557 4631 5557 4631 5557 4636 5557 4717 5582 4722 5693 4717 5754 4302 5724 4226 5759 4210 5764 4210 5764 4205 5764 4205 5764 4205 5764 3749 5769 3744 5769 3744 5769 3683 5759 3567 5734 3526 5759 3511 5769 3506 5769 3506 5769 3506 5769 3501 5769 3501 5769 3496 5769 3496 5769 3496 5769 3491 5769 3491 5769 3466 5759 3420 5739 3283 5759 3177 5775 3177 5775 3172 5775 3172 5775 3167 5775 3111 5759 3050 5744 2989 5759 2959 5769 2954 5769 2954 5769 2954 5769 2949 5769 2949 5769 2878 5759 2771 5744 2690 5759 2645 5769 2645 5769 2645 5769 2640 5769 2640 5769 2635 5769 2635 5769 2635 5769 2629 5769 2629 5769 2619 5759 2599 5744 2533 5759 2483 5775 2477 5775 2477 5775 2472 5775 2173 5759"/></Shape>
+	    <String CONTENT="Altar der hl. Dreifaltigkeit (Detail)"
+                    HPOS="2153"
+                    VPOS="5557"
+                    WIDTH="2569"
+                    HEIGHT="218"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

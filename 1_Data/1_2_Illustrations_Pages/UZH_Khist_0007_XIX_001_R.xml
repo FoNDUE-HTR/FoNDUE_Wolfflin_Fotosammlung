@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_XIX_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4810"
+          HEIGHT="6020"
+          PHYSICAL_IMG_NR="129"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4810"
+                  HEIGHT="6020">
+        
+        <TextBlock HPOS="843"
+                   VPOS="5197"
+                   WIDTH="859"
+                   HEIGHT="276"
+                   ID="eSc_textblock_c34d9093"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="1024 5197 1621 5237 1702 5392 1420 5473 843 5412"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_83222e45"
+                    TAGREFS="LT103"
+                    BASELINE="959 5395 1670 5377" 
+                    HPOS="933"
+                    VPOS="5202"
+                    WIDTH="738"
+                    HEIGHT="256">
+            <Shape><Polygon POINTS="958 5392 933 5277 989 5212 994 5212 994 5207 994 5207 999 5207 999 5207 999 5207 1004 5207 1004 5207 1004 5207 1154 5202 1159 5202 1159 5202 1159 5202 1164 5202 1164 5202 1164 5202 1169 5202 1275 5277 1275 5277 1275 5277 1340 5247 1340 5247 1345 5247 1345 5247 1345 5247 1350 5247 1646 5277 1666 5372 1671 5418 1581 5448 1576 5448 1576 5448 1576 5448 1571 5448 1571 5448 1571 5448 1566 5448 1566 5448 1506 5423 1491 5412 1476 5423 1435 5453 1430 5453 1430 5453 1430 5453 1425 5453 1425 5453 1425 5453 1305 5458 1300 5458 1300 5458 1300 5458 1295 5458 1199 5428 1194 5428 958 5428"/></Shape>
+	    <String CONTENT="Anagni."
+                    HPOS="933"
+                    VPOS="5202"
+                    WIDTH="738"
+                    HEIGHT="256"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2008"
+                   VPOS="5377"
+                   WIDTH="2199"
+                   HEIGHT="196"
+                   ID="eSc_textblock_773a775e"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="2028 5438 2229 5377 4167 5418 4207 5493 3966 5573 2008 5573"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_04e563e1"
+                    TAGREFS="LT103"
+                    BASELINE="2078 5543 4157 5518" 
+                    HPOS="2053"
+                    VPOS="5362"
+                    WIDTH="2104"
+                    HEIGHT="216">
+            <Shape><Polygon POINTS="2078 5543 2053 5433 2123 5377 2123 5377 2128 5377 2128 5377 2128 5377 2133 5377 2133 5377 2450 5362 2455 5362 2455 5362 2460 5362 2711 5428 2721 5428 2731 5428 2836 5402 2836 5402 2836 5402 2841 5402 2841 5402 2972 5418 3017 5382 3017 5382 3022 5382 3022 5382 3022 5382 3027 5382 3027 5382 3032 5382 3128 5382 3128 5382 3128 5382 3133 5382 3133 5382 3133 5382 3138 5382 3138 5382 3188 5423 3188 5423 3203 5423 3394 5387 3394 5387 3399 5387 4147 5412 4157 5518 4152 5553 2078 5578"/></Shape>
+	    <String CONTENT="Dommuseum"
+                    HPOS="2053"
+                    VPOS="5362"
+                    WIDTH="2104"
+                    HEIGHT="216"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4175"
+                   VPOS="5772"
+                   WIDTH="529"
+                   HEIGHT="184"
+                   ID="eSc_textblock_6c292686"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="4689 5772 4704 5943 4184 5956 4175 5772"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_3763de89"
+                    TAGREFS="LT103"
+                    BASELINE="4220 5935 4706 5927" 
+                    HPOS="4212"
+                    VPOS="5764"
+                    WIDTH="492"
+                    HEIGHT="205">
+            <Shape><Polygon POINTS="4217 5934 4212 5764 4694 5769 4704 5924 4694 5959 4272 5944 4222 5969"/></Shape>
+	    <String CONTENT="7. IX. 31"
+                    HPOS="4212"
+                    VPOS="5764"
+                    WIDTH="492"
+                    HEIGHT="205"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="895"
+                   VPOS="764"
+                   WIDTH="3117"
+                   HEIGHT="4274"
+                   ID="eSc_textblock_45e26876"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="895 764 895 5038 4012 5038 4012 764"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

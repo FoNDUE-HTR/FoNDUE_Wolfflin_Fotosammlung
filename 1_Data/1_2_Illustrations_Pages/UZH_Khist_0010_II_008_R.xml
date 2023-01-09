@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_II_008_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6004"
+          HEIGHT="7866"
+          PHYSICAL_IMG_NR="229"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6004"
+                  HEIGHT="7866">
+        
+        <TextBlock HPOS="414"
+                   VPOS="512"
+                   WIDTH="4955"
+                   HEIGHT="6713"
+                   ID="eSc_textblock_70515747"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="414 538 427 7225 5369 7225 5369 512"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_fb3f8352"
+                    TAGREFS="LT102"
+                    BASELINE="597 7160 2449 7160" 
+                    HPOS="590"
+                    VPOS="7053"
+                    WIDTH="1857"
+                    HEIGHT="229">
+            <Shape><Polygon POINTS="590 7158 590 7053 2447 7053 2447 7158 2440 7282 2270 7249 2198 7282 2191 7282 2185 7282 2178 7282 2093 7249 1738 7282 1732 7282 1725 7282 1719 7282 1614 7249 1482 7282 1476 7282 1469 7282 1272 7249 925 7282 918 7282 912 7282 754 7249 590 7282"/></Shape>
+	    <String CONTENT="5008. Angelico. Thronende Maria mit dem Kinde."
+                    HPOS="590"
+                    VPOS="7053"
+                    WIDTH="1857"
+                    HEIGHT="229"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e9090a85"
+                    TAGREFS="LT102"
+                    BASELINE="3921 7163 5234 7163" 
+                    HPOS="3917"
+                    VPOS="7046"
+                    WIDTH="1312"
+                    HEIGHT="223">
+            <Shape><Polygon POINTS="3917 7158 3917 7046 5229 7053 5229 7158 5229 7262 3917 7269"/></Shape>
+	    <String CONTENT="Photographische Gesellschaft, Berlin."
+                    HPOS="3917"
+                    VPOS="7046"
+                    WIDTH="1312"
+                    HEIGHT="223"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bf5e5c8e"
+                    TAGREFS="LT104"
+                    BASELINE="2499 7167 3852 7177" 
+                    HPOS="2480"
+                    VPOS="7053"
+                    WIDTH="1371"
+                    HEIGHT="203">
+            <Shape><Polygon POINTS="2493 7164 2493 7053 3851 7059 3851 7171 3838 7256 2480 7249"/></Shape>
+	    <String CONTENT="Berlin, Staatl. Museen."
+                    HPOS="2480"
+                    VPOS="7053"
+                    WIDTH="1371"
+                    HEIGHT="203"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5126"
+                   VPOS="7513"
+                   WIDTH="444"
+                   HEIGHT="173"
+                   ID="eSc_textblock_42cea830"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="5126 7513 5126 7686 5570 7686 5570 7513"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ca086571"
+                    TAGREFS="LT103"
+                    BASELINE="5142 7654 5538 7654" 
+                    HPOS="5131"
+                    VPOS="7492"
+                    WIDTH="400"
+                    HEIGHT="347">
+            <Shape><Polygon POINTS="5137 7649 5137 7492 5531 7505 5531 7649 5524 7839 5131 7807"/></Shape>
+	    <String CONTENT="10. II. 8"
+                    HPOS="5131"
+                    VPOS="7492"
+                    WIDTH="400"
+                    HEIGHT="347"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

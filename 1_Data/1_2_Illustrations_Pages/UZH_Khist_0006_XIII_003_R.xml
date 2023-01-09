@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0006_XIII_003_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7671"
+          HEIGHT="6253"
+          PHYSICAL_IMG_NR="58"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="7671"
+                  HEIGHT="6253">
+        
+        <TextBlock HPOS="41"
+                   VPOS="5550"
+                   WIDTH="275"
+                   HEIGHT="551"
+                   ID="eSc_textblock_a1a38814"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="83 6101 41 5997 42 5550 316 5690 182 6101"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_634a56e4"
+                    TAGREFS="LT103"
+                    BASELINE="98 5592 92 6104" 
+                    HPOS="62"
+                    VPOS="5586"
+                    WIDTH="261"
+                    HEIGHT="515">
+            <Shape><Polygon POINTS="93 5591 323 5591 317 6096 88 6101 62 6096 62 5586"/></Shape>
+	    <String CONTENT="6. VIII. 20"
+                    HPOS="62"
+                    VPOS="5586"
+                    WIDTH="261"
+                    HEIGHT="515"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="520"
+                   VPOS="5735"
+                   WIDTH="2585"
+                   HEIGHT="203"
+                   ID="eSc_textblock_52d90875"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="3105 5938 3105 5735 520 5735 520 5938"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_c0b89dd1"
+                    TAGREFS="LT103"
+                    BASELINE="604 5903 3085 5872" 
+                    HPOS="594"
+                    VPOS="5757"
+                    WIDTH="2491"
+                    HEIGHT="204">
+            <Shape><Polygon POINTS="604 5903 594 5784 922 5804 958 5778 964 5773 969 5773 974 5773 979 5773 984 5773 1010 5778 1083 5799 1240 5778 1380 5763 1386 5763 1521 5778 1641 5794 1672 5778 1709 5763 1714 5763 1719 5763 1792 5778 1839 5789 1855 5778 1881 5757 1886 5757 1891 5757 1896 5757 2001 5778 2058 5789 2089 5778 2136 5757 2141 5757 2147 5757 2152 5757 2220 5778 2246 5784 3069 5778 3085 5872 3079 5935 2902 5909 2720 5940 2668 5945 2662 5945 2558 5940 2282 5919 2246 5940 2235 5950 2230 5950 2225 5950 2220 5950 2100 5940 1896 5924 1844 5940 1808 5955 1803 5955 1797 5955 1698 5945 1563 5924 1485 5945 1417 5961 1412 5961 1407 5961 1271 5945 1136 5929 604 5945"/></Shape>
+	    <String CONTENT="Amiens, Kathedrale: Chorumgang"
+                    HPOS="594"
+                    VPOS="5757"
+                    WIDTH="2491"
+                    HEIGHT="204"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="563"
+                   VPOS="801"
+                   WIDTH="6531"
+                   HEIGHT="4931"
+                   ID="eSc_textblock_36fd0557"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="563 858 563 5732 7065 5732 7094 801"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

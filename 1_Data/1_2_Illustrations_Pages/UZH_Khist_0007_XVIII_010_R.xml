@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_XVIII_010_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5935"
+          HEIGHT="7810"
+          PHYSICAL_IMG_NR="159"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="5935"
+                  HEIGHT="7810">
+        
+        <TextBlock HPOS="513"
+                   VPOS="798"
+                   WIDTH="4765"
+                   HEIGHT="6064"
+                   ID="eSc_textblock_ccd2d80b"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="609 798 513 6843 5278 6862 5278 798"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_974d062b"
+                    TAGREFS="LT104"
+                    BASELINE="1283 6775 2043 6788" 
+                    HPOS="1270"
+                    VPOS="6645"
+                    WIDTH="769"
+                    HEIGHT="253">
+            <Shape><Polygon POINTS="1276 6768 1270 6658 2032 6645 2039 6781 2032 6859 1270 6898"/></Shape>
+	    <String CONTENT="Quattro Santi"
+                    HPOS="1270"
+                    VPOS="6645"
+                    WIDTH="769"
+                    HEIGHT="253"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_509d0bca"
+                    TAGREFS="LT104"
+                    BASELINE="3333 6793 4282 6797" 
+                    HPOS="3316"
+                    VPOS="6664"
+                    WIDTH="964"
+                    HEIGHT="273">
+            <Shape><Polygon POINTS="3329 6788 3329 6664 4273 6664 4280 6794 4260 6931 4156 6892 4110 6924 4097 6937 4097 6937 4091 6937 4091 6937 4084 6937 4084 6937 4084 6937 4078 6937 4078 6937 3895 6911 3824 6905 3791 6905 3596 6937 3596 6937 3589 6937 3589 6937 3589 6937 3583 6937 3583 6937 3583 6937 3576 6937 3576 6937 3576 6931 3537 6892 3316 6879"/></Shape>
+	    <String CONTENT="Cattedrale Anagni"
+                    HPOS="3316"
+                    VPOS="6664"
+                    WIDTH="964"
+                    HEIGHT="273"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5104"
+                   VPOS="7402"
+                   WIDTH="626"
+                   HEIGHT="327"
+                   ID="eSc_textblock_c75f5c0c"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="5104 7402 5104 7729 5730 7729 5730 7402"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_c6c44a83"
+                    TAGREFS="LT103"
+                    BASELINE="5170 7637 5666 7638" 
+                    HPOS="5166"
+                    VPOS="7458"
+                    WIDTH="495"
+                    HEIGHT="215">
+            <Shape><Polygon POINTS="5166 7634 5166 7458 5661 7484 5661 7634 5661 7666 5166 7673"/></Shape>
+	    <String CONTENT="7. IX. 30"
+                    HPOS="5166"
+                    VPOS="7458"
+                    WIDTH="495"
+                    HEIGHT="215"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

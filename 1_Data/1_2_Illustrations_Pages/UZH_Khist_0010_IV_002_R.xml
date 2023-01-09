@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_IV_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7600"
+          HEIGHT="6256"
+          PHYSICAL_IMG_NR="236"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="7600"
+                  HEIGHT="6256">
+        
+        <TextBlock HPOS="693"
+                   VPOS="560"
+                   WIDTH="6092"
+                   HEIGHT="4850"
+                   ID="eSc_textblock_b3eb0dc3"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="741 560 693 5394 6704 5410 6785 609"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_a7c133bb"
+                    TAGREFS="LT102"
+                    BASELINE="2163 5298 5268 5329" 
+                    HPOS="2149"
+                    VPOS="5208"
+                    WIDTH="3114"
+                    HEIGHT="135">
+            <Shape><Polygon POINTS="2159 5296 2159 5208 5257 5239 5263 5328 5252 5343 2149 5322"/></Shape>
+	    <String CONTENT="(Ed.ne Alinari)P.e 2.a N. 10482. CORTONA – Chiesa del Gesù. L&#39;Annunziazione. (Beato Angelico.)"
+                    HPOS="2149"
+                    VPOS="5208"
+                    WIDTH="3114"
+                    HEIGHT="135"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2309"
+                   VPOS="5450"
+                   WIDTH="2673"
+                   HEIGHT="309"
+                   ID="eSc_textblock_fb235cfe"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="2309 5450 2309 5759 4982 5759 4982 5450"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_a2132efa"
+                    TAGREFS="LT103"
+                    BASELINE="2357 5623 4925 5650" 
+                    HPOS="2347"
+                    VPOS="5468"
+                    WIDTH="2577"
+                    HEIGHT="245">
+            <Shape><Polygon POINTS="2352 5619 2347 5484 3234 5468 3239 5468 3244 5468 3249 5468 3286 5494 3286 5500 3291 5494 3333 5479 3338 5479 3343 5479 3348 5479 3432 5500 3484 5510 3526 5500 3640 5474 3646 5474 3828 5505 3896 5515 4073 5510 4694 5484 4699 5484 4918 5526 4924 5646 4913 5677 4642 5672 4626 5682 4590 5708 4585 5708 4579 5708 4574 5708 4569 5708 4485 5687 4454 5713 4449 5713 4444 5713 4438 5713 4433 5713 4428 5713 4428 5708 4402 5682 4392 5666 4219 5666 4120 5682 3969 5708 3964 5708 3959 5708 3896 5682 3854 5666 3661 5682 3458 5703 3453 5703 3447 5703 3442 5703 3416 5687 3364 5656 2728 5687 2592 5692 2587 5692 2582 5692 2571 5687 2482 5656 2352 5687"/></Shape>
+	    <String CONTENT="Mitteltafel des Altars von Cortona"
+                    HPOS="2347"
+                    VPOS="5468"
+                    WIDTH="2577"
+                    HEIGHT="245"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="51"
+                   VPOS="5621"
+                   WIDTH="292"
+                   HEIGHT="438"
+                   ID="eSc_textblock_577ed806"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="51 5621 51 6059 343 6059 343 5621"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ea977c9f"
+                    TAGREFS="LT103"
+                    BASELINE="111 5634 105 6040" 
+                    HPOS="46"
+                    VPOS="5625"
+                    WIDTH="225"
+                    HEIGHT="412">
+            <Shape><Polygon POINTS="109 5630 266 5630 239 5802 250 5828 271 5880 271 5885 271 5891 271 5896 229 6037 104 6037 46 6026 73 5807 52 5625"/></Shape>
+	    <String CONTENT="10. III. 2"
+                    HPOS="46"
+                    VPOS="5625"
+                    WIDTH="225"
+                    HEIGHT="412"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

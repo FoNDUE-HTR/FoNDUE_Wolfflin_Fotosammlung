@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0006_V_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6254"
+          HEIGHT="7680"
+          PHYSICAL_IMG_NR="21"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6254"
+                  HEIGHT="7680">
+        
+        <TextBlock HPOS="994"
+                   VPOS="737"
+                   WIDTH="4698"
+                   HEIGHT="6304"
+                   ID="eSc_textblock_07c1c022"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="994 818 1124 7041 5692 6951 5581 737"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_3b56b81d"
+                    TAGREFS="LT102"
+                    BASELINE="1141 6895 2691 6852" 
+                    HPOS="1120"
+                    VPOS="6585"
+                    WIDTH="1568"
+                    HEIGHT="365">
+            <Shape><Polygon POINTS="1139 6892 1120 6700 1453 6694 1517 6668 1657 6624 1664 6624 1664 6624 1670 6624 1670 6624 1862 6643 1875 6643 1881 6643 1939 6592 1939 6592 1945 6592 1945 6592 1945 6592 1952 6592 1952 6592 1958 6592 2464 6592 2464 6592 2464 6592 2470 6592 2470 6592 2490 6598 2566 6636 2662 6585 2688 6848 2682 6905 2246 6886 1139 6950"/></Shape>
+	    <String CONTENT="COLLECTION HANFSTAENGL MÜNCHEN"
+                    HPOS="1120"
+                    VPOS="6585"
+                    WIDTH="1568"
+                    HEIGHT="365"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9f879e8c"
+                    TAGREFS="LT102"
+                    BASELINE="1482 6980 2347 6958" 
+                    HPOS="1465"
+                    VPOS="6854"
+                    WIDTH="877"
+                    HEIGHT="224">
+            <Shape><Polygon POINTS="1478 6976 1465 6880 2323 6854 2342 6956 2336 7059 1478 7078"/></Shape>
+	    <String CONTENT="KGL. GALERIE BERLIN"
+                    HPOS="1465"
+                    VPOS="6854"
+                    WIDTH="877"
+                    HEIGHT="224"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b2470207"
+                    TAGREFS="LT102"
+                    BASELINE="4583 6826 5685 6816" 
+                    HPOS="4564"
+                    VPOS="6617"
+                    WIDTH="1120"
+                    HEIGHT="237">
+            <Shape><Polygon POINTS="4576 6822 4564 6617 4717 6617 4717 6617 4717 6617 4724 6617 4724 6617 4724 6617 4730 6617 4730 6617 4730 6624 4730 6624 4775 6668 5069 6668 5152 6643 5223 6617 5229 6617 5229 6617 5229 6617 5236 6617 5236 6617 5236 6617 5242 6617 5242 6617 5319 6649 5357 6668 5671 6668 5684 6816 5677 6854 4570 6848"/></Shape>
+	    <String CONTENT="70. CHRISTOPH AMBERGER"
+                    HPOS="4564"
+                    VPOS="6617"
+                    WIDTH="1120"
+                    HEIGHT="237"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_25af0cad"
+                    TAGREFS="LT102"
+                    BASELINE="4624 6929 5690 6918" 
+                    HPOS="4615"
+                    VPOS="6809"
+                    WIDTH="1069"
+                    HEIGHT="218">
+            <Shape><Polygon POINTS="4621 6924 4615 6809 5671 6816 5684 6912 5671 7027 4615 7020"/></Shape>
+	    <String CONTENT="BILDNIS KAISER KARL&#39;S V."
+                    HPOS="4615"
+                    VPOS="6809"
+                    WIDTH="1069"
+                    HEIGHT="218"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5489"
+                   VPOS="7429"
+                   WIDTH="534"
+                   HEIGHT="213"
+                   ID="eSc_textblock_bacb7143"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="5489 7429 5997 7449 6023 7520 6017 7616 5504 7642"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_0f55d8e6"
+                    TAGREFS="LT103"
+                    BASELINE="5549 7597 5991 7558" 
+                    HPOS="5517"
+                    VPOS="7404"
+                    WIDTH="468"
+                    HEIGHT="212">
+            <Shape><Polygon POINTS="5543 7596 5517 7430 5959 7404 5985 7552 5985 7571 5543 7616"/></Shape>
+	    <String CONTENT="6. III. 10"
+                    HPOS="5517"
+                    VPOS="7404"
+                    WIDTH="468"
+                    HEIGHT="212"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

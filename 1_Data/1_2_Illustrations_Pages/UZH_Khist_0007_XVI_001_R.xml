@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_XVI_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7549"
+          HEIGHT="6407"
+          PHYSICAL_IMG_NR="136"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="7549"
+                  HEIGHT="6407">
+        
+        <TextBlock HPOS="747"
+                   VPOS="5680"
+                   WIDTH="3024"
+                   HEIGHT="230"
+                   ID="eSc_textblock_e5b49bc2"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="3771 5867 1025 5910 747 5889 747 5680 3686 5702 3771 5744"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_29ef46c5"
+                    TAGREFS="LT103"
+                    BASELINE="753 5851 3734 5841" 
+                    HPOS="742"
+                    VPOS="5659"
+                    WIDTH="2992"
+                    HEIGHT="267">
+            <Shape><Polygon POINTS="753 5851 742 5664 1036 5712 1357 5712 1426 5670 1442 5664 1447 5664 1453 5664 1458 5664 1485 5670 1570 5696 1682 5675 1736 5664 1741 5664 1747 5664 1768 5675 1832 5707 1923 5675 1960 5664 1966 5664 1971 5664 1976 5664 2030 5680 2131 5707 2179 5680 2211 5659 2217 5659 2222 5659 2227 5659 2468 5659 2473 5659 2548 5686 2601 5702 2788 5686 3023 5670 3029 5670 3205 5691 3280 5702 3291 5696 3339 5664 3344 5664 3349 5664 3547 5659 3552 5659 3723 5702 3734 5841 3729 5862 3339 5921 3333 5921 2735 5910 2730 5910 2644 5878 2607 5867 2430 5883 2302 5894 2297 5894 2147 5889 1880 5873 1848 5894 1789 5926 1784 5926 1779 5926 1773 5926 1768 5926 1763 5926 1720 5894 1682 5873 1576 5873 1543 5894 1511 5926 1506 5926 1501 5926 1495 5926 1346 5899 1308 5894 1266 5899 1100 5926 1095 5926 1089 5926 1084 5926 1052 5905 1009 5873 753 5905"/></Shape>
+	    <String CONTENT="Anagni, Kathedrale. Inneres geger Altar"
+                    HPOS="742"
+                    VPOS="5659"
+                    WIDTH="2992"
+                    HEIGHT="267"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5353"
+                   VPOS="5680"
+                   WIDTH="721"
+                   HEIGHT="187"
+                   ID="eSc_textblock_79d56fc2"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="5353 5723 5438 5680 6053 5702 6074 5846 5353 5867"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_6fcb4c0b"
+                    TAGREFS="LT103"
+                    BASELINE="5353 5841 6063 5841" 
+                    HPOS="5347"
+                    VPOS="5696"
+                    WIDTH="716"
+                    HEIGHT="198">
+            <Shape><Polygon POINTS="5353 5841 5353 5696 5534 5696 5540 5696 5572 5712 5636 5750 6063 5760 6063 5841 6058 5894 5347 5873"/></Shape>
+	    <String CONTENT="Moscioni"
+                    HPOS="5347"
+                    VPOS="5696"
+                    WIDTH="716"
+                    HEIGHT="198"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="761"
+                   VPOS="798"
+                   WIDTH="6084"
+                   HEIGHT="4777"
+                   ID="eSc_textblock_bbe8fbe8"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="761 798 761 5575 6845 5575 6845 798"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

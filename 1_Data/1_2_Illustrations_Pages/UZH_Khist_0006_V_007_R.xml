@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0006_V_007_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5540"
+          HEIGHT="7500"
+          PHYSICAL_IMG_NR="26"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="5540"
+                  HEIGHT="7500">
+        
+        <TextBlock HPOS="2001"
+                   VPOS="787"
+                   WIDTH="1485"
+                   HEIGHT="284"
+                   ID="eSc_textblock_1c066293"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="2001 787 2001 1071 3486 1071 3486 787"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_c7d96c0f"
+                    TAGREFS="LT105"
+                    BASELINE="2082 962 3445 950" 
+                    HPOS="2069"
+                    VPOS="800"
+                    WIDTH="1376"
+                    HEIGHT="206">
+            <Shape><Polygon POINTS="2082 962 2069 800 3432 812 3445 950 3439 1006 2075 993"/></Shape>
+	    <String CONTENT="OBERDEUTSCHE SCHULE"
+                    HPOS="2069"
+                    VPOS="800"
+                    WIDTH="1376"
+                    HEIGHT="206"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="692"
+                   VPOS="6042"
+                   WIDTH="4140"
+                   HEIGHT="1343"
+                   ID="eSc_textblock_2cc33657"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="692 6042 692 7385 4832 7385 4832 6042"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_89a145d2"
+                    TAGREFS="LT105"
+                    BASELINE="800 6212 1788 6200" 
+                    HPOS="781"
+                    VPOS="6018"
+                    WIDTH="1007"
+                    HEIGHT="263">
+            <Shape><Polygon POINTS="800 6212 781 6031 1769 6018 1788 6200 1788 6268 800 6281"/></Shape>
+	    <String CONTENT="Klassischer Bilderschatz Nr. 988"
+                    HPOS="781"
+                    VPOS="6018"
+                    WIDTH="1007"
+                    HEIGHT="263"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6874b952"
+                    TAGREFS="LT105"
+                    BASELINE="3820 6206 4777 6193" 
+                    HPOS="3801"
+                    VPOS="6000"
+                    WIDTH="976"
+                    HEIGHT="293">
+            <Shape><Polygon POINTS="3820 6206 3801 6025 4758 6000 4777 6193 4777 6243 4552 6293 4552 6293 4545 6293 3814 6275"/></Shape>
+	    <String CONTENT="Sammlung Schubart, München"
+                    HPOS="3801"
+                    VPOS="6000"
+                    WIDTH="976"
+                    HEIGHT="293"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f5c8781d"
+                    TAGREFS="LT105"
+                    BASELINE="2019 6368 3495 6350" 
+                    HPOS="2000"
+                    VPOS="6231"
+                    WIDTH="1495"
+                    HEIGHT="175">
+            <Shape><Polygon POINTS="2019 6368 2000 6237 3476 6231 3495 6350 3495 6393 2019 6406"/></Shape>
+	    <String CONTENT="CHRISTOPH AMBERGER"
+                    HPOS="2000"
+                    VPOS="6231"
+                    WIDTH="1495"
+                    HEIGHT="175"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d0ab1894"
+                    TAGREFS="LT105"
+                    BASELINE="2376 6531 3157 6531" 
+                    HPOS="2376"
+                    VPOS="6437"
+                    WIDTH="781"
+                    HEIGHT="144">
+            <Shape><Polygon POINTS="2376 6531 2376 6437 3157 6437 3157 6531 3157 6562 2376 6581"/></Shape>
+	    <String CONTENT="1500(?) - 1560/61"
+                    HPOS="2376"
+                    VPOS="6437"
+                    WIDTH="781"
+                    HEIGHT="144"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ca7c6fd3"
+                    TAGREFS="LT105"
+                    BASELINE="1331 6793 4183 6806" 
+                    HPOS="1325"
+                    VPOS="6693"
+                    WIDTH="2858"
+                    HEIGHT="163">
+            <Shape><Polygon POINTS="1331 6793 1331 6693 4183 6706 4183 6806 4176 6837 1325 6856"/></Shape>
+	    <String CONTENT="Bildnis des Matthias Schwartz – Portrait de Mathias Schwartz"
+                    HPOS="1325"
+                    VPOS="6693"
+                    WIDTH="2858"
+                    HEIGHT="163"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_57798dfd"
+                    TAGREFS="LT105"
+                    BASELINE="1575 7156 3958 7143" 
+                    HPOS="1569"
+                    VPOS="7018"
+                    WIDTH="2389"
+                    HEIGHT="182">
+            <Shape><Polygon POINTS="1575 7156 1569 7031 1738 7068 2150 7068 2276 7031 2307 7025 2313 7025 2313 7025 2319 7025 2319 7025 2388 7031 2588 7062 2882 7062 2907 7037 2920 7025 2920 7018 2920 7018 2926 7018 2926 7018 2926 7018 2932 7018 2932 7018 2938 7018 2938 7018 2938 7018 3038 7037 3120 7050 3201 7037 3313 7018 3313 7018 3320 7018 3320 7018 3320 7018 3326 7018 3395 7037 3470 7056 3939 7043 3958 7143 3951 7187 1575 7200"/></Shape>
+	    <String CONTENT="VERLAGSANSTALT FÜR KUNST UND WISSENSCHAFT VORMALS FRIEDR. BRUCKMANN, MÜNCHEN."
+                    HPOS="1569"
+                    VPOS="7018"
+                    WIDTH="2389"
+                    HEIGHT="182"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4918"
+                   VPOS="7261"
+                   WIDTH="524"
+                   HEIGHT="212"
+                   ID="eSc_textblock_05e56ae8"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="4918 7261 4918 7473 5442 7473 5442 7261"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_a7e54628"
+                    TAGREFS="LT103"
+                    BASELINE="4970 7406 5364 7393" 
+                    HPOS="4952"
+                    VPOS="7268"
+                    WIDTH="412"
+                    HEIGHT="182">
+            <Shape><Polygon POINTS="4970 7406 4952 7293 5346 7268 5364 7393 5358 7443 4970 7450"/></Shape>
+	    <String CONTENT="6. III. 15"
+                    HPOS="4952"
+                    VPOS="7268"
+                    WIDTH="412"
+                    HEIGHT="182"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="800"
+                   VPOS="1216"
+                   WIDTH="4026"
+                   HEIGHT="4773"
+                   ID="eSc_textblock_86015635"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="800 1276 800 5989 4815 5975 4826 1216"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_XIV_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4937"
+          HEIGHT="6442"
+          PHYSICAL_IMG_NR="283"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4937"
+                  HEIGHT="6442">
+        
+        <TextBlock HPOS="202"
+                   VPOS="320"
+                   WIDTH="4581"
+                   HEIGHT="5509"
+                   ID="eSc_textblock_a982be8a"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="202 320 202 5829 4783 5829 4783 320"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_933ce8c4"
+                    TAGREFS="LT104"
+                    BASELINE="1225 5818 2380 5798 3836 5790" 
+                    HPOS="1214"
+                    VPOS="5647"
+                    WIDTH="2621"
+                    HEIGHT="236">
+            <Shape><Polygon POINTS="1224 5813 1214 5674 1488 5695 1531 5674 1541 5663 1547 5663 1552 5663 1557 5663 1563 5663 1590 5674 1643 5695 1665 5674 1670 5668 1670 5663 1676 5663 1681 5663 1686 5663 1751 5674 1853 5690 1896 5674 1928 5658 1933 5658 1939 5658 1944 5658 2003 5674 2079 5690 2299 5674 2573 5652 2578 5652 2584 5652 2637 5674 2664 5685 2723 5674 2868 5647 2874 5647 2879 5647 2884 5647 2884 5652 2911 5674 2917 5685 3325 5685 3330 5674 3352 5658 3352 5652 3357 5652 3362 5652 3368 5652 3824 5679 3835 5787 3830 5883 1224 5883"/></Shape>
+	    <String CONTENT="877. Dettaglio del Trittico B. Angelico Perogia"
+                    HPOS="1214"
+                    VPOS="5647"
+                    WIDTH="2621"
+                    HEIGHT="236"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="531"
+                   VPOS="5877"
+                   WIDTH="1833"
+                   HEIGHT="320"
+                   ID="eSc_textblock_016d8e9c"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="531 5877 531 6197 2364 6197 2364 5877"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_14c949be"
+                    TAGREFS="LT103"
+                    BASELINE="639 6012 1504 6039 2218 6017" 
+                    HPOS="633"
+                    VPOS="5872"
+                    WIDTH="1591"
+                    HEIGHT="221">
+            <Shape><Polygon POINTS="639 6012 633 5883 784 5872 789 5872 789 5872 789 5872 795 5872 795 5872 795 5872 800 5872 816 5883 897 5937 1004 5889 1026 5883 1026 5883 1031 5883 1031 5883 1031 5883 1036 5883 1036 5883 1042 5883 1042 5883 1042 5883 1047 5883 1058 5894 1117 5926 1197 5894 1208 5894 1208 5894 1214 5894 1214 5894 1219 5894 1219 5894 1219 5894 1224 5894 1224 5894 1235 5899 1348 5948 1654 5948 1719 5910 1783 5878 1783 5878 1783 5878 1788 5878 1788 5878 1794 5878 1794 5878 2025 5905 2164 5878 2164 5878 2164 5878 2170 5878 2170 5878 2175 5878 2175 5878 2175 5878 2181 5878 2181 5878 2181 5883 2224 5926 2218 6017 2213 6055 2057 6055 2052 6055 2003 6087 1998 6087 1998 6087 1998 6087 1993 6087 1993 6087 1993 6093 1713 6093 1708 6087 1708 6087 1702 6087 1702 6087 1643 6066 1617 6055 1584 6066 1509 6087 1504 6087 1504 6087 1498 6087 1149 6082 1149 6082 1149 6082 1144 6082 1144 6082 1144 6082 1138 6082 1128 6076 1085 6050 633 6082"/></Shape>
+	    <String CONTENT="Ecole Umbrienne 1387/1455"
+                    HPOS="633"
+                    VPOS="5872"
+                    WIDTH="1591"
+                    HEIGHT="221"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4238"
+                   VPOS="6213"
+                   WIDTH="633"
+                   HEIGHT="232"
+                   ID="eSc_textblock_6936decb"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="4238 6213 4238 6445 4871 6445 4871 6213"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_0da2d527"
+                    TAGREFS="LT103"
+                    BASELINE="4308 6366 4786 6366" 
+                    HPOS="4303"
+                    VPOS="6200"
+                    WIDTH="483"
+                    HEIGHT="204">
+            <Shape><Polygon POINTS="4308 6366 4303 6205 4464 6200 4469 6200 4469 6200 4474 6200 4474 6200 4474 6200 4480 6200 4480 6200 4501 6221 4544 6248 4781 6248 4786 6366 4781 6404 4303 6388"/></Shape>
+	    <String CONTENT="10. III. 49"
+                    HPOS="4303"
+                    VPOS="6200"
+                    WIDTH="483"
+                    HEIGHT="204"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

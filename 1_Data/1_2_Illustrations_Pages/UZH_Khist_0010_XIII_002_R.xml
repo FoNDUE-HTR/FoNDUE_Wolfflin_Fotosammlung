@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_XIII_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6455"
+          HEIGHT="4939"
+          PHYSICAL_IMG_NR="278"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6455"
+                  HEIGHT="4939">
+        
+        <TextBlock HPOS="326"
+                   VPOS="4429"
+                   WIDTH="276"
+                   HEIGHT="407"
+                   ID="eSc_textblock_aeda0067"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="602 4836 602 4429 326 4429 326 4836"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_6ec1e904"
+                    TAGREFS="LT103"
+                    BASELINE="471 4468 467 4836" 
+                    HPOS="424"
+                    VPOS="4457"
+                    WIDTH="152"
+                    HEIGHT="374">
+            <Shape><Polygon POINTS="469 4465 568 4461 576 4823 465 4831 424 4823 444 4457"/></Shape>
+	    <String CONTENT="10. III. 44"
+                    HPOS="424"
+                    VPOS="4457"
+                    WIDTH="152"
+                    HEIGHT="374"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="133"
+                   VPOS="289"
+                   WIDTH="6237"
+                   HEIGHT="4181"
+                   ID="eSc_textblock_23081103"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="133 289 133 4470 6370 4470 6370 289"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_72fd7e17"
+                    TAGREFS="LT102"
+                    BASELINE="1679 4325 4919 4329" 
+                    HPOS="1675"
+                    VPOS="4255"
+                    WIDTH="3244"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="1679 4325 1679 4255 4915 4264 4919 4329 4911 4366 3910 4350 3766 4362 3647 4371 3643 4371 3643 4371 3552 4358 3474 4350 3458 4358 3445 4371 3445 4371 3441 4371 3441 4371 3441 4371 3437 4371 3437 4371 3433 4371 3433 4371 3433 4371 3429 4371 3388 4358 3351 4350 3252 4358 3099 4371 3095 4371 3095 4371 3095 4371 3091 4371 3050 4358 3025 4350 2964 4354 2832 4371 2832 4371 2828 4371 2828 4371 2824 4371 2824 4371 2824 4371 2819 4371 2819 4371 2799 4354 2791 4350 2655 4354 2214 4371 2210 4371 1889 4350 1881 4350 1877 4350 1848 4371 1844 4371 1844 4371 1844 4371 1840 4371 1840 4371 1840 4371 1836 4371 1836 4371 1675 4346"/></Shape>
+	    <String CONTENT="7219 PERUGIA – PINACOTECA VANNUCCI QUATTRO SANTI DIVERSI BEATO ANGELICO"
+                    HPOS="1675"
+                    VPOS="4255"
+                    WIDTH="3244"
+                    HEIGHT="116"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3921"
+                   VPOS="4470"
+                   WIDTH="1587"
+                   HEIGHT="435"
+                   ID="eSc_textblock_915127e4"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="3921 4470 3949 4905 5453 4905 5508 4470"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_46d457ef"
+                    TAGREFS="LT103"
+                    BASELINE="4096 4601 5405 4601" 
+                    HPOS="4096"
+                    VPOS="4498"
+                    WIDTH="1309"
+                    HEIGHT="144">
+            <Shape><Polygon POINTS="4096 4601 4096 4506 4462 4535 4491 4515 4507 4498 4507 4498 4511 4498 4511 4498 4511 4498 4516 4498 4516 4498 4516 4498 4520 4498 4520 4498 4524 4498 4524 4498 4573 4515 4614 4531 4664 4519 4746 4498 4750 4498 4750 4498 4754 4498 4754 4498 4754 4498 4758 4498 4758 4498 4812 4523 4845 4535 4890 4523 4993 4498 4997 4498 4997 4498 5001 4498 5001 4498 5001 4498 5005 4498 5005 4498 5010 4498 5010 4498 5010 4502 5042 4527 5051 4539 5162 4539 5174 4531 5252 4498 5252 4498 5257 4498 5257 4498 5257 4498 5261 4498 5261 4498 5265 4498 5265 4498 5265 4498 5269 4498 5318 4535 5405 4539 5405 4601 5405 4622 4952 4642 4948 4642 4948 4642 4874 4630 4787 4617 4763 4634 4754 4642 4754 4642 4750 4642 4750 4642 4750 4642 4746 4642 4746 4642 4742 4642 4742 4642 4742 4642 4738 4642 4738 4642 4717 4634 4676 4617 4631 4634 4618 4638 4618 4638 4614 4638 4614 4638 4610 4638 4610 4638 4610 4638 4606 4638 4606 4638 4606 4638 4602 4638 4598 4634 4569 4617 4339 4617 4203 4642 4186 4642 4186 4642 4182 4642 4182 4642 4182 4642 4178 4642 4178 4642 4178 4642 4174 4642 4174 4642 4174 4642 4145 4617 4100 4642"/></Shape>
+	    <String CONTENT="Ecole Umbro florentine"
+                    HPOS="4096"
+                    VPOS="4498"
+                    WIDTH="1309"
+                    HEIGHT="144"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b332bf5f"
+                    TAGREFS="LT103"
+                    BASELINE="4528 4753 5141 4737" 
+                    HPOS="4520"
+                    VPOS="4622"
+                    WIDTH="621"
+                    HEIGHT="172">
+            <Shape><Polygon POINTS="4528 4753 4520 4659 4828 4622 4828 4622 4833 4622 5133 4642 5141 4737 5141 4762 5067 4786 5063 4786 5063 4786 5063 4786 5059 4786 5059 4786 5055 4786 5055 4786 5005 4766 4985 4762 4956 4770 4898 4786 4894 4786 4894 4786 4894 4786 4890 4786 4890 4786 4886 4786 4833 4774 4820 4770 4816 4774 4804 4790 4800 4790 4800 4794 4800 4794 4795 4794 4795 4794 4795 4794 4791 4794 4791 4794 4787 4794 4524 4782"/></Shape>
+	    <String CONTENT="1389 / 1455"
+                    HPOS="4520"
+                    VPOS="4622"
+                    WIDTH="621"
+                    HEIGHT="172"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

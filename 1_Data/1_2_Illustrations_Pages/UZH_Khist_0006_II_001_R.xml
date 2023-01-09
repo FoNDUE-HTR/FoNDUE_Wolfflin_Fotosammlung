@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0006_II_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6295"
+          HEIGHT="4891"
+          PHYSICAL_IMG_NR="2"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6295"
+                  HEIGHT="4891">
+        
+        <TextBlock HPOS="84"
+                   VPOS="58"
+                   WIDTH="6164"
+                   HEIGHT="4817"
+                   ID="eSc_textblock_3cf368a1"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="6248 58 6248 4875 84 4875 84 72"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_164d341e"
+                    TAGREFS="LT102"
+                    BASELINE="1018 4760 4382 4760" 
+                    HPOS="1015"
+                    VPOS="4613"
+                    WIDTH="3363"
+                    HEIGHT="180">
+            <Shape><Polygon POINTS="1015 4756 1015 4638 2038 4638 2042 4634 2067 4613 2067 4613 2071 4613 2071 4613 2071 4613 2075 4613 2075 4613 2079 4613 4378 4634 4378 4756 4378 4780 1015 4793"/></Shape>
+	    <String CONTENT="17536 - ROMA - Trittico: L&#39;Assunzione - Cola d&#39;Amatrice - Pinacoteca Vaticana -"
+                    HPOS="1015"
+                    VPOS="4613"
+                    WIDTH="3363"
+                    HEIGHT="180"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f90c4c42"
+                    TAGREFS="LT102"
+                    BASELINE="4937 4764 5316 4756" 
+                    HPOS="4925"
+                    VPOS="4630"
+                    WIDTH="391"
+                    HEIGHT="150">
+            <Shape><Polygon POINTS="4937 4764 4925 4642 5304 4630 5316 4756 5316 4772 4937 4780"/></Shape>
+	    <String CONTENT="Anderson"
+                    HPOS="4925"
+                    VPOS="4630"
+                    WIDTH="391"
+                    HEIGHT="150"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

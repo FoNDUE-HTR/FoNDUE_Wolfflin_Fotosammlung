@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_III_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5370"
+          HEIGHT="7150"
+          PHYSICAL_IMG_NR="231"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="5370"
+                  HEIGHT="7150">
+        
+        <TextBlock HPOS="346"
+                   VPOS="593"
+                   WIDTH="4630"
+                   HEIGHT="5931"
+                   ID="eSc_textblock_2dc80a8c"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="346 624 346 6524 4976 6524 4938 593"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_b35ac261"
+                    TAGREFS="LT105"
+                    BASELINE="1698 778 3548 784" 
+                    HPOS="1680"
+                    VPOS="661"
+                    WIDTH="1866"
+                    HEIGHT="137">
+            <Shape><Polygon POINTS="1692 774 1692 661 3540 691 3546 780 3534 798 1680 792"/></Shape>
+	    <String CONTENT="RIPRODUZIONE INTERDETTA"
+                    HPOS="1680"
+                    VPOS="661"
+                    WIDTH="1866"
+                    HEIGHT="137"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bf158359"
+                    TAGREFS="LT105"
+                    BASELINE="697 6396 4619 6396" 
+                    HPOS="691"
+                    VPOS="6297"
+                    WIDTH="3922"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="691 6393 691 6297 4613 6297 4613 6393 4613 6423 691 6429"/></Shape>
+	    <String CONTENT="(Ed. ne Alinari) P.e 2.a N.° 7691 ROMA - 7691 – Pinacoteca Vaticana. La Modonna col Bambino Gesù, Santi Angeli. (Beato Angelico.)"
+                    HPOS="691"
+                    VPOS="6297"
+                    WIDTH="3922"
+                    HEIGHT="132"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4728"
+                   VPOS="6887"
+                   WIDTH="491"
+                   HEIGHT="172"
+                   ID="eSc_textblock_7ace47b4"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="4728 6887 4728 7059 5219 7059 5219 6887"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_5d721c0d"
+                    TAGREFS="LT103"
+                    BASELINE="4779 7015 5174 7015" 
+                    HPOS="4773"
+                    VPOS="6893"
+                    WIDTH="400"
+                    HEIGHT="167">
+            <Shape><Polygon POINTS="4773 7012 4773 6893 5173 6893 5173 7012 5173 7036 4773 7060"/></Shape>
+	    <String CONTENT="10. II. 10"
+                    HPOS="4773"
+                    VPOS="6893"
+                    WIDTH="400"
+                    HEIGHT="167"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

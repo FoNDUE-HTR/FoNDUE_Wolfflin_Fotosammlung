@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0008_IV_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2608"
+          HEIGHT="3967"
+          PHYSICAL_IMG_NR="173"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2608"
+                  HEIGHT="3967">
+        
+        <TextBlock HPOS="76"
+                   VPOS="37"
+                   WIDTH="2462"
+                   HEIGHT="3865"
+                   ID="eSc_textblock_e2aaafde"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="2538 3902 2538 37 76 37 76 3902"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_74b6d609"
+                    TAGREFS="LT104"
+                    BASELINE="371 3828 597 3808 879 3821 1662 3822 2018 3828" 
+                    HPOS="367"
+                    VPOS="3712"
+                    WIDTH="1648"
+                    HEIGHT="142">
+            <Shape><Polygon POINTS="370 3824 367 3712 549 3735 628 3715 642 3712 645 3712 645 3712 648 3712 648 3712 648 3712 652 3712 652 3712 652 3712 658 3715 691 3735 721 3715 721 3715 724 3715 724 3715 724 3715 728 3715 728 3715 731 3715 731 3715 734 3715 741 3715 817 3735 873 3719 896 3712 900 3712 900 3712 900 3712 903 3712 903 3712 906 3712 939 3719 1062 3755 1274 3755 1307 3725 1310 3722 1310 3722 1313 3722 1313 3722 1313 3722 1317 3722 1317 3722 1317 3722 1320 3722 1320 3722 1323 3722 1323 3722 1337 3725 1376 3742 1390 3728 1403 3719 1403 3715 1403 3715 1406 3715 1406 3715 1409 3715 1409 3715 1409 3715 1413 3715 1413 3715 1416 3715 1416 3715 1416 3715 1443 3728 1452 3732 1486 3728 1601 3715 1601 3715 1605 3715 1605 3715 1608 3715 1608 3715 1608 3715 1641 3732 1658 3738 1674 3732 1717 3715 1717 3715 1721 3715 1721 3715 1724 3715 1724 3715 1724 3715 1727 3715 1727 3715 1727 3715 1730 3715 1730 3715 1730 3719 1747 3732 1750 3738 1760 3732 1783 3722 1783 3722 1783 3722 1787 3722 1787 3722 1790 3722 1790 3722 1790 3722 1793 3722 1793 3722 1793 3722 1797 3722 1797 3722 1797 3725 1807 3735 1816 3742 1843 3735 1906 3719 1909 3719 1909 3719 1912 3719 1912 3719 1912 3719 1916 3719 1916 3719 1919 3719 1919 3719 1919 3722 1936 3735 1956 3752 2008 3738 2015 3824 2005 3847 1956 3831 1889 3847 1876 3851 1873 3851 1873 3851 1869 3851 1869 3851 1843 3847 1740 3834 1638 3847 1611 3851 1611 3851 1608 3851 1608 3851 1605 3851 1605 3851 1605 3851 1601 3851 1598 3847 1572 3831 1486 3847 1469 3851 1469 3851 1469 3854 1184 3854 1181 3851 1181 3851 1178 3851 1178 3851 1178 3851 1174 3851 1174 3851 1174 3847 1151 3831 916 3847 913 3847 910 3847 910 3847 910 3847 910 3847 906 3847 906 3847 906 3847 903 3847 870 3828 516 3828 367 3847"/></Shape>
+	    <String CONTENT="Pfarrkirche zu Andernach"
+                    HPOS="367"
+                    VPOS="3712"
+                    WIDTH="1648"
+                    HEIGHT="142"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

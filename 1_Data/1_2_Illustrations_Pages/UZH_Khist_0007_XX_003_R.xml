@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_XX_003_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7946"
+          HEIGHT="5990"
+          PHYSICAL_IMG_NR="162"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="7946"
+                  HEIGHT="5990">
+        
+        <TextBlock HPOS="927"
+                   VPOS="565"
+                   WIDTH="6059"
+                   HEIGHT="4624"
+                   ID="eSc_textblock_24c8a436"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="975 565 927 5189 6986 5189 6986 565"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_c463402b"
+                    TAGREFS="LT102"
+                    BASELINE="2107 5146 5775 5156" 
+                    HPOS="2102"
+                    VPOS="5061"
+                    WIDTH="3671"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="2102 5141 2102 5061 5768 5071 5773 5151 5768 5181 2102 5181"/></Shape>
+	    <String CONTENT="(Ed. ne Alinari) P.e I.a N.° 6825. ANAGNI - Prov. di Roma. Avanzi del Palazzo di Bonifazio VIII detto « Le Monostalle »."
+                    HPOS="2102"
+                    VPOS="5061"
+                    WIDTH="3671"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="156"
+                   VPOS="5003"
+                   WIDTH="235"
+                   HEIGHT="660"
+                   ID="eSc_textblock_9db83d30"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="156 5003 156 5663 391 5663 391 5003"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d97f7dcf"
+                    TAGREFS="LT103"
+                    BASELINE="225 5045 210 5628" 
+                    HPOS="174"
+                    VPOS="5036"
+                    WIDTH="210"
+                    HEIGHT="589">
+            <Shape><Polygon POINTS="224 5041 384 5041 384 5625 209 5625 184 5620 174 5036"/></Shape>
+	    <String CONTENT="7. IX. 36"
+                    HPOS="174"
+                    VPOS="5036"
+                    WIDTH="210"
+                    HEIGHT="589"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="6692"
+                   VPOS="4572"
+                   WIDTH="15"
+                   HEIGHT="15"
+                   ID="eSc_textblock_4e66b538"
+                   >
+          <Shape><Polygon POINTS="6707 4572 6707 4587 6692 4587 6692 4572"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

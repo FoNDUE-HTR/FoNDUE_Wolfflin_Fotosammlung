@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_I_007_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6234"
+          HEIGHT="7733"
+          PHYSICAL_IMG_NR="65"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6234"
+                  HEIGHT="7733">
+        
+        <TextBlock HPOS="392"
+                   VPOS="7236"
+                   WIDTH="5248"
+                   HEIGHT="260"
+                   ID="eSc_textblock_cd224b96"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="670 7243 5615 7243 5640 7417 392 7496 431 7236"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_46324436"
+                    TAGREFS="LT103"
+                    BASELINE="457 7410 2604 7365 5628 7365" 
+                    HPOS="444"
+                    VPOS="7185"
+                    WIDTH="5184"
+                    HEIGHT="290">
+            <Shape><Polygon POINTS="457 7410 444 7230 1308 7249 1340 7223 1353 7211 1360 7211 1366 7211 1373 7211 1379 7211 1444 7223 1521 7243 1598 7223 1669 7211 1676 7211 1785 7223 1876 7236 2333 7223 3049 7204 3055 7204 3062 7204 3107 7223 3139 7236 3255 7223 3474 7198 3481 7198 3487 7198 3539 7223 3558 7236 4061 7236 4087 7223 4132 7198 4138 7198 4145 7198 4377 7223 4416 7223 4448 7223 4648 7191 4654 7191 5176 7217 5228 7185 5234 7185 5241 7185 5247 7185 5621 7223 5628 7365 5621 7397 4899 7436 4893 7436 4719 7417 4590 7397 4544 7417 4506 7436 4499 7436 4493 7436 4325 7417 4113 7397 4042 7423 3990 7443 3984 7443 3977 7443 3855 7430 3681 7404 3597 7430 3577 7436 3571 7436 3565 7436 3513 7430 3268 7404 3158 7436 3139 7443 3133 7443 3126 7443 3017 7443 2443 7410 2224 7449 2159 7462 2153 7462 2062 7455 1727 7417 1650 7455 1643 7455 1637 7455 1044 7436 457 7475"/></Shape>
+	    <String CONTENT="Amiet, Cuno (1868-1961). Bildnis meiner Frau. Solothurn, Kunstmuseum."
+                    HPOS="444"
+                    VPOS="7185"
+                    WIDTH="5184"
+                    HEIGHT="290"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5472"
+                   VPOS="7462"
+                   WIDTH="531"
+                   HEIGHT="259"
+                   ID="eSc_textblock_0a4fca2f"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="5976 7571 6003 7721 5472 7721 5524 7462 5872 7475"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_81327998"
+                    TAGREFS="LT103"
+                    BASELINE="5566 7647 5918 7657" 
+                    HPOS="5550"
+                    VPOS="7449"
+                    WIDTH="361"
+                    HEIGHT="219">
+            <Shape><Polygon POINTS="5563 7642 5557 7468 5905 7449 5911 7655 5898 7668 5550 7662"/></Shape>
+	    <String CONTENT="7.I.7"
+                    HPOS="5550"
+                    VPOS="7449"
+                    WIDTH="361"
+                    HEIGHT="219"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="443"
+                   VPOS="612"
+                   WIDTH="5409"
+                   HEIGHT="6509"
+                   ID="eSc_textblock_944aa06e"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="443 612 443 7121 5852 7121 5852 612"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

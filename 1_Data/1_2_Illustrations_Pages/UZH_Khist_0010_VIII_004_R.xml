@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_VIII_004_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5740"
+          HEIGHT="7600"
+          PHYSICAL_IMG_NR="263"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="5740"
+                  HEIGHT="7600">
+        
+        <TextBlock HPOS="435"
+                   VPOS="582"
+                   WIDTH="4865"
+                   HEIGHT="6151"
+                   ID="eSc_textblock_1e9e2c0d"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="443 582 435 6733 5300 6725 5300 582"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_81baf967"
+                    TAGREFS="LT102"
+                    BASELINE="616 6687 5110 6710" 
+                    HPOS="614"
+                    VPOS="6574"
+                    WIDTH="4492"
+                    HEIGHT="177">
+            <Shape><Polygon POINTS="614 6681 614 6574 5100 6605 5106 6707 5100 6751 614 6751"/></Shape>
+	    <String CONTENT="510 – Anglico Fiésole – Le couronnement de la Vierge. – Louvre. A. Giraudon, phot."
+                    HPOS="614"
+                    VPOS="6574"
+                    WIDTH="4492"
+                    HEIGHT="177"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5229"
+                   VPOS="7388"
+                   WIDTH="439"
+                   HEIGHT="176"
+                   ID="eSc_textblock_689f0308"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="5229 7412 5249 7527 5668 7564 5668 7388"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e63ca7d1"
+                    TAGREFS="LT103"
+                    BASELINE="5269 7522 5654 7509" 
+                    HPOS="5258"
+                    VPOS="7391"
+                    WIDTH="393"
+                    HEIGHT="158">
+            <Shape><Polygon POINTS="5264 7517 5258 7391 5638 7391 5651 7505 5644 7524 5264 7549"/></Shape>
+	    <String CONTENT="10. III. 22"
+                    HPOS="5258"
+                    VPOS="7391"
+                    WIDTH="393"
+                    HEIGHT="158"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

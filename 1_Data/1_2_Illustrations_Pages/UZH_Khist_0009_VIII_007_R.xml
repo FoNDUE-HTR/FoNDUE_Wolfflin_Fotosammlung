@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0009_VIII_007_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7252"
+          HEIGHT="5805"
+          PHYSICAL_IMG_NR="207"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="7252"
+                  HEIGHT="5805">
+        
+        <TextBlock HPOS="683"
+                   VPOS="542"
+                   WIDTH="5908"
+                   HEIGHT="4582"
+                   ID="eSc_textblock_18e02baa"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="683 542 683 5124 6591 5124 6591 542"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_24dfcb65"
+                    TAGREFS="LT102"
+                    BASELINE="1712 5089 3927 5096 5688 5084" 
+                    HPOS="1707"
+                    VPOS="5001"
+                    WIDTH="3977"
+                    HEIGHT="155">
+            <Shape><Polygon POINTS="1707 5084 1707 5001 5674 5011 5684 5079 5679 5122 2544 5151 2539 5151 2525 5151 2297 5127 1707 5156"/></Shape>
+	    <String CONTENT="(Ed.ne Alinari) P.e 2.a N.° 4090."
+                    HPOS="1707"
+                    VPOS="5001"
+                    WIDTH="3977"
+                    HEIGHT="155"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="54"
+                   VPOS="5141"
+                   WIDTH="233"
+                   HEIGHT="603"
+                   ID="eSc_textblock_39430525"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="54 5141 54 5744 287 5744 287 5141"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_38a78815"
+                    TAGREFS="LT103"
+                    BASELINE="93 5210 93 5700" 
+                    HPOS="53"
+                    VPOS="5209"
+                    WIDTH="203"
+                    HEIGHT="494">
+            <Shape><Polygon POINTS="91 5209 237 5209 222 5432 227 5466 256 5582 256 5587 256 5592 217 5703 91 5698 62 5698 53 5209"/></Shape>
+	    <String CONTENT="9. IV. 24"
+                    HPOS="53"
+                    VPOS="5209"
+                    WIDTH="203"
+                    HEIGHT="494"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="709"
+                   VPOS="5287"
+                   WIDTH="3040"
+                   HEIGHT="379"
+                   ID="eSc_textblock_ee5b7894"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="709 5287 709 5666 3749 5666 3749 5287"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_3eb8126a"
+                    TAGREFS="LT103"
+                    BASELINE="751 5498 3747 5508" 
+                    HPOS="745"
+                    VPOS="5345"
+                    WIDTH="2999"
+                    HEIGHT="232">
+            <Shape><Polygon POINTS="749 5495 754 5345 890 5384 943 5350 948 5350 948 5350 948 5350 953 5350 953 5350 957 5350 957 5350 1204 5374 1238 5355 1238 5350 1243 5350 1243 5350 1243 5350 1248 5350 1248 5350 1253 5350 1557 5350 1557 5350 1557 5350 1562 5350 1562 5350 1562 5350 1567 5350 1567 5350 1567 5355 1577 5359 1596 5379 1649 5359 1688 5350 1693 5350 1693 5350 1693 5350 1698 5350 1698 5350 1698 5350 1702 5350 1702 5350 1731 5364 1770 5379 1886 5364 2017 5350 2017 5350 2022 5350 2022 5350 2022 5350 2027 5350 2027 5350 2027 5350 2060 5369 2109 5393 2322 5374 2525 5355 2525 5355 2530 5355 2530 5355 2535 5355 2535 5355 2535 5355 2583 5379 2626 5403 2820 5403 2849 5384 2883 5369 2883 5369 2883 5369 2888 5369 2888 5369 2888 5369 2893 5369 2893 5369 2897 5369 2960 5384 3009 5398 3038 5388 3120 5355 3120 5355 3125 5355 3125 5355 3130 5355 3130 5355 3130 5355 3134 5355 3134 5355 3139 5355 3197 5388 3212 5398 3313 5393 3599 5374 3604 5374 3604 5374 3604 5374 3739 5403 3744 5505 3739 5538 3512 5572 3512 5572 3507 5572 3507 5572 3502 5572 3502 5572 3502 5572 3497 5572 3497 5572 3463 5543 3459 5538 3454 5543 3396 5572 3396 5572 3396 5572 3391 5572 3391 5572 3391 5577 2835 5577 2830 5572 2830 5572 2825 5572 2825 5572 2825 5572 2820 5572 2820 5572 2791 5548 2791 5548 2791 5548 2728 5567 2723 5567 2723 5567 2723 5567 2718 5567 2718 5567 2718 5567 2714 5567 2714 5567 2670 5548 2646 5538 2568 5548 2428 5572 2428 5572 2423 5572 2423 5572 2423 5572 2418 5572 2418 5572 2418 5572 2380 5553 2360 5543 2254 5553 2094 5567 2094 5567 2089 5567 2089 5567 2085 5567 2085 5567 2085 5567 2080 5567 2080 5567 2065 5553 2041 5534 2002 5553 1983 5563 1983 5563 1983 5563 1978 5563 1978 5563 1973 5563 1973 5563 1969 5563 1969 5563 1969 5563 1949 5553 1906 5534 1640 5558 1567 5563 1567 5563 1562 5563 1562 5563 1557 5563 1557 5563 1557 5563 1552 5563 1552 5563 1552 5558 1548 5558 1523 5534 1383 5534 1204 5563 1151 5567 1151 5567 1146 5567 1146 5567 1146 5567 1141 5567 1122 5563 1020 5534 745 5563"/></Shape>
+	    <String CONTENT="Gewölbefresho des Cappellone degli Spagnuoli."
+                    HPOS="745"
+                    VPOS="5345"
+                    WIDTH="2999"
+                    HEIGHT="232"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5049"
+                   VPOS="5098"
+                   WIDTH="1852"
+                   HEIGHT="241"
+                   ID="eSc_textblock_f341991e"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="6901 5339 6806 5098 5049 5098 5049 5331"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d66b7b68"
+                    TAGREFS="LT103"
+                    BASELINE="5066 5261 6778 5267" 
+                    HPOS="5055"
+                    VPOS="5098"
+                    WIDTH="1722"
+                    HEIGHT="232">
+            <Shape><Polygon POINTS="5065 5258 5055 5156 5171 5098 5171 5098 5171 5098 5176 5098 5176 5098 5181 5098 5181 5098 5181 5098 5186 5098 5186 5098 5186 5098 5191 5098 5191 5098 5253 5156 5258 5161 5360 5161 5370 5151 5418 5118 5423 5118 5423 5118 5423 5118 5428 5118 5428 5118 5432 5118 5432 5118 5432 5118 5437 5118 5437 5118 5515 5151 5529 5161 5834 5161 5849 5151 5873 5127 5873 5127 5878 5127 5878 5127 5878 5127 5882 5127 5882 5127 5887 5127 5887 5127 5887 5127 5979 5147 6018 5156 6028 5147 6086 5098 6086 5098 6090 5098 6090 5098 6090 5098 6095 5098 6095 5098 6100 5098 6100 5098 6100 5098 6274 5137 6381 5098 6381 5098 6386 5098 6386 5098 6390 5098 6690 5098 6690 5098 6690 5098 6695 5098 6695 5098 6695 5098 6777 5142 6777 5263 6773 5311 6598 5330 6598 5330 6594 5330 6594 5330 6589 5330 6589 5330 6589 5330 6584 5330 6584 5330 6569 5316 6555 5306 6511 5316 6453 5326 6453 5326 6453 5326 6448 5326 6448 5326 6444 5326 6444 5326 6444 5326 6439 5326 6429 5316 6386 5292 5965 5292 5882 5321 5853 5330 5853 5330 5849 5330 5849 5330 5844 5330 5844 5330 5844 5330 5839 5330 5810 5321 5752 5301 5694 5321 5670 5330 5670 5330 5665 5330 5665 5330 5660 5330 5660 5330 5660 5330 5655 5330 5655 5330 5655 5330 5650 5330 5650 5330 5650 5326 5645 5321 5616 5292 5529 5326 5524 5326 5524 5326 5520 5326 5520 5326 5515 5326 5515 5326 5515 5326 5510 5326 5510 5326 5510 5326 5505 5326 5442 5292 5316 5292 5224 5326 5215 5330 5215 5330 5210 5330 5210 5330 5205 5330 5055 5326"/></Shape>
+	    <String CONTENT="Andrea da Firenze"
+                    HPOS="5055"
+                    VPOS="5098"
+                    WIDTH="1722"
+                    HEIGHT="232"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

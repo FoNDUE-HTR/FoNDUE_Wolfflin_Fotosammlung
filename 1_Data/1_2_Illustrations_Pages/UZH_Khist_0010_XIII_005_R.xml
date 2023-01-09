@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_XIII_005_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5380"
+          HEIGHT="6956"
+          PHYSICAL_IMG_NR="281"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="5380"
+                  HEIGHT="6956">
+        
+        <TextBlock HPOS="290"
+                   VPOS="427"
+                   WIDTH="4756"
+                   HEIGHT="5532"
+                   ID="eSc_textblock_9fc9c15c"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="290 427 290 5959 5011 5959 5046 436"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d21b6f41"
+                    TAGREFS="LT102"
+                    BASELINE="846 5582 4527 5634" 
+                    HPOS="834"
+                    VPOS="5477"
+                    WIDTH="3687"
+                    HEIGHT="209">
+            <Shape><Polygon POINTS="840 5576 840 5477 4516 5535 4521 5628 4516 5663 4232 5686 4226 5686 4220 5686 4127 5657 4098 5651 4069 5657 4006 5680 4000 5680 3994 5680 3988 5680 3982 5680 3959 5657 3948 5651 3930 5657 3832 5680 3826 5680 3820 5680 3704 5651 3640 5640 3542 5651 3339 5674 3333 5674 3188 5645 3124 5634 3072 5645 2939 5669 2933 5669 2927 5669 2921 5669 2881 5640 2858 5628 2446 5628 2434 5634 2382 5657 2376 5657 2371 5657 2365 5657 2301 5628 2278 5622 2232 5628 2075 5657 2069 5657 2063 5657 2005 5628 1988 5616 1901 5622 1663 5651 1658 5651 1426 5616 1373 5611 1350 5616 1258 5645 1252 5645 1246 5645 834 5605"/></Shape>
+	    <String CONTENT="P.E 2.A -N°. 7223. PERUGIA - PINACOTECA VANNUCCI. L&#39;ANGELO GABRIELE. (BEATO ANGELICO)"
+                    HPOS="834"
+                    VPOS="5477"
+                    WIDTH="3687"
+                    HEIGHT="209"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2895"
+                   VPOS="5980"
+                   WIDTH="1638"
+                   HEIGHT="443"
+                   ID="eSc_textblock_3f9f826f"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="2895 5980 2895 6423 4533 6423 4533 5980"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_6dc35dee"
+                    TAGREFS="LT103"
+                    BASELINE="2979 6121 4232 6132" 
+                    HPOS="2974"
+                    VPOS="5982"
+                    WIDTH="1263"
+                    HEIGHT="197">
+            <Shape><Polygon POINTS="2979 6121 2974 5999 3119 5982 3119 5982 3124 5982 3124 5982 3130 5982 3130 5982 3188 6005 3252 6022 3304 6005 3379 5982 3385 5982 3385 5982 3385 5982 3391 5982 3391 5982 3397 5982 3397 5982 3397 5982 3403 5982 3403 5982 3403 5987 3426 6011 3443 6028 3536 6028 3553 6011 3594 5982 3594 5982 3600 5982 3600 5982 3600 5982 3605 5982 3605 5982 3611 5982 3611 5982 3611 5982 3617 5982 3617 5982 3704 6016 3733 6028 3768 6016 3872 5987 3878 5987 3878 5987 3884 5987 3884 5987 3884 5987 3890 5987 4000 6028 4011 6028 4017 6028 4069 5987 4075 5987 4075 5987 4075 5987 4081 5987 4081 5987 4087 5987 4087 5987 4087 5987 4092 5987 4237 6034 4232 6132 4226 6173 2974 6179"/></Shape>
+	    <String CONTENT="Ecole Ecole Umbro florentine"
+                    HPOS="2974"
+                    VPOS="5982"
+                    WIDTH="1263"
+                    HEIGHT="197"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3729e725"
+                    TAGREFS="LT103"
+                    BASELINE="3727 6254 4394 6266" 
+                    HPOS="3727"
+                    VPOS="6150"
+                    WIDTH="667"
+                    HEIGHT="226">
+            <Shape><Polygon POINTS="3727 6254 3727 6150 4394 6150 4394 6266 4382 6376 4058 6312 3942 6312 3907 6341 3878 6364 3878 6370 3878 6370 3872 6370 3872 6370 3872 6370 3866 6370 3866 6370 3861 6370 3861 6370 3861 6370 3855 6370 3855 6370 3855 6370 3849 6370 3803 6335 3768 6312 3727 6329"/></Shape>
+	    <String CONTENT="1387- 1455"
+                    HPOS="3727"
+                    VPOS="6150"
+                    WIDTH="667"
+                    HEIGHT="226"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4479"
+                   VPOS="6657"
+                   WIDTH="654"
+                   HEIGHT="303"
+                   ID="eSc_textblock_346b60c8"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="4479 6657 4479 6960 5133 6960 5133 6657"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_2b0e83b2"
+                    TAGREFS="LT103"
+                    BASELINE="4568 6857 5037 6857" 
+                    HPOS="4568"
+                    VPOS="6724"
+                    WIDTH="469"
+                    HEIGHT="168">
+            <Shape><Polygon POINTS="4568 6857 4568 6724 5037 6747 5037 6857 5037 6892 4568 6892"/></Shape>
+	    <String CONTENT="10. III. 47."
+                    HPOS="4568"
+                    VPOS="6724"
+                    WIDTH="469"
+                    HEIGHT="168"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

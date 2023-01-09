@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_III_005_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7652"
+          HEIGHT="5763"
+          PHYSICAL_IMG_NR="234"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="7652"
+                  HEIGHT="5763">
+        
+        <TextBlock HPOS="856"
+                   VPOS="431"
+                   WIDTH="6099"
+                   HEIGHT="4756"
+                   ID="eSc_textblock_b845b26c"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="6955 5187 6955 431 856 431 856 5187"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_618a267c"
+                    TAGREFS="LT102"
+                    BASELINE="2068 5081 5754 5109" 
+                    HPOS="2065"
+                    VPOS="4980"
+                    WIDTH="3684"
+                    HEIGHT="173">
+            <Shape><Polygon POINTS="2065 5076 2065 4980 5745 5018 5749 5105 5745 5129 5168 5153 5163 5153 5062 5129 5048 5129 2065 5129"/></Shape>
+	    <String CONTENT="2485. FIRENZE – Accademia di Belle Arti - Vergine seduta col Figlio, in mezzo a Santi ; Beato Angelico."
+                    HPOS="2065"
+                    VPOS="4980"
+                    WIDTH="3684"
+                    HEIGHT="173"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="69"
+                   VPOS="4893"
+                   WIDTH="187"
+                   HEIGHT="447"
+                   ID="eSc_textblock_4f4f50d5"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="69 4893 69 5340 256 5340 256 4893"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_60983eb3"
+                    TAGREFS="LT103"
+                    BASELINE="120 4892 109 5335" 
+                    HPOS="76"
+                    VPOS="4884"
+                    WIDTH="144"
+                    HEIGHT="446">
+            <Shape><Polygon POINTS="115 4888 220 4888 211 5325 105 5330 86 5325 76 4884"/></Shape>
+	    <String CONTENT="10. II. 13"
+                    HPOS="76"
+                    VPOS="4884"
+                    WIDTH="144"
+                    HEIGHT="446"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

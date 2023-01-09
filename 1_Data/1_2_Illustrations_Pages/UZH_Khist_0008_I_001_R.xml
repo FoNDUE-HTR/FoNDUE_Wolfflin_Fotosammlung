@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0008_I_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4582"
+          HEIGHT="6087"
+          PHYSICAL_IMG_NR="164"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4582"
+                  HEIGHT="6087">
+        
+        <TextBlock HPOS="16"
+                   VPOS="23"
+                   WIDTH="4566"
+                   HEIGHT="6062"
+                   ID="eSc_textblock_9e79b2d2"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="16 23 16 6085 4582 6085 4582 23"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1e9b2a37"
+                    TAGREFS="LT102"
+                    BASELINE="132 5997 4469 5992" 
+                    HPOS="121"
+                    VPOS="5909"
+                    WIDTH="4344"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="131 5995 121 5914 4450 5909 4465 5990 4460 6031 131 6036"/></Shape>
+	    <String CONTENT="( Ed.ne Alinari) N.° 17660. ANCONA- Marche. Chiesa di S. Ciriaco o Duomo. Monumento al Beato Giannelli. (Opera dei Maestri Dalmati.)"
+                    HPOS="121"
+                    VPOS="5909"
+                    WIDTH="4344"
+                    HEIGHT="127"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

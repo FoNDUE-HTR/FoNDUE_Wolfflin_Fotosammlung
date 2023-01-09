@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_IV_006_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6267"
+          HEIGHT="7676"
+          PHYSICAL_IMG_NR="93"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6267"
+                  HEIGHT="7676">
+        
+        <TextBlock HPOS="1365"
+                   VPOS="1592"
+                   WIDTH="3520"
+                   HEIGHT="4630"
+                   ID="eSc_textblock_1fed204c"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="1365 1615 1423 6222 4885 6222 4796 1592"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_c1d4bc56"
+                    TAGREFS="LT102"
+                    BASELINE="1448 6168 1810 6161" 
+                    HPOS="1433"
+                    VPOS="6057"
+                    WIDTH="372"
+                    HEIGHT="154">
+            <Shape><Polygon POINTS="1446 6166 1433 6057 1792 6070 1805 6159 1798 6191 1446 6211"/></Shape>
+	    <String CONTENT="Le bouquet"
+                    HPOS="1433"
+                    VPOS="6057"
+                    WIDTH="372"
+                    HEIGHT="154"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2f9c49c0"
+                    TAGREFS="LT102"
+                    BASELINE="2912 6149 3348 6146" 
+                    HPOS="2893"
+                    VPOS="6044"
+                    WIDTH="454"
+                    HEIGHT="154">
+            <Shape><Polygon POINTS="2906 6147 2893 6044 3335 6044 3347 6140 3341 6172 2906 6198"/></Shape>
+	    <String CONTENT="Blumenstrauß"
+                    HPOS="2893"
+                    VPOS="6044"
+                    WIDTH="454"
+                    HEIGHT="154"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_882d38cc"
+                    TAGREFS="LT102"
+                    BASELINE="4481 6131 4877 6118" 
+                    HPOS="4461"
+                    VPOS="6019"
+                    WIDTH="410"
+                    HEIGHT="256">
+            <Shape><Polygon POINTS="4474 6128 4461 6019 4858 6025 4871 6115 4871 6223 4641 6275 4641 6275 4634 6275 4634 6275 4468 6255"/></Shape>
+	    <String CONTENT="Mazzo di fior"
+                    HPOS="4461"
+                    VPOS="6019"
+                    WIDTH="410"
+                    HEIGHT="256"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1411"
+                   VPOS="6473"
+                   WIDTH="2935"
+                   HEIGHT="237"
+                   ID="eSc_textblock_a060ed30"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="1422 6507 2867 6473 4269 6473 4346 6569 4320 6646 1411 6710"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_12916c5b"
+                    TAGREFS="LT103"
+                    BASELINE="1440 6658 3418 6601 4308 6607" 
+                    HPOS="1427"
+                    VPOS="6428"
+                    WIDTH="2893"
+                    HEIGHT="314">
+            <Shape><Polygon POINTS="1440 6658 1427 6479 2042 6511 2381 6473 2528 6454 2534 6454 2618 6467 2739 6492 2816 6467 2893 6441 2899 6441 3283 6435 3290 6435 3296 6435 3379 6460 3431 6479 3482 6460 3533 6447 3539 6447 3546 6447 3655 6460 3693 6467 3700 6460 3732 6435 3732 6428 3738 6428 3744 6428 3751 6428 4301 6460 4308 6607 4320 6620 4224 6678 4218 6678 4212 6678 4205 6678 4199 6678 4052 6633 3386 6639 3155 6646 3111 6671 3053 6710 3047 6710 3040 6710 3034 6710 3027 6710 2919 6678 2887 6671 2874 6684 2835 6716 2829 6716 2823 6716 2816 6716 2682 6690 2618 6678 2592 6697 2560 6722 2554 6722 2547 6722 2541 6722 2349 6703 2118 6684 2029 6716 1990 6735 1984 6735 1440 6742"/></Shape>
+	    <String CONTENT="Amiet, Cuno (1868-1961). Blumenstrauss."
+                    HPOS="1427"
+                    VPOS="6428"
+                    WIDTH="2893"
+                    HEIGHT="314"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5529"
+                   VPOS="7398"
+                   WIDTH="635"
+                   HEIGHT="220"
+                   ID="eSc_textblock_fc344978"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="5588 7398 6113 7445 6164 7541 6087 7618 5529 7614"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_942ba3db"
+                    TAGREFS="LT103"
+                    BASELINE="5620 7573 6119 7554" 
+                    HPOS="5594"
+                    VPOS="7317"
+                    WIDTH="525"
+                    HEIGHT="307">
+            <Shape><Polygon POINTS="5620 7573 5594 7324 5716 7317 5722 7317 5729 7317 5818 7362 5902 7413 5946 7388 5953 7388 5959 7388 5966 7388 5972 7388 6113 7426 6119 7554 6119 7605 5620 7624"/></Shape>
+	    <String CONTENT="7. I. 35"
+                    HPOS="5594"
+                    VPOS="7317"
+                    WIDTH="525"
+                    HEIGHT="307"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_XX_004_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5989"
+          HEIGHT="7729"
+          PHYSICAL_IMG_NR="163"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="5989"
+                  HEIGHT="7729">
+        
+        <TextBlock HPOS="614"
+                   VPOS="760"
+                   WIDTH="4637"
+                   HEIGHT="5982"
+                   ID="eSc_textblock_4c2e491b"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="614 760 614 6742 5251 6742 5251 760"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_9b11230e"
+                    TAGREFS="LT102"
+                    BASELINE="1576 6650 4267 6653" 
+                    HPOS="1572"
+                    VPOS="6563"
+                    WIDTH="2702"
+                    HEIGHT="244">
+            <Shape><Polygon POINTS="1572 6646 1572 6563 4261 6569 4261 6646 4274 6769 4209 6807 4203 6807 4203 6807 4196 6807 4196 6807 4196 6807 4190 6807 4190 6807 3938 6775 3926 6775 3906 6775 3455 6807 3448 6807 3448 6807 3197 6788 3075 6775 3017 6788 2939 6807 2933 6807 2933 6807 2926 6807 2926 6807 2926 6807 2823 6788 2726 6775 2656 6795 2604 6807 2598 6807 2598 6807 2591 6807 2591 6807 2475 6795 2269 6775 2185 6801 2159 6807 2153 6807 2153 6807 2153 6807 2146 6807 2146 6807 2140 6807 2140 6807 2120 6801 2043 6775 1572 6807"/></Shape>
+	    <String CONTENT="(Ed.ne Alinari) P.e I.a N.° 6826. ANAGNI - Prov. di Roma. Casa Barnekow già Gigli."
+                    HPOS="1572"
+                    VPOS="6563"
+                    WIDTH="2702"
+                    HEIGHT="244"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5055"
+                   VPOS="7388"
+                   WIDTH="599"
+                   HEIGHT="211"
+                   ID="eSc_textblock_7b81d257"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="5576 7394 5654 7569 5081 7599 5055 7388"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_0bd437e4"
+                    TAGREFS="LT103"
+                    BASELINE="5099 7535 5634 7543" 
+                    HPOS="5086"
+                    VPOS="7368"
+                    WIDTH="541"
+                    HEIGHT="212">
+            <Shape><Polygon POINTS="5092 7529 5086 7374 5621 7368 5627 7542 5621 7580 5086 7580"/></Shape>
+	    <String CONTENT="7. IX. 37"
+                    HPOS="5086"
+                    VPOS="7368"
+                    WIDTH="541"
+                    HEIGHT="212"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

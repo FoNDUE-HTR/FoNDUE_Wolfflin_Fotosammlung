@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0009_VIII_008_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7621"
+          HEIGHT="6607"
+          PHYSICAL_IMG_NR="208"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="7621"
+                  HEIGHT="6607">
+        
+        <TextBlock HPOS="792"
+                   VPOS="797"
+                   WIDTH="6098"
+                   HEIGHT="4835"
+                   ID="eSc_textblock_8764a798"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="6890 860 6844 2136 6829 5439 6821 5588 3430 5632 1453 5588 795 5599 792 1060 794 797 969 814"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_6981e665"
+                    TAGREFS="LT102"
+                    BASELINE="1407 5539 6756 5545" 
+                    HPOS="1398"
+                    VPOS="5340"
+                    WIDTH="5352"
+                    HEIGHT="264">
+            <Shape><Polygon POINTS="1404 5538 1398 5357 1960 5340 1965 5340 1965 5340 1971 5340 1971 5340 1971 5340 2020 5362 2120 5417 2433 5417 2532 5373 2532 5373 2532 5373 2538 5373 2538 5373 2544 5373 2544 5373 2544 5373 2549 5373 2742 5412 2995 5412 3083 5379 3210 5340 3215 5340 3215 5340 3215 5340 3221 5340 3221 5340 3221 5340 3226 5340 3226 5340 3320 5384 3375 5412 3661 5412 3821 5390 4195 5340 4195 5340 4201 5340 4201 5340 4201 5340 4471 5401 4504 5406 4537 5401 4680 5379 4680 5379 4686 5379 4686 5379 5043 5406 5313 5362 5313 5362 5319 5362 5319 5362 5319 5362 5324 5362 5462 5406 5572 5384 5572 5384 5572 5384 5578 5384 5578 5384 5578 5384 5583 5384 5583 5384 5660 5417 5682 5434 6750 5439 6750 5544 6739 5604 1398 5593"/></Shape>
+	    <String CONTENT="6723. FIRENZE. (Cappellone degli Spagnoli) La Resurrezione di Cristo ; affresco creduto di Taddeo Gaddi, ma piuttosto di A. Veneziano. (Edizione Brogi)"
+                    HPOS="1398"
+                    VPOS="5340"
+                    WIDTH="5352"
+                    HEIGHT="264"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="789"
+                   VPOS="5745"
+                   WIDTH="3329"
+                   HEIGHT="299"
+                   ID="eSc_textblock_d10b0193"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="789 5745 816 6044 4096 6044 4118 5756"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_729dcbbe"
+                    TAGREFS="LT103"
+                    BASELINE="816 5942 2959 5956 4061 5933" 
+                    HPOS="809"
+                    VPOS="5792"
+                    WIDTH="3249"
+                    HEIGHT="225">
+            <Shape><Polygon POINTS="814 5940 809 5792 1007 5830 1057 5792 1057 5792 1057 5792 1062 5792 1062 5792 1062 5792 1068 5792 1068 5792 1073 5792 1205 5797 1205 5797 1205 5797 1205 5797 1211 5797 1211 5797 1211 5797 1216 5797 1216 5797 1216 5803 1244 5830 1310 5797 1321 5792 1321 5792 1321 5792 1327 5792 1327 5792 1332 5792 1332 5792 1332 5792 1371 5797 1503 5825 1585 5803 1613 5792 1618 5792 1618 5792 1618 5792 1624 5792 1624 5792 1629 5792 1629 5792 1629 5792 1635 5792 1635 5792 1635 5797 1640 5803 1673 5830 1855 5803 1877 5803 1877 5803 1883 5803 1960 5803 2373 5830 2411 5814 2439 5792 2444 5792 2444 5792 2444 5792 2450 5792 2450 5792 2455 5792 2455 5792 2455 5792 2461 5792 2532 5814 2593 5836 2819 5836 2863 5819 2934 5792 2934 5792 2940 5792 2940 5792 2945 5792 3094 5792 3094 5792 3094 5792 3100 5792 3100 5792 3100 5792 3105 5792 3105 5792 3105 5797 3133 5819 3144 5830 3166 5819 3248 5792 3248 5792 3254 5792 3254 5792 3259 5792 3259 5792 3661 5830 3705 5830 3716 5830 3854 5792 3860 5792 3860 5792 3865 5792 3865 5792 3865 5792 4047 5836 4058 5929 4052 5973 3672 5973 3656 5979 3562 6012 3562 6012 3557 6012 3557 6012 3557 6017 3469 6017 3463 6012 3463 6012 3458 6012 3458 6012 3458 6012 3452 6012 3452 6012 3452 6006 3425 5979 3419 5973 3408 5979 3336 6012 3336 6012 3331 6012 3331 6012 3331 6017 2995 6017 2990 6012 2990 6012 2984 6012 2984 6012 2912 5990 2868 5973 2626 5990 2373 6012 2367 6012 2367 6012 2257 5995 2075 5973 1872 6006 1839 6006 1839 6006 1833 6006 1833 6006 1833 6006 1828 6006 1828 6006 1828 6006 1822 6006 1822 6006 1822 6006 1784 5973 1569 5973 1486 6012 1481 6012 1481 6012 1475 6012 1475 6012 1475 6012 1470 6012 1426 6012 1057 5979 814 6017"/></Shape>
+	    <String CONTENT="Gewölbefresho des Cappellone degli Spagnuoli."
+                    HPOS="809"
+                    VPOS="5792"
+                    WIDTH="3249"
+                    HEIGHT="225"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="29"
+                   VPOS="5957"
+                   WIDTH="309"
+                   HEIGHT="576"
+                   ID="eSc_textblock_f1bac3d3"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="29 5957 29 6533 338 6533 338 5957"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_b75fbe58"
+                    TAGREFS="LT103"
+                    BASELINE="93 6012 100 6497" 
+                    HPOS="71"
+                    VPOS="6001"
+                    WIDTH="187"
+                    HEIGHT="495">
+            <Shape><Polygon POINTS="88 6006 258 6001 247 6485 99 6496 71 6491 71 6006"/></Shape>
+	    <String CONTENT="9. IV. 25"
+                    HPOS="71"
+                    VPOS="6001"
+                    WIDTH="187"
+                    HEIGHT="495"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5545"
+                   VPOS="5572"
+                   WIDTH="1356"
+                   HEIGHT="226"
+                   ID="eSc_textblock_640230ce"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="6901 5798 6901 5572 5545 5572 5545 5798"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_0b695d3e"
+                    TAGREFS="LT103"
+                    BASELINE="5552 5743 6893 5734" 
+                    HPOS="5528"
+                    VPOS="5571"
+                    WIDTH="1360"
+                    HEIGHT="226">
+            <Shape><Polygon POINTS="5550 5742 5528 5632 5600 5577 5600 5577 5605 5577 5605 5577 5605 5577 5611 5577 5611 5577 5616 5577 5616 5577 5616 5577 5622 5577 5622 5577 5710 5615 5814 5577 5814 5577 5820 5577 5820 5577 5825 5577 5825 5577 5825 5577 5831 5577 5831 5577 5836 5577 5836 5577 5897 5621 5897 5626 6073 5626 6079 5615 6117 5582 6117 5577 6117 5577 6123 5577 6123 5577 6123 5577 6128 5577 6128 5577 6128 5577 6134 5577 6134 5577 6139 5577 6139 5577 6139 5577 6145 5577 6194 5615 6200 5615 6205 5615 6299 5571 6299 5571 6304 5571 6304 5571 6304 5571 6310 5571 6310 5571 6508 5604 6585 5615 6640 5599 6723 5571 6728 5571 6728 5571 6728 5571 6734 5571 6734 5571 6734 5571 6739 5571 6739 5571 6739 5571 6745 5571 6778 5593 6806 5615 6866 5593 6888 5731 6883 5764 6481 5792 6475 5792 6475 5792 6475 5792 6470 5792 6470 5792 6470 5792 6464 5792 6464 5792 6464 5786 6453 5775 6437 5764 6233 5764 6150 5786 6101 5797 6095 5797 6095 5797 6090 5797 6090 5797 6090 5797 6084 5797 6051 5786 5991 5770 5919 5792 5891 5797 5886 5797 5886 5797 5886 5797 5880 5797 5880 5797 5842 5792 5710 5770 5550 5797"/></Shape>
+	    <String CONTENT="Andrea da Firenze"
+                    HPOS="5528"
+                    VPOS="5571"
+                    WIDTH="1360"
+                    HEIGHT="226"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

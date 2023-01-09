@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_V_004_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7151"
+          HEIGHT="5994"
+          PHYSICAL_IMG_NR="250"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="7151"
+                  HEIGHT="5994">
+        
+        <TextBlock HPOS="606"
+                   VPOS="603"
+                   WIDTH="5977"
+                   HEIGHT="4686"
+                   ID="eSc_textblock_229f979c"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="606 603 621 5289 6583 5289 6583 603"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f636d443"
+                    TAGREFS="LT102"
+                    BASELINE="1524 5262 5581 5252" 
+                    HPOS="1509"
+                    VPOS="5109"
+                    WIDTH="4067"
+                    HEIGHT="195">
+            <Shape><Polygon POINTS="1519 5259 1509 5109 5566 5119 5576 5249 5571 5299 1519 5304"/></Shape>
+	    <String CONTENT="(Ed.ni Brogi) 17484. FIRENZE. Galleria Antica e Moderna. Storia dei Santi Cosimo e Damiano; Beato Angelico."
+                    HPOS="1509"
+                    VPOS="5109"
+                    WIDTH="4067"
+                    HEIGHT="195"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="10"
+                   VPOS="5396"
+                   WIDTH="267"
+                   HEIGHT="512"
+                   ID="eSc_textblock_e3fac7d4"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="277 5908 239 5396 10 5396 48 5885"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_12e2468d"
+                    TAGREFS="LT103"
+                    BASELINE="90 5491 90 5879" 
+                    HPOS="69"
+                    VPOS="5484"
+                    WIDTH="150"
+                    HEIGHT="390">
+            <Shape><Polygon POINTS="89 5489 219 5489 219 5874 89 5874 69 5869 74 5484"/></Shape>
+	    <String CONTENT="10. III. 9"
+                    HPOS="69"
+                    VPOS="5484"
+                    WIDTH="150"
+                    HEIGHT="390"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2198"
+                   VPOS="5433"
+                   WIDTH="2710"
+                   HEIGHT="320"
+                   ID="eSc_textblock_337510f0"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="2198 5433 2198 5753 4908 5753 4908 5433"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_847667b4"
+                    TAGREFS="LT103"
+                    BASELINE="2259 5626 4876 5632" 
+                    HPOS="2253"
+                    VPOS="5454"
+                    WIDTH="2619"
+                    HEIGHT="240">
+            <Shape><Polygon POINTS="2258 5624 2258 5489 2903 5489 2913 5479 2943 5459 2943 5454 2943 5454 2948 5454 2948 5454 2953 5454 2953 5454 2953 5454 2958 5454 2958 5454 2958 5454 2963 5454 2963 5454 3023 5479 3033 5484 3068 5479 3248 5454 3248 5454 3253 5454 3253 5454 3253 5454 3363 5479 3413 5489 3428 5479 3458 5454 3458 5454 3463 5454 3463 5454 3463 5454 3468 5454 3468 5454 3473 5454 3473 5454 3473 5454 3478 5454 3553 5479 3582 5484 3617 5474 3702 5454 3707 5454 3707 5454 3712 5454 3712 5454 3712 5454 3812 5474 3857 5484 3872 5474 3892 5459 3897 5459 3897 5459 3897 5459 3902 5459 3902 5459 3902 5459 3907 5459 3907 5459 3912 5459 3912 5459 3912 5459 3917 5459 3937 5474 3962 5489 4012 5474 4072 5454 4077 5454 4077 5454 4077 5454 4082 5454 4082 5454 4082 5454 4087 5454 4087 5454 4132 5474 4172 5489 4862 5469 4872 5629 4867 5694 4737 5694 4732 5689 4732 5689 4732 5689 4727 5689 4727 5689 4727 5689 4662 5654 4487 5689 4482 5689 4482 5689 4477 5689 4477 5689 4477 5689 4472 5689 4472 5689 4377 5659 4292 5689 4292 5689 4292 5689 4287 5689 4287 5689 4282 5689 4282 5689 4282 5689 4277 5689 4277 5689 4277 5689 4277 5689 4207 5654 4027 5654 3977 5689 3977 5689 3972 5689 3972 5689 3972 5689 3967 5689 3967 5689 3967 5689 3962 5689 3962 5689 3952 5689 3697 5654 3622 5654 3587 5684 3587 5689 3587 5689 3582 5689 3582 5689 3582 5689 3582 5689 3577 5689 3577 5689 3577 5694 3458 5694 3453 5689 3453 5689 3448 5689 3448 5689 3448 5689 3443 5689 3443 5689 3443 5689 3443 5684 3408 5654 3133 5654 3033 5689 3028 5689 3028 5689 3023 5689 3023 5689 3018 5689 3018 5689 3018 5689 2998 5689 2823 5654 2733 5689 2723 5689 2723 5689 2718 5689 2718 5689 2713 5689 2713 5689 2713 5689 2708 5689 2708 5689 2708 5689 2703 5689 2643 5654 2568 5689 2558 5689 2558 5689 2553 5689 2553 5689 2548 5689 2548 5689 2548 5689 2543 5689 2533 5689 2423 5654 2253 5684"/></Shape>
+	    <String CONTENT="Altar der hl. Dreifaltigheit (Detail)"
+                    HPOS="2253"
+                    VPOS="5454"
+                    WIDTH="2619"
+                    HEIGHT="240"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

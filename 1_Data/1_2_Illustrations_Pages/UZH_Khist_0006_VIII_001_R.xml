@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0006_VIII_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4636"
+          HEIGHT="6166"
+          PHYSICAL_IMG_NR="35"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4636"
+                  HEIGHT="6166">
+        
+        <TextBlock HPOS="3"
+                   VPOS="0"
+                   WIDTH="4633"
+                   HEIGHT="6165"
+                   ID="eSc_textblock_1012dd14"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="3 1 32 6165 4636 6165 4636 0"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ea6fdba7"
+                    TAGREFS="LT102"
+                    BASELINE="159 6063 4479 6073" 
+                    HPOS="154"
+                    VPOS="5945"
+                    WIDTH="4322"
+                    HEIGHT="154">
+            <Shape><Polygon POINTS="154 6058 154 5945 1202 5950 1202 5950 1202 5950 1254 5955 1469 5991 4471 5996 4476 6068 4471 6094 154 6099"/></Shape>
+	    <String CONTENT="(Ed.ne Alinari) P.e I.ª N.° 10802. FERRARA - Chiesa suburbana di S. Giorgio. Mausoleo Roverella. (Rossellino e Ambrogio da Milano, 1475.)"
+                    HPOS="154"
+                    VPOS="5945"
+                    WIDTH="4322"
+                    HEIGHT="154"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

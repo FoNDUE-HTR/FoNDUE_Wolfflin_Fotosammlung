@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_VIII_003_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7684"
+          HEIGHT="5900"
+          PHYSICAL_IMG_NR="262"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="7684"
+                  HEIGHT="5900">
+        
+        <TextBlock HPOS="728"
+                   VPOS="531"
+                   WIDTH="6129"
+                   HEIGHT="4754"
+                   ID="eSc_textblock_a25900da"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="6483 531 6837 590 6857 5285 767 5285 728 609 767 550 1101 531"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_10ce251a"
+                    TAGREFS="LT102"
+                    BASELINE="882 4376 3833 4335" 
+                    HPOS="870"
+                    VPOS="4238"
+                    WIDTH="2962"
+                    HEIGHT="182">
+            <Shape><Polygon POINTS="880 4375 870 4262 3817 4238 3832 4331 3832 4361 2617 4395 2612 4395 2612 4395 2612 4395 2533 4380 2513 4375 2459 4380 2184 4405 2179 4405 2179 4405 1962 4385 1948 4385 1943 4385 1859 4410 1854 4410 1854 4410 1854 4410 1849 4410 1569 4390 1554 4390 1549 4390 1475 4415 1470 4415 1470 4415 1470 4415 1465 4415 1215 4395 1210 4395 1205 4395 1121 4420 1116 4420 1116 4420 1111 4420 1111 4420 875 4395"/></Shape>
+	    <String CONTENT="239. Bis FIRENZE – Galleria Uffizi – Transito della Vergine. (Beato Angelico)."
+                    HPOS="870"
+                    VPOS="4238"
+                    WIDTH="2962"
+                    HEIGHT="182"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_84601a54"
+                    TAGREFS="LT102"
+                    BASELINE="5970 4298 6682 4287" 
+                    HPOS="5957"
+                    VPOS="4198"
+                    WIDTH="738"
+                    HEIGHT="153">
+            <Shape><Polygon POINTS="5967 4297 5957 4198 6670 4203 6680 4282 6695 4307 6670 4336 6665 4336 6665 4341 6665 4341 6660 4341 6660 4341 6660 4341 6655 4341 6655 4341 6650 4341 6365 4326 6208 4321 5967 4351"/></Shape>
+	    <String CONTENT="(Ediz. V. Jacquier)"
+                    HPOS="5957"
+                    VPOS="4198"
+                    WIDTH="738"
+                    HEIGHT="153"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1c15895c"
+                    TAGREFS="LT103"
+                    BASELINE="1644 4957 5340 4904" 
+                    HPOS="1638"
+                    VPOS="4764"
+                    WIDTH="3704"
+                    HEIGHT="255">
+            <Shape><Polygon POINTS="1643 4956 1638 4842 2326 4842 2395 4833 2494 4813 2499 4813 2597 4828 2661 4838 2681 4828 2740 4798 2744 4798 2749 4798 2912 4798 2917 4798 2981 4823 3005 4833 3113 4823 3404 4788 3409 4788 3414 4788 3507 4818 3537 4823 3827 4823 3837 4813 3856 4793 3861 4793 3866 4793 3871 4793 3876 4793 3930 4813 3950 4818 3964 4813 4028 4779 4033 4779 4038 4779 4230 4808 4269 4813 4284 4808 4348 4774 4353 4774 4358 4774 4363 4774 4368 4774 4412 4803 4422 4813 4648 4813 4658 4803 4693 4774 4693 4769 4697 4769 4702 4769 5022 4764 5027 4764 5165 4793 5273 4764 5278 4764 5283 4764 5288 4764 5293 4764 5337 4793 5337 4901 5342 4931 5293 4960 5288 4960 5283 4960 5278 4960 4929 4941 4899 4965 4894 4965 4889 4965 4884 4965 4383 4946 4348 4946 4343 4946 4304 4980 4304 4985 4299 4985 4294 4985 4289 4985 3896 4970 3655 4995 3650 4995 3256 4965 3207 4995 3202 4995 3197 4995 3192 4995 3187 4995 3084 4965 3079 4965 2946 5005 2941 5005 2936 5005 2804 4985 2523 5010 2518 5010 2513 5010 2430 4980 2194 5015 2189 5015 1997 4980 1977 4980 1962 4980 1815 5019 1810 5019 1805 5019 1638 4985"/></Shape>
+	    <String CONTENT="Teil der Predella (?) zur &quot;Krönung der Jungfrau&quot; (Uffizien)"
+                    HPOS="1638"
+                    VPOS="4764"
+                    WIDTH="3704"
+                    HEIGHT="255"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="90"
+                   VPOS="5232"
+                   WIDTH="293"
+                   HEIGHT="493"
+                   ID="eSc_textblock_15a30dc9"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="90 5232 90 5725 383 5725 383 5232"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f0515028"
+                    TAGREFS="LT103"
+                    BASELINE="175 5256 149 5725" 
+                    HPOS="118"
+                    VPOS="5236"
+                    WIDTH="167"
+                    HEIGHT="487">
+            <Shape><Polygon POINTS="172 5255 280 5251 285 5718 147 5723 118 5713 122 5290 122 5290 122 5290 122 5285 122 5285 122 5285 122 5280 152 5236"/></Shape>
+	    <String CONTENT="10. III. 21"
+                    HPOS="118"
+                    VPOS="5236"
+                    WIDTH="167"
+                    HEIGHT="487"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

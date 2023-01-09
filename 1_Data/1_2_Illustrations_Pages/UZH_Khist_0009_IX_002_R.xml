@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0009_IX_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5120"
+          HEIGHT="6270"
+          PHYSICAL_IMG_NR="187"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="5120"
+                  HEIGHT="6270">
+        
+        <TextBlock HPOS="20"
+                   VPOS="104"
+                   WIDTH="4953"
+                   HEIGHT="6040"
+                   ID="eSc_textblock_34ed4381"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="52 114 4910 104 4939 196 4963 5825 4973 5893 4973 5998 4973 6124 4003 6141 264 6144 71 6144 39 5872 20 285"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_2ecef033"
+                    TAGREFS="LT102"
+                    BASELINE="335 6084 4598 6074" 
+                    HPOS="319"
+                    VPOS="5935"
+                    WIDTH="4278"
+                    HEIGHT="173">
+            <Shape><Polygon POINTS="334 6081 319 5940 1971 5935 1976 5935 1982 5935 1987 5935 2018 5956 2081 5993 4581 5987 4597 6071 4591 6097 334 6108"/></Shape>
+	    <String CONTENT="(Ed.ni Brogi) 12805. NAPOLI- Chiesa di S. Giovanni a Carbonara – Monumento al Re Ladislao ; Andrea Ciccione."
+                    HPOS="319"
+                    VPOS="5935"
+                    WIDTH="4278"
+                    HEIGHT="173"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3908"
+                   VPOS="6093"
+                   WIDTH="742"
+                   HEIGHT="155"
+                   ID="eSc_textblock_65b089d0"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="4647 6238 4650 6093 3917 6096 3908 6248"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_28bfc143"
+                    TAGREFS="LT103"
+                    BASELINE="3953 6211 4546 6205 4622 6193" 
+                    HPOS="3938"
+                    VPOS="6061"
+                    WIDTH="679"
+                    HEIGHT="219">
+            <Shape><Polygon POINTS="3948 6207 3938 6071 4607 6061 4617 6207 4612 6275 3948 6280"/></Shape>
+	    <String CONTENT="da Firenze"
+                    HPOS="3938"
+                    VPOS="6061"
+                    WIDTH="679"
+                    HEIGHT="219"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4738"
+                   VPOS="6105"
+                   WIDTH="337"
+                   HEIGHT="143"
+                   ID="eSc_textblock_a95080f9"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="5075 6105 5075 6248 4738 6248 4738 6105"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_99bde638"
+                    TAGREFS="LT103"
+                    BASELINE="4753 6208 5074 6220" 
+                    HPOS="4743"
+                    VPOS="6087"
+                    WIDTH="329"
+                    HEIGHT="146">
+            <Shape><Polygon POINTS="4748 6207 4743 6097 5062 6087 5072 6217 5067 6228 4743 6233"/></Shape>
+	    <String CONTENT="9. IV. 27"
+                    HPOS="4743"
+                    VPOS="6087"
+                    WIDTH="329"
+                    HEIGHT="146"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0008_I_003_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6130"
+          HEIGHT="7490"
+          PHYSICAL_IMG_NR="166"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6130"
+                  HEIGHT="7490">
+        
+        <TextBlock HPOS="770"
+                   VPOS="701"
+                   WIDTH="4596"
+                   HEIGHT="6019"
+                   ID="eSc_textblock_3874ce24"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="770 701 770 6720 5366 6720 5366 701"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_b6f2f50c"
+                    TAGREFS="LT102"
+                    BASELINE="1178 6625 2921 6634 3102 6634 4690 6652" 
+                    HPOS="1161"
+                    VPOS="6516"
+                    WIDTH="3527"
+                    HEIGHT="162">
+            <Shape><Polygon POINTS="1173 6622 1173 6516 4688 6541 4688 6647 4675 6678 1161 6647"/></Shape>
+	    <String CONTENT="P.e I.a N.° 14032 ANCONA. ARCO DI TRAIANO (APOLLODORO ARCHITETTO. A. D. 113)"
+                    HPOS="1161"
+                    VPOS="6516"
+                    WIDTH="3527"
+                    HEIGHT="162"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5506"
+                   VPOS="7190"
+                   WIDTH="424"
+                   HEIGHT="187"
+                   ID="eSc_textblock_9e905f9b"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="5506 7376 5586 7190 5905 7240 5930 7377"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_dd46e3fb"
+                    TAGREFS="LT104"
+                    BASELINE="5580 7333 5921 7335" 
+                    HPOS="5561"
+                    VPOS="7165"
+                    WIDTH="356"
+                    HEIGHT="212">
+            <Shape><Polygon POINTS="5574 7327 5568 7190 5911 7165 5917 7333 5905 7377 5561 7358"/></Shape>
+	    <String CONTENT="8. I. 3"
+                    HPOS="5561"
+                    VPOS="7165"
+                    WIDTH="356"
+                    HEIGHT="212"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

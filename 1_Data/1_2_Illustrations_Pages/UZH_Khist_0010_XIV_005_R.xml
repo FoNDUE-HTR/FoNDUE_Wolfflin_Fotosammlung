@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_XIV_005_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7886"
+          HEIGHT="5803"
+          PHYSICAL_IMG_NR="286"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="7886"
+                  HEIGHT="5803">
+        
+        <TextBlock HPOS="928"
+                   VPOS="483"
+                   WIDTH="5971"
+                   HEIGHT="4618"
+                   ID="eSc_textblock_647239d6"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="6899 560 6879 5101 948 5082 928 1663 967 580 1045 483"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_857c7c96"
+                    TAGREFS="LT102"
+                    BASELINE="3275 967 4702 976" 
+                    HPOS="3270"
+                    VPOS="855"
+                    WIDTH="1601"
+                    HEIGHT="150">
+            <Shape><Polygon POINTS="3275 967 3275 855 3410 880 3522 860 3551 855 3555 855 3560 855 3570 860 3618 884 3715 865 3759 855 3763 855 3855 865 4010 889 4542 889 4557 880 4596 860 4600 860 4605 860 4871 889 4871 967 4867 1005 3270 1001"/></Shape>
+	    <String CONTENT="RIPRODUZIONE INTERDETTA"
+                    HPOS="3270"
+                    VPOS="855"
+                    WIDTH="1601"
+                    HEIGHT="150"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_df045172"
+                    TAGREFS="LT102"
+                    BASELINE="2157 4545 5607 4574" 
+                    HPOS="2152"
+                    VPOS="4463"
+                    WIDTH="3455"
+                    HEIGHT="155">
+            <Shape><Polygon POINTS="2157 4545 2157 4463 5607 4497 5607 4574 5597 4618 2152 4598"/></Shape>
+	    <String CONTENT="(Ed.ne Alinari) P.e 2.a N.° 7690 Roma - Pinacoteca Vaticana. Leggenda di San Niccolò di Bari. (Beato Angelico.)"
+                    HPOS="2152"
+                    VPOS="4463"
+                    WIDTH="3455"
+                    HEIGHT="155"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d4feb435"
+                    TAGREFS="LT103"
+                    BASELINE="2496 4864 5205 4884" 
+                    HPOS="2481"
+                    VPOS="4729"
+                    WIDTH="2724"
+                    HEIGHT="208">
+            <Shape><Polygon POINTS="2496 4864 2501 4729 2583 4763 2835 4734 2859 4734 2859 4734 2864 4734 2864 4734 2888 4734 3067 4763 3125 4739 3139 4734 3139 4734 3144 4734 3144 4734 3144 4734 3149 4734 3149 4734 3154 4734 3183 4743 3280 4768 3318 4743 3323 4739 3328 4739 3328 4739 3328 4739 3333 4739 3333 4739 3338 4739 3338 4739 3338 4739 3343 4739 3343 4739 3347 4739 3347 4739 3352 4743 3376 4763 3449 4748 3493 4739 3493 4739 3493 4739 3497 4739 3497 4739 3502 4739 3502 4739 3502 4739 3522 4748 3565 4772 3797 4772 3822 4753 3836 4739 3836 4739 3841 4739 3841 4739 3841 4739 3846 4739 3846 4739 3851 4739 3851 4739 4010 4758 4146 4772 4218 4763 4320 4743 4320 4743 4320 4743 4325 4743 4325 4743 4455 4768 4533 4782 4644 4782 4654 4768 4678 4748 4678 4748 4683 4748 4683 4748 4683 4748 4688 4748 4688 4748 4688 4748 4692 4748 4692 4748 4697 4748 4697 4748 4755 4772 4775 4777 4813 4772 4983 4748 4983 4748 4988 4748 4988 4748 5200 4782 5205 4884 5196 4937 4809 4908 4731 4932 4707 4937 4702 4937 4702 4937 4697 4937 4697 4937 4697 4937 4649 4927 4523 4903 4286 4903 4262 4922 4247 4932 4247 4932 4242 4932 4242 4932 4242 4932 4238 4932 4238 4932 4238 4932 4233 4932 4233 4932 4146 4918 4078 4908 4059 4918 4030 4932 4030 4932 4030 4932 4025 4932 4025 4932 4025 4932 4020 4932 4020 4932 4015 4932 4015 4932 4015 4932 4010 4932 4010 4932 4010 4927 3996 4918 3986 4908 3918 4913 3822 4922 3822 4922 3817 4922 3817 4922 3812 4922 3812 4922 3812 4922 3807 4922 3793 4913 3763 4898 3580 4908 3178 4927 3173 4927 3173 4927 3168 4927 3168 4927 3086 4898 3072 4893 3057 4898 2941 4922 2941 4922 2941 4922 2936 4922 2936 4922 2796 4898 2772 4918 2772 4922 2772 4922 2767 4922 2767 4922 2767 4922 2762 4922 2762 4922 2762 4927 2593 4927 2588 4922 2588 4922 2583 4922 2583 4922 2481 4884"/></Shape>
+	    <String CONTENT="Predella (Det.) Zum Triptychon r. Perugia"
+                    HPOS="2481"
+                    VPOS="4729"
+                    WIDTH="2724"
+                    HEIGHT="208"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="101"
+                   VPOS="5112"
+                   WIDTH="287"
+                   HEIGHT="591"
+                   ID="eSc_textblock_6a70729f"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="101 5112 101 5703 388 5703 388 5112"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_55a2d3e4"
+                    TAGREFS="LT103"
+                    BASELINE="184 5152 180 5580 187 5660" 
+                    HPOS="120"
+                    VPOS="5140"
+                    WIDTH="208"
+                    HEIGHT="517">
+            <Shape><Polygon POINTS="183 5150 285 5145 314 5333 314 5333 314 5338 314 5338 314 5338 304 5387 290 5459 314 5483 319 5493 324 5493 324 5493 324 5498 324 5498 324 5498 324 5503 324 5503 328 5508 328 5648 183 5657 120 5648 130 5140"/></Shape>
+	    <String CONTENT="10. III. 52"
+                    HPOS="120"
+                    VPOS="5140"
+                    WIDTH="208"
+                    HEIGHT="517"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

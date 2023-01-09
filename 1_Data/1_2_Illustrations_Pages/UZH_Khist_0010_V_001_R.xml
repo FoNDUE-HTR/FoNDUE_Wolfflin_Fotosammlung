@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_V_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7472"
+          HEIGHT="6261"
+          PHYSICAL_IMG_NR="247"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="7472"
+                  HEIGHT="6261">
+        
+        <TextBlock HPOS="911"
+                   VPOS="588"
+                   WIDTH="5831"
+                   HEIGHT="4892"
+                   ID="eSc_textblock_c5a400ed"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="911 588 911 5480 6742 5480 6742 588"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d569514c"
+                    TAGREFS="LT102"
+                    BASELINE="1976 5408 5763 5412" 
+                    HPOS="1972"
+                    VPOS="5290"
+                    WIDTH="3788"
+                    HEIGHT="141">
+            <Shape><Polygon POINTS="1972 5405 1972 5290 5755 5316 5760 5410 5755 5431 1972 5431"/></Shape>
+	    <String CONTENT="(Ed.ne Alinari) P.e 2.a N.° 1505. FIRENZE – R. Galleria Antica e Moderna. La deposizione di Croce. (Beato Angelico.)"
+                    HPOS="1972"
+                    VPOS="5290"
+                    WIDTH="3788"
+                    HEIGHT="141"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="53"
+                   VPOS="5730"
+                   WIDTH="249"
+                   HEIGHT="499"
+                   ID="eSc_textblock_9a4fae7c"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="53 5730 53 6229 302 6229 302 5730"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_6f2ecfe0"
+                    TAGREFS="LT103"
+                    BASELINE="83 5742 96 6157" 
+                    HPOS="46"
+                    VPOS="5718"
+                    WIDTH="183"
+                    HEIGHT="438">
+            <Shape><Polygon POINTS="78 5739 193 5718 224 5770 224 5775 224 5775 224 5775 224 5780 224 5780 229 5786 229 6146 93 6156 73 6156 46 5739"/></Shape>
+	    <String CONTENT="10. III. 6"
+                    HPOS="46"
+                    VPOS="5718"
+                    WIDTH="183"
+                    HEIGHT="438"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2818"
+                   VPOS="5590"
+                   WIDTH="2027"
+                   HEIGHT="369"
+                   ID="eSc_textblock_bed2c06b"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="2818 5590 2818 5959 4845 5959 4845 5590"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d1f307d4"
+                    TAGREFS="LT103"
+                    BASELINE="2892 5798 4757 5802" 
+                    HPOS="2880"
+                    VPOS="5640"
+                    WIDTH="1873"
+                    HEIGHT="208">
+            <Shape><Polygon POINTS="2890 5796 2885 5676 3036 5640 3036 5640 3042 5640 3193 5640 3193 5640 3193 5640 3198 5640 3198 5640 3198 5640 3203 5640 3203 5645 3240 5676 3245 5676 3329 5676 4362 5640 4367 5640 4367 5640 4367 5640 4549 5676 4602 5640 4607 5640 4607 5640 4607 5640 4612 5640 4612 5640 4617 5640 4617 5640 4617 5640 4623 5640 4753 5681 4753 5801 4743 5848 2880 5838"/></Shape>
+	    <String CONTENT="Altar der hl. DreifaltigKeit"
+                    HPOS="2880"
+                    VPOS="5640"
+                    WIDTH="1873"
+                    HEIGHT="208"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_XVII_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5840"
+          HEIGHT="7589"
+          PHYSICAL_IMG_NR="296"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="5840"
+                  HEIGHT="7589">
+        
+        <TextBlock HPOS="721"
+                   VPOS="405"
+                   WIDTH="4484"
+                   HEIGHT="6263"
+                   ID="eSc_textblock_fa7a37af"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="783 405 721 6668 5205 6658 5205 499"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f36c0120"
+                    TAGREFS="LT105"
+                    BASELINE="2176 588 3960 607" 
+                    HPOS="2163"
+                    VPOS="499"
+                    WIDTH="1797"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="2176 588 2176 499 3960 518 3960 607 3948 626 2163 613"/></Shape>
+	    <String CONTENT="RIPRODUZIONE INTERDETTA"
+                    HPOS="2163"
+                    VPOS="499"
+                    WIDTH="1797"
+                    HEIGHT="127"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7d506fdf"
+                    TAGREFS="LT102"
+                    BASELINE="1284 6539 4656 6577" 
+                    HPOS="1271"
+                    VPOS="6438"
+                    WIDTH="3385"
+                    HEIGHT="164">
+            <Shape><Polygon POINTS="1284 6539 1284 6438 4656 6463 4656 6577 4644 6602 1271 6583"/></Shape>
+	    <String CONTENT="(Ed.ne Alinari) P.e 2.a N. 7382 ROMA - Galleria Corsini. La discesa dello Spirito Santo. (Beato Angelico.)"
+                    HPOS="1271"
+                    VPOS="6438"
+                    WIDTH="3385"
+                    HEIGHT="164"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1331"
+                   VPOS="6791"
+                   WIDTH="3352"
+                   HEIGHT="331"
+                   ID="eSc_textblock_2d4bd927"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="1331 6791 1331 7122 4683 7122 4683 6791"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1b825e9e"
+                    TAGREFS="LT103"
+                    BASELINE="1423 6988 4561 6969" 
+                    HPOS="1417"
+                    VPOS="6804"
+                    WIDTH="3151"
+                    HEIGHT="279">
+            <Shape><Polygon POINTS="1423 6988 1417 6823 1683 6868 1796 6868 1841 6823 1841 6817 1841 6817 1841 6817 1847 6817 1847 6817 1847 6817 1853 6817 1853 6817 1853 6817 1860 6817 1860 6817 1866 6817 1872 6817 2037 6861 2157 6830 2163 6830 2163 6830 2170 6830 2170 6830 2448 6861 2771 6811 2796 6811 2796 6811 2802 6811 2859 6811 3492 6855 3714 6804 3733 6804 3733 6804 3733 6804 3739 6804 3739 6804 3745 6804 3745 6804 3745 6804 3752 6804 3834 6849 3897 6804 3897 6804 3903 6804 3903 6804 3903 6804 3910 6804 3910 6804 3916 6804 3916 6804 3916 6804 3922 6804 3929 6804 4068 6849 4542 6804 4561 6969 4568 7007 4397 7064 4391 7064 4391 7064 4391 7064 4384 7064 3676 7019 3517 7070 3511 7070 3511 7070 3511 7070 3505 7070 2549 7026 2461 7076 2454 7076 2454 7076 2454 7076 2448 7076 2448 7076 2442 7076 2442 7076 2005 7032 1961 7070 1961 7076 1961 7076 1955 7076 1955 7076 1955 7076 1948 7076 1948 7076 1948 7083 1752 7083 1746 7076 1746 7076 1417 7026"/></Shape>
+	    <String CONTENT="Innenseite des rechten Flügels vom &quot;Weltgericht&quot;"
+                    HPOS="1417"
+                    VPOS="6804"
+                    WIDTH="3151"
+                    HEIGHT="279"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5177"
+                   VPOS="7297"
+                   WIDTH="599"
+                   HEIGHT="262"
+                   ID="eSc_textblock_2c6c141a"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="5177 7297 5177 7559 5776 7559 5776 7297"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_5840415f"
+                    TAGREFS="LT103"
+                    BASELINE="5245 7475 5732 7487" 
+                    HPOS="5232"
+                    VPOS="7336"
+                    WIDTH="500"
+                    HEIGHT="183">
+            <Shape><Polygon POINTS="5245 7475 5245 7367 5542 7373 5726 7336 5732 7487 5719 7519 5232 7513"/></Shape>
+	    <String CONTENT="10. III. 64"
+                    HPOS="5232"
+                    VPOS="7336"
+                    WIDTH="500"
+                    HEIGHT="183"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

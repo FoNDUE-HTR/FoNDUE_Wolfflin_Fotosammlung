@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_III_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5970"
+          HEIGHT="7686"
+          PHYSICAL_IMG_NR="230"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="5970"
+                  HEIGHT="7686">
+        
+        <TextBlock HPOS="521"
+                   VPOS="622"
+                   WIDTH="4810"
+                   HEIGHT="6189"
+                   ID="eSc_textblock_62cc356b"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="521 687 521 6811 5323 6811 5331 622"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_6194e7cb"
+                    TAGREFS="LT102"
+                    BASELINE="669 6487 5267 6445" 
+                    HPOS="653"
+                    VPOS="6347"
+                    WIDTH="4612"
+                    HEIGHT="205">
+            <Shape><Polygon POINTS="666 6481 653 6385 5246 6347 5265 6443 5258 6481 1370 6545 1364 6545 1274 6545 755 6520 672 6552"/></Shape>
+	    <String CONTENT="6160 FIRENZE (Galleria Uffizi) - Vergine col figlio e quattro Angeli. - Beato Angelico. ( Ediz. V. Jacquier)"
+                    HPOS="653"
+                    VPOS="6347"
+                    WIDTH="4612"
+                    HEIGHT="205"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5102"
+                   VPOS="7283"
+                   WIDTH="447"
+                   HEIGHT="210"
+                   ID="eSc_textblock_726a354d"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="5111 7306 5102 7493 5549 7465 5526 7283"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_fec67a1e"
+                    TAGREFS="LT103"
+                    BASELINE="5157 7440 5515 7415" 
+                    HPOS="5143"
+                    VPOS="7288"
+                    WIDTH="365"
+                    HEIGHT="193">
+            <Shape><Polygon POINTS="5156 7436 5143 7288 5495 7288 5508 7410 5502 7481 5150 7474"/></Shape>
+	    <String CONTENT="10. 11. 9"
+                    HPOS="5143"
+                    VPOS="7288"
+                    WIDTH="365"
+                    HEIGHT="193"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0009_V_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7773"
+          HEIGHT="5802"
+          PHYSICAL_IMG_NR="190"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="7773"
+                  HEIGHT="5802">
+        
+        <TextBlock HPOS="93"
+                   VPOS="5006"
+                   WIDTH="201"
+                   HEIGHT="429"
+                   ID="eSc_textblock_057f49a6"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="93 5006 93 5435 294 5435 294 5006"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_aecd2d08"
+                    TAGREFS="LT103"
+                    BASELINE="115 5028 119 5426" 
+                    HPOS="87"
+                    VPOS="5018"
+                    WIDTH="159"
+                    HEIGHT="406">
+            <Shape><Polygon POINTS="111 5023 246 5018 237 5415 116 5424 87 5420 87 5023"/></Shape>
+	    <String CONTENT="9. IV. 7"
+                    HPOS="87"
+                    VPOS="5018"
+                    WIDTH="159"
+                    HEIGHT="406"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4145"
+                   VPOS="4879"
+                   WIDTH="2686"
+                   HEIGHT="853"
+                   ID="eSc_textblock_38699594"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="4145 4879 4145 5732 6831 5732 6831 4879"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_acf7f7ab"
+                    TAGREFS="LT103"
+                    BASELINE="4305 5151 6006 5112" 
+                    HPOS="4290"
+                    VPOS="4931"
+                    WIDTH="1712"
+                    HEIGHT="266">
+            <Shape><Polygon POINTS="4304 5149 4290 5023 4401 5009 4454 4960 4454 4955 4454 4955 4459 4955 4459 4955 4464 4955 4464 4955 4464 4955 4469 4955 5049 5004 5059 5004 5064 5004 5141 4941 5141 4941 5146 4941 5146 4941 5146 4941 5151 4941 5151 4941 5156 4941 5156 4941 5156 4941 5315 4970 5509 4931 5509 4931 5509 4931 5514 4931 5514 4931 5518 4931 5712 4989 5717 4989 5722 4989 5944 4960 5944 4960 5949 4960 5949 4960 5949 4960 5954 4960 5954 4960 5954 4960 5997 4984 6002 5110 5992 5144 5872 5139 5852 5149 5799 5183 5794 5183 5794 5183 5789 5183 5789 5183 5789 5183 5785 5183 5785 5183 5572 5158 5422 5139 5378 5163 5359 5173 5359 5173 5359 5173 5354 5173 5354 5173 5354 5173 5349 5173 5349 5173 5344 5173 5310 5163 5223 5139 5102 5139 5064 5168 5059 5178 5059 5178 5054 5178 5054 5178 5054 5178 5049 5178 5049 5178 5044 5178 5044 5178 5044 5178 5040 5178 5040 5178 5020 5173 4962 5144 4919 5173 4914 5173 4914 5173 4914 5173 4914 5173 4909 5173 4909 5173 4904 5173 4904 5173 4899 5173 4687 5154 4541 5158 4517 5183 4508 5192 4508 5197 4508 5197 4503 5197 4503 5197 4503 5197 4498 5197 4498 5197 4498 5197 4493 5197 4300 5187"/></Shape>
+	    <String CONTENT="Andrea da Firenze"
+                    HPOS="4290"
+                    VPOS="4931"
+                    WIDTH="1712"
+                    HEIGHT="266"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_87a69083"
+                    TAGREFS="LT103"
+                    BASELINE="4316 5361 6753 5306" 
+                    HPOS="4304"
+                    VPOS="5096"
+                    WIDTH="2448"
+                    HEIGHT="319">
+            <Shape><Polygon POINTS="4314 5357 4304 5231 4396 5226 4503 5144 4503 5144 4508 5144 4508 5144 4508 5144 4512 5144 4512 5144 4517 5144 4517 5144 4517 5144 4522 5144 4522 5144 4522 5144 4527 5144 4561 5168 4595 5144 4595 5139 4599 5139 4599 5139 4599 5139 4604 5139 4604 5139 4609 5139 4725 5139 4725 5139 4725 5139 4730 5139 4730 5139 4730 5139 4735 5139 4735 5139 4803 5197 4880 5134 4880 5134 4885 5134 4885 5134 4885 5134 4890 5134 4890 5134 4895 5134 4895 5134 4895 5134 4899 5134 4899 5134 4899 5134 5020 5197 5102 5129 5102 5129 5107 5129 5107 5129 5107 5129 5112 5129 5112 5129 5117 5129 5214 5129 5214 5129 5214 5129 5219 5129 5219 5129 5219 5129 5223 5129 5296 5178 5572 5120 5572 5120 5572 5120 5577 5120 5577 5120 5577 5120 5581 5120 5581 5120 5581 5120 5586 5120 5649 5168 5693 5197 5755 5163 5794 5144 5794 5144 5794 5144 5799 5144 5799 5144 5804 5144 5804 5144 5804 5144 5809 5144 5809 5144 5847 5158 5920 5192 6123 5192 6196 5144 6230 5120 6234 5120 6234 5120 6234 5120 6239 5120 6239 5120 6244 5120 6244 5120 6244 5120 6249 5120 6307 5139 6433 5178 6515 5158 6544 5125 6573 5100 6573 5100 6573 5096 6573 5096 6578 5096 6578 5096 6583 5096 6583 5096 6583 5096 6587 5096 6587 5096 6742 5120 6752 5303 6752 5323 6670 5357 6670 5357 6665 5357 6665 5357 6665 5357 6660 5357 6660 5357 6655 5357 6655 5357 6578 5328 6573 5328 6573 5328 6534 5362 6534 5366 6534 5366 6529 5366 6529 5366 6525 5366 6525 5366 6525 5366 6520 5366 6520 5366 6379 5347 6312 5381 6312 5381 6312 5381 6307 5381 6307 5381 6302 5381 6302 5381 6055 5352 5915 5386 5910 5386 5910 5386 5504 5395 5499 5395 5499 5395 5494 5395 5494 5395 5494 5395 5489 5395 5431 5362 5417 5352 5402 5362 5325 5400 5325 5400 5325 5400 5320 5400 5320 5400 5315 5400 5315 5400 5315 5400 5310 5400 5310 5400 5306 5400 5248 5366 5233 5357 4996 5371 4716 5391 4711 5391 4575 5386 4430 5376 4411 5391 4377 5415 4377 5415 4372 5415 4372 5415 4372 5415 4367 5415 4367 5415 4362 5415 4362 5415 4362 5415 4358 5415 4358 5415 4304 5391"/></Shape>
+	    <String CONTENT="S. Maria Novella, Span. Kapelle"
+                    HPOS="4304"
+                    VPOS="5096"
+                    WIDTH="2448"
+                    HEIGHT="319"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9b6866bc"
+                    TAGREFS="LT103"
+                    BASELINE="4460 5588 5336 5566" 
+                    HPOS="4450"
+                    VPOS="5371"
+                    WIDTH="885"
+                    HEIGHT="256">
+            <Shape><Polygon POINTS="4459 5584 4450 5458 4522 5458 4537 5449 4599 5405 4604 5405 4604 5405 4604 5405 4609 5405 4609 5405 4614 5405 4614 5405 4614 5405 4619 5405 4619 5405 4619 5405 4653 5424 4696 5386 4696 5386 4701 5386 4701 5386 4701 5386 4706 5386 4706 5386 4711 5386 4711 5386 4711 5386 4716 5386 4716 5386 4798 5420 4803 5424 4812 5420 4875 5381 4880 5381 4880 5381 4885 5381 4885 5381 4885 5381 4890 5381 4890 5381 4895 5381 4895 5381 4962 5405 5064 5444 5161 5444 5315 5371 5335 5565 5335 5589 4677 5627 4672 5627 4672 5627 4454 5603"/></Shape>
+	    <String CONTENT="Wertwand"
+                    HPOS="4450"
+                    VPOS="5371"
+                    WIDTH="885"
+                    HEIGHT="256"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1039"
+                   VPOS="483"
+                   WIDTH="5805"
+                   HEIGHT="4366"
+                   ID="eSc_textblock_ddc398a5"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="1064 483 6844 599 6824 4752 6708 4810 4890 4849 1102 4810 1044 4485 1039 541"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

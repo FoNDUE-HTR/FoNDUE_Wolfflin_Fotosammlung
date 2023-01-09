@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_XVII_004_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7901"
+          HEIGHT="5799"
+          PHYSICAL_IMG_NR="147"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="7901"
+                  HEIGHT="5799">
+        
+        <TextBlock HPOS="819"
+                   VPOS="542"
+                   WIDTH="6047"
+                   HEIGHT="4664"
+                   ID="eSc_textblock_6b456b84"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="819 542 824 5206 6866 5206 6866 578"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_5b5a58b5"
+                    TAGREFS="LT102"
+                    BASELINE="2403 5151 2635 5151 2736 5154 3109 5152 3178 5155 3699 5151 3844 5146 4487 5162 5041 5177 5551 5168" 
+                    HPOS="2398"
+                    VPOS="5054"
+                    WIDTH="3148"
+                    HEIGHT="194">
+            <Shape><Polygon POINTS="2398 5146 2398 5054 5536 5054 5546 5165 5546 5219 5478 5248 5473 5248 5468 5248 5463 5248 5352 5219 5347 5219 5256 5248 5251 5248 5246 5248 4951 5223 4463 5243 4458 5243 4182 5228 4177 5228 4172 5228 4143 5204 4100 5180 2398 5185"/></Shape>
+	    <String CONTENT="5793 Anagni - Cattedrale - Sedia Episcopale -Dettaglio Leone"
+                    HPOS="2398"
+                    VPOS="5054"
+                    WIDTH="3148"
+                    HEIGHT="194"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="127"
+                   VPOS="5236"
+                   WIDTH="268"
+                   HEIGHT="489"
+                   ID="eSc_textblock_2431ec4b"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="127 5236 127 5725 395 5725 395 5241"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1f41c3fa"
+                    TAGREFS="LT103"
+                    BASELINE="196 5240 192 5629" 
+                    HPOS="169"
+                    VPOS="5228"
+                    WIDTH="164"
+                    HEIGHT="397">
+            <Shape><Polygon POINTS="193 5238 333 5238 333 5620 188 5625 169 5615 174 5228"/></Shape>
+	    <String CONTENT="7. IX. 18"
+                    HPOS="169"
+                    VPOS="5228"
+                    WIDTH="164"
+                    HEIGHT="397"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

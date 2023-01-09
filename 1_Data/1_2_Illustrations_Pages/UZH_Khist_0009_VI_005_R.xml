@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0009_VI_005_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5622"
+          HEIGHT="7749"
+          PHYSICAL_IMG_NR="198"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="5622"
+                  HEIGHT="7749">
+        
+        <TextBlock HPOS="293"
+                   VPOS="637"
+                   WIDTH="4880"
+                   HEIGHT="6055"
+                   ID="eSc_textblock_3c9c7932"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="5156 645 5156 6451 5173 6691 4268 6674 586 6692 302 6657 319 6184 310 981 293 637 491 645"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_09742b7f"
+                    TAGREFS="LT102"
+                    BASELINE="375 6660 5133 6616" 
+                    HPOS="361"
+                    VPOS="6367"
+                    WIDTH="4769"
+                    HEIGHT="368">
+            <Shape><Polygon POINTS="374 6657 361 6438 672 6405 672 6405 678 6405 678 6405 684 6405 684 6405 684 6405 691 6405 723 6431 814 6489 2416 6483 2597 6476 2752 6399 2752 6399 2752 6399 2759 6399 2759 6399 2759 6399 5111 6367 5130 6612 5124 6651 1938 6670 1777 6715 1725 6722 1725 6722 1725 6722 374 6735"/></Shape>
+	    <String CONTENT="6692. FIRENZE. (Cappellone degli Spagnoli) La Teologia Speculativa con P. Lombardo e la Teologia Pratica con Boezio ; Gaddi o Veneziano."
+                    HPOS="361"
+                    VPOS="6367"
+                    WIDTH="4769"
+                    HEIGHT="368"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3847"
+                   VPOS="6678"
+                   WIDTH="1472"
+                   HEIGHT="210"
+                   ID="eSc_textblock_fc3eed3a"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="5319 6864 5316 6678 3847 6678 3852 6888"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_0c6bf92b"
+                    TAGREFS="LT103"
+                    BASELINE="3855 6831 4920 6801 5275 6820" 
+                    HPOS="3825"
+                    VPOS="6657"
+                    WIDTH="1448"
+                    HEIGHT="258">
+            <Shape><Polygon POINTS="3851 6825 3825 6722 3896 6677 3903 6677 3903 6677 3903 6677 3909 6677 3909 6677 3909 6677 3916 6677 3916 6677 4109 6709 4148 6677 4148 6677 4155 6677 4155 6677 4155 6677 4161 6677 4161 6677 4168 6677 4168 6677 4465 6702 4516 6670 4523 6670 4523 6670 4523 6670 4529 6670 4529 6670 4536 6670 4536 6670 4536 6670 4542 6670 4542 6670 4626 6702 4723 6664 4723 6664 4730 6664 4730 6664 4730 6664 4736 6664 4736 6664 4962 6696 5169 6657 5169 6657 5169 6657 5176 6657 5176 6657 5182 6657 5182 6657 5273 6696 5273 6819 5266 6864 5008 6896 5008 6896 5001 6896 5001 6896 4995 6896 4995 6896 4995 6896 4988 6896 4988 6896 4988 6890 4969 6877 4937 6851 4801 6851 4659 6890 4626 6896 4620 6896 4620 6896 4613 6896 4613 6896 4613 6896 4581 6890 4394 6857 3851 6915"/></Shape>
+	    <String CONTENT="Andrea da Firenze"
+                    HPOS="3825"
+                    VPOS="6657"
+                    WIDTH="1448"
+                    HEIGHT="258"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5076"
+                   VPOS="7485"
+                   WIDTH="498"
+                   HEIGHT="223"
+                   ID="eSc_textblock_cbb180ba"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="5076 7485 5076 7708 5574 7708 5574 7485"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_2f81ca80"
+                    TAGREFS="LT103"
+                    BASELINE="5096 7648 5512 7648" 
+                    HPOS="5085"
+                    VPOS="7503"
+                    WIDTH="420"
+                    HEIGHT="174">
+            <Shape><Polygon POINTS="5092 7645 5085 7510 5499 7503 5505 7645 5505 7671 5092 7677"/></Shape>
+	    <String CONTENT="9. IV. 15"
+                    HPOS="5085"
+                    VPOS="7503"
+                    WIDTH="420"
+                    HEIGHT="174"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0006_VI_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6252"
+          HEIGHT="7680"
+          PHYSICAL_IMG_NR="29"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6252"
+                  HEIGHT="7680">
+        
+        <TextBlock HPOS="703"
+                   VPOS="738"
+                   WIDTH="5002"
+                   HEIGHT="5893"
+                   ID="eSc_textblock_c96a11cd"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="5650 738 5705 6631 789 6620 703 825"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_16659cb2"
+                    TAGREFS="LT102"
+                    BASELINE="826 6528 2016 6528" 
+                    HPOS="813"
+                    VPOS="6368"
+                    WIDTH="1198"
+                    HEIGHT="236">
+            <Shape><Polygon POINTS="819 6528 813 6393 1255 6368 1261 6368 1261 6368 1261 6368 1268 6368 1268 6368 1268 6368 1274 6368 1274 6368 1274 6374 1319 6412 1332 6432 2011 6444 2011 6528 2011 6585 819 6604"/></Shape>
+	    <String CONTENT="WIEN, GEMÄLDEGALERIE. No. 1408."
+                    HPOS="813"
+                    VPOS="6368"
+                    WIDTH="1198"
+                    HEIGHT="236"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_59bf2363"
+                    TAGREFS="LT102"
+                    BASELINE="2675 6534 3792 6521" 
+                    HPOS="2658"
+                    VPOS="6342"
+                    WIDTH="1127"
+                    HEIGHT="237">
+            <Shape><Polygon POINTS="2671 6528 2658 6432 3106 6432 3228 6380 3318 6348 3318 6348 3324 6348 3324 6348 3330 6348 3330 6348 3330 6348 3427 6368 3478 6374 3766 6342 3785 6515 3785 6579 2671 6579"/></Shape>
+	    <String CONTENT="CHRISTOPH AMBERGER, PORTRÄT"
+                    HPOS="2658"
+                    VPOS="6342"
+                    WIDTH="1127"
+                    HEIGHT="237"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f8f6edec"
+                    TAGREFS="LT102"
+                    BASELINE="4502 6543 5542 6544" 
+                    HPOS="4496"
+                    VPOS="6393"
+                    WIDTH="1044"
+                    HEIGHT="205">
+            <Shape><Polygon POINTS="4496 6540 4496 6393 4829 6444 5540 6451 5540 6540 5540 6598 4496 6598"/></Shape>
+	    <String CONTENT="F. BRUCKMANN A. -G., MÜNCHEN"
+                    HPOS="4496"
+                    VPOS="6393"
+                    WIDTH="1044"
+                    HEIGHT="205"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5605"
+                   VPOS="7430"
+                   WIDTH="464"
+                   HEIGHT="195"
+                   ID="eSc_textblock_36c0e7f8"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="6066 7520 6040 7596 5627 7625 5605 7430 6069 7439"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f8af579f"
+                    TAGREFS="LT103"
+                    BASELINE="5637 7571 6040 7558" 
+                    HPOS="5617"
+                    VPOS="7392"
+                    WIDTH="423"
+                    HEIGHT="217">
+            <Shape><Polygon POINTS="5637 7571 5617 7449 6021 7392 6040 7558 6040 7584 5637 7609"/></Shape>
+	    <String CONTENT="6. III. 18"
+                    HPOS="5617"
+                    VPOS="7392"
+                    WIDTH="423"
+                    HEIGHT="217"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

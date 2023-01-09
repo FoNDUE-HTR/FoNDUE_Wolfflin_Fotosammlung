@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_VI_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7669"
+          HEIGHT="6255"
+          PHYSICAL_IMG_NR="102"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="7669"
+                  HEIGHT="6255">
+        
+        <TextBlock HPOS="1314"
+                   VPOS="704"
+                   WIDTH="5230"
+                   HEIGHT="4796"
+                   ID="eSc_textblock_4b2ab0cd"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="1314 827 1470 5500 6544 5319 6388 704"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_2213df0b"
+                    TAGREFS="LT102"
+                    BASELINE="3180 5207 4744 5165" 
+                    HPOS="3164"
+                    VPOS="5082"
+                    WIDTH="1580"
+                    HEIGHT="156">
+            <Shape><Polygon POINTS="3180 5207 3164 5123 4728 5082 4744 5165 4739 5212 3180 5238"/></Shape>
+	    <String CONTENT="Diana and Endymion by Jacopo Amigoni (1682-1752)"
+                    HPOS="3164"
+                    VPOS="5082"
+                    WIDTH="1580"
+                    HEIGHT="156"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7a22c366"
+                    TAGREFS="LT102"
+                    BASELINE="3529 5295 4405 5269" 
+                    HPOS="3519"
+                    VPOS="5196"
+                    WIDTH="886"
+                    HEIGHT="131">
+            <Shape><Polygon POINTS="3529 5295 3519 5222 4389 5196 4405 5269 4405 5311 3529 5327"/></Shape>
+	    <String CONTENT="Canvas. H. 44 3/4 ins. W. 52 ins."
+                    HPOS="3519"
+                    VPOS="5196"
+                    WIDTH="886"
+                    HEIGHT="131"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="43"
+                   VPOS="5549"
+                   WIDTH="263"
+                   HEIGHT="508"
+                   ID="eSc_textblock_6d426f2f"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="43 5549 43 6057 306 6057 306 5549"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_0cb1ae52"
+                    TAGREFS="LT104"
+                    BASELINE="86 5558 90 5988" 
+                    HPOS="46"
+                    VPOS="5546"
+                    WIDTH="183"
+                    HEIGHT="437">
+            <Shape><Polygon POINTS="83 5556 218 5546 229 5968 88 5983 46 5973 52 5551"/></Shape>
+	    <String CONTENT="7. II. 2"
+                    HPOS="46"
+                    VPOS="5546"
+                    WIDTH="183"
+                    HEIGHT="437"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

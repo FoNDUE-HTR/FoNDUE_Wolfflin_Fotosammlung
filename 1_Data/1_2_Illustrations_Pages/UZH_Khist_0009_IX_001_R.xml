@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0009_IX_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4779"
+          HEIGHT="6174"
+          PHYSICAL_IMG_NR="186"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4779"
+                  HEIGHT="6174">
+        
+        <TextBlock HPOS="34"
+                   VPOS="0"
+                   WIDTH="4702"
+                   HEIGHT="6167"
+                   ID="eSc_textblock_96b1246a"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="2878 0 4703 44 4712 123 4712 5736 4736 5861 4670 5947 4711 6136 1277 6167 317 6122 34 6132 47 5413 61 102 144 5"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_6565c5ff"
+                    TAGREFS="LT102"
+                    BASELINE="70 6078 4355 6118" 
+                    HPOS="61"
+                    VPOS="5973"
+                    WIDTH="4290"
+                    HEIGHT="154">
+            <Shape><Polygon POINTS="66 6076 66 5973 4351 6024 4351 6117 4341 6127 61 6091"/></Shape>
+	    <String CONTENT="5184 – ROMA – Vergine col Bambino – Maestro Andrea – Ospedale di S. Giacomo"
+                    HPOS="61"
+                    VPOS="5973"
+                    WIDTH="4290"
+                    HEIGHT="154"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

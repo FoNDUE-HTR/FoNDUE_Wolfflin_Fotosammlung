@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0006_XI_004_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="3932"
+          HEIGHT="2570"
+          PHYSICAL_IMG_NR="42"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3932"
+                  HEIGHT="2570">
+        
+        <TextBlock HPOS="0"
+                   VPOS="70"
+                   WIDTH="3781"
+                   HEIGHT="2442"
+                   ID="eSc_textblock_ca6e4725"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="5 70 0 2512 3781 2459 3781 106"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_fd480733"
+                    TAGREFS="LT102"
+                    BASELINE="275 256 269 952" 
+                    HPOS="212"
+                    VPOS="248"
+                    WIDTH="267"
+                    HEIGHT="702">
+            <Shape><Polygon POINTS="274 254 479 259 458 552 471 681 471 681 471 683 471 683 471 685 456 741 456 873 471 948 267 950 252 946 257 910 250 901 244 893 244 890 244 890 244 890 244 888 244 888 244 888 244 886 244 886 244 884 244 884 244 884 244 882 244 882 250 875 257 867 248 826 242 796 242 796 242 796 242 794 242 794 242 794 242 792 246 777 257 743 244 726 239 719 239 717 239 717 239 717 239 715 239 715 239 713 239 713 239 713 239 711 239 711 239 711 239 708 244 704 259 683 246 651 246 651 246 648 246 648 246 646 246 646 246 646 246 644 259 603 246 591 246 591 246 588 246 588 246 588 246 586 246 586 246 586 246 584 246 584 246 582 246 582 246 582 246 580 259 563 239 537 212 501 212 501 212 499 212 499 212 499 212 496 212 496 212 494 214 310 214 310 214 310 214 308 231 248"/></Shape>
+	    <String CONTENT="Cathédrale"
+                    HPOS="212"
+                    VPOS="248"
+                    WIDTH="267"
+                    HEIGHT="702"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_72a0662b"
+                    TAGREFS="LT102"
+                    BASELINE="266 1663 266 2281" 
+                    HPOS="214"
+                    VPOS="1657"
+                    WIDTH="184"
+                    HEIGHT="623">
+            <Shape><Polygon POINTS="265 1661 398 1661 385 1792 387 1811 398 1867 398 1867 398 1869 398 1869 398 1869 398 1871 379 1933 355 2015 355 2278 265 2280 214 2280 214 2214 214 2212 214 2212 214 2210 214 2210 214 2210 214 2208 246 2148 233 2066 233 2066 233 2064 233 2064 233 2064 233 2062 248 2023 248 1903 224 1871 214 1856 214 1854 214 1854 214 1854 214 1852 214 1852 214 1852 214 1850 214 1850 227 1777 227 1775 227 1773 214 1702 214 1702 214 1702 214 1700 214 1700 214 1698 214 1698 231 1657"/></Shape>
+	    <String CONTENT="d&#39;Amiens"
+                    HPOS="214"
+                    VPOS="1657"
+                    WIDTH="184"
+                    HEIGHT="623"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6f918c61"
+                    TAGREFS="LT102"
+                    BASELINE="167 73 167 350" 
+                    HPOS="154"
+                    VPOS="72"
+                    WIDTH="96"
+                    HEIGHT="277">
+            <Shape><Polygon POINTS="164 72 250 72 235 346 164 349 156 349 154 72"/></Shape>
+	    <String CONTENT="Déposé"
+                    HPOS="154"
+                    VPOS="72"
+                    WIDTH="96"
+                    HEIGHT="277"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_37e767b7"
+                    TAGREFS="LT102"
+                    BASELINE="149 2305 149 2480" 
+                    HPOS="130"
+                    VPOS="2302"
+                    WIDTH="92"
+                    HEIGHT="175">
+            <Shape><Polygon POINTS="147 2304 222 2304 222 2477 147 2477 130 2475 134 2302"/></Shape>
+	    <String CONTENT="P. V."
+                    HPOS="130"
+                    VPOS="2302"
+                    WIDTH="92"
+                    HEIGHT="175"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_10c98362"
+                    TAGREFS="LT102"
+                    BASELINE="76 407 58 2190" 
+                    HPOS="38"
+                    VPOS="402"
+                    WIDTH="114"
+                    HEIGHT="1786">
+            <Shape><Polygon POINTS="74 406 137 404 152 610 152 612 152 612 137 790 130 858 128 1349 137 1426 143 1486 143 1486 143 1488 143 1488 143 1490 137 1514 130 1537 137 1597 141 1646 141 1649 141 1649 137 1698 124 1811 137 1858 139 1871 139 1873 139 1873 139 1876 134 2184 57 2188 44 2186 38 1539 38 1537 38 1537 49 1469 49 1467 49 1462 40 1299 40 1297 59 402"/></Shape>
+	    <String CONTENT="PHOTOGRAPHIE DE L. &amp; F. CARON, ÉDITEURS À AMIENS"
+                    HPOS="38"
+                    VPOS="402"
+                    WIDTH="114"
+                    HEIGHT="1786"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

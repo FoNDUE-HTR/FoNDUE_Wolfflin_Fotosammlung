@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0008_IV_005_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7691"
+          HEIGHT="6257"
+          PHYSICAL_IMG_NR="177"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="7691"
+                  HEIGHT="6257">
+        
+        <TextBlock HPOS="583"
+                   VPOS="5485"
+                   WIDTH="3312"
+                   HEIGHT="224"
+                   ID="eSc_textblock_80b4cfcb"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="583 5527 646 5506 1418 5485 3477 5527 3874 5589 3895 5709 583 5688"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_617af839"
+                    TAGREFS="LT103"
+                    BASELINE="589 5667 2899 5652 3903 5684" 
+                    HPOS="568"
+                    VPOS="5506"
+                    WIDTH="3332"
+                    HEIGHT="219">
+            <Shape><Polygon POINTS="583 5662 568 5553 646 5516 646 5516 651 5516 651 5516 651 5516 656 5516 656 5516 662 5516 662 5516 662 5516 724 5547 1167 5547 1220 5506 1220 5506 1225 5506 1225 5506 1225 5506 1230 5506 1230 5506 1235 5506 1235 5506 1235 5506 1240 5506 1240 5506 1340 5547 1392 5506 1392 5506 1397 5506 1397 5506 1397 5506 1402 5506 1402 5506 1407 5506 1694 5511 1694 5511 1694 5511 1699 5511 1699 5511 1783 5547 1887 5506 1887 5506 1892 5506 1892 5506 1897 5506 1897 5506 1897 5506 1903 5506 1903 5506 2007 5547 2106 5506 2106 5506 2111 5506 2111 5506 2111 5506 2116 5506 2116 5506 2116 5506 2257 5537 2325 5506 2325 5506 2325 5506 2330 5506 2330 5506 2335 5506 2335 5506 2627 5537 3097 5506 3102 5506 3102 5506 3102 5506 3107 5506 3107 5506 3180 5537 3488 5511 3488 5511 3493 5511 3493 5511 3498 5511 3498 5511 3592 5553 3895 5553 3900 5683 3895 5725 3363 5725 3357 5719 3357 5719 3352 5719 3352 5719 3352 5719 3347 5719 3347 5719 3342 5714 3321 5693 3269 5714 3253 5719 3253 5719 3248 5719 3248 5719 3243 5719 3243 5719 3243 5719 3238 5719 3211 5714 3102 5683 2925 5709 2867 5714 2867 5714 2862 5714 2862 5714 2857 5714 2857 5714 2857 5714 2841 5709 2779 5678 2591 5704 2575 5704 2575 5704 2570 5704 2570 5704 2570 5704 2565 5704 2565 5704 2560 5704 2497 5678 2111 5678 2054 5699 2002 5714 1997 5714 1997 5714 1997 5714 1991 5714 1991 5714 1986 5714 1986 5714 1934 5693 1887 5678 1814 5693 1678 5719 1678 5719 1678 5719 1673 5719 1673 5719 1668 5719 1668 5719 1595 5688 1585 5688 1574 5688 1470 5709 1470 5709 1470 5709 1465 5709 1465 5709 1459 5709 1459 5709 1459 5709 1454 5709 1454 5709 1428 5688 1413 5678 1277 5678 1267 5683 1240 5709 1240 5714 1240 5714 1235 5714 1235 5714 1235 5714 1230 5714 1230 5714 1230 5719 1126 5719 1121 5714 578 5673"/></Shape>
+	    <String CONTENT="Andernach. Überreste der alter Stadt befestigung"
+                    HPOS="568"
+                    VPOS="5506"
+                    WIDTH="3332"
+                    HEIGHT="219"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="79"
+                   VPOS="5658"
+                   WIDTH="173"
+                   HEIGHT="416"
+                   ID="eSc_textblock_196c70db"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="79 5658 79 6074 252 6074 252 5658"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_0f19fa3e"
+                    TAGREFS="LT103"
+                    BASELINE="97 5681 97 6083" 
+                    HPOS="57"
+                    VPOS="5678"
+                    WIDTH="177"
+                    HEIGHT="401">
+            <Shape><Polygon POINTS="93 5678 234 5678 234 6079 93 6079 57 6079 57 5678"/></Shape>
+	    <String CONTENT="8. IV. 6"
+                    HPOS="57"
+                    VPOS="5678"
+                    WIDTH="177"
+                    HEIGHT="401"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="589"
+                   VPOS="1109"
+                   WIDTH="6586"
+                   HEIGHT="4316"
+                   ID="eSc_textblock_d4e62ac4"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="589 1109 599 5425 7175 5425 7175 1160"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

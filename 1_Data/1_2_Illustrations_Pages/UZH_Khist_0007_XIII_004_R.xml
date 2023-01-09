@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_XIII_004_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4692"
+          HEIGHT="6525"
+          PHYSICAL_IMG_NR="120"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4692"
+                  HEIGHT="6525">
+        
+        <TextBlock HPOS="67"
+                   VPOS="28"
+                   WIDTH="4549"
+                   HEIGHT="6427"
+                   ID="eSc_textblock_9397091e"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="67 28 67 6455 4616 6455 4616 28"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ea69a429"
+                    TAGREFS="LT102"
+                    BASELINE="263 6219 1518 6224" 
+                    HPOS="250"
+                    VPOS="6057"
+                    WIDTH="1263"
+                    HEIGHT="201">
+            <Shape><Polygon POINTS="261 6215 255 6073 1300 6057 1306 6057 1306 6057 1311 6057 1311 6057 1311 6057 1317 6057 1360 6090 1366 6095 1513 6095 1513 6220 1502 6258 250 6253"/></Shape>
+	    <String CONTENT="COLLECTION HANFSTÆNGL MÜNCHEN"
+                    HPOS="250"
+                    VPOS="6057"
+                    WIDTH="1263"
+                    HEIGHT="201"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c1ae7d38"
+                    TAGREFS="LT102"
+                    BASELINE="2774 6229 4449 6259" 
+                    HPOS="2759"
+                    VPOS="6051"
+                    WIDTH="1688"
+                    HEIGHT="229">
+            <Shape><Polygon POINTS="2770 6225 2776 6051 2906 6095 3429 6100 3554 6084 3657 6068 3657 6068 3663 6068 3663 6068 3668 6068 3761 6090 3826 6106 3886 6095 3968 6084 3968 6084 3973 6084 3973 6084 3973 6084 3978 6084 4038 6100 4066 6111 4076 6106 4098 6084 4098 6084 4104 6084 4104 6084 4104 6084 4109 6084 4109 6084 4115 6084 4115 6084 4447 6122 4447 6258 4436 6280 2759 6242"/></Shape>
+	    <String CONTENT="221. UNBEKANNTER MEISTER (FLÄMISCHE SCHULE)"
+                    HPOS="2759"
+                    VPOS="6051"
+                    WIDTH="1688"
+                    HEIGHT="229"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f58274e5"
+                    TAGREFS="LT102"
+                    BASELINE="454 6290 1336 6287" 
+                    HPOS="451"
+                    VPOS="6204"
+                    WIDTH="882"
+                    HEIGHT="157">
+            <Shape><Polygon POINTS="451 6285 451 6204 1333 6204 1333 6285 1333 6351 451 6361"/></Shape>
+	    <String CONTENT="RIJKSMUSEUM AMSTERDAM"
+                    HPOS="451"
+                    VPOS="6204"
+                    WIDTH="882"
+                    HEIGHT="157"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ba00ec30"
+                    TAGREFS="LT102"
+                    BASELINE="3243 6304 4010 6321" 
+                    HPOS="3227"
+                    VPOS="6215"
+                    WIDTH="779"
+                    HEIGHT="184">
+            <Shape><Polygon POINTS="3238 6302 3238 6215 4000 6231 4006 6318 3995 6399 3227 6383"/></Shape>
+	    <String CONTENT="ANBETUNG DER KÖNIGE"
+                    HPOS="3227"
+                    VPOS="6215"
+                    WIDTH="779"
+                    HEIGHT="184"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

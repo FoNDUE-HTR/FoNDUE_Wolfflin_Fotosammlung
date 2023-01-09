@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_I_001_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5441"
+          HEIGHT="7348"
+          PHYSICAL_IMG_NR="221"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="5441"
+                  HEIGHT="7348">
+        
+        <TextBlock HPOS="22"
+                   VPOS="48"
+                   WIDTH="5399"
+                   HEIGHT="7182"
+                   ID="eSc_textblock_0a55474b"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="22 48 22 7230 5421 7230 5421 48"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_a170db24"
+                    TAGREFS="LT102"
+                    BASELINE="128 6673 1339 6681" 
+                    HPOS="110"
+                    VPOS="6551"
+                    WIDTH="1225"
+                    HEIGHT="209">
+            <Shape><Polygon POINTS="122 6668 116 6570 1329 6551 1335 6680 1323 6760 110 6705"/></Shape>
+	    <String CONTENT="RAFFAELLI ARMONI - EDITORE - ORVIETO"
+                    HPOS="110"
+                    VPOS="6551"
+                    WIDTH="1225"
+                    HEIGHT="209"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f31d6ec3"
+                    TAGREFS="LT102"
+                    BASELINE="4399 6746 5200 6750" 
+                    HPOS="4387"
+                    VPOS="6619"
+                    WIDTH="808"
+                    HEIGHT="177">
+            <Shape><Polygon POINTS="4393 6741 4399 6619 4528 6649 5183 6625 5195 6747 5189 6790 4387 6796"/></Shape>
+	    <String CONTENT="TRICROMIA DANESI - ROMA"
+                    HPOS="4387"
+                    VPOS="6619"
+                    WIDTH="808"
+                    HEIGHT="177"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b8d6fb5e"
+                    TAGREFS="LT102"
+                    BASELINE="1639 6916 3737 6943" 
+                    HPOS="1623"
+                    VPOS="6815"
+                    WIDTH="2108"
+                    HEIGHT="165">
+            <Shape><Polygon POINTS="1635 6913 1635 6815 3731 6821 3731 6937 3719 6980 1623 6949"/></Shape>
+	    <String CONTENT="ORVIETO - DUOMO PROFETI (BEATO ANGELICO)"
+                    HPOS="1623"
+                    VPOS="6815"
+                    WIDTH="2108"
+                    HEIGHT="165"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

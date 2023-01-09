@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0010_IV_003_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7638"
+          HEIGHT="5742"
+          PHYSICAL_IMG_NR="237"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="7638"
+                  HEIGHT="5742">
+        
+        <TextBlock HPOS="812"
+                   VPOS="579"
+                   WIDTH="5942"
+                   HEIGHT="4481"
+                   ID="eSc_textblock_de7265b0"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="843 579 812 5060 6754 5053 6754 579"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_5fb0baef"
+                    TAGREFS="LT102"
+                    BASELINE="1022 4462 6569 4499" 
+                    HPOS="1014"
+                    VPOS="4344"
+                    WIDTH="5552"
+                    HEIGHT="206">
+            <Shape><Polygon POINTS="1019 4459 1019 4344 6561 4402 6566 4497 6556 4550 5843 4521 5345 4545 5273 4545 5269 4545 5269 4545 5240 4545 5048 4517 4661 4540 4608 4540 4603 4540 4603 4540 4603 4540 4584 4540 4426 4512 3340 4531 3182 4531 3177 4531 3177 4531 3172 4531 3172 4531 3168 4531 3096 4502 2847 4526 2833 4526 2828 4526 2756 4526 1646 4493 1014 4512"/></Shape>
+	    <String CONTENT="(Ed. ne Alinari) P.e 2.a N. 10487 CORTONA – Chiesa del Gesù. La Presentazione del Bambino Gesù a Simeone e la Vergine deposta nel Sepolcro, dettaglio di un gradino. (B. Angelico.)"
+                    HPOS="1014"
+                    VPOS="4344"
+                    WIDTH="5552"
+                    HEIGHT="206"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1431"
+                   VPOS="5192"
+                   WIDTH="2874"
+                   HEIGHT="236"
+                   ID="eSc_textblock_c468869a"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="1431 5192 1431 5428 4305 5428 4305 5192"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_73da72f5"
+                    TAGREFS="LT103"
+                    BASELINE="1471 5366 4283 5305" 
+                    HPOS="1464"
+                    VPOS="5177"
+                    WIDTH="2814"
+                    HEIGHT="239">
+            <Shape><Polygon POINTS="1469 5363 1464 5239 1641 5258 1722 5234 1756 5225 1761 5225 1761 5225 1761 5225 1765 5225 1765 5225 1765 5225 1770 5225 1770 5225 1775 5225 1785 5234 1823 5253 1904 5230 1947 5220 1952 5220 1952 5220 1957 5220 1957 5220 1957 5220 2010 5230 2081 5249 2100 5230 2105 5220 2110 5220 2110 5215 2110 5215 2115 5215 2115 5215 2115 5215 2120 5215 2120 5215 2124 5215 2268 5215 2268 5215 2268 5215 2273 5215 2273 5215 2273 5215 2278 5215 2278 5215 2292 5225 2316 5244 2421 5225 2546 5206 2546 5206 2550 5206 2550 5206 2550 5206 2555 5206 2555 5206 2555 5206 2560 5206 2584 5225 2603 5234 2962 5234 2986 5220 3019 5196 3024 5196 3024 5196 3029 5196 3029 5196 3029 5196 3034 5196 3302 5215 3397 5220 3412 5215 3445 5191 3450 5191 3450 5191 3455 5191 3455 5191 3455 5191 3460 5191 3460 5191 3460 5191 3464 5191 3464 5191 3512 5210 3522 5215 3551 5210 3728 5182 3728 5182 3732 5182 3732 5182 3732 5182 3737 5182 3823 5210 3833 5210 3838 5210 3895 5177 3895 5177 3895 5177 3900 5177 3900 5177 3900 5177 3905 5177 4268 5206 4278 5301 4273 5349 3905 5340 3862 5363 3852 5368 3847 5368 3847 5368 3842 5368 3842 5368 3842 5368 3838 5368 3838 5368 3790 5363 3680 5349 3598 5368 3574 5373 3570 5373 3570 5373 3565 5373 3565 5373 3560 5373 3541 5368 3469 5349 3426 5373 3412 5378 3412 5378 3412 5378 3407 5378 3407 5378 3407 5378 3402 5378 3402 5378 3364 5373 3254 5354 3149 5378 3129 5383 3125 5383 3125 5383 3120 5383 3120 5383 3120 5383 3096 5378 2981 5359 2938 5383 2933 5387 2928 5387 2928 5387 2924 5387 2924 5387 2924 5387 2522 5397 2517 5397 2445 5397 2120 5378 1469 5416"/></Shape>
+	    <String CONTENT="Rechte Predellaseite von Altar von Cortona"
+                    HPOS="1464"
+                    VPOS="5177"
+                    WIDTH="2814"
+                    HEIGHT="239"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="51"
+                   VPOS="5094"
+                   WIDTH="278"
+                   HEIGHT="457"
+                   ID="eSc_textblock_7bbfdde7"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="51 5094 51 5551 322 5551 329 5094"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_418dd435"
+                    TAGREFS="LT103"
+                    BASELINE="110 5112 96 5534" 
+                    HPOS="81"
+                    VPOS="5105"
+                    WIDTH="148"
+                    HEIGHT="426">
+            <Shape><Polygon POINTS="105 5110 229 5110 229 5531 95 5531 81 5521 90 5105"/></Shape>
+	    <String CONTENT="10. III. 3"
+                    HPOS="81"
+                    VPOS="5105"
+                    WIDTH="148"
+                    HEIGHT="426"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0009_IV_005_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7801"
+          HEIGHT="5924"
+          PHYSICAL_IMG_NR="184"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="7801"
+                  HEIGHT="5924">
+        
+        <TextBlock HPOS="750"
+                   VPOS="440"
+                   WIDTH="6238"
+                   HEIGHT="4866"
+                   ID="eSc_textblock_55175ee5"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="6687 440 6963 441 6988 5287 789 5306 750 1086 770 572 849 473"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_2e6e06f2"
+                    TAGREFS="LT102"
+                    BASELINE="1214 5144 5967 5099" 
+                    HPOS="1199"
+                    VPOS="5005"
+                    WIDTH="4765"
+                    HEIGHT="148">
+            <Shape><Polygon POINTS="1209 5139 1199 5035 5949 5005 5964 5094 5964 5129 1209 5153"/></Shape>
+	    <String CONTENT="8211 – FIRENZE – Dettaglio – La Chiesa militante e trionfante – Ritratti di Simone Martini e Taddeo"
+                    HPOS="1199"
+                    VPOS="5005"
+                    WIDTH="4765"
+                    HEIGHT="148"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_319afc85"
+                    TAGREFS="LT102"
+                    BASELINE="2282 5277 5083 5258" 
+                    HPOS="2261"
+                    VPOS="5153"
+                    WIDTH="2819"
+                    HEIGHT="144">
+            <Shape><Polygon POINTS="2281 5272 2261 5198 2305 5163 2305 5163 2310 5163 2310 5163 2310 5163 2315 5163 2315 5163 2320 5163 2320 5163 2320 5163 2325 5163 2325 5163 2330 5163 2374 5193 2794 5193 3150 5193 3159 5183 3199 5158 3204 5158 3204 5158 3204 5158 3209 5158 3209 5158 3214 5158 3604 5178 3683 5178 3856 5173 4300 5153 4305 5153 4305 5153 4374 5163 4478 5178 4606 5158 4660 5153 4660 5153 4665 5153 4665 5153 4665 5153 4670 5153 4670 5153 4670 5153 4675 5153 4680 5158 4715 5183 4947 5183 5065 5153 5080 5257 5080 5272 2281 5297"/></Shape>
+	    <String CONTENT="Gaddi – Scuola di Giotto – S. Maria Novella – Anderson, Roma"
+                    HPOS="2261"
+                    VPOS="5153"
+                    WIDTH="2819"
+                    HEIGHT="144"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_741ea26e"
+                    TAGREFS="LT103"
+                    BASELINE="5342 5273 6850 5245" 
+                    HPOS="5322"
+                    VPOS="5069"
+                    WIDTH="1526"
+                    HEIGHT="218">
+            <Shape><Polygon POINTS="5337 5272 5322 5163 5465 5089 5470 5089 5475 5089 5480 5089 5485 5089 5569 5153 5687 5109 5692 5109 5697 5109 5702 5109 5791 5148 5900 5109 5905 5109 5909 5109 5914 5109 6028 5139 6072 5099 6077 5099 6082 5099 6087 5099 6092 5099 6235 5139 6300 5079 6300 5074 6304 5074 6309 5074 6379 5069 6383 5069 6699 5124 6744 5089 6749 5089 6754 5089 6759 5089 6764 5089 6843 5124 6848 5242 6848 5272 5337 5287"/></Shape>
+	    <String CONTENT="Andrea da Firenze"
+                    HPOS="5322"
+                    VPOS="5069"
+                    WIDTH="1526"
+                    HEIGHT="218"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="146"
+                   VPOS="5247"
+                   WIDTH="278"
+                   HEIGHT="467"
+                   ID="eSc_textblock_018f10e3"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="146 5247 146 5714 424 5714 424 5247"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1b0846f5"
+                    TAGREFS="LT103"
+                    BASELINE="176 5269 172 5638" 
+                    HPOS="118"
+                    VPOS="5262"
+                    WIDTH="217"
+                    HEIGHT="375">
+            <Shape><Polygon POINTS="172 5267 335 5267 325 5637 167 5637 123 5632 118 5262"/></Shape>
+	    <String CONTENT="9. IV. 5"
+                    HPOS="118"
+                    VPOS="5262"
+                    WIDTH="217"
+                    HEIGHT="375"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

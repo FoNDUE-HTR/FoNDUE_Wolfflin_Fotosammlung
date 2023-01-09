@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0006_XI_002_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2633"
+          HEIGHT="3953"
+          PHYSICAL_IMG_NR="40"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2633"
+                  HEIGHT="3953">
+        
+        <TextBlock HPOS="91"
+                   VPOS="96"
+                   WIDTH="2437"
+                   HEIGHT="3816"
+                   ID="eSc_textblock_88aaf4db"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="91 96 106 3912 2528 3912 2528 96"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ef7cefaf"
+                    TAGREFS="LT102"
+                    BASELINE="1244 3783 1554 3785" 
+                    HPOS="1239"
+                    VPOS="3732"
+                    WIDTH="313"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="1242 3781 1239 3738 1545 3732 1552 3784 1548 3798 1239 3801"/></Shape>
+	    <String CONTENT="AMIENS"
+                    HPOS="1239"
+                    VPOS="3732"
+                    WIDTH="313"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d537db24"
+                    TAGREFS="LT102"
+                    BASELINE="945 3830 1770 3830" 
+                    HPOS="939"
+                    VPOS="3771"
+                    WIDTH="830"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="942 3827 939 3781 1766 3771 1769 3827 1769 3840 942 3844"/></Shape>
+	    <String CONTENT="INTÉRIEUR DE LA CATHÉDRALE"
+                    HPOS="939"
+                    VPOS="3771"
+                    WIDTH="830"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6aabd868"
+                    TAGREFS="LT102"
+                    BASELINE="907 3878 1832 3877" 
+                    HPOS="896"
+                    VPOS="3811"
+                    WIDTH="932"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="906 3877 896 3814 1819 3811 1828 3873 1825 3887 906 3890"/></Shape>
+	    <String CONTENT="- ROSACE DU TRANSEPT (COTÉ SUD)"
+                    HPOS="896"
+                    VPOS="3811"
+                    WIDTH="932"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="144"
+                   VPOS="3781"
+                   WIDTH="10"
+                   HEIGHT="10"
+                   ID="eSc_textblock_cb1ab183"
+                   >
+          <Shape><Polygon POINTS="154 3781 154 3791 144 3791 144 3781"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

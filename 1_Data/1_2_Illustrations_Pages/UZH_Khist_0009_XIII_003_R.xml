@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0009_XIII_003_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6229"
+          HEIGHT="7774"
+          PHYSICAL_IMG_NR="216"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6229"
+                  HEIGHT="7774">
+        
+        <TextBlock HPOS="821"
+                   VPOS="652"
+                   WIDTH="4547"
+                   HEIGHT="5985"
+                   ID="eSc_textblock_383b4108"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="821 652 821 6637 5368 6637 5368 652"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_4584b958"
+                    TAGREFS="LT102"
+                    BASELINE="1435 6509 4744 6521" 
+                    HPOS="1425"
+                    VPOS="6335"
+                    WIDTH="3313"
+                    HEIGHT="221">
+            <Shape><Polygon POINTS="1432 6504 1425 6394 3046 6335 3052 6335 3739 6342 3746 6342 3915 6400 3921 6407 4738 6407 4738 6517 4731 6543 1425 6556"/></Shape>
+	    <String CONTENT="(Ed.ne Alinari) P.e  2.a N. 12166. NAPOLI – Museo Nazionale. L&#39;Adorazione dei Magi. (Andrea da Salerno.)"
+                    HPOS="1425"
+                    VPOS="6335"
+                    WIDTH="3313"
+                    HEIGHT="221"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5615"
+                   VPOS="7550"
+                   WIDTH="472"
+                   HEIGHT="186"
+                   ID="eSc_textblock_66141cf0"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="5615 7550 5615 7736 6087 7736 6087 7550"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_3cd6a694"
+                    TAGREFS="LT103"
+                    BASELINE="5645 7702 6081 7692" 
+                    HPOS="5626"
+                    VPOS="7534"
+                    WIDTH="453"
+                    HEIGHT="201">
+            <Shape><Polygon POINTS="5639 7696 5626 7540 6060 7534 6079 7689 6073 7709 5639 7735"/></Shape>
+	    <String CONTENT="9. VIII. 3"
+                    HPOS="5626"
+                    VPOS="7534"
+                    WIDTH="453"
+                    HEIGHT="201"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

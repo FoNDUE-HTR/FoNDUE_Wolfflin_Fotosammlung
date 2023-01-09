@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0006_II_004_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4784"
+          HEIGHT="6272"
+          PHYSICAL_IMG_NR="5"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4784"
+                  HEIGHT="6272">
+        
+        <TextBlock HPOS="0"
+                   VPOS="0"
+                   WIDTH="4784"
+                   HEIGHT="6270"
+                   ID="eSc_textblock_6bf5651e"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="0 19 0 6239 4784 6270 4784 0"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_94ae0262"
+                    TAGREFS="LT102"
+                    BASELINE="78 6047 4313 6021 4433 6026 4768 6026" 
+                    HPOS="62"
+                    VPOS="5937"
+                    WIDTH="4701"
+                    HEIGHT="136">
+            <Shape><Polygon POINTS="73 6042 62 5942 4752 5937 4763 6021 4757 6047 73 6073"/></Shape>
+	    <String CONTENT="757- ROMA- Morte ed Assunzione della Vergine - Cola da Matrice filotesio - Palazzo del Conservatori Anderso"
+                    HPOS="62"
+                    VPOS="5937"
+                    WIDTH="4701"
+                    HEIGHT="136"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ad4e06a5"
+                    TAGREFS="LT104"
+                    BASELINE="2238 6174 2776 6160" 
+                    HPOS="2216"
+                    VPOS="6031"
+                    WIDTH="555"
+                    HEIGHT="167">
+            <Shape><Polygon POINTS="2237 6172 2216 6078 2279 6042 2284 6042 2284 6042 2290 6042 2290 6042 2290 6042 2295 6042 2295 6042 2300 6042 2300 6042 2373 6068 2656 6031 2656 6031 2661 6031 2661 6031 2666 6031 2765 6057 2771 6157 2771 6177 2237 6198"/></Shape>
+	    <String CONTENT="Amatrice"
+                    HPOS="2216"
+                    VPOS="6031"
+                    WIDTH="555"
+                    HEIGHT="167"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

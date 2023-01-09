@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0007_XVIII_004_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5874"
+          HEIGHT="7767"
+          PHYSICAL_IMG_NR="153"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="5874"
+                  HEIGHT="7767">
+        
+        <TextBlock HPOS="492"
+                   VPOS="747"
+                   WIDTH="4793"
+                   HEIGHT="6040"
+                   ID="eSc_textblock_d5a6ff70"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="492 785 492 6787 5219 6763 5285 747"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_4dbee894"
+                    TAGREFS="LT104"
+                    BASELINE="1301 6737 2609 6737" 
+                    HPOS="1295"
+                    VPOS="6627"
+                    WIDTH="1314"
+                    HEIGHT="220">
+            <Shape><Polygon POINTS="1301 6737 1301 6627 2609 6640 2609 6737 2603 6847 1295 6822"/></Shape>
+	    <String CONTENT="Il Salvatore e quattro Santi"
+                    HPOS="1295"
+                    VPOS="6627"
+                    WIDTH="1314"
+                    HEIGHT="220"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6f2a4f0b"
+                    TAGREFS="LT104"
+                    BASELINE="3885 6744 4811 6731" 
+                    HPOS="3872"
+                    VPOS="6589"
+                    WIDTH="939"
+                    HEIGHT="187">
+            <Shape><Polygon POINTS="3885 6744 3872 6589 4798 6589 4811 6731 4805 6763 3885 6776"/></Shape>
+	    <String CONTENT="Cattedrale Anagni"
+                    HPOS="3872"
+                    VPOS="6589"
+                    WIDTH="939"
+                    HEIGHT="187"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5175"
+                   VPOS="7450"
+                   WIDTH="503"
+                   HEIGHT="225"
+                   ID="eSc_textblock_ac41caff"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="5201 7675 5175 7450 5658 7469 5678 7656"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_56bd96fa"
+                    TAGREFS="LT103"
+                    BASELINE="5239 7598 5634 7572" 
+                    HPOS="5226"
+                    VPOS="7449"
+                    WIDTH="408"
+                    HEIGHT="182">
+            <Shape><Polygon POINTS="5239 7598 5226 7449 5621 7449 5634 7572 5627 7631 5232 7624"/></Shape>
+	    <String CONTENT="7. IX. 24"
+                    HPOS="5226"
+                    VPOS="7449"
+                    WIDTH="408"
+                    HEIGHT="182"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

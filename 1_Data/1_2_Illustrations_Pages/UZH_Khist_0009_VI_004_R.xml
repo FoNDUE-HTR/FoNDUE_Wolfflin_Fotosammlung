@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>UZH_Khist_0009_VI_004_R.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT284" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT285" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT286" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT297" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT102" LABEL="HeadingLine:print" DESCRIPTION="line type HeadingLine:print"/><OtherTag ID="LT103" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/><OtherTag ID="LT104" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT105" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5812"
+          HEIGHT="7244"
+          PHYSICAL_IMG_NR="197"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="5812"
+                  HEIGHT="7244">
+        
+        <TextBlock HPOS="602"
+                   VPOS="518"
+                   WIDTH="4630"
+                   HEIGHT="6085"
+                   ID="eSc_textblock_965aac7a"
+                   TAGREFS="BT284">
+          <Shape><Polygon POINTS="5232 518 5208 6557 4421 6542 3310 6552 712 6603 602 770 633 585 695 532"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_fddd3cd7"
+                    TAGREFS="LT103"
+                    BASELINE="1512 6330 4357 6305" 
+                    HPOS="1492"
+                    VPOS="6205"
+                    WIDTH="2863"
+                    HEIGHT="169">
+            <Shape><Polygon POINTS="1510 6326 1492 6229 4337 6205 4355 6302 4343 6344 2978 6338 2906 6362 2881 6368 2875 6368 2869 6368 2863 6368 2839 6362 2736 6338 2609 6362 2585 6368 2579 6368 2573 6368 2567 6368 2531 6338 2223 6338 1939 6374 1903 6374 1897 6374 1866 6374 1643 6344 1516 6374"/></Shape>
+	    <String CONTENT="(Ed.ne Alinari) P.e 2.a N.°4082. FIRENZE -Chiostro di S. M. Novella. Cappella degli Spagnoli."
+                    HPOS="1492"
+                    VPOS="6205"
+                    WIDTH="2863"
+                    HEIGHT="169"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a0ae246d"
+                    TAGREFS="LT103"
+                    BASELINE="1784 6475 3996 6465" 
+                    HPOS="1770"
+                    VPOS="6344"
+                    WIDTH="2223"
+                    HEIGHT="151">
+            <Shape><Polygon POINTS="1782 6471 1770 6374 3975 6344 3993 6459 3987 6495 1776 6489"/></Shape>
+	    <String CONTENT="Un dettaglio dell&#39;affresco Allegoria della Religione Cattolica. ( T. Gaddi.)"
+                    HPOS="1770"
+                    VPOS="6344"
+                    WIDTH="2223"
+                    HEIGHT="151"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3695"
+                   VPOS="6506"
+                   WIDTH="1566"
+                   HEIGHT="240"
+                   ID="eSc_textblock_a3e00b2e"
+                   TAGREFS="BT297">
+          <Shape><Polygon POINTS="5261 6746 5261 6506 3695 6506 3695 6746"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_6c78316d"
+                    TAGREFS="LT103"
+                    BASELINE="3741 6698 5158 6683" 
+                    HPOS="3733"
+                    VPOS="6507"
+                    WIDTH="1420"
+                    HEIGHT="229">
+            <Shape><Polygon POINTS="3739 6694 3733 6525 4368 6561 4434 6519 4440 6513 4446 6513 4446 6513 4446 6513 4452 6513 4452 6513 4452 6513 4458 6513 4458 6513 4464 6513 4464 6513 4464 6513 4476 6519 4525 6543 4549 6519 4561 6507 4561 6507 4561 6507 4567 6507 4567 6507 4573 6507 4573 6507 4573 6507 4579 6507 4579 6507 4579 6507 4639 6519 4718 6537 4748 6519 4760 6507 4766 6507 4766 6507 4766 6507 4772 6507 4772 6507 4778 6507 4778 6507 4778 6507 4784 6507 4784 6507 4809 6519 4881 6549 5135 6519 5153 6682 5153 6700 3739 6736"/></Shape>
+	    <String CONTENT="Andrea da Firenze"
+                    HPOS="3733"
+                    VPOS="6507"
+                    WIDTH="1420"
+                    HEIGHT="229"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5034"
+                   VPOS="6945"
+                   WIDTH="546"
+                   HEIGHT="261"
+                   ID="eSc_textblock_45b374c3"
+                   TAGREFS="BT285">
+          <Shape><Polygon POINTS="5034 6945 5034 7206 5580 7206 5580 6945"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d37aedd1"
+                    TAGREFS="LT103"
+                    BASELINE="5084 7156 5537 7144" 
+                    HPOS="5074"
+                    VPOS="6978"
+                    WIDTH="460"
+                    HEIGHT="193">
+            <Shape><Polygon POINTS="5080 7153 5074 6978 5522 6984 5534 7141 5528 7159 5080 7171"/></Shape>
+	    <String CONTENT="9. IV. 14"
+                    HPOS="5074"
+                    VPOS="6978"
+                    WIDTH="460"
+                    HEIGHT="193"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
