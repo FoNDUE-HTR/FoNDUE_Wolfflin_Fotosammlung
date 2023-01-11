@@ -1,5 +1,5 @@
 # Kunsthistorisches UZH Archivdatenbank #
-
+![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 ***
 
 This dataset was created to experiment with the HTR and segmentation tools, [KRAKEN](https://github.com/mittagessen/kraken) and [YALTAi](https://github.com/PonteIneptique/YALTAi), on an atypical corpus: the archive of the Kunsthistorisches Institut in Zurich, which contains reproductions of works of art on which archivist's annotations and comments have been written. The objective is to find the most efficient method to extract this heterogeneous textual data. 
