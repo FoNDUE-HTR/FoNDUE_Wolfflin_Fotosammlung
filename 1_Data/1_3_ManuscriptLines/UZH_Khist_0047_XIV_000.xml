@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
@@ -11,69 +9,33 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
-    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone" /><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" />
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" />
   </Tags>
   
   <Layout>
-    <Page WIDTH="6593"
-          HEIGHT="7807"
-          PHYSICAL_IMG_NR="490"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="6593"
-                  HEIGHT="7807">
+    <Page WIDTH="6593" HEIGHT="7807" PHYSICAL_IMG_NR="490" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6593" HEIGHT="7807">
         
-        <TextBlock HPOS="2622"
-                   VPOS="780"
-                   WIDTH="2122"
-                   HEIGHT="306"
-                   ID="eSc_textblock_4d2a14bd"
-                   TAGREFS="BT282">
-          <Shape><Polygon POINTS="2622 780 4692 832 4744 1008 2622 1086 2622 780"/></Shape>
+        <TextBlock HPOS="2622" VPOS="780" WIDTH="2122" HEIGHT="306" ID="eSc_textblock_4d2a14bd" TAGREFS="BT282">
+          <Shape><Polygon POINTS="2622 780 4692 832 4744 1008 2622 1086 2622 780" /></Shape>
           
           
-          <TextLine ID="eSc_line_08fc897d"
-                    TAGREFS="LT100"
-                    BASELINE="2629 1008 4660 975" 
-                    HPOS="2622"
-                    VPOS="806"
-                    WIDTH="2038"
-                    HEIGHT="299">
-            <Shape><Polygon POINTS="4575 826 4510 826 4445 826 4399 819 4282 839 4106 813 4054 813 3989 813 3924 813 3879 806 3826 852 3573 806 3566 806 3560 806 3553 806 3514 839 3364 813 3358 813 3351 813 3345 813 3293 852 3117 806 3111 806 3104 806 3097 806 3000 858 2700 806 2694 806 2687 806 2681 806 2681 813 2622 858 2629 1008 2629 1086 3091 1053 3169 1092 3195 1105 3202 1105 3208 1105 3215 1105 3221 1105 3221 1099 3234 1092 3280 1053 3481 1086 3488 1086 3859 1040 3937 1092 3944 1099 3950 1099 3957 1099 3963 1105 4249 1105 4249 1099 4256 1099 4262 1099 4269 1092 4308 1066 4653 1086 4660 975 4653 839 4620 826 4575 826"/></Shape>
-	    <String CONTENT="GIUSEPPE BONITO"
-                    HPOS="2622"
-                    VPOS="806"
-                    WIDTH="2038"
-                    HEIGHT="299"></String>
+          <TextLine ID="eSc_line_08fc897d" TAGREFS="LT100" BASELINE="2629 1008 4660 975" HPOS="2622" VPOS="806" WIDTH="2038" HEIGHT="299">
+            <Shape><Polygon POINTS="4575 826 4510 826 4445 826 4399 819 4282 839 4106 813 4054 813 3989 813 3924 813 3879 806 3826 852 3573 806 3566 806 3560 806 3553 806 3514 839 3364 813 3358 813 3351 813 3345 813 3293 852 3117 806 3111 806 3104 806 3097 806 3000 858 2700 806 2694 806 2687 806 2681 806 2681 813 2622 858 2629 1008 2629 1086 3091 1053 3169 1092 3195 1105 3202 1105 3208 1105 3215 1105 3221 1105 3221 1099 3234 1092 3280 1053 3481 1086 3488 1086 3859 1040 3937 1092 3944 1099 3950 1099 3957 1099 3963 1105 4249 1105 4249 1099 4256 1099 4262 1099 4269 1092 4308 1066 4653 1086 4660 975 4653 839 4620 826 4575 826" /></Shape>
+	    <String CONTENT="GIUSEPPE BONITO" HPOS="2622" VPOS="806" WIDTH="2038" HEIGHT="299" />
           </TextLine>
 
           
         </TextBlock>
         
-        <TextBlock HPOS="4464"
-                   VPOS="6974"
-                   WIDTH="983"
-                   HEIGHT="332"
-                   ID="eSc_textblock_c61c09e6"
-                   TAGREFS="BT283">
-          <Shape><Polygon POINTS="4646 6974 5395 7000 5447 7254 4516 7306 4464 7026 4646 6974"/></Shape>
+        <TextBlock HPOS="4464" VPOS="6974" WIDTH="983" HEIGHT="332" ID="eSc_textblock_c61c09e6" TAGREFS="BT283">
+          <Shape><Polygon POINTS="4646 6974 5395 7000 5447 7254 4516 7306 4464 7026 4646 6974" /></Shape>
           
           
-          <TextLine ID="eSc_line_e6c1c59c"
-                    TAGREFS="LT101"
-                    BASELINE="4503 7182 5369 7195" 
-                    HPOS="4497"
-                    VPOS="6987"
-                    WIDTH="872"
-                    HEIGHT="260">
-            <Shape><Polygon POINTS="5271 6993 5265 6993 5258 6993 5252 6993 5206 7032 5193 7045 5174 7032 5135 7013 5128 7013 5122 7013 5115 7013 5070 7032 5044 7045 5030 7032 4991 7000 4991 6993 4985 6993 4978 6993 4809 6987 4803 6987 4796 6987 4790 6987 4790 6993 4744 7032 4738 7039 4503 7039 4503 7182 4497 7214 4549 7247 4555 7247 4562 7247 4568 7247 4809 7214 4887 7208 5356 7240 5369 7195 5369 7032 5278 6993 5271 6993"/></Shape>
-	    <String CONTENT="47. VII. 1-2"
-                    HPOS="4497"
-                    VPOS="6987"
-                    WIDTH="872"
-                    HEIGHT="260"></String>
+          <TextLine ID="eSc_line_e6c1c59c" TAGREFS="LT101" BASELINE="4503 7182 5369 7195" HPOS="4497" VPOS="6987" WIDTH="872" HEIGHT="260">
+            <Shape><Polygon POINTS="5271 6993 5265 6993 5258 6993 5252 6993 5206 7032 5193 7045 5174 7032 5135 7013 5128 7013 5122 7013 5115 7013 5070 7032 5044 7045 5030 7032 4991 7000 4991 6993 4985 6993 4978 6993 4809 6987 4803 6987 4796 6987 4790 6987 4790 6993 4744 7032 4738 7039 4503 7039 4503 7182 4497 7214 4549 7247 4555 7247 4562 7247 4568 7247 4809 7214 4887 7208 5356 7240 5369 7195 5369 7032 5278 6993 5271 6993" /></Shape>
+	    <String CONTENT="47. VII. 1-2" HPOS="4497" VPOS="6987" WIDTH="872" HEIGHT="260" />
           </TextLine>
 
           

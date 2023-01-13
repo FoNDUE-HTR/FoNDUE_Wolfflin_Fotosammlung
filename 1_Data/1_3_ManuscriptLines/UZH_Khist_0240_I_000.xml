@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
@@ -11,69 +9,33 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
-    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone" /><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" />
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" />
   </Tags>
   
   <Layout>
-    <Page WIDTH="6600"
-          HEIGHT="7804"
-          PHYSICAL_IMG_NR="317"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="6600"
-                  HEIGHT="7804">
+    <Page WIDTH="6600" HEIGHT="7804" PHYSICAL_IMG_NR="317" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6600" HEIGHT="7804">
         
-        <TextBlock HPOS="4653"
-                   VPOS="1326"
-                   WIDTH="1348"
-                   HEIGHT="254"
-                   ID="eSc_textblock_93844b41"
-                   TAGREFS="BT282">
-          <Shape><Polygon POINTS="4705 1326 5871 1352 6001 1580 4653 1580 4705 1326"/></Shape>
+        <TextBlock HPOS="4653" VPOS="1326" WIDTH="1348" HEIGHT="254" ID="eSc_textblock_93844b41" TAGREFS="BT282">
+          <Shape><Polygon POINTS="4705 1326 5871 1352 6001 1580 4653 1580 4705 1326" /></Shape>
           
           
-          <TextLine ID="eSc_line_3f4c15b6"
-                    TAGREFS="LT100"
-                    BASELINE="4705 1526 5923 1532" 
-                    HPOS="4692"
-                    VPOS="1339"
-                    WIDTH="1224"
-                    HEIGHT="208">
-            <Shape><Polygon POINTS="4699 1521 4692 1372 5506 1339 5513 1339 5513 1339 5513 1339 5682 1372 5753 1339 5753 1339 5753 1339 5760 1339 5760 1339 5766 1339 5766 1339 5766 1339 5773 1339 5910 1378 5916 1528 5910 1541 4692 1547"/></Shape>
-	    <String CONTENT="ALBERT MÜLLER"
-                    HPOS="4692"
-                    VPOS="1339"
-                    WIDTH="1224"
-                    HEIGHT="208"></String>
+          <TextLine ID="eSc_line_3f4c15b6" TAGREFS="LT100" BASELINE="4705 1526 5923 1532" HPOS="4692" VPOS="1339" WIDTH="1224" HEIGHT="208">
+            <Shape><Polygon POINTS="4699 1521 4692 1372 5506 1339 5513 1339 5513 1339 5513 1339 5682 1372 5753 1339 5753 1339 5753 1339 5760 1339 5760 1339 5766 1339 5766 1339 5766 1339 5773 1339 5910 1378 5916 1528 5910 1541 4692 1547" /></Shape>
+	    <String CONTENT="ALBERT MÜLLER" HPOS="4692" VPOS="1339" WIDTH="1224" HEIGHT="208" />
           </TextLine>
 
           
         </TextBlock>
         
-        <TextBlock HPOS="5200"
-                   VPOS="7465"
-                   WIDTH="801"
-                   HEIGHT="332"
-                   ID="eSc_textblock_95c0bbc9"
-                   TAGREFS="BT283">
-          <Shape><Polygon POINTS="5200 7465 5975 7491 6001 7771 5226 7797 5200 7465"/></Shape>
+        <TextBlock HPOS="5200" VPOS="7465" WIDTH="801" HEIGHT="332" ID="eSc_textblock_95c0bbc9" TAGREFS="BT283">
+          <Shape><Polygon POINTS="5200 7465 5975 7491 6001 7771 5226 7797 5200 7465" /></Shape>
           
           
-          <TextLine ID="eSc_line_a883301d"
-                    TAGREFS="LT101"
-                    BASELINE="5260 7647 5957 7669" 
-                    HPOS="5246"
-                    VPOS="7485"
-                    WIDTH="722"
-                    HEIGHT="195">
-            <Shape><Polygon POINTS="5259 7641 5252 7498 5402 7485 5408 7485 5408 7485 5408 7485 5415 7485 5415 7485 5415 7485 5467 7511 5486 7524 5500 7511 5532 7491 5539 7491 5539 7491 5539 7491 5545 7491 5545 7491 5545 7491 5552 7491 5552 7491 5558 7491 5558 7491 5558 7491 5565 7491 5565 7491 5597 7524 5617 7537 5636 7524 5688 7498 5688 7498 5688 7498 5695 7498 5695 7498 5701 7498 5701 7498 5701 7498 5708 7498 5708 7498 5708 7498 5779 7537 5792 7543 5799 7537 5864 7504 5864 7504 5864 7504 5871 7504 5871 7504 5877 7504 5877 7504 5877 7504 5884 7504 5884 7504 5890 7504 5968 7550 5955 7667 5942 7680 5246 7673"/></Shape>
-	    <String CONTENT="240. I. 1-4"
-                    HPOS="5246"
-                    VPOS="7485"
-                    WIDTH="722"
-                    HEIGHT="195"></String>
+          <TextLine ID="eSc_line_a883301d" TAGREFS="LT101" BASELINE="5260 7647 5957 7669" HPOS="5246" VPOS="7485" WIDTH="722" HEIGHT="195">
+            <Shape><Polygon POINTS="5259 7641 5252 7498 5402 7485 5408 7485 5408 7485 5408 7485 5415 7485 5415 7485 5415 7485 5467 7511 5486 7524 5500 7511 5532 7491 5539 7491 5539 7491 5539 7491 5545 7491 5545 7491 5545 7491 5552 7491 5552 7491 5558 7491 5558 7491 5558 7491 5565 7491 5565 7491 5597 7524 5617 7537 5636 7524 5688 7498 5688 7498 5688 7498 5695 7498 5695 7498 5701 7498 5701 7498 5701 7498 5708 7498 5708 7498 5708 7498 5779 7537 5792 7543 5799 7537 5864 7504 5864 7504 5864 7504 5871 7504 5871 7504 5877 7504 5877 7504 5877 7504 5884 7504 5884 7504 5890 7504 5968 7550 5955 7667 5942 7680 5246 7673" /></Shape>
+	    <String CONTENT="240. I. 1-4" HPOS="5246" VPOS="7485" WIDTH="722" HEIGHT="195" />
           </TextLine>
 
           

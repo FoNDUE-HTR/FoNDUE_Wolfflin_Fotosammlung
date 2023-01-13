@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
@@ -11,86 +9,40 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
-    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone" /><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" />
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" />
   </Tags>
   
   <Layout>
-    <Page WIDTH="6600"
-          HEIGHT="7803"
-          PHYSICAL_IMG_NR="285"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="6600"
-                  HEIGHT="7803">
+    <Page WIDTH="6600" HEIGHT="7803" PHYSICAL_IMG_NR="285" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6600" HEIGHT="7803">
         
-        <TextBlock HPOS="4393"
-                   VPOS="1326"
-                   WIDTH="1608"
-                   HEIGHT="800"
-                   ID="eSc_textblock_4df9dc1c"
-                   TAGREFS="BT282">
-          <Shape><Polygon POINTS="4497 1326 5923 1352 6001 1534 5871 1768 5975 1898 5949 2126 4549 2100 4549 1768 4393 1554 4497 1326"/></Shape>
+        <TextBlock HPOS="4393" VPOS="1326" WIDTH="1608" HEIGHT="800" ID="eSc_textblock_4df9dc1c" TAGREFS="BT282">
+          <Shape><Polygon POINTS="4497 1326 5923 1352 6001 1534 5871 1768 5975 1898 5949 2126 4549 2100 4549 1768 4393 1554 4497 1326" /></Shape>
           
           
-          <TextLine ID="eSc_line_797628f8"
-                    TAGREFS="LT100"
-                    BASELINE="4471 1500 5921 1532" 
-                    HPOS="4452"
-                    VPOS="1339"
-                    WIDTH="1471"
-                    HEIGHT="208">
-            <Shape><Polygon POINTS="4465 1495 4465 1339 5441 1385 5473 1378 5578 1359 5578 1359 5578 1359 5584 1359 5584 1359 5584 1359 5591 1359 5682 1391 5695 1391 5708 1391 5844 1359 5844 1359 5844 1359 5851 1359 5851 1359 5857 1359 5857 1359 5857 1359 5864 1359 5923 1398 5916 1528 5903 1547 4452 1541"/></Shape>
-	    <String CONTENT="FRANCESCO MORONE"
-                    HPOS="4452"
-                    VPOS="1339"
-                    WIDTH="1471"
-                    HEIGHT="208"></String>
+          <TextLine ID="eSc_line_797628f8" TAGREFS="LT100" BASELINE="4471 1500 5921 1532" HPOS="4452" VPOS="1339" WIDTH="1471" HEIGHT="208">
+            <Shape><Polygon POINTS="4465 1495 4465 1339 5441 1385 5473 1378 5578 1359 5578 1359 5578 1359 5584 1359 5584 1359 5584 1359 5591 1359 5682 1391 5695 1391 5708 1391 5844 1359 5844 1359 5844 1359 5851 1359 5851 1359 5857 1359 5857 1359 5857 1359 5864 1359 5923 1398 5916 1528 5903 1547 4452 1541" /></Shape>
+	    <String CONTENT="FRANCESCO MORONE" HPOS="4452" VPOS="1339" WIDTH="1471" HEIGHT="208" />
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_eb3c026a"
-                    TAGREFS="LT100"
-                    BASELINE="4660 2028 5877 2046" 
-                    HPOS="4640"
-                    VPOS="1853"
-                    WIDTH="1231"
-                    HEIGHT="240">
-            <Shape><Polygon POINTS="4653 2022 4647 1885 4777 1853 4777 1853 4777 1853 4784 1853 4784 1853 4784 1853 4790 1853 4790 1853 4797 1853 4797 1853 4797 1859 4836 1892 4862 1918 5128 1918 5265 1918 5272 1905 5324 1866 5324 1859 5324 1859 5330 1859 5330 1859 5337 1859 5337 1859 5337 1859 5343 1859 5343 1859 5350 1859 5350 1859 5350 1859 5356 1859 5356 1859 5356 1866 5395 1898 5434 1866 5434 1859 5434 1859 5441 1859 5441 1859 5447 1859 5447 1859 5447 1859 5454 1859 5454 1859 5454 1859 5460 1859 5460 1859 5565 1905 5688 1866 5695 1866 5695 1866 5695 1866 5701 1866 5701 1866 5708 1866 5708 1866 5871 1931 5871 2041 5864 2054 5467 2093 5467 2093 5460 2093 5460 2093 5454 2093 5454 2093 5454 2093 5447 2093 5447 2093 5447 2087 5441 2087 5415 2054 5415 2054 5402 2054 4784 2080 4777 2080 4777 2080 4771 2080 4640 2041"/></Shape>
-	    <String CONTENT="Maria une Heilige"
-                    HPOS="4640"
-                    VPOS="1853"
-                    WIDTH="1231"
-                    HEIGHT="240"></String>
+          <TextLine ID="eSc_line_eb3c026a" TAGREFS="LT100" BASELINE="4660 2028 5877 2046" HPOS="4640" VPOS="1853" WIDTH="1231" HEIGHT="240">
+            <Shape><Polygon POINTS="4653 2022 4647 1885 4777 1853 4777 1853 4777 1853 4784 1853 4784 1853 4784 1853 4790 1853 4790 1853 4797 1853 4797 1853 4797 1859 4836 1892 4862 1918 5128 1918 5265 1918 5272 1905 5324 1866 5324 1859 5324 1859 5330 1859 5330 1859 5337 1859 5337 1859 5337 1859 5343 1859 5343 1859 5350 1859 5350 1859 5350 1859 5356 1859 5356 1859 5356 1866 5395 1898 5434 1866 5434 1859 5434 1859 5441 1859 5441 1859 5447 1859 5447 1859 5447 1859 5454 1859 5454 1859 5454 1859 5460 1859 5460 1859 5565 1905 5688 1866 5695 1866 5695 1866 5695 1866 5701 1866 5701 1866 5708 1866 5708 1866 5871 1931 5871 2041 5864 2054 5467 2093 5467 2093 5460 2093 5460 2093 5454 2093 5454 2093 5454 2093 5447 2093 5447 2093 5447 2087 5441 2087 5415 2054 5415 2054 5402 2054 4784 2080 4777 2080 4777 2080 4771 2080 4640 2041" /></Shape>
+	    <String CONTENT="Maria une Heilige" HPOS="4640" VPOS="1853" WIDTH="1231" HEIGHT="240" />
           </TextLine>
 
           
         </TextBlock>
         
-        <TextBlock HPOS="5252"
-                   VPOS="7516"
-                   WIDTH="931"
-                   HEIGHT="280"
-                   ID="eSc_textblock_830e77dc"
-                   TAGREFS="BT283">
-          <Shape><Polygon POINTS="5252 7516 6079 7542 6183 7770 5278 7796 5252 7516"/></Shape>
+        <TextBlock HPOS="5252" VPOS="7516" WIDTH="931" HEIGHT="280" ID="eSc_textblock_830e77dc" TAGREFS="BT283">
+          <Shape><Polygon POINTS="5252 7516 6079 7542 6183 7770 5278 7796 5252 7516" /></Shape>
           
           
-          <TextLine ID="eSc_line_75a2b643"
-                    TAGREFS="LT101"
-                    BASELINE="5299 7685 5845 7711 6047 7716" 
-                    HPOS="5278"
-                    VPOS="7523"
-                    WIDTH="768"
-                    HEIGHT="201">
-            <Shape><Polygon POINTS="5298 7679 5278 7555 5317 7523 5317 7523 5324 7523 5324 7523 5324 7523 5330 7523 5330 7523 5330 7523 5337 7523 6046 7588 6046 7711 6033 7724 5291 7698"/></Shape>
-	    <String CONTENT="239. 4. III. 1-7"
-                    HPOS="5278"
-                    VPOS="7523"
-                    WIDTH="768"
-                    HEIGHT="201"></String>
+          <TextLine ID="eSc_line_75a2b643" TAGREFS="LT101" BASELINE="5299 7685 5845 7711 6047 7716" HPOS="5278" VPOS="7523" WIDTH="768" HEIGHT="201">
+            <Shape><Polygon POINTS="5298 7679 5278 7555 5317 7523 5317 7523 5324 7523 5324 7523 5324 7523 5330 7523 5330 7523 5330 7523 5337 7523 6046 7588 6046 7711 6033 7724 5291 7698" /></Shape>
+	    <String CONTENT="239. 4. III. 1-7" HPOS="5278" VPOS="7523" WIDTH="768" HEIGHT="201" />
           </TextLine>
 
           

@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
@@ -11,86 +9,40 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
-    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone" /><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" />
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" />
   </Tags>
   
   <Layout>
-    <Page WIDTH="6590"
-          HEIGHT="7803"
-          PHYSICAL_IMG_NR="487"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="6590"
-                  HEIGHT="7803">
+    <Page WIDTH="6590" HEIGHT="7803" PHYSICAL_IMG_NR="487" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6590" HEIGHT="7803">
         
-        <TextBlock HPOS="2439"
-                   VPOS="728"
-                   WIDTH="3162"
-                   HEIGHT="904"
-                   ID="eSc_textblock_f59dbdc2"
-                   TAGREFS="BT282">
-          <Shape><Polygon POINTS="2439 728 5523 754 5601 1007 3506 1163 3525 1372 3864 1404 3942 1482 3890 1580 2439 1632 2439 728"/></Shape>
+        <TextBlock HPOS="2439" VPOS="728" WIDTH="3162" HEIGHT="904" ID="eSc_textblock_f59dbdc2" TAGREFS="BT282">
+          <Shape><Polygon POINTS="2439 728 5523 754 5601 1007 3506 1163 3525 1372 3864 1404 3942 1482 3890 1580 2439 1632 2439 728" /></Shape>
           
           
-          <TextLine ID="eSc_line_48ba0c5e"
-                    TAGREFS="LT100"
-                    BASELINE="2472 994 5497 975" 
-                    HPOS="2465"
-                    VPOS="741"
-                    WIDTH="3032"
-                    HEIGHT="351">
-            <Shape><Polygon POINTS="4196 741 4189 741 4156 741 4091 741 4078 741 4072 741 4065 741 4059 741 4020 780 3987 806 3773 806 3740 773 3727 760 3721 760 3714 760 3708 760 3636 773 3564 786 3545 773 3512 747 3506 747 3499 747 3493 747 3330 767 3233 780 3200 767 3174 754 3168 754 3161 754 3155 754 3148 754 3135 767 3090 793 3038 767 2999 747 2992 747 2985 747 2979 747 2972 747 2953 760 2914 793 2875 760 2855 747 2849 747 2842 747 2836 747 2465 754 2472 994 2472 1059 2602 1092 2608 1092 2615 1092 2706 1059 2725 1053 2738 1059 2810 1092 2816 1092 2823 1092 2829 1092 2836 1092 2881 1059 2907 1040 3571 1040 3590 1053 3623 1079 3630 1079 3636 1079 3643 1079 3649 1079 3760 1046 3825 1033 3942 1046 4261 1085 4267 1085 5204 1079 5497 1027 5497 975 5484 799 5158 760 5152 760 5145 760 5074 793 5067 793 4801 786 4677 786 4599 747 4592 747 4586 747 4579 747 4573 747 4573 754 4534 786 4527 793 4514 786 4456 754 4449 754 4443 754 4436 754 4332 780 4267 799 4241 780 4202 747 4202 741 4196 741"/></Shape>
-	    <String CONTENT="VERONESE BONIFAZIO"
-                    HPOS="2465"
-                    VPOS="741"
-                    WIDTH="3032"
-                    HEIGHT="351"></String>
+          <TextLine ID="eSc_line_48ba0c5e" TAGREFS="LT100" BASELINE="2472 994 5497 975" HPOS="2465" VPOS="741" WIDTH="3032" HEIGHT="351">
+            <Shape><Polygon POINTS="4196 741 4189 741 4156 741 4091 741 4078 741 4072 741 4065 741 4059 741 4020 780 3987 806 3773 806 3740 773 3727 760 3721 760 3714 760 3708 760 3636 773 3564 786 3545 773 3512 747 3506 747 3499 747 3493 747 3330 767 3233 780 3200 767 3174 754 3168 754 3161 754 3155 754 3148 754 3135 767 3090 793 3038 767 2999 747 2992 747 2985 747 2979 747 2972 747 2953 760 2914 793 2875 760 2855 747 2849 747 2842 747 2836 747 2465 754 2472 994 2472 1059 2602 1092 2608 1092 2615 1092 2706 1059 2725 1053 2738 1059 2810 1092 2816 1092 2823 1092 2829 1092 2836 1092 2881 1059 2907 1040 3571 1040 3590 1053 3623 1079 3630 1079 3636 1079 3643 1079 3649 1079 3760 1046 3825 1033 3942 1046 4261 1085 4267 1085 5204 1079 5497 1027 5497 975 5484 799 5158 760 5152 760 5145 760 5074 793 5067 793 4801 786 4677 786 4599 747 4592 747 4586 747 4579 747 4573 747 4573 754 4534 786 4527 793 4514 786 4456 754 4449 754 4443 754 4436 754 4332 780 4267 799 4241 780 4202 747 4202 741 4196 741" /></Shape>
+	    <String CONTENT="VERONESE BONIFAZIO" HPOS="2465" VPOS="741" WIDTH="3032" HEIGHT="351" />
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_97f4c9c7"
-                    TAGREFS="LT100"
-                    BASELINE="2485 1463 3291 1463" 
-                    HPOS="2485"
-                    VPOS="1274"
-                    WIDTH="806"
-                    HEIGHT="332">
-            <Shape><Polygon POINTS="2485 1463 2485 1547 2582 1547 2654 1606 2660 1606 2667 1606 2673 1606 3291 1541 3291 1463 3291 1313 3168 1274 3161 1274 3155 1274 3148 1274 3142 1274 3070 1320 2810 1320 2764 1274 2758 1274 2751 1274 2550 1274 2543 1274 2537 1274 2530 1274 2485 1300 2485 1463"/></Shape>
-	    <String CONTENT="Allegorie"
-                    HPOS="2485"
-                    VPOS="1274"
-                    WIDTH="806"
-                    HEIGHT="332"></String>
+          <TextLine ID="eSc_line_97f4c9c7" TAGREFS="LT100" BASELINE="2485 1463 3291 1463" HPOS="2485" VPOS="1274" WIDTH="806" HEIGHT="332">
+            <Shape><Polygon POINTS="2485 1463 2485 1547 2582 1547 2654 1606 2660 1606 2667 1606 2673 1606 3291 1541 3291 1463 3291 1313 3168 1274 3161 1274 3155 1274 3148 1274 3142 1274 3070 1320 2810 1320 2764 1274 2758 1274 2751 1274 2550 1274 2543 1274 2537 1274 2530 1274 2485 1300 2485 1463" /></Shape>
+	    <String CONTENT="Allegorie" HPOS="2485" VPOS="1274" WIDTH="806" HEIGHT="332" />
           </TextLine>
 
           
         </TextBlock>
         
-        <TextBlock HPOS="4670"
-                   VPOS="6944"
-                   WIDTH="1373"
-                   HEIGHT="332"
-                   ID="eSc_textblock_423854f2"
-                   TAGREFS="BT283">
-          <Shape><Polygon POINTS="5035 6944 5991 6996 6043 7198 4670 7276 4722 6996 5035 6944"/></Shape>
+        <TextBlock HPOS="4670" VPOS="6944" WIDTH="1373" HEIGHT="332" ID="eSc_textblock_423854f2" TAGREFS="BT283">
+          <Shape><Polygon POINTS="5035 6944 5991 6996 6043 7198 4670 7276 4722 6996 5035 6944" /></Shape>
           
           
-          <TextLine ID="eSc_line_7e1e38db"
-                    TAGREFS="LT101"
-                    BASELINE="4716 7185 6003 7169" 
-                    HPOS="4703"
-                    VPOS="6983"
-                    WIDTH="1295"
-                    HEIGHT="273">
-            <Shape><Polygon POINTS="5939 6996 5939 6996 5932 6996 5633 7035 5581 6990 5581 6983 5575 6983 5568 6983 5451 6983 5445 6983 5438 6983 5432 6983 5334 7042 5230 6990 5223 6990 5054 6990 5048 6990 5041 6990 5035 6990 5035 6996 4983 7042 4742 7009 4703 7061 4709 7178 4709 7256 5998 7204 5998 7165 5991 7061 5939 6996"/></Shape>
-	    <String CONTENT="47. IV. 18-21"
-                    HPOS="4703"
-                    VPOS="6983"
-                    WIDTH="1295"
-                    HEIGHT="273"></String>
+          <TextLine ID="eSc_line_7e1e38db" TAGREFS="LT101" BASELINE="4716 7185 6003 7169" HPOS="4703" VPOS="6983" WIDTH="1295" HEIGHT="273">
+            <Shape><Polygon POINTS="5939 6996 5939 6996 5932 6996 5633 7035 5581 6990 5581 6983 5575 6983 5568 6983 5451 6983 5445 6983 5438 6983 5432 6983 5334 7042 5230 6990 5223 6990 5054 6990 5048 6990 5041 6990 5035 6990 5035 6996 4983 7042 4742 7009 4703 7061 4709 7178 4709 7256 5998 7204 5998 7165 5991 7061 5939 6996" /></Shape>
+	    <String CONTENT="47. IV. 18-21" HPOS="4703" VPOS="6983" WIDTH="1295" HEIGHT="273" />
           </TextLine>
 
           

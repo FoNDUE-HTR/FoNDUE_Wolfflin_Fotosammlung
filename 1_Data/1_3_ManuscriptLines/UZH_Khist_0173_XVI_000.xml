@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
@@ -11,59 +9,28 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
-    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone" /><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" />
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" />
   </Tags>
   
   <Layout>
-    <Page WIDTH="6601"
-          HEIGHT="7804"
-          PHYSICAL_IMG_NR="109"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="6601"
-                  HEIGHT="7804">
+    <Page WIDTH="6601" HEIGHT="7804" PHYSICAL_IMG_NR="109" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6601" HEIGHT="7804">
         
-        <TextBlock HPOS="2653"
-                   VPOS="780"
-                   WIDTH="1814"
-                   HEIGHT="774"
-                   ID="eSc_textblock_ef713a19"
-                   TAGREFS="BT282">
-          <Shape><Polygon POINTS="2679 780 4415 806 4467 1086 4058 1112 4025 1242 4415 1326 4467 1554 2653 1528 2679 780"/></Shape>
+        <TextBlock HPOS="2653" VPOS="780" WIDTH="1814" HEIGHT="774" ID="eSc_textblock_ef713a19" TAGREFS="BT282">
+          <Shape><Polygon POINTS="2679 780 4415 806 4467 1086 4058 1112 4025 1242 4415 1326 4467 1554 2653 1528 2679 780" /></Shape>
           
           
-          <TextLine ID="eSc_line_527b1ee0"
-                    TAGREFS="LT100"
-                    BASELINE="2756 988 4458 1008" 
-                    HPOS="2737"
-                    VPOS="812"
-                    WIDTH="1724"
-                    HEIGHT="293">
-            <Shape><Polygon POINTS="2750 982 2744 832 4324 812 4331 812 4331 812 4337 812 4337 812 4461 858 4454 1001 4461 1047 4389 1099 4389 1099 4383 1099 4383 1099 4376 1099 4376 1099 4376 1105 3934 1105 3928 1099 3928 1099 3921 1099 3921 1099 3921 1099 3915 1099 3915 1099 3915 1092 3869 1053 3843 1073 3837 1073 3837 1073 3837 1073 3830 1073 3830 1073 3830 1073 3824 1073 3824 1073 3563 1034 3550 1034 3544 1034 3349 1092 3342 1092 3342 1092 3342 1092 3336 1092 3336 1092 3329 1092 3329 1092 3329 1092 3323 1092 3323 1092 3323 1086 3323 1086 3271 1027 3264 1027 3128 1027 3056 1027 3004 1073 3004 1079 3004 1079 2998 1079 2998 1079 2991 1079 2991 1079 2991 1079 2985 1079 2985 1079 2985 1079 2737 1021"/></Shape>
-	    <String CONTENT="LEOPOLD HOROWITZ"
-                    HPOS="2737"
-                    VPOS="812"
-                    WIDTH="1724"
-                    HEIGHT="293"></String>
+          <TextLine ID="eSc_line_527b1ee0" TAGREFS="LT100" BASELINE="2756 988 4458 1008" HPOS="2737" VPOS="812" WIDTH="1724" HEIGHT="293">
+            <Shape><Polygon POINTS="2750 982 2744 832 4324 812 4331 812 4331 812 4337 812 4337 812 4461 858 4454 1001 4461 1047 4389 1099 4389 1099 4383 1099 4383 1099 4376 1099 4376 1099 4376 1105 3934 1105 3928 1099 3928 1099 3921 1099 3921 1099 3921 1099 3915 1099 3915 1099 3915 1092 3869 1053 3843 1073 3837 1073 3837 1073 3837 1073 3830 1073 3830 1073 3830 1073 3824 1073 3824 1073 3563 1034 3550 1034 3544 1034 3349 1092 3342 1092 3342 1092 3342 1092 3336 1092 3336 1092 3329 1092 3329 1092 3329 1092 3323 1092 3323 1092 3323 1086 3323 1086 3271 1027 3264 1027 3128 1027 3056 1027 3004 1073 3004 1079 3004 1079 2998 1079 2998 1079 2991 1079 2991 1079 2991 1079 2985 1079 2985 1079 2985 1079 2737 1021" /></Shape>
+	    <String CONTENT="LEOPOLD HOROWITZ" HPOS="2737" VPOS="812" WIDTH="1724" HEIGHT="293" />
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_27f69a01"
-                    TAGREFS="LT100"
-                    BASELINE="2695 1443 3726 1443" 
-                    HPOS="2685"
-                    VPOS="1255"
-                    WIDTH="1034"
-                    HEIGHT="338">
-            <Shape><Polygon POINTS="2692 1437 2685 1287 3303 1255 3310 1255 3310 1255 3316 1255 3316 1255 3316 1255 3381 1287 3427 1255 3433 1255 3433 1255 3433 1255 3440 1255 3440 1255 3446 1255 3446 1255 3719 1294 3719 1437 3719 1521 3362 1580 3362 1580 3355 1580 3355 1580 3355 1580 3349 1580 3349 1580 3258 1541 3121 1593 3121 1593 3115 1593 3115 1593 3115 1593 3108 1593 2685 1554"/></Shape>
-	    <String CONTENT="Ohne Mappe"
-                    HPOS="2685"
-                    VPOS="1255"
-                    WIDTH="1034"
-                    HEIGHT="338"></String>
+          <TextLine ID="eSc_line_27f69a01" TAGREFS="LT100" BASELINE="2695 1443 3726 1443" HPOS="2685" VPOS="1255" WIDTH="1034" HEIGHT="338">
+            <Shape><Polygon POINTS="2692 1437 2685 1287 3303 1255 3310 1255 3310 1255 3316 1255 3316 1255 3316 1255 3381 1287 3427 1255 3433 1255 3433 1255 3433 1255 3440 1255 3440 1255 3446 1255 3446 1255 3719 1294 3719 1437 3719 1521 3362 1580 3362 1580 3355 1580 3355 1580 3355 1580 3349 1580 3349 1580 3258 1541 3121 1593 3121 1593 3115 1593 3115 1593 3115 1593 3108 1593 2685 1554" /></Shape>
+	    <String CONTENT="Ohne Mappe" HPOS="2685" VPOS="1255" WIDTH="1034" HEIGHT="338" />
           </TextLine>
 
           

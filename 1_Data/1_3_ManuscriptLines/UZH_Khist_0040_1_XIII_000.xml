@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
@@ -11,86 +9,40 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
-    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone" /><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" />
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" />
   </Tags>
   
   <Layout>
-    <Page WIDTH="6600"
-          HEIGHT="7801"
-          PHYSICAL_IMG_NR="343"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="6600"
-                  HEIGHT="7801">
+    <Page WIDTH="6600" HEIGHT="7801" PHYSICAL_IMG_NR="343" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6600" HEIGHT="7801">
         
-        <TextBlock HPOS="3459"
-                   VPOS="754"
-                   WIDTH="2022"
-                   HEIGHT="799"
-                   ID="eSc_textblock_698f1e62"
-                   TAGREFS="BT282">
-          <Shape><Polygon POINTS="3459 754 5299 754 5455 806 5481 1007 4759 1137 4727 1241 4857 1404 4805 1553 3459 1553 3459 754"/></Shape>
+        <TextBlock HPOS="3459" VPOS="754" WIDTH="2022" HEIGHT="799" ID="eSc_textblock_698f1e62" TAGREFS="BT282">
+          <Shape><Polygon POINTS="3459 754 5299 754 5455 806 5481 1007 4759 1137 4727 1241 4857 1404 4805 1553 3459 1553 3459 754" /></Shape>
           
           
-          <TextLine ID="eSc_line_f87583ef"
-                    TAGREFS="LT100"
-                    BASELINE="3491 1001 5459 986" 
-                    HPOS="3478"
-                    VPOS="754"
-                    WIDTH="1977"
-                    HEIGHT="325">
-            <Shape><Polygon POINTS="5429 799 5364 773 5325 760 5156 799 5104 754 5097 754 5091 754 5084 754 5078 754 5071 754 5006 806 4967 773 4967 767 4961 767 4954 767 4779 754 4772 754 4766 754 4759 754 4759 760 4714 806 4681 838 4571 838 4538 799 4512 780 4512 773 4506 773 4499 773 4493 773 4486 773 4480 773 4447 799 4428 812 4395 799 4330 773 4324 773 4317 773 4311 773 4304 773 4304 780 4285 799 4233 838 3973 806 3966 806 3960 806 3953 806 3953 812 3927 832 3868 786 3849 773 3842 773 3836 773 3829 773 3478 780 3485 994 3485 1072 4304 1040 4395 1059 4486 1079 4493 1079 4499 1079 4558 1059 4597 1040 4636 1053 4694 1079 4701 1079 4707 1079 4837 1053 4876 1046 4954 1053 5351 1079 5358 1079 5364 1079 5455 1040 5455 981 5449 890 5429 799"/></Shape>
-	    <String CONTENT="NERI DI BICCI"
-                    HPOS="3478"
-                    VPOS="754"
-                    WIDTH="1977"
-                    HEIGHT="325"></String>
+          <TextLine ID="eSc_line_f87583ef" TAGREFS="LT100" BASELINE="3491 1001 5459 986" HPOS="3478" VPOS="754" WIDTH="1977" HEIGHT="325">
+            <Shape><Polygon POINTS="5429 799 5364 773 5325 760 5156 799 5104 754 5097 754 5091 754 5084 754 5078 754 5071 754 5006 806 4967 773 4967 767 4961 767 4954 767 4779 754 4772 754 4766 754 4759 754 4759 760 4714 806 4681 838 4571 838 4538 799 4512 780 4512 773 4506 773 4499 773 4493 773 4486 773 4480 773 4447 799 4428 812 4395 799 4330 773 4324 773 4317 773 4311 773 4304 773 4304 780 4285 799 4233 838 3973 806 3966 806 3960 806 3953 806 3953 812 3927 832 3868 786 3849 773 3842 773 3836 773 3829 773 3478 780 3485 994 3485 1072 4304 1040 4395 1059 4486 1079 4493 1079 4499 1079 4558 1059 4597 1040 4636 1053 4694 1079 4701 1079 4707 1079 4837 1053 4876 1046 4954 1053 5351 1079 5358 1079 5364 1079 5455 1040 5455 981 5449 890 5429 799" /></Shape>
+	    <String CONTENT="NERI DI BICCI" HPOS="3478" VPOS="754" WIDTH="1977" HEIGHT="325" />
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_83814dc2"
-                    TAGREFS="LT100"
-                    BASELINE="3485 1475 4649 1495" 
-                    HPOS="3478"
-                    VPOS="1261"
-                    WIDTH="1171"
-                    HEIGHT="338">
-            <Shape><Polygon POINTS="3485 1475 3478 1527 3641 1586 3647 1586 3654 1586 3660 1586 3784 1547 3803 1540 3816 1553 3855 1586 3855 1592 3862 1592 3868 1592 3875 1592 4038 1566 4077 1560 4103 1566 4161 1592 4168 1592 4174 1592 4181 1592 4187 1592 4213 1573 4259 1547 4636 1599 4649 1495 4649 1358 4525 1319 4519 1319 4512 1319 4506 1319 4460 1339 4454 1345 4454 1339 4389 1287 4389 1280 4382 1280 4376 1280 4369 1280 4363 1280 4285 1306 4265 1280 4259 1280 4259 1274 4252 1274 4246 1274 4239 1274 4233 1274 4155 1313 4090 1352 3888 1352 3732 1280 3706 1267 3699 1267 3485 1261 3485 1475"/></Shape>
-	    <String CONTENT="Marienleben"
-                    HPOS="3478"
-                    VPOS="1261"
-                    WIDTH="1171"
-                    HEIGHT="338"></String>
+          <TextLine ID="eSc_line_83814dc2" TAGREFS="LT100" BASELINE="3485 1475 4649 1495" HPOS="3478" VPOS="1261" WIDTH="1171" HEIGHT="338">
+            <Shape><Polygon POINTS="3485 1475 3478 1527 3641 1586 3647 1586 3654 1586 3660 1586 3784 1547 3803 1540 3816 1553 3855 1586 3855 1592 3862 1592 3868 1592 3875 1592 4038 1566 4077 1560 4103 1566 4161 1592 4168 1592 4174 1592 4181 1592 4187 1592 4213 1573 4259 1547 4636 1599 4649 1495 4649 1358 4525 1319 4519 1319 4512 1319 4506 1319 4460 1339 4454 1345 4454 1339 4389 1287 4389 1280 4382 1280 4376 1280 4369 1280 4363 1280 4285 1306 4265 1280 4259 1280 4259 1274 4252 1274 4246 1274 4239 1274 4233 1274 4155 1313 4090 1352 3888 1352 3732 1280 3706 1267 3699 1267 3485 1261 3485 1475" /></Shape>
+	    <String CONTENT="Marienleben" HPOS="3478" VPOS="1261" WIDTH="1171" HEIGHT="338" />
           </TextLine>
 
           
         </TextBlock>
         
-        <TextBlock HPOS="4733"
-                   VPOS="7046"
-                   WIDTH="1294"
-                   HEIGHT="306"
-                   ID="eSc_textblock_82bd8945"
-                   TAGREFS="BT283">
-          <Shape><Polygon POINTS="5201 7046 5949 7098 6027 7274 4987 7352 4733 7274 4785 7098 5201 7046"/></Shape>
+        <TextBlock HPOS="4733" VPOS="7046" WIDTH="1294" HEIGHT="306" ID="eSc_textblock_82bd8945" TAGREFS="BT283">
+          <Shape><Polygon POINTS="5201 7046 5949 7098 6027 7274 4987 7352 4733 7274 4785 7098 5201 7046" /></Shape>
           
           
-          <TextLine ID="eSc_line_ac49f068"
-                    TAGREFS="LT101"
-                    BASELINE="4811 7248 5917 7267" 
-                    HPOS="4805"
-                    VPOS="7066"
-                    WIDTH="1112"
-                    HEIGHT="266">
-            <Shape><Polygon POINTS="5787 7085 5741 7079 5689 7118 5663 7131 5598 7111 5429 7066 5423 7066 5234 7066 5227 7066 5221 7066 5214 7066 5175 7098 5149 7118 4811 7092 4811 7248 4805 7287 4850 7319 4857 7319 4863 7319 4870 7319 5117 7287 5169 7280 5188 7293 5253 7326 5260 7326 5266 7326 5410 7306 5533 7287 5904 7332 5917 7267 5917 7124 5793 7085 5787 7085"/></Shape>
-	    <String CONTENT="40. 1. XI. 1-12"
-                    HPOS="4805"
-                    VPOS="7066"
-                    WIDTH="1112"
-                    HEIGHT="266"></String>
+          <TextLine ID="eSc_line_ac49f068" TAGREFS="LT101" BASELINE="4811 7248 5917 7267" HPOS="4805" VPOS="7066" WIDTH="1112" HEIGHT="266">
+            <Shape><Polygon POINTS="5787 7085 5741 7079 5689 7118 5663 7131 5598 7111 5429 7066 5423 7066 5234 7066 5227 7066 5221 7066 5214 7066 5175 7098 5149 7118 4811 7092 4811 7248 4805 7287 4850 7319 4857 7319 4863 7319 4870 7319 5117 7287 5169 7280 5188 7293 5253 7326 5260 7326 5266 7326 5410 7306 5533 7287 5904 7332 5917 7267 5917 7124 5793 7085 5787 7085" /></Shape>
+	    <String CONTENT="40. 1. XI. 1-12" HPOS="4805" VPOS="7066" WIDTH="1112" HEIGHT="266" />
           </TextLine>
 
           

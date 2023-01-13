@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
@@ -11,103 +9,47 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
-    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone" /><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" />
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" />
   </Tags>
   
   <Layout>
-    <Page WIDTH="6605"
-          HEIGHT="7794"
-          PHYSICAL_IMG_NR="205"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="6605"
-                  HEIGHT="7794">
+    <Page WIDTH="6605" HEIGHT="7794" PHYSICAL_IMG_NR="205" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6605" HEIGHT="7794">
         
-        <TextBlock HPOS="4576"
-                   VPOS="1273"
-                   WIDTH="1242"
-                   HEIGHT="1318"
-                   ID="eSc_textblock_5d6c271c"
-                   TAGREFS="BT282">
-          <Shape><Polygon POINTS="4992 1273 5584 1324 5610 1942 5818 2591 4576 2565 4654 2338 4888 2227 4836 2000 4862 1792 4966 1734 4992 1273"/></Shape>
+        <TextBlock HPOS="4576" VPOS="1273" WIDTH="1242" HEIGHT="1318" ID="eSc_textblock_5d6c271c" TAGREFS="BT282">
+          <Shape><Polygon POINTS="4992 1273 5584 1324 5610 1942 5818 2591 4576 2565 4654 2338 4888 2227 4836 2000 4862 1792 4966 1734 4992 1273" /></Shape>
           
           
-          <TextLine ID="eSc_line_4a46d4da"
-                    TAGREFS="LT100"
-                    BASELINE="5039 1493 5506 1467" 
-                    HPOS="5025"
-                    VPOS="1292"
-                    WIDTH="474"
-                    HEIGHT="247">
-            <Shape><Polygon POINTS="5038 1487 5025 1292 5486 1311 5499 1461 5493 1493 5038 1539"/></Shape>
-	    <String CONTENT="REIMS"
-                    HPOS="5025"
-                    VPOS="1292"
-                    WIDTH="474"
-                    HEIGHT="247"></String>
+          <TextLine ID="eSc_line_4a46d4da" TAGREFS="LT100" BASELINE="5039 1493 5506 1467" HPOS="5025" VPOS="1292" WIDTH="474" HEIGHT="247">
+            <Shape><Polygon POINTS="5038 1487 5025 1292 5486 1311 5499 1461 5493 1493 5038 1539" /></Shape>
+	    <String CONTENT="REIMS" HPOS="5025" VPOS="1292" WIDTH="474" HEIGHT="247" />
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_59b85a5d"
-                    TAGREFS="LT100"
-                    BASELINE="4912 2006 5538 1987" 
-                    HPOS="4895"
-                    VPOS="1799"
-                    WIDTH="637"
-                    HEIGHT="253">
-            <Shape><Polygon POINTS="4908 2000 4895 1799 5519 1825 5532 1980 5525 2026 4908 2052"/></Shape>
-	    <String CONTENT="Kathedrale"
-                    HPOS="4895"
-                    VPOS="1799"
-                    WIDTH="637"
-                    HEIGHT="253"></String>
+          <TextLine ID="eSc_line_59b85a5d" TAGREFS="LT100" BASELINE="4912 2006 5538 1987" HPOS="4895" VPOS="1799" WIDTH="637" HEIGHT="253">
+            <Shape><Polygon POINTS="4908 2000 4895 1799 5519 1825 5532 1980 5525 2026 4908 2052" /></Shape>
+	    <String CONTENT="Kathedrale" HPOS="4895" VPOS="1799" WIDTH="637" HEIGHT="253" />
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_feb5cc4d"
-                    TAGREFS="LT100"
-                    BASELINE="4620 2507 5739 2509" 
-                    HPOS="4602"
-                    VPOS="2299"
-                    WIDTH="1131"
-                    HEIGHT="396">
-            <Shape><Polygon POINTS="4615 2500 4602 2344 4778 2299 4784 2299 4784 2299 4791 2299 4791 2299 4797 2299 4797 2299 4797 2299 4804 2299 4804 2299 4843 2331 4856 2344 4901 2331 4986 2305 4992 2305 4992 2305 4999 2305 4999 2305 4999 2305 5005 2305 5070 2325 5135 2351 5252 2351 5278 2318 5298 2305 5298 2299 5298 2299 5304 2299 5304 2299 5304 2299 5311 2299 5311 2299 5317 2299 5317 2299 5317 2299 5324 2299 5376 2312 5434 2331 5727 2305 5733 2507 5727 2662 5350 2695 5343 2695 5343 2695 5343 2695 5337 2695 5337 2695 5337 2695 5291 2675 5246 2649 5207 2675 5174 2695 5168 2695 5168 2695 5161 2695 5161 2695 5161 2695 5155 2695 5155 2695 5025 2675 4836 2649 4609 2682"/></Shape>
-	    <String CONTENT="Westportal Plastik"
-                    HPOS="4602"
-                    VPOS="2299"
-                    WIDTH="1131"
-                    HEIGHT="396"></String>
+          <TextLine ID="eSc_line_feb5cc4d" TAGREFS="LT100" BASELINE="4620 2507 5739 2509" HPOS="4602" VPOS="2299" WIDTH="1131" HEIGHT="396">
+            <Shape><Polygon POINTS="4615 2500 4602 2344 4778 2299 4784 2299 4784 2299 4791 2299 4791 2299 4797 2299 4797 2299 4797 2299 4804 2299 4804 2299 4843 2331 4856 2344 4901 2331 4986 2305 4992 2305 4992 2305 4999 2305 4999 2305 4999 2305 5005 2305 5070 2325 5135 2351 5252 2351 5278 2318 5298 2305 5298 2299 5298 2299 5304 2299 5304 2299 5304 2299 5311 2299 5311 2299 5317 2299 5317 2299 5317 2299 5324 2299 5376 2312 5434 2331 5727 2305 5733 2507 5727 2662 5350 2695 5343 2695 5343 2695 5343 2695 5337 2695 5337 2695 5337 2695 5291 2675 5246 2649 5207 2675 5174 2695 5168 2695 5168 2695 5161 2695 5161 2695 5161 2695 5155 2695 5155 2695 5025 2675 4836 2649 4609 2682" /></Shape>
+	    <String CONTENT="Westportal Plastik" HPOS="4602" VPOS="2299" WIDTH="1131" HEIGHT="396" />
           </TextLine>
 
           
         </TextBlock>
         
-        <TextBlock HPOS="5538"
-                   VPOS="7534"
-                   WIDTH="852"
-                   HEIGHT="253"
-                   ID="eSc_textblock_1ccdbb38"
-                   TAGREFS="BT283">
-          <Shape><Polygon POINTS="5538 7534 6312 7560 6390 7735 5538 7787 5538 7534"/></Shape>
+        <TextBlock HPOS="5538" VPOS="7534" WIDTH="852" HEIGHT="253" ID="eSc_textblock_1ccdbb38" TAGREFS="BT283">
+          <Shape><Polygon POINTS="5538 7534 6312 7560 6390 7735 5538 7787 5538 7534" /></Shape>
           
           
-          <TextLine ID="eSc_line_c77640cd"
-                    TAGREFS="LT101"
-                    BASELINE="5578 7677 6284 7696" 
-                    HPOS="5571"
-                    VPOS="7540"
-                    WIDTH="708"
-                    HEIGHT="176">
-            <Shape><Polygon POINTS="5577 7670 5577 7540 6273 7579 6279 7690 6273 7716 5571 7716"/></Shape>
-	    <String CONTENT="302. 2. IX. 1-26"
-                    HPOS="5571"
-                    VPOS="7540"
-                    WIDTH="708"
-                    HEIGHT="176"></String>
+          <TextLine ID="eSc_line_c77640cd" TAGREFS="LT101" BASELINE="5578 7677 6284 7696" HPOS="5571" VPOS="7540" WIDTH="708" HEIGHT="176">
+            <Shape><Polygon POINTS="5577 7670 5577 7540 6273 7579 6279 7690 6273 7716 5571 7716" /></Shape>
+	    <String CONTENT="302. 2. IX. 1-26" HPOS="5571" VPOS="7540" WIDTH="708" HEIGHT="176" />
           </TextLine>
 
           

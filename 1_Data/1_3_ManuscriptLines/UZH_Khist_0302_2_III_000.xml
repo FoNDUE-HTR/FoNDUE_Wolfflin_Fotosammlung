@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
@@ -11,86 +9,40 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
-    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone" /><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" />
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" />
   </Tags>
   
   <Layout>
-    <Page WIDTH="6604"
-          HEIGHT="7799"
-          PHYSICAL_IMG_NR="203"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="6604"
-                  HEIGHT="7799">
+    <Page WIDTH="6604" HEIGHT="7799" PHYSICAL_IMG_NR="203" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6604" HEIGHT="7799">
         
-        <TextBlock HPOS="4498"
-                   VPOS="1351"
-                   WIDTH="1631"
-                   HEIGHT="774"
-                   ID="eSc_textblock_84bd69a7"
-                   TAGREFS="BT282">
-          <Shape><Polygon POINTS="5044 1351 6077 1377 6129 2125 4498 2125 4576 1819 5044 1761 5044 1351"/></Shape>
+        <TextBlock HPOS="4498" VPOS="1351" WIDTH="1631" HEIGHT="774" ID="eSc_textblock_84bd69a7" TAGREFS="BT282">
+          <Shape><Polygon POINTS="5044 1351 6077 1377 6129 2125 4498 2125 4576 1819 5044 1761 5044 1351" /></Shape>
           
           
-          <TextLine ID="eSc_line_a2ee3ca9"
-                    TAGREFS="LT100"
-                    BASELINE="5102 1540 6038 1520" 
-                    HPOS="5089"
-                    VPOS="1364"
-                    WIDTH="949"
-                    HEIGHT="215">
-            <Shape><Polygon POINTS="5102 1540 5089 1364 6025 1377 6038 1520 6038 1546 5102 1579"/></Shape>
-	    <String CONTENT="REGENSBURG"
-                    HPOS="5089"
-                    VPOS="1364"
-                    WIDTH="949"
-                    HEIGHT="215"></String>
+          <TextLine ID="eSc_line_a2ee3ca9" TAGREFS="LT100" BASELINE="5102 1540 6038 1520" HPOS="5089" VPOS="1364" WIDTH="949" HEIGHT="215">
+            <Shape><Polygon POINTS="5102 1540 5089 1364 6025 1377 6038 1520 6038 1546 5102 1579" /></Shape>
+	    <String CONTENT="REGENSBURG" HPOS="5089" VPOS="1364" WIDTH="949" HEIGHT="215" />
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_b5100941"
-                    TAGREFS="LT100"
-                    BASELINE="4556 2047 6019 2034" 
-                    HPOS="4543"
-                    VPOS="1832"
-                    WIDTH="1476"
-                    HEIGHT="280">
-            <Shape><Polygon POINTS="4556 2047 4543 1832 4680 1832 4680 1832 4680 1832 4686 1832 4686 1832 4686 1832 4693 1832 4693 1832 4693 1832 4693 1839 4738 1884 4810 1839 4829 1832 4829 1832 4829 1832 4836 1832 4836 1832 4836 1832 4842 1832 4842 1832 4849 1832 4849 1832 4849 1832 4855 1832 4855 1832 4855 1839 4862 1839 4907 1884 4979 1845 4998 1832 5005 1832 5005 1832 5011 1832 5011 1832 5011 1832 5018 1832 5018 1832 5018 1832 5024 1832 5024 1832 5031 1832 5031 1832 5031 1839 5044 1852 5096 1897 5167 1852 5213 1832 5213 1832 5213 1832 5219 1832 5219 1832 5226 1832 5226 1832 5226 1832 5232 1832 5232 1832 5232 1832 5239 1832 5271 1858 5323 1897 5460 1897 5492 1865 5518 1845 5518 1845 5525 1845 5525 1845 5525 1845 5531 1845 5531 1845 5538 1845 5538 1845 5538 1845 5544 1845 5544 1845 5544 1845 5596 1871 5603 1878 5603 1871 5635 1845 5635 1839 5635 1839 5642 1839 5642 1839 5642 1839 5648 1839 5648 1839 5648 1839 5655 1839 5655 1839 5661 1839 5661 1839 5661 1839 5668 1839 5668 1839 5713 1878 5726 1884 5746 1878 5798 1832 5798 1832 5804 1832 5804 1832 5804 1832 5811 1832 5811 1832 5817 1832 5817 1832 5817 1832 5824 1832 5824 1832 5824 1832 5830 1832 5830 1832 5830 1839 5876 1884 6006 1891 6019 2034 6019 2060 5739 2112 5739 2112 5739 2112 5733 2112 5733 2112 5466 2073 5460 2073 5460 2073 5219 2105 5219 2105 5213 2105 4550 2079"/></Shape>
-	    <String CONTENT="Schottenkirche St. Jakob"
-                    HPOS="4543"
-                    VPOS="1832"
-                    WIDTH="1476"
-                    HEIGHT="280"></String>
+          <TextLine ID="eSc_line_b5100941" TAGREFS="LT100" BASELINE="4556 2047 6019 2034" HPOS="4543" VPOS="1832" WIDTH="1476" HEIGHT="280">
+            <Shape><Polygon POINTS="4556 2047 4543 1832 4680 1832 4680 1832 4680 1832 4686 1832 4686 1832 4686 1832 4693 1832 4693 1832 4693 1832 4693 1839 4738 1884 4810 1839 4829 1832 4829 1832 4829 1832 4836 1832 4836 1832 4836 1832 4842 1832 4842 1832 4849 1832 4849 1832 4849 1832 4855 1832 4855 1832 4855 1839 4862 1839 4907 1884 4979 1845 4998 1832 5005 1832 5005 1832 5011 1832 5011 1832 5011 1832 5018 1832 5018 1832 5018 1832 5024 1832 5024 1832 5031 1832 5031 1832 5031 1839 5044 1852 5096 1897 5167 1852 5213 1832 5213 1832 5213 1832 5219 1832 5219 1832 5226 1832 5226 1832 5226 1832 5232 1832 5232 1832 5232 1832 5239 1832 5271 1858 5323 1897 5460 1897 5492 1865 5518 1845 5518 1845 5525 1845 5525 1845 5525 1845 5531 1845 5531 1845 5538 1845 5538 1845 5538 1845 5544 1845 5544 1845 5544 1845 5596 1871 5603 1878 5603 1871 5635 1845 5635 1839 5635 1839 5642 1839 5642 1839 5642 1839 5648 1839 5648 1839 5648 1839 5655 1839 5655 1839 5661 1839 5661 1839 5661 1839 5668 1839 5668 1839 5713 1878 5726 1884 5746 1878 5798 1832 5798 1832 5804 1832 5804 1832 5804 1832 5811 1832 5811 1832 5817 1832 5817 1832 5817 1832 5824 1832 5824 1832 5824 1832 5830 1832 5830 1832 5830 1839 5876 1884 6006 1891 6019 2034 6019 2060 5739 2112 5739 2112 5739 2112 5733 2112 5733 2112 5466 2073 5460 2073 5460 2073 5219 2105 5219 2105 5213 2105 4550 2079" /></Shape>
+	    <String CONTENT="Schottenkirche St. Jakob" HPOS="4543" VPOS="1832" WIDTH="1476" HEIGHT="280" />
           </TextLine>
 
           
         </TextBlock>
         
-        <TextBlock HPOS="5616"
-                   VPOS="7513"
-                   WIDTH="799"
-                   HEIGHT="279"
-                   ID="eSc_textblock_03ef9a6b"
-                   TAGREFS="BT283">
-          <Shape><Polygon POINTS="5616 7513 6337 7539 6415 7766 5616 7792 5616 7513"/></Shape>
+        <TextBlock HPOS="5616" VPOS="7513" WIDTH="799" HEIGHT="279" ID="eSc_textblock_03ef9a6b" TAGREFS="BT283">
+          <Shape><Polygon POINTS="5616 7513 6337 7539 6415 7766 5616 7792 5616 7513" /></Shape>
           
           
-          <TextLine ID="eSc_line_c5229551"
-                    TAGREFS="LT101"
-                    BASELINE="5669 7682 6305 7682" 
-                    HPOS="5668"
-                    VPOS="7558"
-                    WIDTH="637"
-                    HEIGHT="163">
-            <Shape><Polygon POINTS="5668 7675 5668 7558 6305 7571 6305 7675 6305 7714 5668 7721"/></Shape>
-	    <String CONTENT="302. 2. III. 1-4"
-                    HPOS="5668"
-                    VPOS="7558"
-                    WIDTH="637"
-                    HEIGHT="163"></String>
+          <TextLine ID="eSc_line_c5229551" TAGREFS="LT101" BASELINE="5669 7682 6305 7682" HPOS="5668" VPOS="7558" WIDTH="637" HEIGHT="163">
+            <Shape><Polygon POINTS="5668 7675 5668 7558 6305 7571 6305 7675 6305 7714 5668 7721" /></Shape>
+	    <String CONTENT="302. 2. III. 1-4" HPOS="5668" VPOS="7558" WIDTH="637" HEIGHT="163" />
           </TextLine>
 
           

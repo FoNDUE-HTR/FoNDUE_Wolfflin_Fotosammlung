@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
@@ -11,69 +9,33 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
-    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone" /><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" />
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" />
   </Tags>
   
   <Layout>
-    <Page WIDTH="6592"
-          HEIGHT="7806"
-          PHYSICAL_IMG_NR="506"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="6592"
-                  HEIGHT="7806">
+    <Page WIDTH="6592" HEIGHT="7806" PHYSICAL_IMG_NR="506" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6592" HEIGHT="7806">
         
-        <TextBlock HPOS="2570"
-                   VPOS="676"
-                   WIDTH="2668"
-                   HEIGHT="306"
-                   ID="eSc_textblock_d19dcce5"
-                   TAGREFS="BT282">
-          <Shape><Polygon POINTS="3507 676 5212 728 5238 956 2570 982 2570 702 3507 676"/></Shape>
+        <TextBlock HPOS="2570" VPOS="676" WIDTH="2668" HEIGHT="306" ID="eSc_textblock_d19dcce5" TAGREFS="BT282">
+          <Shape><Polygon POINTS="3507 676 5212 728 5238 956 2570 982 2570 702 3507 676" /></Shape>
           
           
-          <TextLine ID="eSc_line_87003739"
-                    TAGREFS="LT100"
-                    BASELINE="2602 923 5221 922" 
-                    HPOS="2596"
-                    VPOS="709"
-                    WIDTH="2622"
-                    HEIGHT="351">
-            <Shape><Polygon POINTS="5199 748 5010 722 5004 722 4939 715 4900 715 4795 754 4750 767 4724 754 4652 709 4646 709 4639 709 4613 709 4496 709 4490 709 4483 709 4477 709 4477 715 4438 754 4418 774 4314 774 4294 754 4255 722 4255 715 4249 715 4242 715 4236 715 4229 715 4223 715 4177 754 4164 767 4119 754 4021 722 4015 722 4008 722 4002 722 3930 754 3897 767 3832 754 3644 709 3637 709 3631 709 3624 709 3624 715 3579 754 3566 774 3247 774 3227 754 3169 709 3162 709 3156 709 3149 709 2843 754 2785 761 2772 754 2681 709 2674 709 2668 709 2661 709 2655 709 2596 741 2596 917 2596 969 2850 1053 2856 1053 2863 1060 3110 1060 3110 1053 3117 1053 3123 1053 3182 1008 3305 1040 3312 1040 3318 1040 3325 1040 3455 1001 3474 995 3481 1001 3513 1027 3520 1027 3527 1027 3533 1027 3540 1027 3546 1027 3572 1001 3611 969 3748 1001 3754 1001 3761 1001 4158 969 4412 1027 4490 1047 4496 1047 4503 1047 4509 1047 4529 1034 4639 969 4789 969 4887 1047 4893 1053 4900 1053 4906 1053 4913 1060 5218 1060 5218 917 5218 891 5199 748"/></Shape>
-	    <String CONTENT="PIETRO PAOLO BONZI"
-                    HPOS="2596"
-                    VPOS="709"
-                    WIDTH="2622"
-                    HEIGHT="351"></String>
+          <TextLine ID="eSc_line_87003739" TAGREFS="LT100" BASELINE="2602 923 5221 922" HPOS="2596" VPOS="709" WIDTH="2622" HEIGHT="351">
+            <Shape><Polygon POINTS="5199 748 5010 722 5004 722 4939 715 4900 715 4795 754 4750 767 4724 754 4652 709 4646 709 4639 709 4613 709 4496 709 4490 709 4483 709 4477 709 4477 715 4438 754 4418 774 4314 774 4294 754 4255 722 4255 715 4249 715 4242 715 4236 715 4229 715 4223 715 4177 754 4164 767 4119 754 4021 722 4015 722 4008 722 4002 722 3930 754 3897 767 3832 754 3644 709 3637 709 3631 709 3624 709 3624 715 3579 754 3566 774 3247 774 3227 754 3169 709 3162 709 3156 709 3149 709 2843 754 2785 761 2772 754 2681 709 2674 709 2668 709 2661 709 2655 709 2596 741 2596 917 2596 969 2850 1053 2856 1053 2863 1060 3110 1060 3110 1053 3117 1053 3123 1053 3182 1008 3305 1040 3312 1040 3318 1040 3325 1040 3455 1001 3474 995 3481 1001 3513 1027 3520 1027 3527 1027 3533 1027 3540 1027 3546 1027 3572 1001 3611 969 3748 1001 3754 1001 3761 1001 4158 969 4412 1027 4490 1047 4496 1047 4503 1047 4509 1047 4529 1034 4639 969 4789 969 4887 1047 4893 1053 4900 1053 4906 1053 4913 1060 5218 1060 5218 917 5218 891 5199 748" /></Shape>
+	    <String CONTENT="PIETRO PAOLO BONZI" HPOS="2596" VPOS="709" WIDTH="2622" HEIGHT="351" />
           </TextLine>
 
           
         </TextBlock>
         
-        <TextBlock HPOS="4724"
-                   VPOS="7025"
-                   WIDTH="696"
-                   HEIGHT="254"
-                   ID="eSc_textblock_bc931f75"
-                   TAGREFS="BT283">
-          <Shape><Polygon POINTS="4724 7025 5368 7025 5420 7227 4750 7279 4724 7025"/></Shape>
+        <TextBlock HPOS="4724" VPOS="7025" WIDTH="696" HEIGHT="254" ID="eSc_textblock_bc931f75" TAGREFS="BT283">
+          <Shape><Polygon POINTS="4724 7025 5368 7025 5420 7227 4750 7279 4724 7025" /></Shape>
           
           
-          <TextLine ID="eSc_line_bf344506"
-                    TAGREFS="LT101"
-                    BASELINE="4750 7194 5342 7207" 
-                    HPOS="4743"
-                    VPOS="7025"
-                    WIDTH="599"
-                    HEIGHT="241">
-            <Shape><Polygon POINTS="5303 7025 5199 7077 5134 7025 5095 7025 4991 7070 4750 7038 4750 7194 4743 7233 4789 7259 4795 7259 4802 7259 5329 7266 5342 7207 5323 7025 5303 7025"/></Shape>
-	    <String CONTENT="48. X. 1"
-                    HPOS="4743"
-                    VPOS="7025"
-                    WIDTH="599"
-                    HEIGHT="241"></String>
+          <TextLine ID="eSc_line_bf344506" TAGREFS="LT101" BASELINE="4750 7194 5342 7207" HPOS="4743" VPOS="7025" WIDTH="599" HEIGHT="241">
+            <Shape><Polygon POINTS="5303 7025 5199 7077 5134 7025 5095 7025 4991 7070 4750 7038 4750 7194 4743 7233 4789 7259 4795 7259 4802 7259 5329 7266 5342 7207 5323 7025 5303 7025" /></Shape>
+	    <String CONTENT="48. X. 1" HPOS="4743" VPOS="7025" WIDTH="599" HEIGHT="241" />
           </TextLine>
 
           

@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
@@ -11,103 +9,47 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
-    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone" /><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" />
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" />
   </Tags>
   
   <Layout>
-    <Page WIDTH="6602"
-          HEIGHT="7787"
-          PHYSICAL_IMG_NR="433"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="6602"
-                  HEIGHT="7787">
+    <Page WIDTH="6602" HEIGHT="7787" PHYSICAL_IMG_NR="433" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6602" HEIGHT="7787">
         
-        <TextBlock HPOS="2408"
-                   VPOS="648"
-                   WIDTH="2999"
-                   HEIGHT="1396"
-                   ID="eSc_textblock_2642dbf5"
-                   TAGREFS="BT282">
-          <Shape><Polygon POINTS="4070 648 5303 778 5407 1005 5329 1083 4252 1135 4193 1291 4297 1427 4245 1706 4323 1966 4245 2044 3057 2044 3031 1791 2843 1654 2434 1654 2408 700 4070 648"/></Shape>
+        <TextBlock HPOS="2408" VPOS="648" WIDTH="2999" HEIGHT="1396" ID="eSc_textblock_2642dbf5" TAGREFS="BT282">
+          <Shape><Polygon POINTS="4070 648 5303 778 5407 1005 5329 1083 4252 1135 4193 1291 4297 1427 4245 1706 4323 1966 4245 2044 3057 2044 3031 1791 2843 1654 2434 1654 2408 700 4070 648" /></Shape>
           
           
-          <TextLine ID="eSc_line_a966f7ab"
-                    TAGREFS="LT100"
-                    BASELINE="2460 953 5303 992" 
-                    HPOS="2453"
-                    VPOS="739"
-                    WIDTH="2850"
-                    HEIGHT="351">
-            <Shape><Polygon POINTS="2460 953 2453 1018 2791 1012 2882 1038 2966 1064 2973 1064 2979 1064 3115 1044 3343 1005 3401 1044 3408 1044 3414 1044 3421 1044 3427 1044 3576 1005 4310 1005 4440 1077 4466 1083 4472 1083 5290 1090 5303 992 5297 830 5212 843 5186 824 5167 804 5160 804 5154 804 5147 804 5141 804 5134 804 5134 811 5115 824 5108 837 5082 824 4966 778 4959 778 4953 778 4946 778 4940 778 4940 785 4894 824 4888 830 4738 837 4706 824 4635 785 4628 785 4622 785 4615 785 4609 785 4557 817 4498 772 4498 765 4492 765 4485 765 4355 759 4349 759 4342 759 4336 759 4245 817 4213 837 4037 837 4018 811 3992 791 3992 785 3985 785 3979 785 3972 785 3966 785 3959 785 3927 811 3914 824 3901 811 3823 759 3817 759 3810 759 3804 759 3797 759 3791 759 3719 811 3687 830 3505 830 3479 804 3401 746 3395 746 3388 746 3382 746 3375 746 3180 804 3141 811 2999 804 2947 759 2947 752 2940 752 2934 752 2927 752 2921 752 2836 798 2817 811 2797 798 2713 739 2707 739 2700 739 2518 739 2512 739 2505 739 2499 739 2499 746 2460 778 2460 953"/></Shape>
-	    <String CONTENT="GIOVANNI DA BOLOGNA"
-                    HPOS="2453"
-                    VPOS="739"
-                    WIDTH="2850"
-                    HEIGHT="351"></String>
+          <TextLine ID="eSc_line_a966f7ab" TAGREFS="LT100" BASELINE="2460 953 5303 992" HPOS="2453" VPOS="739" WIDTH="2850" HEIGHT="351">
+            <Shape><Polygon POINTS="2460 953 2453 1018 2791 1012 2882 1038 2966 1064 2973 1064 2979 1064 3115 1044 3343 1005 3401 1044 3408 1044 3414 1044 3421 1044 3427 1044 3576 1005 4310 1005 4440 1077 4466 1083 4472 1083 5290 1090 5303 992 5297 830 5212 843 5186 824 5167 804 5160 804 5154 804 5147 804 5141 804 5134 804 5134 811 5115 824 5108 837 5082 824 4966 778 4959 778 4953 778 4946 778 4940 778 4940 785 4894 824 4888 830 4738 837 4706 824 4635 785 4628 785 4622 785 4615 785 4609 785 4557 817 4498 772 4498 765 4492 765 4485 765 4355 759 4349 759 4342 759 4336 759 4245 817 4213 837 4037 837 4018 811 3992 791 3992 785 3985 785 3979 785 3972 785 3966 785 3959 785 3927 811 3914 824 3901 811 3823 759 3817 759 3810 759 3804 759 3797 759 3791 759 3719 811 3687 830 3505 830 3479 804 3401 746 3395 746 3388 746 3382 746 3375 746 3180 804 3141 811 2999 804 2947 759 2947 752 2940 752 2934 752 2927 752 2921 752 2836 798 2817 811 2797 798 2713 739 2707 739 2700 739 2518 739 2512 739 2505 739 2499 739 2499 746 2460 778 2460 953" /></Shape>
+	    <String CONTENT="GIOVANNI DA BOLOGNA" HPOS="2453" VPOS="739" WIDTH="2850" HEIGHT="351" />
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_a3f4f026"
-                    TAGREFS="LT100"
-                    BASELINE="2525 1466 3849 1453" 
-                    HPOS="2518"
-                    VPOS="1258"
-                    WIDTH="1331"
-                    HEIGHT="292">
-            <Shape><Polygon POINTS="2525 1466 2525 1537 2713 1511 2856 1531 2979 1550 2986 1550 3103 1524 3174 1505 3193 1518 3213 1537 3219 1537 3226 1537 3232 1537 3369 1511 3414 1505 3427 1511 3466 1544 3473 1544 3479 1544 3486 1550 3713 1550 3713 1544 3719 1544 3849 1492 3849 1453 3836 1323 3395 1258 3388 1258 3382 1258 3265 1297 3226 1310 3174 1297 3103 1271 3096 1271 3090 1271 3083 1271 3077 1271 3057 1291 2992 1336 2810 1336 2739 1278 2726 1265 2719 1265 2713 1265 2707 1265 2518 1265 2525 1466"/></Shape>
-	    <String CONTENT="Einzelwerke"
-                    HPOS="2518"
-                    VPOS="1258"
-                    WIDTH="1331"
-                    HEIGHT="292"></String>
+          <TextLine ID="eSc_line_a3f4f026" TAGREFS="LT100" BASELINE="2525 1466 3849 1453" HPOS="2518" VPOS="1258" WIDTH="1331" HEIGHT="292">
+            <Shape><Polygon POINTS="2525 1466 2525 1537 2713 1511 2856 1531 2979 1550 2986 1550 3103 1524 3174 1505 3193 1518 3213 1537 3219 1537 3226 1537 3232 1537 3369 1511 3414 1505 3427 1511 3466 1544 3473 1544 3479 1544 3486 1550 3713 1550 3713 1544 3719 1544 3849 1492 3849 1453 3836 1323 3395 1258 3388 1258 3382 1258 3265 1297 3226 1310 3174 1297 3103 1271 3096 1271 3090 1271 3083 1271 3077 1271 3057 1291 2992 1336 2810 1336 2739 1278 2726 1265 2719 1265 2713 1265 2707 1265 2518 1265 2525 1466" /></Shape>
+	    <String CONTENT="Einzelwerke" HPOS="2518" VPOS="1258" WIDTH="1331" HEIGHT="292" />
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_fbd6ba70"
-                    TAGREFS="LT100"
-                    BASELINE="3122 1953 3979 1953" 
-                    HPOS="3122"
-                    VPOS="1745"
-                    WIDTH="857"
-                    HEIGHT="312">
-            <Shape><Polygon POINTS="3122 1953 3122 2018 3421 2057 3427 2057 3434 2057 3440 2057 3466 2031 3498 2011 3674 2011 3726 2044 3732 2050 3739 2050 3745 2050 3752 2050 3758 2050 3765 2050 3771 2044 3810 2011 3966 2050 3979 1953 3979 1791 3122 1745 3122 1953"/></Shape>
-	    <String CONTENT="Merkur"
-                    HPOS="3122"
-                    VPOS="1745"
-                    WIDTH="857"
-                    HEIGHT="312"></String>
+          <TextLine ID="eSc_line_fbd6ba70" TAGREFS="LT100" BASELINE="3122 1953 3979 1953" HPOS="3122" VPOS="1745" WIDTH="857" HEIGHT="312">
+            <Shape><Polygon POINTS="3122 1953 3122 2018 3421 2057 3427 2057 3434 2057 3440 2057 3466 2031 3498 2011 3674 2011 3726 2044 3732 2050 3739 2050 3745 2050 3752 2050 3758 2050 3765 2050 3771 2044 3810 2011 3966 2050 3979 1953 3979 1791 3122 1745 3122 1953" /></Shape>
+	    <String CONTENT="Merkur" HPOS="3122" VPOS="1745" WIDTH="857" HEIGHT="312" />
           </TextLine>
 
           
         </TextBlock>
         
-        <TextBlock HPOS="4686"
-                   VPOS="7034"
-                   WIDTH="981"
-                   HEIGHT="305"
-                   ID="eSc_textblock_be154cea"
-                   TAGREFS="BT283">
-          <Shape><Polygon POINTS="4738 7034 5589 7086 5667 7287 4790 7339 4686 7261 4738 7034"/></Shape>
+        <TextBlock HPOS="4686" VPOS="7034" WIDTH="981" HEIGHT="305" ID="eSc_textblock_be154cea" TAGREFS="BT283">
+          <Shape><Polygon POINTS="4738 7034 5589 7086 5667 7287 4790 7339 4686 7261 4738 7034" /></Shape>
           
           
-          <TextLine ID="eSc_line_05487a70"
-                    TAGREFS="LT101"
-                    BASELINE="4758 7228 5576 7248" 
-                    HPOS="4751"
-                    VPOS="7060"
-                    WIDTH="825"
-                    HEIGHT="246">
-            <Shape><Polygon POINTS="4758 7228 4751 7267 4849 7306 4855 7306 4862 7306 5569 7300 5576 7248 5569 7099 5362 7131 5076 7086 5069 7086 5063 7086 5056 7086 5024 7118 4959 7066 4953 7066 4946 7066 4758 7060 4758 7228"/></Shape>
-	    <String CONTENT="43. X. 1-7"
-                    HPOS="4751"
-                    VPOS="7060"
-                    WIDTH="825"
-                    HEIGHT="246"></String>
+          <TextLine ID="eSc_line_05487a70" TAGREFS="LT101" BASELINE="4758 7228 5576 7248" HPOS="4751" VPOS="7060" WIDTH="825" HEIGHT="246">
+            <Shape><Polygon POINTS="4758 7228 4751 7267 4849 7306 4855 7306 4862 7306 5569 7300 5576 7248 5569 7099 5362 7131 5076 7086 5069 7086 5063 7086 5056 7086 5024 7118 4959 7066 4953 7066 4946 7066 4758 7060 4758 7228" /></Shape>
+	    <String CONTENT="43. X. 1-7" HPOS="4751" VPOS="7060" WIDTH="825" HEIGHT="246" />
           </TextLine>
 
           

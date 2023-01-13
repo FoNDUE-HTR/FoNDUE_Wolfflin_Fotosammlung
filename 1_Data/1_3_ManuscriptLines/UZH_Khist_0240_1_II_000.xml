@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
@@ -11,86 +9,40 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
-    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript"/><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript"/>
+    <OtherTag ID="BT282" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone" /><OtherTag ID="BT283" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone" />
+    <OtherTag ID="LT100" LABEL="HeadingLine:manuscript" DESCRIPTION="line type HeadingLine:manuscript" /><OtherTag ID="LT101" LABEL="DefaultLine:manuscript" DESCRIPTION="line type DefaultLine:manuscript" />
   </Tags>
   
   <Layout>
-    <Page WIDTH="6601"
-          HEIGHT="7804"
-          PHYSICAL_IMG_NR="303"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="6601"
-                  HEIGHT="7804">
+    <Page WIDTH="6601" HEIGHT="7804" PHYSICAL_IMG_NR="303" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6601" HEIGHT="7804">
         
-        <TextBlock HPOS="4890"
-                   VPOS="1352"
-                   WIDTH="826"
-                   HEIGHT="774"
-                   ID="eSc_textblock_f474e7cb"
-                   TAGREFS="BT282">
-          <Shape><Polygon POINTS="4942 1352 5690 1378 5716 1606 5612 1638 5690 2126 4994 2100 4890 1580 4942 1352"/></Shape>
+        <TextBlock HPOS="4890" VPOS="1352" WIDTH="826" HEIGHT="774" ID="eSc_textblock_f474e7cb" TAGREFS="BT282">
+          <Shape><Polygon POINTS="4942 1352 5690 1378 5716 1606 5612 1638 5690 2126 4994 2100 4890 1580 4942 1352" /></Shape>
           
           
-          <TextLine ID="eSc_line_db7eaeb2"
-                    TAGREFS="LT100"
-                    BASELINE="4962 1521 5650 1528" 
-                    HPOS="4949"
-                    VPOS="1339"
-                    WIDTH="695"
-                    HEIGHT="299">
-            <Shape><Polygon POINTS="4955 1515 4955 1339 5638 1365 5644 1521 5638 1638 5371 1638 5365 1632 5365 1632 5358 1632 5358 1632 5326 1619 5222 1586 4949 1599"/></Shape>
-	    <String CONTENT="MÜNCHEN"
-                    HPOS="4949"
-                    VPOS="1339"
-                    WIDTH="695"
-                    HEIGHT="299"></String>
+          <TextLine ID="eSc_line_db7eaeb2" TAGREFS="LT100" BASELINE="4962 1521 5650 1528" HPOS="4949" VPOS="1339" WIDTH="695" HEIGHT="299">
+            <Shape><Polygon POINTS="4955 1515 4955 1339 5638 1365 5644 1521 5638 1638 5371 1638 5365 1632 5365 1632 5358 1632 5358 1632 5326 1619 5222 1586 4949 1599" /></Shape>
+	    <String CONTENT="MÜNCHEN" HPOS="4949" VPOS="1339" WIDTH="695" HEIGHT="299" />
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_46c06676"
-                    TAGREFS="LT100"
-                    BASELINE="5066 2042 5563 2059" 
-                    HPOS="5046"
-                    VPOS="1814"
-                    WIDTH="514"
-                    HEIGHT="286">
-            <Shape><Polygon POINTS="5059 2035 5066 1814 5313 1827 5313 1827 5313 1827 5319 1827 5319 1827 5326 1827 5326 1827 5326 1827 5326 1833 5378 1885 5417 1931 5560 1931 5560 2055 5547 2100 5046 2087"/></Shape>
-	    <String CONTENT="Kirchen"
-                    HPOS="5046"
-                    VPOS="1814"
-                    WIDTH="514"
-                    HEIGHT="286"></String>
+          <TextLine ID="eSc_line_46c06676" TAGREFS="LT100" BASELINE="5066 2042 5563 2059" HPOS="5046" VPOS="1814" WIDTH="514" HEIGHT="286">
+            <Shape><Polygon POINTS="5059 2035 5066 1814 5313 1827 5313 1827 5313 1827 5319 1827 5319 1827 5326 1827 5326 1827 5326 1827 5326 1833 5378 1885 5417 1931 5560 1931 5560 2055 5547 2100 5046 2087" /></Shape>
+	    <String CONTENT="Kirchen" HPOS="5046" VPOS="1814" WIDTH="514" HEIGHT="286" />
           </TextLine>
 
           
         </TextBlock>
         
-        <TextBlock HPOS="5540"
-                   VPOS="7517"
-                   WIDTH="904"
-                   HEIGHT="280"
-                   ID="eSc_textblock_65df3260"
-                   TAGREFS="BT283">
-          <Shape><Polygon POINTS="5540 7517 6314 7543 6444 7771 5540 7797 5540 7517"/></Shape>
+        <TextBlock HPOS="5540" VPOS="7517" WIDTH="904" HEIGHT="280" ID="eSc_textblock_65df3260" TAGREFS="BT283">
+          <Shape><Polygon POINTS="5540 7517 6314 7543 6444 7771 5540 7797 5540 7517" /></Shape>
           
           
-          <TextLine ID="eSc_line_a1ba0680"
-                    TAGREFS="LT101"
-                    BASELINE="5578 7707 6023 7706 6349 7724" 
-                    HPOS="5560"
-                    VPOS="7556"
-                    WIDTH="787"
-                    HEIGHT="169">
-            <Shape><Polygon POINTS="5573 7706 5566 7556 6340 7589 6347 7719 6334 7725 5560 7719"/></Shape>
-	    <String CONTENT="240. 1. II. 1-14"
-                    HPOS="5560"
-                    VPOS="7556"
-                    WIDTH="787"
-                    HEIGHT="169"></String>
+          <TextLine ID="eSc_line_a1ba0680" TAGREFS="LT101" BASELINE="5578 7707 6023 7706 6349 7724" HPOS="5560" VPOS="7556" WIDTH="787" HEIGHT="169">
+            <Shape><Polygon POINTS="5573 7706 5566 7556 6340 7589 6347 7719 6334 7725 5560 7719" /></Shape>
+	    <String CONTENT="240. 1. II. 1-14" HPOS="5560" VPOS="7556" WIDTH="787" HEIGHT="169" />
           </TextLine>
 
           
