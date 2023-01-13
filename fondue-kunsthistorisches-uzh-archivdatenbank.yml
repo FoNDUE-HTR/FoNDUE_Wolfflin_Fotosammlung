@@ -39,15 +39,15 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 104675
+  count: 104718
 - metric: files
   count: 2762
 - metric: lines
-  count: 5609
+  count: 5608
 - metric: pages
   count: 1100
 - metric: regions
-  count: 5800
+  count: 5794
 citation-file-link: https://github.com/FoNDUE-HTR/FoNDUE_Kunsthistorisches-UZH_Archivdatenbank/blob/main/LICENSE
 transcription-guidelines: "The transcription is strictly diplomatic: no abbreviations\
   \ are resolved. \LItems that are crossed out or struck through will be transcribed\
