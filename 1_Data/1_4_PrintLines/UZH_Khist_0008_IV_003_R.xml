@@ -40,25 +40,13 @@
           <Shape><Polygon POINTS="316 5087 316 5567 522 5567 522 5087" /></Shape>
           
           
-          <TextLine ID="eSc_line_35c9ee73" BASELINE="353 5106 353 5530" HPOS="318" VPOS="5104" WIDTH="192" HEIGHT="423">
-            <Shape><Polygon POINTS="349 5104 505 5104 484 5417 510 5516 349 5527 318 5527 318 5104" /></Shape>
-	    <String CONTENT="8. IV. 3" HPOS="318" VPOS="5104" WIDTH="192" HEIGHT="423" />
-          </TextLine>
-
-          
-        </TextBlock>
+          </TextBlock>
         
         <TextBlock HPOS="97" VPOS="5055" WIDTH="183" HEIGHT="516" ID="eSc_textblock_ab452369" TAGREFS="BT285">
           <Shape><Polygon POINTS="97 5055 97 5571 280 5571 280 5055" /></Shape>
           
           
-          <TextLine ID="eSc_line_7ff35ade" BASELINE="157 5096 152 5526" HPOS="119" VPOS="5083" WIDTH="146" HEIGHT="438">
-            <Shape><Polygon POINTS="156 5094 265 5094 260 5516 151 5521 119 5511 125 5083" /></Shape>
-	    <String CONTENT="8. IV. 4" HPOS="119" VPOS="5083" WIDTH="146" HEIGHT="438" />
-          </TextLine>
-
-          
-        </TextBlock>
+          </TextBlock>
         
         <TextBlock HPOS="4443" VPOS="1246" WIDTH="2511" HEIGHT="3644" ID="eSc_textblock_ba3acad9" TAGREFS="BT284">
           <Shape><Polygon POINTS="4459 1254 4443 4890 6954 4874 6863 1246" /></Shape>

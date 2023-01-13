@@ -25,15 +25,7 @@
                   WIDTH="4170"
                   HEIGHT="5030">
         
-        <TextBlock HPOS="185"
-                   VPOS="181"
-                   WIDTH="3860"
-                   HEIGHT="4609"
-                   ID="eSc_textblock_5dfae062"
-                   >
-          <Shape><Polygon POINTS="185 181 185 4790 4045 4790 4045 181"/></Shape>
-          
-        </TextBlock>
+        
         
         <TextBlock HPOS="138"
                    VPOS="121"

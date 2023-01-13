@@ -35,7 +35,7 @@
           
           
           <TextLine ID="eSc_line_c0cc68d1"
-                    
+            TAGREFS="LT104"
                     BASELINE="989 5293 1815 5293" 
                     HPOS="984"
                     VPOS="5114"
@@ -52,7 +52,7 @@
           
           
           <TextLine ID="eSc_line_b8de39b3"
-                    
+            TAGREFS="LT104"
                     BASELINE="2063 5377 3103 5352 3844 5298" 
                     HPOS="2048"
                     VPOS="5084"
@@ -79,7 +79,7 @@
           
           
           <TextLine ID="eSc_line_5b00faba"
-                    
+            TAGREFS="LT103"
                     BASELINE="4177 5869 4605 5849" 
                     HPOS="4162"
                     VPOS="5740"

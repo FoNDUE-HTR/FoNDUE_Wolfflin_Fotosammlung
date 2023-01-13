@@ -17,7 +17,7 @@
     <Page WIDTH="4404" HEIGHT="5435" PHYSICAL_IMG_NR="99" ID="eSc_dummypage_">
       <PrintSpace HPOS="0" VPOS="0" WIDTH="4404" HEIGHT="5435">
         
-        <TextBlock HPOS="3769" VPOS="2663" WIDTH="195" HEIGHT="86" ID="eSc_textblock_9c666435">
+        <TextBlock HPOS="3769" VPOS="2663" WIDTH="195" HEIGHT="86" ID="eSc_textblock_9c666435" TAGREFS="BT284">
           <Shape><Polygon POINTS="3769 2712 3878 2663 3946 2681 3964 2749" /></Shape>
           
         </TextBlock>

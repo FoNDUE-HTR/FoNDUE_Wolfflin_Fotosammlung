@@ -21,13 +21,7 @@
           <Shape><Polygon POINTS="4726 7133 4726 7402 5461 7402 5461 7133" /></Shape>
           
           
-          <TextLine ID="eSc_line_79a62279" BASELINE="4912 7324 5389 7305" HPOS="4893" VPOS="7200" WIDTH="496" HEIGHT="148">
-            <Shape><Polygon POINTS="4912 7324 4893 7224 5370 7200 5389 7305 5389 7330 4912 7348" /></Shape>
-	    <String CONTENT="10. III. 51" HPOS="4893" VPOS="7200" WIDTH="496" HEIGHT="148" />
-          </TextLine>
-
-          
-        </TextBlock>
+          </TextBlock>
         
         <TextBlock HPOS="271" VPOS="519" WIDTH="5082" HEIGHT="6023" ID="eSc_textblock_675a08c2" TAGREFS="BT284">
           <Shape><Polygon POINTS="271 519 271 6542 5353 6542 5353 519" /></Shape>

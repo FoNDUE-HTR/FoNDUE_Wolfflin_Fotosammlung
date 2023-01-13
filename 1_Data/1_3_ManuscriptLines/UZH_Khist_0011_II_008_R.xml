@@ -21,13 +21,7 @@
           <Shape><Polygon POINTS="31 7 58 6205 4780 6241 4787 14" /></Shape>
           
           
-          <TextLine ID="eSc_line_99c3e90c" BASELINE="333 5791 4531 5817" HPOS="328" VPOS="5697" WIDTH="4203" HEIGHT="161">
-            <Shape><Polygon POINTS="333 5791 333 5697 4526 5739 4531 5817 4526 5843 2021 5858 2015 5858 328 5817" /></Shape>
-	    <String CONTENT="8406 — FIRENZE — La Risurrezione — Beato Angelico — Museo di S. Marco — Anderson, Roma" HPOS="328" VPOS="5697" WIDTH="4203" HEIGHT="161" />
-          </TextLine>
-
-          
-        </TextBlock>
+          </TextBlock>
         
 
         

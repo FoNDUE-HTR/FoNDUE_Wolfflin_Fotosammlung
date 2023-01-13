@@ -21,13 +21,7 @@
           <Shape><Polygon POINTS="13 19 13 6032 4584 6032 4584 19" /></Shape>
           
           
-          <TextLine ID="eSc_line_e199c25a" BASELINE="342 5956 3547 5926 3698 5936 4516 5916" HPOS="327" VPOS="5840" WIDTH="4186" HEIGHT="151">
-            <Shape><Polygon POINTS="337 5951 327 5871 4498 5840 4513 5911 4508 5936 337 5991" /></Shape>
-	    <String CONTENT="2970 - FIRENZE - Museo di S. Marco. San Domenico (dettaglio della Crocifissione). Beato Angelico. (Ed.ne Mannelli &amp; C.°)" HPOS="327" VPOS="5840" WIDTH="4186" HEIGHT="151" />
-          </TextLine>
-
-          
-        </TextBlock>
+          </TextBlock>
         
         <TextBlock HPOS="4568" VPOS="5790" WIDTH="10" HEIGHT="176" ID="eSc_textblock_026f2508" TAGREFS="BT284">
           <Shape><Polygon POINTS="4568 5966 4568 5790 4578 5790 4578 5966" /></Shape>

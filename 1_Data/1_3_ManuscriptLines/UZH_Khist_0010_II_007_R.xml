@@ -41,11 +41,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="496" VPOS="552" WIDTH="5007" HEIGHT="6092" ID="eSc_textblock_bccd642d">
-          <Shape><Polygon POINTS="496 584 496 6633 5503 6644 5470 552" /></Shape>
-          
-        </TextBlock>
-        
         <TextBlock HPOS="496" VPOS="552" WIDTH="5007" HEIGHT="6092" ID="eSc_textblock_0dccc98e" TAGREFS="BT284">
           <Shape><Polygon POINTS="496 584 496 6633 5503 6644 5470 552" /></Shape>
           

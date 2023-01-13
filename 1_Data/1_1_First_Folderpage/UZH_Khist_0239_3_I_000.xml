@@ -49,6 +49,20 @@
                     HEIGHT="279"></String>
           </TextLine>
 
+          <TextLine ID="eSc_line_d1e61449"
+            TAGREFS="LT100"
+            BASELINE="5831 1899 6046 1908" 
+            HPOS="5812"
+            VPOS="1749"
+            WIDTH="228"
+            HEIGHT="280">
+            <Shape><Polygon POINTS="5825 1892 5825 1749 6040 1762 6040 1905 6027 2029 5812 2009"/></Shape>
+            <String CONTENT="AT"
+              HPOS="5812"
+              VPOS="1749"
+              WIDTH="228"
+              HEIGHT="280"></String>
+          </TextLine>
           
         </TextBlock>
         
@@ -81,26 +95,7 @@
         
 
         
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="eSc_line_d1e61449"
-                    TAGREFS="LT100"
-                    BASELINE="5831 1899 6046 1908" 
-                    HPOS="5812"
-                    VPOS="1749"
-                    WIDTH="228"
-                    HEIGHT="280">
-            <Shape><Polygon POINTS="5825 1892 5825 1749 6040 1762 6040 1905 6027 2029 5812 2009"/></Shape>
-	    <String CONTENT="AT"
-                    HPOS="5812"
-                    VPOS="1749"
-                    WIDTH="228"
-                    HEIGHT="280"></String>
-          </TextLine>
-
-          
-        </TextBlock>
+        
         
       </PrintSpace>
     </Page>

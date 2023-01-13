@@ -33,7 +33,7 @@
           <Shape><Polygon POINTS="65 5027 65 5669 322 5669 322 5027" /></Shape>
           
           
-          <TextLine ID="eSc_line_1cb2428a" BASELINE="115 5159 102 5631" HPOS="62" VPOS="5145" WIDTH="211" HEIGHT="485">
+          <TextLine ID="eSc_line_1cb2428a" TAGREFS="LT103" BASELINE="115 5159 102 5631" HPOS="62" VPOS="5145" WIDTH="211" HEIGHT="485">
             <Shape><Polygon POINTS="110 5155 273 5155 244 5630 100 5630 62 5620 76 5145" /></Shape>
 	    <String CONTENT="10. III. 20" HPOS="62" VPOS="5145" WIDTH="211" HEIGHT="485" />
           </TextLine>

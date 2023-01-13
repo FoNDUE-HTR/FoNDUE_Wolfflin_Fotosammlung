@@ -27,7 +27,7 @@
           <Shape><Polygon POINTS="18 4887 22 5389 374 5385 374 4887" /></Shape>
           
           
-          <TextLine ID="eSc_line_f2a8c7ca" BASELINE="107 4916 126 5342" HPOS="0" VPOS="4905" WIDTH="234" HEIGHT="432">
+          <TextLine ID="eSc_line_f2a8c7ca" TAGREFS="LT103" BASELINE="107 4916 126 5342" HPOS="0" VPOS="4905" WIDTH="234" HEIGHT="432">
             <Shape><Polygon POINTS="103 4914 234 4905 225 5328 121 5337 0 5337 0 4914" /></Shape>
 	    <String CONTENT="11. II. 3" HPOS="0" VPOS="4905" WIDTH="234" HEIGHT="432" />
           </TextLine>
