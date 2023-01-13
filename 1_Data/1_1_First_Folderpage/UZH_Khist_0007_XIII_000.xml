@@ -65,6 +65,21 @@
                     WIDTH="2069"
                     HEIGHT="409"></String>
           </TextLine>
+          
+          <TextLine ID="eSc_line_a9af3ba1"
+            TAGREFS="LT100"
+            BASELINE="4037 2009 5107 2003" 
+            HPOS="4028"
+            VPOS="1781"
+            WIDTH="1073"
+            HEIGHT="338">
+            <Shape><Polygon POINTS="4034 2002 4028 1839 4184 1833 4229 1787 4229 1781 4236 1781 4242 1781 4249 1781 5101 1839 5101 2002 5101 2119 4945 2119 4939 2113 4932 2113 4926 2113 4919 2106 4828 2054 4581 2087 4353 2113 4346 2113 4340 2113 4333 2113 4268 2067 4249 2054 4034 2054"/></Shape>
+            <String CONTENT="- Malerei"
+              HPOS="4028"
+              VPOS="1781"
+              WIDTH="1073"
+              HEIGHT="338"></String>
+          </TextLine>
 
           
         </TextBlock>
@@ -95,29 +110,7 @@
 
           
         </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="eSc_line_a9af3ba1"
-                    TAGREFS="LT100"
-                    BASELINE="4037 2009 5107 2003" 
-                    HPOS="4028"
-                    VPOS="1781"
-                    WIDTH="1073"
-                    HEIGHT="338">
-            <Shape><Polygon POINTS="4034 2002 4028 1839 4184 1833 4229 1787 4229 1781 4236 1781 4242 1781 4249 1781 5101 1839 5101 2002 5101 2119 4945 2119 4939 2113 4932 2113 4926 2113 4919 2106 4828 2054 4581 2087 4353 2113 4346 2113 4340 2113 4333 2113 4268 2067 4249 2054 4034 2054"/></Shape>
-	    <String CONTENT="- Malerei"
-                    HPOS="4028"
-                    VPOS="1781"
-                    WIDTH="1073"
-                    HEIGHT="338"></String>
-          </TextLine>
-
-          
-        </TextBlock>
+       
         
       </PrintSpace>
     </Page>
