@@ -47,7 +47,7 @@ volume:
 - metric: pages
   count: 1100
 - metric: regions
-  count: 5801
+  count: 5800
 citation-file-link: https://github.com/FoNDUE-HTR/FoNDUE_Kunsthistorisches-UZH_Archivdatenbank/blob/main/LICENSE
 transcription-guidelines: "The transcription is strictly diplomatic: no abbreviations\
   \ are resolved. \LItems that are crossed out or struck through will be transcribed\
