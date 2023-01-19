@@ -135,21 +135,20 @@ The segmentation model made with YALTAi is more accurate and makes very few erro
 If you use this software, please cite it as below : 
 Jacsont, P., Gabay, S., Weddigen, T. _GroundTruth for archival data of the Kunsthistorisches Institut UZH_, version 1.0 : Arcimboldo, janvier 2023.
 
------   
 
 ## E-mail ##
 
 Feel free to contact me if you have any questions or need more information about this depot : [pauline.jacsont@unige.ch](mailto:pauline.jacsont@unige.ch)
-
------   
+ 
 
 ## License
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+[Creative Commons Attribution 4.0 International License][cc-by].
 
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by]
+[![CC BY 4.0][cc-by-image]][cc-by]
+
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-sa-image]: https://licensebuttons.net/l/by/4.0/88x31.png
-[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
