@@ -55,14 +55,14 @@ In order to obtain the best possible results, training was carried out by combin
 | **GT3 All Manuscriptlines<br>(HTR_ManuscriptLines_6)**                                 	|          $$\color{Peach}{93.93}$$ 	|                   83.53                  	|        [84.3] 85.89      	|         17.57         	|                          33.02                          	|     27.17     	|
 | **GT4 PrintLines<br>(PrintLines_2)**                                                   	|                    //                   	|                     //                    	|              //             	|         [0.7]         	|                            //                            	|       //       	|
 | **GT5 illustrations_pages<br>(illustrations_pages)**                                   	|                  12.32                 	|   $$\color{SpringGreen}{85.34}$$  |            48.25           	|         71.08         	|                      [84.84] $$\color{SkyBlue}{74.04}$$                      	|     59.84     	|
-| **GT6 All**                                                                            	|                **91.13**               	|                   73.14                  	|            82.16           	|         52.84         	|                          64.08                          	| [80.7]  $$\color{Lavender}{70.56}$$	|
+|$$\fcolorbox{red}{Emerald}{GT6 All}$$                                          	|  $$\fcolorbox{red}{Emerald}{91.13}$$           	|                                   $$\fcolorbox{red}{Emerald}{73.14}$$  	|            $$\fcolorbox{red}{Emerald}{82.16}$$          	|       $$\fcolorbox{red}{Emerald}{52.84}$$          	|    $$\fcolorbox{red}{Emerald}{64.08}$$              	|$$\fcolorbox{red}{Emerald}{[80.7]}$$ $$\color{Lavender}\fcolorbox{red}{Emerald}{70.56}$$	|
 | **GT7 ManuscriptLines <br>+ Lectaurep-repertoires<br>(HTR_ManuscriptLines+Lectaurep)** 	|                 [24.21]                	|                     //                    	|              //             	|           //           	|                            //                            	|       //       	|
 | **GT8 PrintLines <br>+ Cremma16-17<br>(HTR_PrintLines+Cremma16-17)**                   	|                  32.66                 	|                   33.47                  	|            42.36           	|       $$\color{Goldenrod}{67.84}$$      	|                       54.48                     	|     50.55     	|
 | **GT9 All + Lectaurep-repertoires<br>(AllLines+CremmaMs_20)**                          	|                **59.91**               	|                   41.72                  	|            54.87           	|         33.92         	|                          35.52                          	| 41.64 	|
 | **GT10 Illustrations_pages Binarisé <br>(illustrations_pages)**                        	|                    //                   	|                     //                    	|              //             	|           //           	|                         [36.34]                         	|       //       	|
 | **GT11 Illustrations_pages_Contrast <br>(illustrations_pages)**                        	|                  36.69                 	|                   38.76                  	|            35.87           	|       **46.80**       	|                      [49.71] 44.97                     	|     39.70|
 
-
+The results are in %; the best results per model are in bold, the best results per set are in colour, and the model with the best averages for all sets is highlighted in green. 
 
 These different tests aimed to define whether it was preferable to train according to the type of writing (handwritten or printed); it should be noted that the printed lines use very heterogeneous typographical characters and that their number is less than that of the handwritten lines. Finally, it can be seen that training HTR models according to the type of handwriting does not considerably improve the HTR results: for example, the GT3 model performs very well, but only on the handwritten lines of portfolios (one hand only; accuracy per character: 93.93%), and much less so on the handwritten lines of documents with reproductions (several hands; accuracy per character: 83.53%); whereas the GT6 model performs well on the various types of handwriting.
 
@@ -130,6 +130,27 @@ The segmentation model made with YALTAi is more accurate and makes very few erro
             Version used : 4. 2. 0, 2022. https://pypi.org/project/kraken/4.2.0/ 
 -----   
 
+## How to cite ##
+
+If you use this software, please cite it as below : 
+Jacsont, P., Gabay, S., Weddigen, T. _GroundTruth for archival data of the Kunsthistorisches Institut UZH_, version 1.0 : Arcimboldo, janvier 2023.
+
+-----   
+
 ## E-mail ##
 
 Feel free to contact me if you have any questions or need more information about this depot : [pauline.jacsont@unige.ch](mailto:pauline.jacsont@unige.ch)
+
+-----   
+
+## License
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
