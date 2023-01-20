@@ -1,0 +1,13 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+ 
+  - family-names: Jacsont
+    given-names: Pauline
+  - family-names: Simon
+    given-names: Gabay
+  - family-names: Weddigen
+    given-names: Tristan
+title: "GroundTruth for archival data of the Kunsthistorisches Institut UZH"
+version: 1.0 : Arcimboldo
+date-released: 2023-01
