@@ -2,37 +2,37 @@ schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 title: FoNDUE_Kunsthistorisches-UZH_Archivdatenbank
 url: https://github.com/FoNDUE-HTR/FoNDUE_Kunsthistorisches-UZH_Archivdatenbank
 authors:
-  - name: Pauline
-    surname: Jacsont
-    orcid: 0000-0002-6296-3246
-    roles:
-      - project-manager
-      - transcriber
-      - aligner
-      - quality-control
-  - name: Simon
-    surname: Gabay
-    orcid: 0000-0001-9094-4475
-    roles:
-      - project-manager
-      - quality-control
-      - support
-  - name: Weddigen
-    surname: Tristan
-    orcid: 0000-0002-4609-8950
-    roles:
-      - support
+- name: Pauline
+  surname: Jacsont
+  orcid: 0000-0002-6296-3246
+  roles:
+  - project-manager
+  - transcriber
+  - aligner
+  - quality-control
+- name: Simon
+  surname: Gabay
+  orcid: 0000-0001-9094-4475
+  roles:
+  - project-manager
+  - quality-control
+  - support
+- name: Weddigen
+  surname: Tristan
+  orcid: 0000-0002-4609-8950
+  roles:
+  - support
 institutions: []
 description: HTR data made with the Kunsthistorisches UZH corpus.
 project-name: FoNDUE
 project-website: https://www.unige.ch/lettres/humanites-numeriques/recherche/projets-de-la-chaire/fondue
 language:
-  - deu
-  - fra
-  - ita
+- deu
+- fra
+- ita
 production-software: eScriptorium + Kraken
 script:
-  - iso: Latn
+- iso: Latn
 script-type: evenly-mixed
 time:
   notBefore: '1900'
@@ -41,12 +41,124 @@ hands:
   count: more-than-10
   precision: estimated
 license:
-  - name: CC-BY 4.0
-    url: https://creativecommons.org/licenses/by/4.0/
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
 format: Alto-XML
 volume:
-  - metric: pages
-    count: 1100
-citation-file-link: >-
-  https://github.com/FoNDUE-HTR/FoNDUE_Kunsthistorisches-UZH_Archivdatenbank/blob/main/CITATION.cff
-transcription-guidelines: "The transcription is strictly diplomatic: no abbreviations are resolved. \LItems that are crossed out or struck through will be transcribed with a \"€\"."
+- metric: characters
+  count: 104718
+- metric: files
+  count: 2762
+- metric: lines
+  count: 5608
+- metric: pages
+  count: 1100
+- metric: regions
+  count: 5794
+citation-file-link: https://github.com/FoNDUE-HTR/FoNDUE_Kunsthistorisches-UZH_Archivdatenbank/blob/main/CITATION.cff
+transcription-guidelines: "The transcription is strictly diplomatic: no abbreviations\
+  \ are resolved. \LItems that are crossed out or struck through will be transcribed\
+  \ with a \"\u20AC\"."
+characters:
+  mode: NFD
+  members:
+  - .
+  - e
+  - I
+  - a
+  - i
+  - n
+  - o
+  - A
+  - l
+  - '1'
+  - r
+  - E
+  - N
+  - R
+  - t
+  - O
+  - d
+  - s
+  - M
+  - S
+  - '2'
+  - '-'
+  - '4'
+  - c
+  - L
+  - T
+  - B
+  - C
+  - g
+  - V
+  - u
+  - '3'
+  - h
+  - G
+  - '7'
+  - H
+  - '0'
+  - D
+  - p
+  - (
+  - )
+  - P
+  - U
+  - m
+  - '9'
+  - F
+  - X
+  - '5'
+  - '6'
+  - f
+  - z
+  - K
+  - '8'
+  - ','
+  - b
+  - "\u0308"
+  - Z
+  - J
+  - "\u2013"
+  - v
+  - k
+  - /
+  - "\xB0"
+  - W
+  - ''''
+  - ':'
+  - "\u2014"
+  - y
+  - w
+  - '"'
+  - Y
+  - "\u0300"
+  - ;
+  - q
+  - Q
+  - "\u0301"
+  - '?'
+  - '&'
+  - j
+  - x
+  - "\xAA"
+  - "\xB7"
+  - "\u27E6"
+  - "\u27E7"
+  - "\u0302"
+  - "\u0327"
+  - "\u0304"
+  - "\xC6"
+  - "\xAB"
+  - "\xBB"
+  - "\u201E"
+  - '['
+  - ']'
+  - +
+  - "\u0303"
+  - "\u20AC"
+  - "\xDF"
+  - $
+  - "\u2039"
+  - "\u203A"
