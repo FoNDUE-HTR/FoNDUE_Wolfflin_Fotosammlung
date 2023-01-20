@@ -3,7 +3,8 @@ title: FoNDUE_Kunsthistorisches-UZH_Archivdatenbank
 url: https://github.com/FoNDUE-HTR/FoNDUE_Kunsthistorisches-UZH_Archivdatenbank
 authors:
   - name: Pauline
-  surname: Jacsont
+    surname: Jacsont
+    orcid: 0000-0002-6296-3246
     roles:
       - project-manager
       - transcriber
@@ -17,7 +18,7 @@ authors:
       - quality-control
       - support
    - name: Weddigen
-   surname: Tristan
+    surname: Tristan
     orcid: 0000-0002-4609-8950
     roles:
       - support
