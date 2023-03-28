@@ -132,8 +132,8 @@ The segmentation model made with YALTAi is more accurate and makes very few erro
 
 ## How to cite ##
 
-If you use this software, please cite it as below : 
-Jacsont, P., Gabay, S., Weddigen, T. _GroundTruth for archival data of the Kunsthistorisches Institut UZH_, version 1.0 : Arcimboldo, janvier 2023.
+If you use this dataset, please cite it as below : 
+Jacsont, P., Gabay, S., Weddigen, T. _GroundTruth for the Heinrich Wölfflin Fotosammlung of the Kunsthistorisches Institut UZH_, version 1.0 : Arcimboldo, janvier 2023.
 
 
 ## E-mail ##
